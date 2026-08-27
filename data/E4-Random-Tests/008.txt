@@ -1,0 +1,1184 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+INPUT: 7
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:1
+B-Ochette - HP:4447/4447 SP:369/369 BP:1
+Equipo del enemigo
+A-Lightning Elemental - HP:2133/2133 Shields:4
+B-Blood Revenant - HP:16352/16352 Shields:7
+C-Forest Ratkin I - HP:1348/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Olberic
+3.Blood Revenant
+4.Lightning Elemental
+5.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Olberic
+3.Blood Revenant
+4.Lightning Elemental
+5.Forest Ratkin I
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ochette
+1: Ventus Saltare
+2: Reflective Veil
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ochette usa Ventus Saltare
+Lightning Elemental recibe 313 de daño de tipo Wind con debilidad
+Lightning Elemental recibe 313 de daño de tipo Wind con debilidad
+Lightning Elemental recibe 313 de daño de tipo Wind con debilidad
+Blood Revenant recibe 38 de daño de tipo Wind
+Blood Revenant recibe 38 de daño de tipo Wind
+Blood Revenant recibe 38 de daño de tipo Wind
+Forest Ratkin I recibe 377 de daño de tipo Wind
+Forest Ratkin I recibe 377 de daño de tipo Wind
+Forest Ratkin I recibe 377 de daño de tipo Wind
+Lightning Elemental termina con HP:1194
+Blood Revenant termina con HP:16238
+Forest Ratkin I termina con HP:217
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:1
+B-Ochette - HP:4447/4447 SP:333/369 BP:1
+Equipo del enemigo
+A-Lightning Elemental - HP:1194/2133 Shields:1
+B-Blood Revenant - HP:16238/16352 Shields:7
+C-Forest Ratkin I - HP:217/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Blood Revenant
+3.Lightning Elemental
+4.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Olberic
+3.Blood Revenant
+4.Lightning Elemental
+5.Forest Ratkin I
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Lightning Elemental - HP:1194/2133 Shields:1
+2: Blood Revenant - HP:16238/16352 Shields:7
+3: Forest Ratkin I - HP:217/1348 Shields:1
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Olberic ataca
+Forest Ratkin I recibe 354 de daño de tipo Sword
+Forest Ratkin I recibe 354 de daño de tipo Sword
+Forest Ratkin I termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:0
+B-Ochette - HP:4447/4447 SP:333/369 BP:1
+Equipo del enemigo
+A-Lightning Elemental - HP:1194/2133 Shields:1
+B-Blood Revenant - HP:16238/16352 Shields:7
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Blood Revenant
+2.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Olberic
+3.Blood Revenant
+4.Lightning Elemental
+----------------------------------------
+Blood Revenant usa Volcano
+Olberic recibe 593 de daño elemental
+Olberic tendrá Decreased Elemental Defense durante 2 rondas
+Ochette recibe 629 de daño elemental
+Ochette tendrá Decreased Elemental Defense durante 2 rondas
+Olberic termina con HP:5188
+Ochette termina con HP:3818
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5188/5781 SP:291/291 BP:0
+B-Ochette - HP:3818/4447 SP:333/369 BP:1
+Equipo del enemigo
+A-Lightning Elemental - HP:1194/2133 Shields:1
+B-Blood Revenant - HP:16238/16352 Shields:7
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Olberic
+3.Blood Revenant
+4.Lightning Elemental
+----------------------------------------
+Lightning Elemental usa Thundershot
+Ochette recibe 259 de daño elemental
+Ochette termina con HP:3559
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5188/5781 SP:291/291 BP:0
+B-Ochette - HP:3559/4447 SP:333/369 BP:2
+Equipo del enemigo
+A-Lightning Elemental - HP:1194/2133 Shields:1
+B-Blood Revenant - HP:16238/16352 Shields:7
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Olberic
+3.Blood Revenant
+4.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Olberic
+3.Blood Revenant
+4.Lightning Elemental
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ochette
+1: Ventus Saltare
+2: Reflective Veil
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Ochette usa Ventus Saltare
+Lightning Elemental recibe 3013 de daño de tipo Wind con debilidad
+Lightning Elemental entra en Breaking Point
+Lightning Elemental recibe 4017 de daño de tipo Wind con debilidad
+Lightning Elemental recibe 4017 de daño de tipo Wind con debilidad
+Blood Revenant recibe 1753 de daño de tipo Wind
+Blood Revenant recibe 1753 de daño de tipo Wind
+Blood Revenant recibe 1753 de daño de tipo Wind
+Lightning Elemental termina con HP:0
+Blood Revenant termina con HP:10979
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5188/5781 SP:291/291 BP:0
+B-Ochette - HP:3559/4447 SP:297/369 BP:0
+Equipo del enemigo
+A-Lightning Elemental - HP:0/2133 Shields:0
+B-Blood Revenant - HP:10979/16352 Shields:7
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Blood Revenant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Olberic
+3.Blood Revenant
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Glacies Claudere
+2: Starsong
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Olberic - HP:5188/5781 SP:291/291 BP:0
+2: Ochette - HP:3559/4447 SP:297/369 BP:0
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Olberic usa Starsong
+Olberic tendrá Increased Physical Defense durante 2 rondas
+Olberic tendrá Increased Elemental Defense durante 2 rondas
+Olberic tendrá Increased Speed durante 2 rondas
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5188/5781 SP:266/291 BP:0
+B-Ochette - HP:3559/4447 SP:297/369 BP:0
+Equipo del enemigo
+A-Lightning Elemental - HP:0/2133 Shields:0
+B-Blood Revenant - HP:10979/16352 Shields:7
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Blood Revenant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Olberic
+3.Blood Revenant
+----------------------------------------
+Blood Revenant usa Volcano
+Olberic recibe 593 de daño elemental
+Olberic tendrá Decreased Elemental Defense durante 2 rondas
+Ochette recibe 943 de daño elemental
+Ochette tendrá Decreased Elemental Defense durante 2 rondas
+Olberic termina con HP:4595
+Ochette termina con HP:2616
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4595/5781 SP:266/291 BP:1
+B-Ochette - HP:2616/4447 SP:297/369 BP:0
+Equipo del enemigo
+A-Lightning Elemental - HP:0/2133 Shields:0
+B-Blood Revenant - HP:10979/16352 Shields:7
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Olberic
+3.Blood Revenant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Olberic
+3.Blood Revenant
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ochette
+1: Ventus Saltare
+2: Reflective Veil
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Ochette
+1: Olberic - HP:4595/5781 SP:266/291 BP:1
+2: Ochette - HP:2616/4447 SP:297/369 BP:0
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Ochette usa Reflective Veil
+Olberic reflejará los próximos 1 ataques elementales
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4595/5781 SP:266/291 BP:1
+B-Ochette - HP:2616/4447 SP:275/369 BP:0
+Equipo del enemigo
+A-Lightning Elemental - HP:0/2133 Shields:0
+B-Blood Revenant - HP:10979/16352 Shields:7
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Blood Revenant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Olberic
+3.Blood Revenant
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Glacies Claudere
+2: Starsong
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Olberic - HP:4595/5781 SP:266/291 BP:1
+2: Ochette - HP:2616/4447 SP:275/369 BP:0
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Olberic no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Olberic no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Olberic usa Starsong
+Ochette tendrá Increased Physical Defense durante 4 rondas
+Ochette tendrá Increased Elemental Defense durante 4 rondas
+Ochette tendrá Increased Speed durante 4 rondas
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4595/5781 SP:241/291 BP:0
+B-Ochette - HP:2616/4447 SP:275/369 BP:0
+Equipo del enemigo
+A-Lightning Elemental - HP:0/2133 Shields:0
+B-Blood Revenant - HP:10979/16352 Shields:7
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Blood Revenant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Olberic
+3.Blood Revenant
+----------------------------------------
+Blood Revenant usa Volcano
+Olberic refleja el daño
+Blood Revenant recibe 593 de daño
+Ochette recibe 629 de daño elemental
+Blood Revenant termina con HP:10386
+Ochette termina con HP:1987
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4595/5781 SP:241/291 BP:0
+B-Ochette - HP:1987/4447 SP:275/369 BP:1
+Equipo del enemigo
+A-Lightning Elemental - HP:0/2133 Shields:0
+B-Blood Revenant - HP:10386/16352 Shields:7
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Olberic
+3.Blood Revenant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Olberic
+3.Blood Revenant
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Ochette
+1: Blood Revenant - HP:10386/16352 Shields:7
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Ochette no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Ochette no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Ochette ataca
+Blood Revenant recibe 32 de daño de tipo Bow con debilidad
+Blood Revenant recibe 32 de daño de tipo Bow con debilidad
+Blood Revenant termina con HP:10322
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4595/5781 SP:241/291 BP:0
+B-Ochette - HP:1987/4447 SP:275/369 BP:0
+Equipo del enemigo
+A-Lightning Elemental - HP:0/2133 Shields:0
+B-Blood Revenant - HP:10322/16352 Shields:5
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Blood Revenant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Olberic
+3.Blood Revenant
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Blood Revenant - HP:10322/16352 Shields:5
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Olberic ataca
+Blood Revenant recibe 32 de daño de tipo Spear
+Blood Revenant termina con HP:10290
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4595/5781 SP:241/291 BP:0
+B-Ochette - HP:1987/4447 SP:275/369 BP:0
+Equipo del enemigo
+A-Lightning Elemental - HP:0/2133 Shields:0
+B-Blood Revenant - HP:10290/16352 Shields:5
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Blood Revenant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Olberic
+3.Blood Revenant
+----------------------------------------
+Blood Revenant usa Volcano
+Olberic recibe 889 de daño elemental
+Olberic tendrá Decreased Elemental Defense durante 2 rondas
+Ochette recibe 629 de daño elemental
+Ochette tendrá Decreased Elemental Defense durante 2 rondas
+Olberic termina con HP:3706
+Ochette termina con HP:1358
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:3706/5781 SP:241/291 BP:1
+B-Ochette - HP:1358/4447 SP:275/369 BP:0
+Equipo del enemigo
+A-Lightning Elemental - HP:0/2133 Shields:0
+B-Blood Revenant - HP:10290/16352 Shields:5
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Olberic
+3.Blood Revenant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Olberic
+3.Blood Revenant
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:3706/5781 SP:241/291 BP:1
+B-Ochette - HP:1358/4447 SP:275/369 BP:0
+Equipo del enemigo
+A-Lightning Elemental - HP:0/2133 Shields:0
+B-Blood Revenant - HP:10290/16352 Shields:5
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Blood Revenant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Olberic
+3.Blood Revenant
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Blood Revenant - HP:10290/16352 Shields:5
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Olberic ataca
+Blood Revenant recibe 32 de daño de tipo Spear
+Blood Revenant recibe 32 de daño de tipo Spear
+Blood Revenant termina con HP:10226
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:3706/5781 SP:241/291 BP:0
+B-Ochette - HP:1358/4447 SP:275/369 BP:0
+Equipo del enemigo
+A-Lightning Elemental - HP:0/2133 Shields:0
+B-Blood Revenant - HP:10226/16352 Shields:5
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Blood Revenant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Olberic
+3.Blood Revenant
+----------------------------------------
+Blood Revenant usa Volcano
+Olberic recibe 889 de daño elemental
+Olberic tendrá Decreased Elemental Defense durante 2 rondas
+Ochette se defiende
+Ochette recibe 314 de daño elemental
+Ochette tendrá Decreased Elemental Defense durante 2 rondas
+Olberic termina con HP:2817
+Ochette termina con HP:1044
+----------------------------------------
+INICIA RONDA 6
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:2817/5781 SP:241/291 BP:0
+B-Ochette - HP:1044/4447 SP:275/369 BP:1
+Equipo del enemigo
+A-Lightning Elemental - HP:0/2133 Shields:0
+B-Blood Revenant - HP:10226/16352 Shields:5
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Olberic
+3.Blood Revenant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Olberic
+3.Blood Revenant
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ochette
+1: Ventus Saltare
+2: Reflective Veil
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Ochette
+1: Olberic - HP:2817/5781 SP:241/291 BP:0
+2: Ochette - HP:1044/4447 SP:275/369 BP:1
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ochette usa Reflective Veil
+Ochette reflejará los próximos 1 ataques elementales
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:2817/5781 SP:241/291 BP:0
+B-Ochette - HP:1044/4447 SP:253/369 BP:1
+Equipo del enemigo
+A-Lightning Elemental - HP:0/2133 Shields:0
+B-Blood Revenant - HP:10226/16352 Shields:5
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Blood Revenant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Olberic
+3.Blood Revenant
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Glacies Claudere
+2: Starsong
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Olberic - HP:2817/5781 SP:241/291 BP:0
+2: Ochette - HP:1044/4447 SP:253/369 BP:1
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Olberic usa Starsong
+Olberic tendrá Increased Physical Defense durante 2 rondas
+Olberic tendrá Increased Elemental Defense durante 2 rondas
+Olberic tendrá Increased Speed durante 2 rondas
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:2817/5781 SP:216/291 BP:0
+B-Ochette - HP:1044/4447 SP:253/369 BP:1
+Equipo del enemigo
+A-Lightning Elemental - HP:0/2133 Shields:0
+B-Blood Revenant - HP:10226/16352 Shields:5
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Blood Revenant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Olberic
+3.Blood Revenant
+----------------------------------------
+Blood Revenant usa Volcano
+Olberic recibe 593 de daño elemental
+Ochette refleja el daño
+Blood Revenant recibe 629 de daño
+Olberic termina con HP:2224
+Blood Revenant termina con HP:9597
+----------------------------------------
+INICIA RONDA 7
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:2224/5781 SP:216/291 BP:1
+B-Ochette - HP:1044/4447 SP:253/369 BP:2
+Equipo del enemigo
+A-Lightning Elemental - HP:0/2133 Shields:0
+B-Blood Revenant - HP:9597/16352 Shields:5
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Olberic
+3.Blood Revenant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Olberic
+3.Blood Revenant
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:2224/5781 SP:216/291 BP:1
+B-Ochette - HP:1044/4447 SP:253/369 BP:2
+Equipo del enemigo
+A-Lightning Elemental - HP:0/2133 Shields:0
+B-Blood Revenant - HP:9597/16352 Shields:5
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Blood Revenant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Olberic
+3.Blood Revenant
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Glacies Claudere
+2: Starsong
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Olberic - HP:2224/5781 SP:216/291 BP:1
+2: Ochette - HP:1044/4447 SP:253/369 BP:2
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Olberic usa Starsong
+Olberic tendrá Increased Physical Defense durante 4 rondas
+Olberic tendrá Increased Elemental Defense durante 4 rondas
+Olberic tendrá Increased Speed durante 4 rondas
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:2224/5781 SP:191/291 BP:0
+B-Ochette - HP:1044/4447 SP:253/369 BP:2
+Equipo del enemigo
+A-Lightning Elemental - HP:0/2133 Shields:0
+B-Blood Revenant - HP:9597/16352 Shields:5
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Blood Revenant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Olberic
+3.Blood Revenant
+----------------------------------------
+Blood Revenant usa Volcano
+Olberic recibe 593 de daño elemental
+Olberic tendrá Decreased Elemental Defense durante 2 rondas
+Ochette se defiende
+Ochette recibe 471 de daño elemental
+Ochette tendrá Decreased Elemental Defense durante 2 rondas
+Olberic termina con HP:1631
+Ochette termina con HP:573
+----------------------------------------
+INICIA RONDA 8
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:1631/5781 SP:191/291 BP:0
+B-Ochette - HP:573/4447 SP:253/369 BP:3
+Equipo del enemigo
+A-Lightning Elemental - HP:0/2133 Shields:0
+B-Blood Revenant - HP:9597/16352 Shields:5
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Olberic
+3.Blood Revenant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Olberic
+3.Blood Revenant
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ochette
+1: Ventus Saltare
+2: Reflective Veil
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ochette usa Ventus Saltare
+Blood Revenant recibe 38 de daño de tipo Wind
+Blood Revenant recibe 38 de daño de tipo Wind
+Blood Revenant recibe 38 de daño de tipo Wind
+Blood Revenant termina con HP:9483
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:1631/5781 SP:191/291 BP:0
+B-Ochette - HP:573/4447 SP:217/369 BP:3
+Equipo del enemigo
+A-Lightning Elemental - HP:0/2133 Shields:0
+B-Blood Revenant - HP:9483/16352 Shields:5
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Blood Revenant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Olberic
+3.Blood Revenant
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Glacies Claudere
+2: Starsong
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Olberic - HP:1631/5781 SP:191/291 BP:0
+2: Ochette - HP:573/4447 SP:217/369 BP:3
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Olberic usa Starsong
+Olberic tendrá Increased Physical Defense durante 2 rondas
+Olberic tendrá Increased Elemental Defense durante 2 rondas
+Olberic tendrá Increased Speed durante 2 rondas
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:1631/5781 SP:166/291 BP:0
+B-Ochette - HP:573/4447 SP:217/369 BP:3
+Equipo del enemigo
+A-Lightning Elemental - HP:0/2133 Shields:0
+B-Blood Revenant - HP:9483/16352 Shields:5
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Blood Revenant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Olberic
+3.Blood Revenant
+----------------------------------------
+Blood Revenant usa Volcano
+Olberic recibe 593 de daño elemental
+Olberic tendrá Decreased Elemental Defense durante 2 rondas
+Ochette recibe 943 de daño elemental
+Ochette tendrá Decreased Elemental Defense durante 2 rondas
+Olberic termina con HP:1038
+Ochette termina con HP:0
+----------------------------------------
+INICIA RONDA 9
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:1038/5781 SP:166/291 BP:1
+B-Ochette - HP:0/4447 SP:217/369 BP:3
+Equipo del enemigo
+A-Lightning Elemental - HP:0/2133 Shields:0
+B-Blood Revenant - HP:9483/16352 Shields:5
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Blood Revenant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Blood Revenant
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:1038/5781 SP:166/291 BP:1
+B-Ochette - HP:0/4447 SP:217/369 BP:3
+Equipo del enemigo
+A-Lightning Elemental - HP:0/2133 Shields:0
+B-Blood Revenant - HP:9483/16352 Shields:5
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Blood Revenant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Blood Revenant
+----------------------------------------
+Blood Revenant usa Volcano
+Olberic se defiende
+Olberic recibe 296 de daño elemental
+Olberic tendrá Decreased Elemental Defense durante 2 rondas
+Olberic termina con HP:742
+----------------------------------------
+INICIA RONDA 10
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:742/5781 SP:166/291 BP:2
+B-Ochette - HP:0/4447 SP:217/369 BP:3
+Equipo del enemigo
+A-Lightning Elemental - HP:0/2133 Shields:0
+B-Blood Revenant - HP:9483/16352 Shields:5
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Blood Revenant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Blood Revenant
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Blood Revenant - HP:9483/16352 Shields:5
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Olberic ataca
+Blood Revenant recibe 32 de daño de tipo Sword
+Blood Revenant recibe 32 de daño de tipo Sword
+Blood Revenant recibe 32 de daño de tipo Sword
+Blood Revenant termina con HP:9387
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:742/5781 SP:166/291 BP:0
+B-Ochette - HP:0/4447 SP:217/369 BP:3
+Equipo del enemigo
+A-Lightning Elemental - HP:0/2133 Shields:0
+B-Blood Revenant - HP:9387/16352 Shields:5
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Blood Revenant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Blood Revenant
+----------------------------------------
+Blood Revenant usa Volcano
+Olberic recibe 593 de daño elemental
+Olberic tendrá Decreased Elemental Defense durante 2 rondas
+Olberic termina con HP:149
+----------------------------------------
+INICIA RONDA 11
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:149/5781 SP:166/291 BP:0
+B-Ochette - HP:0/4447 SP:217/369 BP:3
+Equipo del enemigo
+A-Lightning Elemental - HP:0/2133 Shields:0
+B-Blood Revenant - HP:9387/16352 Shields:5
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Blood Revenant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Blood Revenant
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Blood Revenant - HP:9387/16352 Shields:5
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Olberic ataca
+Blood Revenant recibe 32 de daño de tipo Sword
+Blood Revenant termina con HP:9355
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:149/5781 SP:166/291 BP:0
+B-Ochette - HP:0/4447 SP:217/369 BP:3
+Equipo del enemigo
+A-Lightning Elemental - HP:0/2133 Shields:0
+B-Blood Revenant - HP:9355/16352 Shields:5
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Blood Revenant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Blood Revenant
+----------------------------------------
+Blood Revenant usa Volcano
+Olberic recibe 593 de daño elemental
+Olberic tendrá Decreased Elemental Defense durante 2 rondas
+Olberic termina con HP:0
+----------------------------------------
+Gana equipo del enemigo

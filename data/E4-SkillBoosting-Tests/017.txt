@@ -1,0 +1,1400 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+INPUT: 16
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:504/504 BP:1
+B-Olberic - HP:5781/5781 SP:291/291 BP:1
+Equipo del enemigo
+A-Armor Eater - HP:1594/1594 Shields:4
+B-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Olberic
+3.Meep
+4.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Olberic
+3.Meep
+4.Armor Eater
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Primrose
+1: Celestial Intervention
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Primrose - HP:4002/4002 SP:504/504 BP:1
+2: Olberic - HP:5781/5781 SP:291/291 BP:1
+3: Armor Eater - HP:1594/1594 Shields:4
+4: Meep - HP:1016/1016 Shields:2
+5: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Primrose usa Celestial Intervention
+Olberic tendrá inmunidad a modificadores durante 4 rondas
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:479/504 BP:0
+B-Olberic - HP:5781/5781 SP:291/291 BP:1
+Equipo del enemigo
+A-Armor Eater - HP:1594/1594 Shields:4
+B-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Meep
+3.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Olberic
+3.Meep
+4.Armor Eater
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:479/504 BP:0
+B-Olberic - HP:5781/5781 SP:291/291 BP:1
+Equipo del enemigo
+A-Armor Eater - HP:1594/1594 Shields:4
+B-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Meep
+2.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Primrose
+3.Meep
+4.Armor Eater
+----------------------------------------
+Meep usa Attack
+Olberic se defiende
+Olberic recibe 70 de daño físico
+Olberic termina con HP:5711
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:479/504 BP:0
+B-Olberic - HP:5711/5781 SP:291/291 BP:1
+Equipo del enemigo
+A-Armor Eater - HP:1594/1594 Shields:4
+B-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Primrose
+3.Meep
+4.Armor Eater
+----------------------------------------
+Armor Eater usa Consume Armor
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:479/504 BP:0
+B-Olberic - HP:5711/5781 SP:291/291 BP:2
+Equipo del enemigo
+A-Armor Eater - HP:1594/1594 Shields:4
+B-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Primrose
+3.Meep
+4.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Olberic
+3.Meep
+4.Armor Eater
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:479/504 BP:0
+B-Olberic - HP:5711/5781 SP:291/291 BP:2
+Equipo del enemigo
+A-Armor Eater - HP:1594/1594 Shields:4
+B-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Meep
+3.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Primrose
+3.Meep
+4.Armor Eater
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:479/504 BP:0
+B-Olberic - HP:5711/5781 SP:291/291 BP:2
+Equipo del enemigo
+A-Armor Eater - HP:1594/1594 Shields:4
+B-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Meep
+2.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Olberic
+3.Meep
+4.Armor Eater
+----------------------------------------
+Meep usa Attack
+Olberic se defiende
+Olberic recibe 70 de daño físico
+Olberic termina con HP:5641
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:479/504 BP:0
+B-Olberic - HP:5641/5781 SP:291/291 BP:2
+Equipo del enemigo
+A-Armor Eater - HP:1594/1594 Shields:4
+B-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Olberic
+3.Meep
+4.Armor Eater
+----------------------------------------
+Armor Eater usa Consume Armor
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:479/504 BP:1
+B-Olberic - HP:5641/5781 SP:291/291 BP:3
+Equipo del enemigo
+A-Armor Eater - HP:1594/1594 Shields:4
+B-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Olberic
+3.Meep
+4.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Olberic
+3.Meep
+4.Armor Eater
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:479/504 BP:1
+B-Olberic - HP:5641/5781 SP:291/291 BP:3
+Equipo del enemigo
+A-Armor Eater - HP:1594/1594 Shields:4
+B-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Meep
+3.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Olberic
+3.Meep
+4.Armor Eater
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:479/504 BP:1
+B-Olberic - HP:5641/5781 SP:291/291 BP:3
+Equipo del enemigo
+A-Armor Eater - HP:1594/1594 Shields:4
+B-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Meep
+2.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Olberic
+3.Meep
+4.Armor Eater
+----------------------------------------
+Meep usa Attack
+Olberic se defiende
+Olberic recibe 70 de daño físico
+Olberic termina con HP:5571
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:479/504 BP:1
+B-Olberic - HP:5571/5781 SP:291/291 BP:3
+Equipo del enemigo
+A-Armor Eater - HP:1594/1594 Shields:4
+B-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Olberic
+3.Meep
+4.Armor Eater
+----------------------------------------
+Armor Eater usa Consume Armor
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:479/504 BP:2
+B-Olberic - HP:5571/5781 SP:291/291 BP:4
+Equipo del enemigo
+A-Armor Eater - HP:1594/1594 Shields:4
+B-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Olberic
+3.Meep
+4.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Olberic
+3.Meep
+4.Armor Eater
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:479/504 BP:2
+B-Olberic - HP:5571/5781 SP:291/291 BP:4
+Equipo del enemigo
+A-Armor Eater - HP:1594/1594 Shields:4
+B-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Meep
+3.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Olberic
+3.Meep
+4.Armor Eater
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:479/504 BP:2
+B-Olberic - HP:5571/5781 SP:291/291 BP:4
+Equipo del enemigo
+A-Armor Eater - HP:1594/1594 Shields:4
+B-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Meep
+2.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Olberic
+3.Meep
+4.Armor Eater
+----------------------------------------
+Meep usa Attack
+Olberic se defiende
+Olberic recibe 70 de daño físico
+Olberic termina con HP:5501
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:479/504 BP:2
+B-Olberic - HP:5501/5781 SP:291/291 BP:4
+Equipo del enemigo
+A-Armor Eater - HP:1594/1594 Shields:4
+B-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Olberic
+3.Meep
+4.Armor Eater
+----------------------------------------
+Armor Eater usa Consume Armor
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:479/504 BP:3
+B-Olberic - HP:5501/5781 SP:291/291 BP:5
+Equipo del enemigo
+A-Armor Eater - HP:1594/1594 Shields:4
+B-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Olberic
+3.Meep
+4.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Olberic
+3.Meep
+4.Armor Eater
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:479/504 BP:3
+B-Olberic - HP:5501/5781 SP:291/291 BP:5
+Equipo del enemigo
+A-Armor Eater - HP:1594/1594 Shields:4
+B-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Meep
+3.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Olberic
+3.Meep
+4.Armor Eater
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:479/504 BP:3
+B-Olberic - HP:5501/5781 SP:291/291 BP:5
+Equipo del enemigo
+A-Armor Eater - HP:1594/1594 Shields:4
+B-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Meep
+2.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Olberic
+3.Meep
+4.Armor Eater
+----------------------------------------
+Meep usa Attack
+Olberic se defiende
+Olberic recibe 70 de daño físico
+Olberic termina con HP:5431
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:479/504 BP:3
+B-Olberic - HP:5431/5781 SP:291/291 BP:5
+Equipo del enemigo
+A-Armor Eater - HP:1594/1594 Shields:4
+B-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Olberic
+3.Meep
+4.Armor Eater
+----------------------------------------
+Armor Eater usa Consume Armor
+Olberic tendrá Decreased Physical Defense durante 2 rondas
+----------------------------------------
+INICIA RONDA 6
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:479/504 BP:4
+B-Olberic - HP:5431/5781 SP:291/291 BP:5
+Equipo del enemigo
+A-Armor Eater - HP:1594/1594 Shields:4
+B-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Olberic
+3.Meep
+4.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Olberic
+3.Meep
+4.Armor Eater
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Primrose
+1: Celestial Intervention
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Primrose - HP:4002/4002 SP:479/504 BP:4
+2: Olberic - HP:5431/5781 SP:291/291 BP:5
+3: Armor Eater - HP:1594/1594 Shields:4
+4: Meep - HP:1016/1016 Shields:2
+5: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Primrose usa Celestial Intervention
+Olberic tendrá inmunidad a modificadores durante 8 rondas
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:454/504 BP:1
+B-Olberic - HP:5431/5781 SP:291/291 BP:5
+Equipo del enemigo
+A-Armor Eater - HP:1594/1594 Shields:4
+B-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Meep
+3.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Olberic
+3.Meep
+4.Armor Eater
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:454/504 BP:1
+B-Olberic - HP:5431/5781 SP:291/291 BP:5
+Equipo del enemigo
+A-Armor Eater - HP:1594/1594 Shields:4
+B-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Meep
+2.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Primrose
+3.Meep
+4.Armor Eater
+----------------------------------------
+Meep usa Attack
+Olberic se defiende
+Olberic recibe 105 de daño físico
+Olberic termina con HP:5326
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:454/504 BP:1
+B-Olberic - HP:5326/5781 SP:291/291 BP:5
+Equipo del enemigo
+A-Armor Eater - HP:1594/1594 Shields:4
+B-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Primrose
+3.Meep
+4.Armor Eater
+----------------------------------------
+Armor Eater usa Consume Armor
+----------------------------------------
+INICIA RONDA 7
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:454/504 BP:1
+B-Olberic - HP:5326/5781 SP:291/291 BP:5
+Equipo del enemigo
+A-Armor Eater - HP:1594/1594 Shields:4
+B-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Primrose
+3.Meep
+4.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Olberic
+3.Meep
+4.Armor Eater
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:454/504 BP:1
+B-Olberic - HP:5326/5781 SP:291/291 BP:5
+Equipo del enemigo
+A-Armor Eater - HP:1594/1594 Shields:4
+B-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Meep
+3.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Primrose
+3.Meep
+4.Armor Eater
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:454/504 BP:1
+B-Olberic - HP:5326/5781 SP:291/291 BP:5
+Equipo del enemigo
+A-Armor Eater - HP:1594/1594 Shields:4
+B-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Meep
+2.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Olberic
+3.Meep
+4.Armor Eater
+----------------------------------------
+Meep usa Attack
+Olberic se defiende
+Olberic recibe 70 de daño físico
+Olberic termina con HP:5256
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:454/504 BP:1
+B-Olberic - HP:5256/5781 SP:291/291 BP:5
+Equipo del enemigo
+A-Armor Eater - HP:1594/1594 Shields:4
+B-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Olberic
+3.Meep
+4.Armor Eater
+----------------------------------------
+Armor Eater usa Consume Armor
+----------------------------------------
+INICIA RONDA 8
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:454/504 BP:2
+B-Olberic - HP:5256/5781 SP:291/291 BP:5
+Equipo del enemigo
+A-Armor Eater - HP:1594/1594 Shields:4
+B-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Olberic
+3.Meep
+4.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Olberic
+3.Meep
+4.Armor Eater
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:454/504 BP:2
+B-Olberic - HP:5256/5781 SP:291/291 BP:5
+Equipo del enemigo
+A-Armor Eater - HP:1594/1594 Shields:4
+B-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Meep
+3.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Olberic
+3.Meep
+4.Armor Eater
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:454/504 BP:2
+B-Olberic - HP:5256/5781 SP:291/291 BP:5
+Equipo del enemigo
+A-Armor Eater - HP:1594/1594 Shields:4
+B-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Meep
+2.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Olberic
+3.Meep
+4.Armor Eater
+----------------------------------------
+Meep usa Attack
+Olberic se defiende
+Olberic recibe 70 de daño físico
+Olberic termina con HP:5186
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:454/504 BP:2
+B-Olberic - HP:5186/5781 SP:291/291 BP:5
+Equipo del enemigo
+A-Armor Eater - HP:1594/1594 Shields:4
+B-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Olberic
+3.Meep
+4.Armor Eater
+----------------------------------------
+Armor Eater usa Consume Armor
+----------------------------------------
+INICIA RONDA 9
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:454/504 BP:3
+B-Olberic - HP:5186/5781 SP:291/291 BP:5
+Equipo del enemigo
+A-Armor Eater - HP:1594/1594 Shields:4
+B-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Olberic
+3.Meep
+4.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Olberic
+3.Meep
+4.Armor Eater
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:454/504 BP:3
+B-Olberic - HP:5186/5781 SP:291/291 BP:5
+Equipo del enemigo
+A-Armor Eater - HP:1594/1594 Shields:4
+B-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Meep
+3.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Olberic
+3.Meep
+4.Armor Eater
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:454/504 BP:3
+B-Olberic - HP:5186/5781 SP:291/291 BP:5
+Equipo del enemigo
+A-Armor Eater - HP:1594/1594 Shields:4
+B-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Meep
+2.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Olberic
+3.Meep
+4.Armor Eater
+----------------------------------------
+Meep usa Attack
+Olberic se defiende
+Olberic recibe 70 de daño físico
+Olberic termina con HP:5116
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:454/504 BP:3
+B-Olberic - HP:5116/5781 SP:291/291 BP:5
+Equipo del enemigo
+A-Armor Eater - HP:1594/1594 Shields:4
+B-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Olberic
+3.Meep
+4.Armor Eater
+----------------------------------------
+Armor Eater usa Consume Armor
+----------------------------------------
+INICIA RONDA 10
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:454/504 BP:4
+B-Olberic - HP:5116/5781 SP:291/291 BP:5
+Equipo del enemigo
+A-Armor Eater - HP:1594/1594 Shields:4
+B-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Olberic
+3.Meep
+4.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Olberic
+3.Meep
+4.Armor Eater
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:454/504 BP:4
+B-Olberic - HP:5116/5781 SP:291/291 BP:5
+Equipo del enemigo
+A-Armor Eater - HP:1594/1594 Shields:4
+B-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Meep
+3.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Olberic
+3.Meep
+4.Armor Eater
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:454/504 BP:4
+B-Olberic - HP:5116/5781 SP:291/291 BP:5
+Equipo del enemigo
+A-Armor Eater - HP:1594/1594 Shields:4
+B-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Meep
+2.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Olberic
+3.Meep
+4.Armor Eater
+----------------------------------------
+Meep usa Attack
+Olberic se defiende
+Olberic recibe 70 de daño físico
+Olberic termina con HP:5046
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:454/504 BP:4
+B-Olberic - HP:5046/5781 SP:291/291 BP:5
+Equipo del enemigo
+A-Armor Eater - HP:1594/1594 Shields:4
+B-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Olberic
+3.Meep
+4.Armor Eater
+----------------------------------------
+Armor Eater usa Consume Armor
+----------------------------------------
+INICIA RONDA 11
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:454/504 BP:5
+B-Olberic - HP:5046/5781 SP:291/291 BP:5
+Equipo del enemigo
+A-Armor Eater - HP:1594/1594 Shields:4
+B-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Olberic
+3.Meep
+4.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Olberic
+3.Meep
+4.Armor Eater
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:454/504 BP:5
+B-Olberic - HP:5046/5781 SP:291/291 BP:5
+Equipo del enemigo
+A-Armor Eater - HP:1594/1594 Shields:4
+B-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Meep
+3.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Olberic
+3.Meep
+4.Armor Eater
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:454/504 BP:5
+B-Olberic - HP:5046/5781 SP:291/291 BP:5
+Equipo del enemigo
+A-Armor Eater - HP:1594/1594 Shields:4
+B-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Meep
+2.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Olberic
+3.Meep
+4.Armor Eater
+----------------------------------------
+Meep usa Attack
+Olberic se defiende
+Olberic recibe 70 de daño físico
+Olberic termina con HP:4976
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:454/504 BP:5
+B-Olberic - HP:4976/5781 SP:291/291 BP:5
+Equipo del enemigo
+A-Armor Eater - HP:1594/1594 Shields:4
+B-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Olberic
+3.Meep
+4.Armor Eater
+----------------------------------------
+Armor Eater usa Consume Armor
+----------------------------------------
+INICIA RONDA 12
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:454/504 BP:5
+B-Olberic - HP:4976/5781 SP:291/291 BP:5
+Equipo del enemigo
+A-Armor Eater - HP:1594/1594 Shields:4
+B-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Olberic
+3.Meep
+4.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Olberic
+3.Meep
+4.Armor Eater
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:454/504 BP:5
+B-Olberic - HP:4976/5781 SP:291/291 BP:5
+Equipo del enemigo
+A-Armor Eater - HP:1594/1594 Shields:4
+B-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Meep
+3.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Olberic
+3.Meep
+4.Armor Eater
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:454/504 BP:5
+B-Olberic - HP:4976/5781 SP:291/291 BP:5
+Equipo del enemigo
+A-Armor Eater - HP:1594/1594 Shields:4
+B-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Meep
+2.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Olberic
+3.Meep
+4.Armor Eater
+----------------------------------------
+Meep usa Attack
+Olberic se defiende
+Olberic recibe 70 de daño físico
+Olberic termina con HP:4906
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:454/504 BP:5
+B-Olberic - HP:4906/5781 SP:291/291 BP:5
+Equipo del enemigo
+A-Armor Eater - HP:1594/1594 Shields:4
+B-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Olberic
+3.Meep
+4.Armor Eater
+----------------------------------------
+Armor Eater usa Consume Armor
+----------------------------------------
+INICIA RONDA 13
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:454/504 BP:5
+B-Olberic - HP:4906/5781 SP:291/291 BP:5
+Equipo del enemigo
+A-Armor Eater - HP:1594/1594 Shields:4
+B-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Olberic
+3.Meep
+4.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Olberic
+3.Meep
+4.Armor Eater
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:454/504 BP:5
+B-Olberic - HP:4906/5781 SP:291/291 BP:5
+Equipo del enemigo
+A-Armor Eater - HP:1594/1594 Shields:4
+B-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Meep
+3.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Olberic
+3.Meep
+4.Armor Eater
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:454/504 BP:5
+B-Olberic - HP:4906/5781 SP:291/291 BP:5
+Equipo del enemigo
+A-Armor Eater - HP:1594/1594 Shields:4
+B-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Meep
+2.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Olberic
+3.Meep
+4.Armor Eater
+----------------------------------------
+Meep usa Attack
+Olberic se defiende
+Olberic recibe 70 de daño físico
+Olberic termina con HP:4836
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:454/504 BP:5
+B-Olberic - HP:4836/5781 SP:291/291 BP:5
+Equipo del enemigo
+A-Armor Eater - HP:1594/1594 Shields:4
+B-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Olberic
+3.Meep
+4.Armor Eater
+----------------------------------------
+Armor Eater usa Consume Armor
+----------------------------------------
+INICIA RONDA 14
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:454/504 BP:5
+B-Olberic - HP:4836/5781 SP:291/291 BP:5
+Equipo del enemigo
+A-Armor Eater - HP:1594/1594 Shields:4
+B-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Olberic
+3.Meep
+4.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Olberic
+3.Meep
+4.Armor Eater
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:454/504 BP:5
+B-Olberic - HP:4836/5781 SP:291/291 BP:5
+Equipo del enemigo
+A-Armor Eater - HP:1594/1594 Shields:4
+B-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Meep
+3.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Olberic
+3.Meep
+4.Armor Eater
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:454/504 BP:5
+B-Olberic - HP:4836/5781 SP:291/291 BP:5
+Equipo del enemigo
+A-Armor Eater - HP:1594/1594 Shields:4
+B-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Meep
+2.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Olberic
+3.Meep
+4.Armor Eater
+----------------------------------------
+Meep usa Attack
+Olberic se defiende
+Olberic recibe 70 de daño físico
+Olberic termina con HP:4766
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:454/504 BP:5
+B-Olberic - HP:4766/5781 SP:291/291 BP:5
+Equipo del enemigo
+A-Armor Eater - HP:1594/1594 Shields:4
+B-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Olberic
+3.Meep
+4.Armor Eater
+----------------------------------------
+Armor Eater usa Consume Armor
+Olberic tendrá Decreased Physical Defense durante 2 rondas
+----------------------------------------
+INICIA RONDA 15
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:454/504 BP:5
+B-Olberic - HP:4766/5781 SP:291/291 BP:5
+Equipo del enemigo
+A-Armor Eater - HP:1594/1594 Shields:4
+B-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Olberic
+3.Meep
+4.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Olberic
+3.Meep
+4.Armor Eater
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 4
+----------------------------------------
+El equipo de viajeros ha huido!
+----------------------------------------
+Gana equipo del enemigo

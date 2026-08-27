@@ -1,0 +1,636 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+INPUT: 6
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:3557/3557 SP:582/582 BP:1
+B-Heatcore - HP:2822/2822 SP:342/342 BP:1
+Equipo del enemigo
+A-Mossy Meep - HP:1060/1060 Shields:3
+B-Devourer of Dreams - HP:7500/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Heatcore
+2.Cyrus
+3.Mossy Meep
+4.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Cyrus
+3.Mossy Meep
+4.Devourer of Dreams
+----------------------------------------
+Turno de Heatcore
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Heatcore
+1: Mossy Meep - HP:1060/1060 Shields:3
+2: Devourer of Dreams - HP:7500/7500 Shields:10
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Heatcore ataca
+Mossy Meep recibe 0 de daño de tipo Axe con debilidad
+Mossy Meep termina con HP:1060
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:3557/3557 SP:582/582 BP:1
+B-Heatcore - HP:2822/2822 SP:342/342 BP:1
+Equipo del enemigo
+A-Mossy Meep - HP:1060/1060 Shields:3
+B-Devourer of Dreams - HP:7500/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Mossy Meep
+3.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Cyrus
+3.Mossy Meep
+4.Devourer of Dreams
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: Mossy Meep - HP:1060/1060 Shields:3
+2: Devourer of Dreams - HP:7500/7500 Shields:10
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus ataca
+Mossy Meep recibe 0 de daño de tipo Stave con debilidad
+Mossy Meep termina con HP:1060
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:3557/3557 SP:582/582 BP:1
+B-Heatcore - HP:2822/2822 SP:342/342 BP:1
+Equipo del enemigo
+A-Mossy Meep - HP:1060/1060 Shields:3
+B-Devourer of Dreams - HP:7500/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Mossy Meep
+2.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Cyrus
+3.Mossy Meep
+4.Devourer of Dreams
+----------------------------------------
+Mossy Meep usa Attack
+Cyrus recibe 254 de daño físico
+Cyrus termina con HP:3303
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:3303/3557 SP:582/582 BP:1
+B-Heatcore - HP:2822/2822 SP:342/342 BP:1
+Equipo del enemigo
+A-Mossy Meep - HP:1060/1060 Shields:3
+B-Devourer of Dreams - HP:7500/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Cyrus
+3.Mossy Meep
+4.Devourer of Dreams
+----------------------------------------
+Devourer of Dreams usa Vortal Claw
+Cyrus recibe 1652 de daño
+Heatcore recibe 1411 de daño
+Cyrus termina con HP:1651
+Heatcore termina con HP:1411
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:1651/3557 SP:582/582 BP:2
+B-Heatcore - HP:1411/2822 SP:342/342 BP:2
+Equipo del enemigo
+A-Mossy Meep - HP:1060/1060 Shields:3
+B-Devourer of Dreams - HP:7500/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Heatcore
+2.Cyrus
+3.Mossy Meep
+4.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Cyrus
+3.Mossy Meep
+4.Devourer of Dreams
+----------------------------------------
+Turno de Heatcore
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Heatcore
+1: Heal More
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Heatcore usa Heal More
+Cyrus recupera 506 de vida
+Heatcore recupera 506 de vida
+Cyrus termina con HP:2157
+Heatcore termina con HP:1917
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:2157/3557 SP:582/582 BP:2
+B-Heatcore - HP:1917/2822 SP:317/342 BP:2
+Equipo del enemigo
+A-Mossy Meep - HP:1060/1060 Shields:3
+B-Devourer of Dreams - HP:7500/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Mossy Meep
+3.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Cyrus
+3.Mossy Meep
+4.Devourer of Dreams
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Combustion
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus usa Combustion
+Mossy Meep recibe 0 de daño de tipo Fire
+Devourer of Dreams recibe 991 de daño de tipo Fire
+Cyrus pierde 1725 HP
+Mossy Meep termina con HP:1060
+Devourer of Dreams termina con HP:6509
+Cyrus termina con HP:432
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:432/3557 SP:546/582 BP:2
+B-Heatcore - HP:1917/2822 SP:317/342 BP:2
+Equipo del enemigo
+A-Mossy Meep - HP:1060/1060 Shields:3
+B-Devourer of Dreams - HP:6509/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Mossy Meep
+2.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Cyrus
+3.Mossy Meep
+4.Devourer of Dreams
+----------------------------------------
+Mossy Meep usa Attack
+Heatcore recibe 255 de daño físico
+Heatcore termina con HP:1662
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:432/3557 SP:546/582 BP:2
+B-Heatcore - HP:1662/2822 SP:317/342 BP:2
+Equipo del enemigo
+A-Mossy Meep - HP:1060/1060 Shields:3
+B-Devourer of Dreams - HP:6509/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Cyrus
+3.Mossy Meep
+4.Devourer of Dreams
+----------------------------------------
+Devourer of Dreams usa Vortal Claw
+Cyrus recibe 216 de daño
+Heatcore recibe 831 de daño
+Cyrus termina con HP:216
+Heatcore termina con HP:831
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:216/3557 SP:546/582 BP:3
+B-Heatcore - HP:831/2822 SP:317/342 BP:3
+Equipo del enemigo
+A-Mossy Meep - HP:1060/1060 Shields:3
+B-Devourer of Dreams - HP:6509/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Heatcore
+2.Cyrus
+3.Mossy Meep
+4.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Cyrus
+3.Mossy Meep
+4.Devourer of Dreams
+----------------------------------------
+Turno de Heatcore
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Heatcore
+1: Alephan's Enlightenment
+2: Heal More
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Heatcore
+1: Cyrus - HP:216/3557 SP:546/582 BP:3
+2: Heatcore - HP:831/2822 SP:317/342 BP:3
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Heatcore usa Alephan's Enlightenment
+Cyrus concentrará sus habilidades durante 3 rondas
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:216/3557 SP:546/582 BP:3
+B-Heatcore - HP:831/2822 SP:287/342 BP:0
+Equipo del enemigo
+A-Mossy Meep - HP:1060/1060 Shields:3
+B-Devourer of Dreams - HP:6509/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Mossy Meep
+3.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Cyrus
+3.Mossy Meep
+4.Devourer of Dreams
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Combustion
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: Mossy Meep - HP:1060/1060 Shields:3
+2: Devourer of Dreams - HP:6509/7500 Shields:10
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus usa Combustion
+Devourer of Dreams recibe 1982 de daño de tipo Fire
+Cyrus pierde 172 HP
+Devourer of Dreams termina con HP:4527
+Cyrus termina con HP:44
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:44/3557 SP:510/582 BP:3
+B-Heatcore - HP:831/2822 SP:287/342 BP:0
+Equipo del enemigo
+A-Mossy Meep - HP:1060/1060 Shields:3
+B-Devourer of Dreams - HP:4527/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Mossy Meep
+2.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Cyrus
+3.Mossy Meep
+4.Devourer of Dreams
+----------------------------------------
+Mossy Meep usa Attack
+Heatcore recibe 255 de daño físico
+Heatcore termina con HP:576
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:44/3557 SP:510/582 BP:3
+B-Heatcore - HP:576/2822 SP:287/342 BP:0
+Equipo del enemigo
+A-Mossy Meep - HP:1060/1060 Shields:3
+B-Devourer of Dreams - HP:4527/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Cyrus
+3.Mossy Meep
+4.Devourer of Dreams
+----------------------------------------
+Devourer of Dreams usa Vortal Claw
+Cyrus recibe 22 de daño
+Heatcore recibe 288 de daño
+Cyrus termina con HP:22
+Heatcore termina con HP:288
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:22/3557 SP:510/582 BP:4
+B-Heatcore - HP:288/2822 SP:287/342 BP:0
+Equipo del enemigo
+A-Mossy Meep - HP:1060/1060 Shields:3
+B-Devourer of Dreams - HP:4527/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Heatcore
+2.Cyrus
+3.Mossy Meep
+4.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Cyrus
+3.Mossy Meep
+4.Devourer of Dreams
+----------------------------------------
+Turno de Heatcore
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Heatcore
+1: Heal More
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Heatcore usa Heal More
+Cyrus recupera 506 de vida
+Heatcore recupera 506 de vida
+Cyrus termina con HP:528
+Heatcore termina con HP:794
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:528/3557 SP:510/582 BP:4
+B-Heatcore - HP:794/2822 SP:262/342 BP:0
+Equipo del enemigo
+A-Mossy Meep - HP:1060/1060 Shields:3
+B-Devourer of Dreams - HP:4527/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Mossy Meep
+3.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Cyrus
+3.Mossy Meep
+4.Devourer of Dreams
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Combustion
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: Mossy Meep - HP:1060/1060 Shields:3
+2: Devourer of Dreams - HP:4527/7500 Shields:10
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Cyrus usa Combustion
+Devourer of Dreams recibe 7321 de daño de tipo Fire
+Cyrus pierde 422 HP
+Devourer of Dreams termina con HP:0
+Cyrus termina con HP:106
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:106/3557 SP:474/582 BP:1
+B-Heatcore - HP:794/2822 SP:262/342 BP:0
+Equipo del enemigo
+A-Mossy Meep - HP:1060/1060 Shields:3
+B-Devourer of Dreams - HP:0/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Cyrus
+3.Mossy Meep
+----------------------------------------
+Mossy Meep usa Attack
+Heatcore recibe 255 de daño físico
+Heatcore termina con HP:539
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:106/3557 SP:474/582 BP:1
+B-Heatcore - HP:539/2822 SP:262/342 BP:1
+Equipo del enemigo
+A-Mossy Meep - HP:1060/1060 Shields:3
+B-Devourer of Dreams - HP:0/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Heatcore
+2.Cyrus
+3.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Cyrus
+3.Mossy Meep
+----------------------------------------
+Turno de Heatcore
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Heatcore
+1: Heal More
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Heatcore usa Heal More
+Cyrus recupera 506 de vida
+Heatcore recupera 506 de vida
+Cyrus termina con HP:612
+Heatcore termina con HP:1045
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:612/3557 SP:474/582 BP:1
+B-Heatcore - HP:1045/2822 SP:237/342 BP:1
+Equipo del enemigo
+A-Mossy Meep - HP:1060/1060 Shields:3
+B-Devourer of Dreams - HP:0/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Cyrus
+3.Mossy Meep
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: Mossy Meep - HP:1060/1060 Shields:3
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus ataca
+Mossy Meep recibe 0 de daño de tipo Stave con debilidad
+Mossy Meep termina con HP:1060
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:612/3557 SP:474/582 BP:1
+B-Heatcore - HP:1045/2822 SP:237/342 BP:1
+Equipo del enemigo
+A-Mossy Meep - HP:1060/1060 Shields:3
+B-Devourer of Dreams - HP:0/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Cyrus
+3.Mossy Meep
+----------------------------------------
+Mossy Meep usa Attack
+Heatcore recibe 255 de daño físico
+Heatcore termina con HP:790
+----------------------------------------
+INICIA RONDA 6
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:612/3557 SP:474/582 BP:2
+B-Heatcore - HP:790/2822 SP:237/342 BP:2
+Equipo del enemigo
+A-Mossy Meep - HP:1060/1060 Shields:3
+B-Devourer of Dreams - HP:0/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Heatcore
+2.Cyrus
+3.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Cyrus
+3.Mossy Meep
+----------------------------------------
+Turno de Heatcore
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 4
+----------------------------------------
+El equipo de viajeros ha huido!
+----------------------------------------
+Gana equipo del enemigo

@@ -1,0 +1,716 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+INPUT: 25
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:1
+Equipo del enemigo
+A-Frost Fox - HP:1302/1302 Shields:2
+B-Armor Eater - HP:1594/1594 Shields:4
+C-Albino Bat - HP:1896/1896 Shields:4
+D-Devourer of Men - HP:7500/7500 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Frost Fox
+3.Devourer of Men
+4.Albino Bat
+5.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Frost Fox
+3.Devourer of Men
+4.Albino Bat
+5.Armor Eater
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Rest
+2: Glacies Claudere
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Olberic no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Olberic usa Glacies Claudere
+Frost Fox recibe 555 de daño de tipo Ice
+Frost Fox recibe 555 de daño de tipo Ice
+Frost Fox recibe 555 de daño de tipo Ice
+Armor Eater recibe 606 de daño de tipo Ice
+Armor Eater recibe 606 de daño de tipo Ice
+Armor Eater recibe 606 de daño de tipo Ice
+Albino Bat recibe 618 de daño de tipo Ice
+Albino Bat recibe 618 de daño de tipo Ice
+Albino Bat recibe 618 de daño de tipo Ice
+Devourer of Men recibe 592 de daño de tipo Ice
+Devourer of Men recibe 592 de daño de tipo Ice
+Devourer of Men recibe 592 de daño de tipo Ice
+Frost Fox termina con HP:0
+Armor Eater termina con HP:0
+Albino Bat termina con HP:42
+Devourer of Men termina con HP:5724
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:255/291 BP:0
+Equipo del enemigo
+A-Frost Fox - HP:0/1302 Shields:2
+B-Armor Eater - HP:0/1594 Shields:4
+C-Albino Bat - HP:42/1896 Shields:4
+D-Devourer of Men - HP:5724/7500 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Men
+2.Albino Bat
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Devourer of Men
+3.Albino Bat
+----------------------------------------
+Devourer of Men usa Shadow Magic
+Olberic recibe 389 de daño elemental
+Olberic recibe 389 de daño elemental
+Olberic termina con HP:5003
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5003/5781 SP:255/291 BP:0
+Equipo del enemigo
+A-Frost Fox - HP:0/1302 Shields:2
+B-Armor Eater - HP:0/1594 Shields:4
+C-Albino Bat - HP:42/1896 Shields:4
+D-Devourer of Men - HP:5724/7500 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Albino Bat
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Devourer of Men
+3.Albino Bat
+----------------------------------------
+Albino Bat usa Flap
+Olberic recibe 163 de daño físico
+Albino Bat tendrá Increased Speed durante 2 rondas
+Olberic termina con HP:4840
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4840/5781 SP:255/291 BP:0
+Equipo del enemigo
+A-Frost Fox - HP:0/1302 Shields:2
+B-Armor Eater - HP:0/1594 Shields:4
+C-Albino Bat - HP:42/1896 Shields:4
+D-Devourer of Men - HP:5724/7500 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Albino Bat
+3.Devourer of Men
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Devourer of Men
+3.Albino Bat
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Rest
+2: Glacies Claudere
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Olberic usa Glacies Claudere
+Albino Bat recibe 205 de daño de tipo Ice
+Albino Bat recibe 205 de daño de tipo Ice
+Albino Bat recibe 205 de daño de tipo Ice
+Devourer of Men recibe 179 de daño de tipo Ice
+Devourer of Men recibe 179 de daño de tipo Ice
+Devourer of Men recibe 179 de daño de tipo Ice
+Albino Bat termina con HP:0
+Devourer of Men termina con HP:5187
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4840/5781 SP:219/291 BP:0
+Equipo del enemigo
+A-Frost Fox - HP:0/1302 Shields:2
+B-Armor Eater - HP:0/1594 Shields:4
+C-Albino Bat - HP:0/1896 Shields:4
+D-Devourer of Men - HP:5187/7500 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Men
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Devourer of Men
+----------------------------------------
+Devourer of Men usa Shadow Magic
+Olberic recibe 389 de daño elemental
+Olberic recibe 389 de daño elemental
+Olberic termina con HP:4062
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4062/5781 SP:219/291 BP:1
+Equipo del enemigo
+A-Frost Fox - HP:0/1302 Shields:2
+B-Armor Eater - HP:0/1594 Shields:4
+C-Albino Bat - HP:0/1896 Shields:4
+D-Devourer of Men - HP:5187/7500 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Devourer of Men
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Devourer of Men
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Rest
+2: Glacies Claudere
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Olberic no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Olberic no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic usa Rest
+Olberic recupera 271 de vida
+Olberic recupera 25 SP
+Olberic termina con HP:4333
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4333/5781 SP:244/291 BP:1
+Equipo del enemigo
+A-Frost Fox - HP:0/1302 Shields:2
+B-Armor Eater - HP:0/1594 Shields:4
+C-Albino Bat - HP:0/1896 Shields:4
+D-Devourer of Men - HP:5187/7500 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Men
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Devourer of Men
+----------------------------------------
+Devourer of Men usa Shadow Magic
+Olberic recibe 389 de daño elemental
+Olberic recibe 389 de daño elemental
+Olberic termina con HP:3555
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:3555/5781 SP:244/291 BP:2
+Equipo del enemigo
+A-Frost Fox - HP:0/1302 Shields:2
+B-Armor Eater - HP:0/1594 Shields:4
+C-Albino Bat - HP:0/1896 Shields:4
+D-Devourer of Men - HP:5187/7500 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Devourer of Men
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Devourer of Men
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Devourer of Men - HP:5187/7500 Shields:8
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Olberic ataca
+Devourer of Men recibe 246 de daño de tipo Spear con debilidad
+Devourer of Men recibe 246 de daño de tipo Spear con debilidad
+Devourer of Men recibe 246 de daño de tipo Spear con debilidad
+Devourer of Men termina con HP:4449
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:3555/5781 SP:244/291 BP:0
+Equipo del enemigo
+A-Frost Fox - HP:0/1302 Shields:2
+B-Armor Eater - HP:0/1594 Shields:4
+C-Albino Bat - HP:0/1896 Shields:4
+D-Devourer of Men - HP:4449/7500 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Men
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Devourer of Men
+----------------------------------------
+Devourer of Men usa Shadow Magic
+Olberic recibe 389 de daño elemental
+Olberic recibe 389 de daño elemental
+Olberic termina con HP:2777
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:2777/5781 SP:244/291 BP:0
+Equipo del enemigo
+A-Frost Fox - HP:0/1302 Shields:2
+B-Armor Eater - HP:0/1594 Shields:4
+C-Albino Bat - HP:0/1896 Shields:4
+D-Devourer of Men - HP:4449/7500 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Devourer of Men
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Devourer of Men
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Devourer of Men - HP:4449/7500 Shields:5
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Olberic ataca
+Devourer of Men recibe 246 de daño de tipo Sword con debilidad
+Devourer of Men termina con HP:4203
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:2777/5781 SP:244/291 BP:0
+Equipo del enemigo
+A-Frost Fox - HP:0/1302 Shields:2
+B-Armor Eater - HP:0/1594 Shields:4
+C-Albino Bat - HP:0/1896 Shields:4
+D-Devourer of Men - HP:4203/7500 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Men
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Devourer of Men
+----------------------------------------
+Devourer of Men usa Shadow Magic
+Olberic recibe 389 de daño elemental
+Olberic recibe 389 de daño elemental
+Olberic termina con HP:1999
+----------------------------------------
+INICIA RONDA 6
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:1999/5781 SP:244/291 BP:1
+Equipo del enemigo
+A-Frost Fox - HP:0/1302 Shields:2
+B-Armor Eater - HP:0/1594 Shields:4
+C-Albino Bat - HP:0/1896 Shields:4
+D-Devourer of Men - HP:4203/7500 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Devourer of Men
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Devourer of Men
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:1999/5781 SP:244/291 BP:1
+Equipo del enemigo
+A-Frost Fox - HP:0/1302 Shields:2
+B-Armor Eater - HP:0/1594 Shields:4
+C-Albino Bat - HP:0/1896 Shields:4
+D-Devourer of Men - HP:4203/7500 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Men
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Devourer of Men
+----------------------------------------
+Devourer of Men usa Shadow Magic
+Olberic se defiende
+Olberic recibe 194 de daño elemental
+Olberic recibe 194 de daño elemental
+Olberic termina con HP:1611
+----------------------------------------
+INICIA RONDA 7
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:1611/5781 SP:244/291 BP:2
+Equipo del enemigo
+A-Frost Fox - HP:0/1302 Shields:2
+B-Armor Eater - HP:0/1594 Shields:4
+C-Albino Bat - HP:0/1896 Shields:4
+D-Devourer of Men - HP:4203/7500 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Devourer of Men
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Devourer of Men
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Devourer of Men - HP:4203/7500 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Olberic ataca
+Devourer of Men recibe 246 de daño de tipo Spear con debilidad
+Devourer of Men recibe 246 de daño de tipo Spear con debilidad
+Devourer of Men recibe 246 de daño de tipo Spear con debilidad
+Devourer of Men termina con HP:3465
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:1611/5781 SP:244/291 BP:0
+Equipo del enemigo
+A-Frost Fox - HP:0/1302 Shields:2
+B-Armor Eater - HP:0/1594 Shields:4
+C-Albino Bat - HP:0/1896 Shields:4
+D-Devourer of Men - HP:3465/7500 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Men
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Devourer of Men
+----------------------------------------
+Devourer of Men usa Shadow Magic
+Olberic recibe 389 de daño elemental
+Olberic recibe 389 de daño elemental
+Olberic termina con HP:833
+----------------------------------------
+INICIA RONDA 8
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:833/5781 SP:244/291 BP:0
+Equipo del enemigo
+A-Frost Fox - HP:0/1302 Shields:2
+B-Armor Eater - HP:0/1594 Shields:4
+C-Albino Bat - HP:0/1896 Shields:4
+D-Devourer of Men - HP:3465/7500 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Devourer of Men
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Devourer of Men
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:833/5781 SP:244/291 BP:0
+Equipo del enemigo
+A-Frost Fox - HP:0/1302 Shields:2
+B-Armor Eater - HP:0/1594 Shields:4
+C-Albino Bat - HP:0/1896 Shields:4
+D-Devourer of Men - HP:3465/7500 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Men
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Devourer of Men
+----------------------------------------
+Devourer of Men usa Shadow Magic
+Olberic se defiende
+Olberic recibe 194 de daño elemental
+Olberic recibe 194 de daño elemental
+Olberic termina con HP:445
+----------------------------------------
+INICIA RONDA 9
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:445/5781 SP:244/291 BP:1
+Equipo del enemigo
+A-Frost Fox - HP:0/1302 Shields:2
+B-Armor Eater - HP:0/1594 Shields:4
+C-Albino Bat - HP:0/1896 Shields:4
+D-Devourer of Men - HP:3465/7500 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Devourer of Men
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Devourer of Men
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:445/5781 SP:244/291 BP:1
+Equipo del enemigo
+A-Frost Fox - HP:0/1302 Shields:2
+B-Armor Eater - HP:0/1594 Shields:4
+C-Albino Bat - HP:0/1896 Shields:4
+D-Devourer of Men - HP:3465/7500 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Men
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Devourer of Men
+----------------------------------------
+Devourer of Men usa Shadow Magic
+Olberic se defiende
+Olberic recibe 194 de daño elemental
+Olberic recibe 194 de daño elemental
+Olberic termina con HP:57
+----------------------------------------
+INICIA RONDA 10
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:57/5781 SP:244/291 BP:2
+Equipo del enemigo
+A-Frost Fox - HP:0/1302 Shields:2
+B-Armor Eater - HP:0/1594 Shields:4
+C-Albino Bat - HP:0/1896 Shields:4
+D-Devourer of Men - HP:3465/7500 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Devourer of Men
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Devourer of Men
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:57/5781 SP:244/291 BP:2
+Equipo del enemigo
+A-Frost Fox - HP:0/1302 Shields:2
+B-Armor Eater - HP:0/1594 Shields:4
+C-Albino Bat - HP:0/1896 Shields:4
+D-Devourer of Men - HP:3465/7500 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Men
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Devourer of Men
+----------------------------------------
+Devourer of Men usa Shadow Magic
+Olberic se defiende
+Olberic recibe 194 de daño elemental
+Olberic recibe 194 de daño elemental
+Olberic termina con HP:0
+----------------------------------------
+Gana equipo del enemigo

@@ -1,0 +1,444 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+INPUT: 4
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:4447/4447 SP:369/369 BP:1
+Equipo del enemigo
+A-Devourer of Dreams - HP:7500/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Devourer of Dreams
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para H'aanit
+1: Devourer of Dreams - HP:7500/7500 Shields:10
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+H'aanit ataca
+Devourer of Dreams recibe 104 de daño de tipo Axe
+Devourer of Dreams termina con HP:7396
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:4447/4447 SP:369/369 BP:1
+Equipo del enemigo
+A-Devourer of Dreams - HP:7396/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Devourer of Dreams
+----------------------------------------
+Devourer of Dreams usa Vortal Claw
+H'aanit recibe 2224 de daño
+H'aanit termina con HP:2223
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:2223/4447 SP:369/369 BP:2
+Equipo del enemigo
+A-Devourer of Dreams - HP:7396/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Devourer of Dreams
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para H'aanit
+1: Devourer of Dreams - HP:7396/7500 Shields:10
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+H'aanit ataca
+Devourer of Dreams recibe 104 de daño de tipo Axe
+Devourer of Dreams termina con HP:7292
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:2223/4447 SP:369/369 BP:2
+Equipo del enemigo
+A-Devourer of Dreams - HP:7292/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Devourer of Dreams
+----------------------------------------
+Devourer of Dreams usa Vortal Claw
+H'aanit recibe 1112 de daño
+H'aanit termina con HP:1111
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:1111/4447 SP:369/369 BP:3
+Equipo del enemigo
+A-Devourer of Dreams - HP:7292/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Devourer of Dreams
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para H'aanit
+1: Devourer of Dreams - HP:7292/7500 Shields:10
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+H'aanit ataca
+Devourer of Dreams recibe 104 de daño de tipo Axe
+Devourer of Dreams termina con HP:7188
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:1111/4447 SP:369/369 BP:3
+Equipo del enemigo
+A-Devourer of Dreams - HP:7188/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Devourer of Dreams
+----------------------------------------
+Devourer of Dreams usa Vortal Claw
+H'aanit recibe 556 de daño
+H'aanit termina con HP:555
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:555/4447 SP:369/369 BP:4
+Equipo del enemigo
+A-Devourer of Dreams - HP:7188/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Devourer of Dreams
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para H'aanit
+1: Devourer of Dreams - HP:7188/7500 Shields:10
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+H'aanit ataca
+Devourer of Dreams recibe 104 de daño de tipo Axe
+Devourer of Dreams termina con HP:7084
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:555/4447 SP:369/369 BP:4
+Equipo del enemigo
+A-Devourer of Dreams - HP:7084/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Devourer of Dreams
+----------------------------------------
+Devourer of Dreams usa Vortal Claw
+H'aanit recibe 278 de daño
+H'aanit termina con HP:277
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:277/4447 SP:369/369 BP:5
+Equipo del enemigo
+A-Devourer of Dreams - HP:7084/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Devourer of Dreams
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para H'aanit
+1: Devourer of Dreams - HP:7084/7500 Shields:10
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+H'aanit ataca
+Devourer of Dreams recibe 104 de daño de tipo Axe
+Devourer of Dreams termina con HP:6980
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:277/4447 SP:369/369 BP:5
+Equipo del enemigo
+A-Devourer of Dreams - HP:6980/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Devourer of Dreams
+----------------------------------------
+Devourer of Dreams usa Vortal Claw
+H'aanit recibe 139 de daño
+H'aanit termina con HP:138
+----------------------------------------
+INICIA RONDA 6
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:138/4447 SP:369/369 BP:5
+Equipo del enemigo
+A-Devourer of Dreams - HP:6980/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Devourer of Dreams
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para H'aanit
+1: Devourer of Dreams - HP:6980/7500 Shields:10
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+H'aanit ataca
+Devourer of Dreams recibe 104 de daño de tipo Axe
+Devourer of Dreams termina con HP:6876
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:138/4447 SP:369/369 BP:5
+Equipo del enemigo
+A-Devourer of Dreams - HP:6876/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Devourer of Dreams
+----------------------------------------
+Devourer of Dreams usa Vortal Claw
+H'aanit recibe 69 de daño
+H'aanit termina con HP:69
+----------------------------------------
+INICIA RONDA 7
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:69/4447 SP:369/369 BP:5
+Equipo del enemigo
+A-Devourer of Dreams - HP:6876/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Devourer of Dreams
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para H'aanit
+1: Fair Fight
+2: True Strike
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para H'aanit
+1: Devourer of Dreams - HP:6876/7500 Shields:10
+2: Cancelar
+INPUT: 1
+----------------------------------------
+H'aanit usa Fair Fight
+Devourer of Dreams recibe 6807 de daño
+Devourer of Dreams termina con HP:69
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:69/4447 SP:329/369 BP:2
+Equipo del enemigo
+A-Devourer of Dreams - HP:69/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Devourer of Dreams
+----------------------------------------
+Devourer of Dreams usa Vortal Claw
+H'aanit recibe 35 de daño
+H'aanit termina con HP:34
+----------------------------------------
+INICIA RONDA 8
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:34/4447 SP:329/369 BP:2
+Equipo del enemigo
+A-Devourer of Dreams - HP:69/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Devourer of Dreams
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para H'aanit
+1: True Strike
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para H'aanit
+1: Devourer of Dreams - HP:69/7500 Shields:10
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+H'aanit usa True Strike
+Devourer of Dreams recibe 376 de daño de tipo Bow
+Devourer of Dreams termina con HP:0
+----------------------------------------
+Gana equipo del jugador

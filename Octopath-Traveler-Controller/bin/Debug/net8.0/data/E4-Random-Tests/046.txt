@@ -1,0 +1,1050 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+INPUT: 45
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Ochette - HP:4947/4947 SP:369/369 BP:1
+B-Cyrus - HP:3557/3557 SP:582/582 BP:1
+C-Tressa - HP:4891/4891 SP:357/357 BP:2
+D-Agnea - HP:4002/4002 SP:504/504 BP:1
+Equipo del enemigo
+A-Mattias? - HP:5780/5780 Shields:4
+B-Army Ant - HP:502/502 Shields:1
+C-Blood Revenant - HP:16352/16352 Shields:7
+D-Dreadwolf - HP:7530/7530 Shields:9
+E-Devourer of Men - HP:7500/7500 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Ochette
+3.Dreadwolf
+4.Cyrus
+5.Tressa
+6.Mattias?
+7.Army Ant
+8.Devourer of Men
+9.Blood Revenant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Ochette
+3.Dreadwolf
+4.Cyrus
+5.Tressa
+6.Mattias?
+7.Army Ant
+8.Devourer of Men
+9.Blood Revenant
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Agnea
+1: Mattias? - HP:5780/5780 Shields:4
+2: Army Ant - HP:502/502 Shields:1
+3: Blood Revenant - HP:16352/16352 Shields:7
+4: Dreadwolf - HP:7530/7530 Shields:9
+5: Devourer of Men - HP:7500/7500 Shields:8
+6: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Agnea ataca
+Army Ant recibe 224 de daño de tipo Dagger
+Agnea recupera 2 SP
+Army Ant termina con HP:278
+----------------------------------------
+Equipo del jugador
+A-Ochette - HP:4947/4947 SP:369/369 BP:1
+B-Cyrus - HP:3557/3557 SP:582/582 BP:1
+C-Tressa - HP:4891/4891 SP:357/357 BP:2
+D-Agnea - HP:4002/4002 SP:504/504 BP:1
+Equipo del enemigo
+A-Mattias? - HP:5780/5780 Shields:4
+B-Army Ant - HP:278/502 Shields:1
+C-Blood Revenant - HP:16352/16352 Shields:7
+D-Dreadwolf - HP:7530/7530 Shields:9
+E-Devourer of Men - HP:7500/7500 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Dreadwolf
+3.Cyrus
+4.Tressa
+5.Mattias?
+6.Army Ant
+7.Devourer of Men
+8.Blood Revenant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Ochette
+3.Dreadwolf
+4.Cyrus
+5.Tressa
+6.Mattias?
+7.Army Ant
+8.Devourer of Men
+9.Blood Revenant
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ochette
+1: Peacock Strut
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ochette
+1: Ochette - HP:4947/4947 SP:369/369 BP:1
+2: Cyrus - HP:3557/3557 SP:582/582 BP:1
+3: Tressa - HP:4891/4891 SP:357/357 BP:2
+4: Agnea - HP:4002/4002 SP:504/504 BP:1
+5: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Ochette no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Ochette no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Ochette usa Peacock Strut
+Ochette tendrá Increased Elemental Attack durante 4 rondas
+----------------------------------------
+Equipo del jugador
+A-Ochette - HP:4947/4947 SP:365/369 BP:0
+B-Cyrus - HP:3557/3557 SP:582/582 BP:1
+C-Tressa - HP:4891/4891 SP:357/357 BP:2
+D-Agnea - HP:4002/4002 SP:504/504 BP:1
+Equipo del enemigo
+A-Mattias? - HP:5780/5780 Shields:4
+B-Army Ant - HP:278/502 Shields:1
+C-Blood Revenant - HP:16352/16352 Shields:7
+D-Dreadwolf - HP:7530/7530 Shields:9
+E-Devourer of Men - HP:7500/7500 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Cyrus
+3.Tressa
+4.Mattias?
+5.Army Ant
+6.Devourer of Men
+7.Blood Revenant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Ochette
+3.Dreadwolf
+4.Cyrus
+5.Tressa
+6.Mattias?
+7.Army Ant
+8.Devourer of Men
+9.Blood Revenant
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Ochette recibe 831 de daño físico
+Ochette termina con HP:4116
+----------------------------------------
+Equipo del jugador
+A-Ochette - HP:4116/4947 SP:365/369 BP:0
+B-Cyrus - HP:3557/3557 SP:582/582 BP:1
+C-Tressa - HP:4891/4891 SP:357/357 BP:2
+D-Agnea - HP:4002/4002 SP:504/504 BP:1
+Equipo del enemigo
+A-Mattias? - HP:5780/5780 Shields:4
+B-Army Ant - HP:278/502 Shields:1
+C-Blood Revenant - HP:16352/16352 Shields:7
+D-Dreadwolf - HP:7530/7530 Shields:9
+E-Devourer of Men - HP:7500/7500 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Tressa
+3.Mattias?
+4.Army Ant
+5.Devourer of Men
+6.Blood Revenant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Ochette
+3.Dreadwolf
+4.Cyrus
+5.Tressa
+6.Mattias?
+7.Army Ant
+8.Devourer of Men
+9.Blood Revenant
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Armor Corrosive
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: Mattias? - HP:5780/5780 Shields:4
+2: Army Ant - HP:278/502 Shields:1
+3: Blood Revenant - HP:16352/16352 Shields:7
+4: Dreadwolf - HP:7530/7530 Shields:9
+5: Devourer of Men - HP:7500/7500 Shields:8
+6: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Cyrus no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Cyrus no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus usa Armor Corrosive
+Mattias? tendrá Decreased Physical Defense durante 2 rondas
+----------------------------------------
+Equipo del jugador
+A-Ochette - HP:4116/4947 SP:365/369 BP:0
+B-Cyrus - HP:3557/3557 SP:578/582 BP:1
+C-Tressa - HP:4891/4891 SP:357/357 BP:2
+D-Agnea - HP:4002/4002 SP:504/504 BP:1
+Equipo del enemigo
+A-Mattias? - HP:5780/5780 Shields:4
+B-Army Ant - HP:278/502 Shields:1
+C-Blood Revenant - HP:16352/16352 Shields:7
+D-Dreadwolf - HP:7530/7530 Shields:9
+E-Devourer of Men - HP:7500/7500 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Mattias?
+3.Army Ant
+4.Devourer of Men
+5.Blood Revenant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Ochette
+3.Dreadwolf
+4.Cyrus
+5.Tressa
+6.Mattias?
+7.Army Ant
+8.Devourer of Men
+9.Blood Revenant
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Mattias? - HP:5780/5780 Shields:4
+2: Army Ant - HP:278/502 Shields:1
+3: Blood Revenant - HP:16352/16352 Shields:7
+4: Dreadwolf - HP:7530/7530 Shields:9
+5: Devourer of Men - HP:7500/7500 Shields:8
+6: Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Tressa ataca
+Dreadwolf recibe 52 de daño de tipo Spear con debilidad
+Dreadwolf recibe 52 de daño de tipo Spear con debilidad
+Dreadwolf recibe 52 de daño de tipo Spear con debilidad
+Dreadwolf termina con HP:7374
+----------------------------------------
+Equipo del jugador
+A-Ochette - HP:4116/4947 SP:365/369 BP:0
+B-Cyrus - HP:3557/3557 SP:578/582 BP:1
+C-Tressa - HP:4891/4891 SP:357/357 BP:0
+D-Agnea - HP:4002/4002 SP:504/504 BP:1
+Equipo del enemigo
+A-Mattias? - HP:5780/5780 Shields:4
+B-Army Ant - HP:278/502 Shields:1
+C-Blood Revenant - HP:16352/16352 Shields:7
+D-Dreadwolf - HP:7374/7530 Shields:6
+E-Devourer of Men - HP:7500/7500 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+2.Army Ant
+3.Devourer of Men
+4.Blood Revenant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Ochette
+3.Dreadwolf
+4.Cyrus
+5.Tressa
+6.Mattias?
+7.Army Ant
+8.Devourer of Men
+9.Blood Revenant
+----------------------------------------
+Mattias? usa Black Gale
+Ochette recibe 710 de daño elemental
+Cyrus recibe 615 de daño elemental
+Tressa recibe 660 de daño elemental
+Agnea recibe 613 de daño elemental
+Ochette termina con HP:3406
+Cyrus termina con HP:2942
+Tressa termina con HP:4231
+Agnea termina con HP:3389
+----------------------------------------
+Equipo del jugador
+A-Ochette - HP:3406/4947 SP:365/369 BP:0
+B-Cyrus - HP:2942/3557 SP:578/582 BP:1
+C-Tressa - HP:4231/4891 SP:357/357 BP:0
+D-Agnea - HP:3389/4002 SP:504/504 BP:1
+Equipo del enemigo
+A-Mattias? - HP:5780/5780 Shields:4
+B-Army Ant - HP:278/502 Shields:1
+C-Blood Revenant - HP:16352/16352 Shields:7
+D-Dreadwolf - HP:7374/7530 Shields:6
+E-Devourer of Men - HP:7500/7500 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Army Ant
+2.Devourer of Men
+3.Blood Revenant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Ochette
+3.Dreadwolf
+4.Cyrus
+5.Tressa
+6.Mattias?
+7.Army Ant
+8.Devourer of Men
+9.Blood Revenant
+----------------------------------------
+Army Ant usa Acid Spray
+Tressa tendrá Decreased Physical Defense durante 2 rondas
+Tressa tendrá Decreased Elemental Defense durante 2 rondas
+----------------------------------------
+Equipo del jugador
+A-Ochette - HP:3406/4947 SP:365/369 BP:0
+B-Cyrus - HP:2942/3557 SP:578/582 BP:1
+C-Tressa - HP:4231/4891 SP:357/357 BP:0
+D-Agnea - HP:3389/4002 SP:504/504 BP:1
+Equipo del enemigo
+A-Mattias? - HP:5780/5780 Shields:4
+B-Army Ant - HP:278/502 Shields:1
+C-Blood Revenant - HP:16352/16352 Shields:7
+D-Dreadwolf - HP:7374/7530 Shields:6
+E-Devourer of Men - HP:7500/7500 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Men
+2.Blood Revenant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Ochette
+3.Dreadwolf
+4.Cyrus
+5.Tressa
+6.Mattias?
+7.Army Ant
+8.Devourer of Men
+9.Blood Revenant
+----------------------------------------
+Devourer of Men usa Shadow Magic
+Ochette recibe 425 de daño elemental
+Ochette recibe 425 de daño elemental
+Cyrus recibe 330 de daño elemental
+Cyrus recibe 330 de daño elemental
+Tressa recibe 562 de daño elemental
+Tressa recibe 562 de daño elemental
+Agnea recibe 328 de daño elemental
+Agnea recibe 328 de daño elemental
+Ochette termina con HP:2556
+Cyrus termina con HP:2282
+Tressa termina con HP:3107
+Agnea termina con HP:2733
+----------------------------------------
+Equipo del jugador
+A-Ochette - HP:2556/4947 SP:365/369 BP:0
+B-Cyrus - HP:2282/3557 SP:578/582 BP:1
+C-Tressa - HP:3107/4891 SP:357/357 BP:0
+D-Agnea - HP:2733/4002 SP:504/504 BP:1
+Equipo del enemigo
+A-Mattias? - HP:5780/5780 Shields:4
+B-Army Ant - HP:278/502 Shields:1
+C-Blood Revenant - HP:16352/16352 Shields:7
+D-Dreadwolf - HP:7374/7530 Shields:6
+E-Devourer of Men - HP:7500/7500 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Blood Revenant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Ochette
+3.Dreadwolf
+4.Cyrus
+5.Tressa
+6.Mattias?
+7.Army Ant
+8.Devourer of Men
+9.Blood Revenant
+----------------------------------------
+Blood Revenant usa Volcano
+Ochette recibe 629 de daño elemental
+Ochette tendrá Decreased Elemental Defense durante 2 rondas
+Cyrus recibe 534 de daño elemental
+Cyrus tendrá Decreased Elemental Defense durante 2 rondas
+Tressa recibe 868 de daño elemental
+Tressa tendrá Decreased Elemental Defense durante 2 rondas
+Agnea recibe 532 de daño elemental
+Agnea tendrá Decreased Elemental Defense durante 2 rondas
+Ochette termina con HP:1927
+Cyrus termina con HP:1748
+Tressa termina con HP:2239
+Agnea termina con HP:2201
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Ochette - HP:1927/4947 SP:365/369 BP:0
+B-Cyrus - HP:1748/3557 SP:582/582 BP:2
+C-Tressa - HP:2239/4891 SP:357/357 BP:0
+D-Agnea - HP:2201/4002 SP:504/504 BP:2
+Equipo del enemigo
+A-Mattias? - HP:5780/5780 Shields:4
+B-Army Ant - HP:278/502 Shields:1
+C-Blood Revenant - HP:16352/16352 Shields:7
+D-Dreadwolf - HP:7374/7530 Shields:6
+E-Devourer of Men - HP:7500/7500 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Ochette
+3.Dreadwolf
+4.Cyrus
+5.Tressa
+6.Mattias?
+7.Army Ant
+8.Devourer of Men
+9.Blood Revenant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Ochette
+3.Dreadwolf
+4.Cyrus
+5.Tressa
+6.Mattias?
+7.Army Ant
+8.Devourer of Men
+9.Blood Revenant
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Agnea
+1: Abide
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Agnea
+1: Ochette - HP:1927/4947 SP:365/369 BP:0
+2: Cyrus - HP:1748/3557 SP:582/582 BP:2
+3: Tressa - HP:2239/4891 SP:357/357 BP:0
+4: Agnea - HP:2201/4002 SP:504/504 BP:2
+5: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Agnea no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Agnea usa Abide
+Cyrus tendrá Increased Physical Attack durante 2 rondas
+----------------------------------------
+Equipo del jugador
+A-Ochette - HP:1927/4947 SP:365/369 BP:0
+B-Cyrus - HP:1748/3557 SP:582/582 BP:2
+C-Tressa - HP:2239/4891 SP:357/357 BP:0
+D-Agnea - HP:2201/4002 SP:500/504 BP:2
+Equipo del enemigo
+A-Mattias? - HP:5780/5780 Shields:4
+B-Army Ant - HP:278/502 Shields:1
+C-Blood Revenant - HP:16352/16352 Shields:7
+D-Dreadwolf - HP:7374/7530 Shields:6
+E-Devourer of Men - HP:7500/7500 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Dreadwolf
+3.Cyrus
+4.Tressa
+5.Mattias?
+6.Army Ant
+7.Devourer of Men
+8.Blood Revenant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Ochette
+3.Dreadwolf
+4.Cyrus
+5.Tressa
+6.Mattias?
+7.Army Ant
+8.Devourer of Men
+9.Blood Revenant
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Ochette
+1: Mattias? - HP:5780/5780 Shields:4
+2: Army Ant - HP:278/502 Shields:1
+3: Blood Revenant - HP:16352/16352 Shields:7
+4: Dreadwolf - HP:7374/7530 Shields:6
+5: Devourer of Men - HP:7500/7500 Shields:8
+6: Cancelar
+INPUT: 3
+----------------------------------------
+Ochette ataca
+Blood Revenant recibe 37 de daño de tipo Bow con debilidad
+Blood Revenant termina con HP:16315
+----------------------------------------
+Equipo del jugador
+A-Ochette - HP:1927/4947 SP:365/369 BP:0
+B-Cyrus - HP:1748/3557 SP:582/582 BP:2
+C-Tressa - HP:2239/4891 SP:357/357 BP:0
+D-Agnea - HP:2201/4002 SP:500/504 BP:2
+Equipo del enemigo
+A-Mattias? - HP:5780/5780 Shields:4
+B-Army Ant - HP:278/502 Shields:1
+C-Blood Revenant - HP:16315/16352 Shields:6
+D-Dreadwolf - HP:7374/7530 Shields:6
+E-Devourer of Men - HP:7500/7500 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Cyrus
+3.Tressa
+4.Mattias?
+5.Army Ant
+6.Devourer of Men
+7.Blood Revenant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Ochette
+3.Dreadwolf
+4.Cyrus
+5.Tressa
+6.Mattias?
+7.Army Ant
+8.Devourer of Men
+9.Blood Revenant
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Ochette recibe 831 de daño físico
+Ochette termina con HP:1096
+----------------------------------------
+Equipo del jugador
+A-Ochette - HP:1096/4947 SP:365/369 BP:0
+B-Cyrus - HP:1748/3557 SP:582/582 BP:2
+C-Tressa - HP:2239/4891 SP:357/357 BP:0
+D-Agnea - HP:2201/4002 SP:500/504 BP:2
+Equipo del enemigo
+A-Mattias? - HP:5780/5780 Shields:4
+B-Army Ant - HP:278/502 Shields:1
+C-Blood Revenant - HP:16315/16352 Shields:6
+D-Dreadwolf - HP:7374/7530 Shields:6
+E-Devourer of Men - HP:7500/7500 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Tressa
+3.Mattias?
+4.Army Ant
+5.Devourer of Men
+6.Blood Revenant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Ochette
+3.Dreadwolf
+4.Cyrus
+5.Tressa
+6.Mattias?
+7.Army Ant
+8.Devourer of Men
+9.Blood Revenant
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Armor Corrosive
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: Mattias? - HP:5780/5780 Shields:4
+2: Army Ant - HP:278/502 Shields:1
+3: Blood Revenant - HP:16315/16352 Shields:6
+4: Dreadwolf - HP:7374/7530 Shields:6
+5: Devourer of Men - HP:7500/7500 Shields:8
+6: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus usa Armor Corrosive
+Army Ant tendrá Decreased Physical Defense durante 2 rondas
+----------------------------------------
+Equipo del jugador
+A-Ochette - HP:1096/4947 SP:365/369 BP:0
+B-Cyrus - HP:1748/3557 SP:578/582 BP:2
+C-Tressa - HP:2239/4891 SP:357/357 BP:0
+D-Agnea - HP:2201/4002 SP:500/504 BP:2
+Equipo del enemigo
+A-Mattias? - HP:5780/5780 Shields:4
+B-Army Ant - HP:278/502 Shields:1
+C-Blood Revenant - HP:16315/16352 Shields:6
+D-Dreadwolf - HP:7374/7530 Shields:6
+E-Devourer of Men - HP:7500/7500 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Mattias?
+3.Army Ant
+4.Devourer of Men
+5.Blood Revenant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Ochette
+3.Dreadwolf
+4.Cyrus
+5.Tressa
+6.Mattias?
+7.Army Ant
+8.Devourer of Men
+9.Blood Revenant
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Ochette - HP:1096/4947 SP:365/369 BP:0
+B-Cyrus - HP:1748/3557 SP:578/582 BP:2
+C-Tressa - HP:2239/4891 SP:357/357 BP:0
+D-Agnea - HP:2201/4002 SP:500/504 BP:2
+Equipo del enemigo
+A-Mattias? - HP:5780/5780 Shields:4
+B-Army Ant - HP:278/502 Shields:1
+C-Blood Revenant - HP:16315/16352 Shields:6
+D-Dreadwolf - HP:7374/7530 Shields:6
+E-Devourer of Men - HP:7500/7500 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+2.Army Ant
+3.Devourer of Men
+4.Blood Revenant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Agnea
+3.Ochette
+4.Dreadwolf
+5.Cyrus
+6.Mattias?
+7.Army Ant
+8.Devourer of Men
+9.Blood Revenant
+----------------------------------------
+Mattias? usa Black Gale
+Ochette recibe 1065 de daño elemental
+Cyrus recibe 923 de daño elemental
+Tressa se defiende
+Tressa recibe 495 de daño elemental
+Agnea recibe 920 de daño elemental
+Ochette termina con HP:31
+Cyrus termina con HP:825
+Tressa termina con HP:1744
+Agnea termina con HP:1281
+----------------------------------------
+Equipo del jugador
+A-Ochette - HP:31/4947 SP:365/369 BP:0
+B-Cyrus - HP:825/3557 SP:578/582 BP:2
+C-Tressa - HP:1744/4891 SP:357/357 BP:0
+D-Agnea - HP:1281/4002 SP:500/504 BP:2
+Equipo del enemigo
+A-Mattias? - HP:5780/5780 Shields:4
+B-Army Ant - HP:278/502 Shields:1
+C-Blood Revenant - HP:16315/16352 Shields:6
+D-Dreadwolf - HP:7374/7530 Shields:6
+E-Devourer of Men - HP:7500/7500 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Army Ant
+2.Devourer of Men
+3.Blood Revenant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Agnea
+3.Ochette
+4.Dreadwolf
+5.Cyrus
+6.Mattias?
+7.Army Ant
+8.Devourer of Men
+9.Blood Revenant
+----------------------------------------
+Army Ant usa Acid Spray
+Tressa tendrá Decreased Physical Defense durante 2 rondas
+Tressa tendrá Decreased Elemental Defense durante 2 rondas
+----------------------------------------
+Equipo del jugador
+A-Ochette - HP:31/4947 SP:365/369 BP:0
+B-Cyrus - HP:825/3557 SP:578/582 BP:2
+C-Tressa - HP:1744/4891 SP:357/357 BP:0
+D-Agnea - HP:1281/4002 SP:500/504 BP:2
+Equipo del enemigo
+A-Mattias? - HP:5780/5780 Shields:4
+B-Army Ant - HP:278/502 Shields:1
+C-Blood Revenant - HP:16315/16352 Shields:6
+D-Dreadwolf - HP:7374/7530 Shields:6
+E-Devourer of Men - HP:7500/7500 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Men
+2.Blood Revenant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Agnea
+3.Ochette
+4.Dreadwolf
+5.Cyrus
+6.Mattias?
+7.Army Ant
+8.Devourer of Men
+9.Blood Revenant
+----------------------------------------
+Devourer of Men usa Shadow Magic
+Ochette recibe 637 de daño elemental
+Ochette recibe 637 de daño elemental
+Cyrus recibe 495 de daño elemental
+Cyrus recibe 495 de daño elemental
+Tressa se defiende
+Tressa recibe 281 de daño elemental
+Tressa recibe 281 de daño elemental
+Agnea recibe 492 de daño elemental
+Agnea recibe 492 de daño elemental
+Ochette termina con HP:0
+Cyrus termina con HP:0
+Tressa termina con HP:1182
+Agnea termina con HP:297
+----------------------------------------
+Equipo del jugador
+A-Ochette - HP:0/4947 SP:365/369 BP:0
+B-Cyrus - HP:0/3557 SP:578/582 BP:2
+C-Tressa - HP:1182/4891 SP:357/357 BP:0
+D-Agnea - HP:297/4002 SP:500/504 BP:2
+Equipo del enemigo
+A-Mattias? - HP:5780/5780 Shields:4
+B-Army Ant - HP:278/502 Shields:1
+C-Blood Revenant - HP:16315/16352 Shields:6
+D-Dreadwolf - HP:7374/7530 Shields:6
+E-Devourer of Men - HP:7500/7500 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Blood Revenant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Agnea
+3.Dreadwolf
+4.Mattias?
+5.Army Ant
+6.Devourer of Men
+7.Blood Revenant
+----------------------------------------
+Blood Revenant usa Volcano
+Tressa se defiende
+Tressa recibe 434 de daño elemental
+Tressa tendrá Decreased Elemental Defense durante 2 rondas
+Agnea recibe 798 de daño elemental
+Agnea tendrá Decreased Elemental Defense durante 2 rondas
+Tressa termina con HP:748
+Agnea termina con HP:0
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Ochette - HP:0/4947 SP:365/369 BP:0
+B-Cyrus - HP:0/3557 SP:578/582 BP:2
+C-Tressa - HP:748/4891 SP:357/357 BP:1
+D-Agnea - HP:0/4002 SP:500/504 BP:2
+Equipo del enemigo
+A-Mattias? - HP:5780/5780 Shields:4
+B-Army Ant - HP:278/502 Shields:1
+C-Blood Revenant - HP:16315/16352 Shields:6
+D-Dreadwolf - HP:7374/7530 Shields:6
+E-Devourer of Men - HP:7500/7500 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Dreadwolf
+3.Mattias?
+4.Army Ant
+5.Devourer of Men
+6.Blood Revenant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Tressa
+3.Mattias?
+4.Army Ant
+5.Devourer of Men
+6.Blood Revenant
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Rest
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Tressa no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Tressa no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Tressa usa Rest
+Tressa recupera 285 de vida
+Tressa recupera 25 SP
+Tressa termina con HP:1033
+----------------------------------------
+Equipo del jugador
+A-Ochette - HP:0/4947 SP:365/369 BP:0
+B-Cyrus - HP:0/3557 SP:578/582 BP:2
+C-Tressa - HP:1033/4891 SP:357/357 BP:1
+D-Agnea - HP:0/4002 SP:500/504 BP:2
+Equipo del enemigo
+A-Mattias? - HP:5780/5780 Shields:4
+B-Army Ant - HP:278/502 Shields:1
+C-Blood Revenant - HP:16315/16352 Shields:6
+D-Dreadwolf - HP:7374/7530 Shields:6
+E-Devourer of Men - HP:7500/7500 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Mattias?
+3.Army Ant
+4.Devourer of Men
+5.Blood Revenant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Tressa
+3.Mattias?
+4.Army Ant
+5.Devourer of Men
+6.Blood Revenant
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Tressa recibe 1064 de daño físico
+Tressa termina con HP:0
+----------------------------------------
+Gana equipo del enemigo

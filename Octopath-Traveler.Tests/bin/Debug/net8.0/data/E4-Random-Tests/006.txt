@@ -1,0 +1,1104 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+INPUT: 5
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:504/504 BP:1
+B-Alfyn - HP:5336/5336 SP:383/383 BP:1
+C-Temenos - HP:4002/4002 SP:432/432 BP:1
+Equipo del enemigo
+A-Accursed Armor - HP:3746/3746 Shields:5
+B-Dark Remnant - HP:2779/2779 Shields:3
+C-Lightning Elemental - HP:2133/2133 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Temenos
+3.Alfyn
+4.Dark Remnant
+5.Accursed Armor
+6.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Temenos
+3.Alfyn
+4.Dark Remnant
+5.Accursed Armor
+6.Lightning Elemental
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Primrose
+1: Peacock Strut
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Primrose - HP:4002/4002 SP:504/504 BP:1
+2: Alfyn - HP:5336/5336 SP:383/383 BP:1
+3: Temenos - HP:4002/4002 SP:432/432 BP:1
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Primrose no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Primrose no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose usa Peacock Strut
+Temenos tendrá Increased Elemental Attack durante 2 rondas
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:500/504 BP:1
+B-Alfyn - HP:5336/5336 SP:383/383 BP:1
+C-Temenos - HP:4002/4002 SP:432/432 BP:1
+Equipo del enemigo
+A-Accursed Armor - HP:3746/3746 Shields:5
+B-Dark Remnant - HP:2779/2779 Shields:3
+C-Lightning Elemental - HP:2133/2133 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Alfyn
+3.Dark Remnant
+4.Accursed Armor
+5.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Temenos
+3.Alfyn
+4.Dark Remnant
+5.Accursed Armor
+6.Lightning Elemental
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Temenos
+1: Accursed Armor - HP:3746/3746 Shields:5
+2: Dark Remnant - HP:2779/2779 Shields:3
+3: Lightning Elemental - HP:2133/2133 Shields:4
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Temenos no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Temenos ataca
+Dark Remnant recibe 229 de daño de tipo Stave
+Dark Remnant recibe 229 de daño de tipo Stave
+Dark Remnant termina con HP:2321
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:500/504 BP:1
+B-Alfyn - HP:5336/5336 SP:383/383 BP:1
+C-Temenos - HP:4002/4002 SP:432/432 BP:0
+Equipo del enemigo
+A-Accursed Armor - HP:3746/3746 Shields:5
+B-Dark Remnant - HP:2321/2779 Shields:3
+C-Lightning Elemental - HP:2133/2133 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Dark Remnant
+3.Accursed Armor
+4.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Temenos
+3.Alfyn
+4.Dark Remnant
+5.Accursed Armor
+6.Lightning Elemental
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:500/504 BP:1
+B-Alfyn - HP:5336/5336 SP:383/383 BP:1
+C-Temenos - HP:4002/4002 SP:432/432 BP:0
+Equipo del enemigo
+A-Accursed Armor - HP:3746/3746 Shields:5
+B-Dark Remnant - HP:2321/2779 Shields:3
+C-Lightning Elemental - HP:2133/2133 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Dark Remnant
+2.Accursed Armor
+3.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Primrose
+3.Temenos
+4.Dark Remnant
+5.Accursed Armor
+6.Lightning Elemental
+----------------------------------------
+Dark Remnant usa Double Bite
+Primrose recibe 45 de daño físico
+Primrose recibe 45 de daño físico
+Primrose termina con HP:3912
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3912/4002 SP:500/504 BP:1
+B-Alfyn - HP:5336/5336 SP:383/383 BP:1
+C-Temenos - HP:4002/4002 SP:432/432 BP:0
+Equipo del enemigo
+A-Accursed Armor - HP:3746/3746 Shields:5
+B-Dark Remnant - HP:2321/2779 Shields:3
+C-Lightning Elemental - HP:2133/2133 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Accursed Armor
+2.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Primrose
+3.Temenos
+4.Dark Remnant
+5.Accursed Armor
+6.Lightning Elemental
+----------------------------------------
+Accursed Armor usa Gather Strength
+Primrose recibe 0 de daño físico
+Accursed Armor tendrá Increased Physical Attack durante 2 rondas
+Primrose termina con HP:3912
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3912/4002 SP:500/504 BP:1
+B-Alfyn - HP:5336/5336 SP:383/383 BP:1
+C-Temenos - HP:4002/4002 SP:432/432 BP:0
+Equipo del enemigo
+A-Accursed Armor - HP:3746/3746 Shields:5
+B-Dark Remnant - HP:2321/2779 Shields:3
+C-Lightning Elemental - HP:2133/2133 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Primrose
+3.Temenos
+4.Dark Remnant
+5.Accursed Armor
+6.Lightning Elemental
+----------------------------------------
+Lightning Elemental usa Thundershot
+Alfyn se defiende
+Alfyn recibe 85 de daño elemental
+Alfyn termina con HP:5251
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3912/4002 SP:500/504 BP:2
+B-Alfyn - HP:5251/5336 SP:383/383 BP:2
+C-Temenos - HP:4002/4002 SP:432/432 BP:0
+Equipo del enemigo
+A-Accursed Armor - HP:3746/3746 Shields:5
+B-Dark Remnant - HP:2321/2779 Shields:3
+C-Lightning Elemental - HP:2133/2133 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Primrose
+3.Temenos
+4.Dark Remnant
+5.Accursed Armor
+6.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Temenos
+3.Alfyn
+4.Dark Remnant
+5.Accursed Armor
+6.Lightning Elemental
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alfyn
+1: Accursed Armor - HP:3746/3746 Shields:5
+2: Dark Remnant - HP:2321/2779 Shields:3
+3: Lightning Elemental - HP:2133/2133 Shields:4
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Alfyn no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Alfyn ataca
+Accursed Armor recibe 387 de daño de tipo Axe con debilidad
+Accursed Armor recibe 387 de daño de tipo Axe con debilidad
+Accursed Armor recibe 387 de daño de tipo Axe con debilidad
+Accursed Armor termina con HP:2585
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3912/4002 SP:500/504 BP:2
+B-Alfyn - HP:5251/5336 SP:383/383 BP:0
+C-Temenos - HP:4002/4002 SP:432/432 BP:0
+Equipo del enemigo
+A-Accursed Armor - HP:2585/3746 Shields:2
+B-Dark Remnant - HP:2321/2779 Shields:3
+C-Lightning Elemental - HP:2133/2133 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Temenos
+3.Dark Remnant
+4.Accursed Armor
+5.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Temenos
+3.Alfyn
+4.Dark Remnant
+5.Accursed Armor
+6.Lightning Elemental
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3912/4002 SP:500/504 BP:2
+B-Alfyn - HP:5251/5336 SP:383/383 BP:0
+C-Temenos - HP:4002/4002 SP:432/432 BP:0
+Equipo del enemigo
+A-Accursed Armor - HP:2585/3746 Shields:2
+B-Dark Remnant - HP:2321/2779 Shields:3
+C-Lightning Elemental - HP:2133/2133 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Dark Remnant
+3.Accursed Armor
+4.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Temenos
+3.Alfyn
+4.Dark Remnant
+5.Accursed Armor
+6.Lightning Elemental
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Temenos
+1: Ventus Saltare
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Temenos usa Ventus Saltare
+Accursed Armor recibe 428 de daño de tipo Wind
+Accursed Armor recibe 428 de daño de tipo Wind
+Accursed Armor recibe 428 de daño de tipo Wind
+Dark Remnant recibe 563 de daño de tipo Wind
+Dark Remnant recibe 563 de daño de tipo Wind
+Dark Remnant recibe 563 de daño de tipo Wind
+Lightning Elemental recibe 575 de daño de tipo Wind con debilidad
+Lightning Elemental recibe 575 de daño de tipo Wind con debilidad
+Lightning Elemental recibe 575 de daño de tipo Wind con debilidad
+Accursed Armor termina con HP:1301
+Dark Remnant termina con HP:632
+Lightning Elemental termina con HP:408
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3912/4002 SP:500/504 BP:2
+B-Alfyn - HP:5251/5336 SP:383/383 BP:0
+C-Temenos - HP:4002/4002 SP:396/432 BP:0
+Equipo del enemigo
+A-Accursed Armor - HP:1301/3746 Shields:2
+B-Dark Remnant - HP:632/2779 Shields:3
+C-Lightning Elemental - HP:408/2133 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Dark Remnant
+2.Accursed Armor
+3.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Temenos
+3.Alfyn
+4.Dark Remnant
+5.Accursed Armor
+6.Lightning Elemental
+----------------------------------------
+Dark Remnant usa Double Bite
+Primrose se defiende
+Primrose recibe 0 de daño físico
+Primrose recibe 0 de daño físico
+Primrose termina con HP:3912
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3912/4002 SP:500/504 BP:2
+B-Alfyn - HP:5251/5336 SP:383/383 BP:0
+C-Temenos - HP:4002/4002 SP:396/432 BP:0
+Equipo del enemigo
+A-Accursed Armor - HP:1301/3746 Shields:2
+B-Dark Remnant - HP:632/2779 Shields:3
+C-Lightning Elemental - HP:408/2133 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Accursed Armor
+2.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Temenos
+3.Alfyn
+4.Dark Remnant
+5.Accursed Armor
+6.Lightning Elemental
+----------------------------------------
+Accursed Armor usa Gather Strength
+Primrose se defiende
+Primrose recibe 247 de daño físico
+Accursed Armor tendrá Increased Physical Attack durante 2 rondas
+Primrose termina con HP:3665
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3665/4002 SP:500/504 BP:2
+B-Alfyn - HP:5251/5336 SP:383/383 BP:0
+C-Temenos - HP:4002/4002 SP:396/432 BP:0
+Equipo del enemigo
+A-Accursed Armor - HP:1301/3746 Shields:2
+B-Dark Remnant - HP:632/2779 Shields:3
+C-Lightning Elemental - HP:408/2133 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Temenos
+3.Alfyn
+4.Dark Remnant
+5.Accursed Armor
+6.Lightning Elemental
+----------------------------------------
+Lightning Elemental usa Thundershot
+Alfyn recibe 170 de daño elemental
+Alfyn termina con HP:5081
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3665/4002 SP:500/504 BP:3
+B-Alfyn - HP:5081/5336 SP:383/383 BP:0
+C-Temenos - HP:4002/4002 SP:396/432 BP:1
+Equipo del enemigo
+A-Accursed Armor - HP:1301/3746 Shields:2
+B-Dark Remnant - HP:632/2779 Shields:3
+C-Lightning Elemental - HP:408/2133 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Temenos
+3.Alfyn
+4.Dark Remnant
+5.Accursed Armor
+6.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Temenos
+3.Alfyn
+4.Dark Remnant
+5.Accursed Armor
+6.Lightning Elemental
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Accursed Armor - HP:1301/3746 Shields:2
+2: Dark Remnant - HP:632/2779 Shields:3
+3: Lightning Elemental - HP:408/2133 Shields:1
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Primrose ataca
+Dark Remnant recibe 107 de daño de tipo Dagger
+Dark Remnant recibe 107 de daño de tipo Dagger
+Dark Remnant termina con HP:418
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3665/4002 SP:500/504 BP:2
+B-Alfyn - HP:5081/5336 SP:383/383 BP:0
+C-Temenos - HP:4002/4002 SP:396/432 BP:1
+Equipo del enemigo
+A-Accursed Armor - HP:1301/3746 Shields:2
+B-Dark Remnant - HP:418/2779 Shields:3
+C-Lightning Elemental - HP:408/2133 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Alfyn
+3.Dark Remnant
+4.Accursed Armor
+5.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Temenos
+3.Alfyn
+4.Dark Remnant
+5.Accursed Armor
+6.Lightning Elemental
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Temenos
+1: Accursed Armor - HP:1301/3746 Shields:2
+2: Dark Remnant - HP:418/2779 Shields:3
+3: Lightning Elemental - HP:408/2133 Shields:1
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Temenos no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Temenos no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Temenos ataca
+Lightning Elemental recibe 87 de daño de tipo Stave
+Lightning Elemental termina con HP:321
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3665/4002 SP:500/504 BP:2
+B-Alfyn - HP:5081/5336 SP:383/383 BP:0
+C-Temenos - HP:4002/4002 SP:396/432 BP:1
+Equipo del enemigo
+A-Accursed Armor - HP:1301/3746 Shields:2
+B-Dark Remnant - HP:418/2779 Shields:3
+C-Lightning Elemental - HP:321/2133 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Dark Remnant
+3.Accursed Armor
+4.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Temenos
+3.Alfyn
+4.Dark Remnant
+5.Accursed Armor
+6.Lightning Elemental
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3665/4002 SP:500/504 BP:2
+B-Alfyn - HP:5081/5336 SP:383/383 BP:0
+C-Temenos - HP:4002/4002 SP:396/432 BP:1
+Equipo del enemigo
+A-Accursed Armor - HP:1301/3746 Shields:2
+B-Dark Remnant - HP:418/2779 Shields:3
+C-Lightning Elemental - HP:321/2133 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Dark Remnant
+2.Accursed Armor
+3.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Primrose
+3.Temenos
+4.Dark Remnant
+5.Accursed Armor
+6.Lightning Elemental
+----------------------------------------
+Dark Remnant usa Double Bite
+Primrose recibe 45 de daño físico
+Primrose recibe 0 de daño físico
+Primrose termina con HP:3620
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3620/4002 SP:500/504 BP:2
+B-Alfyn - HP:5081/5336 SP:383/383 BP:0
+C-Temenos - HP:4002/4002 SP:396/432 BP:1
+Equipo del enemigo
+A-Accursed Armor - HP:1301/3746 Shields:2
+B-Dark Remnant - HP:418/2779 Shields:3
+C-Lightning Elemental - HP:321/2133 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Accursed Armor
+2.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Primrose
+3.Temenos
+4.Dark Remnant
+5.Accursed Armor
+6.Lightning Elemental
+----------------------------------------
+Accursed Armor usa Gather Strength
+Primrose recibe 495 de daño físico
+Accursed Armor tendrá Increased Physical Attack durante 2 rondas
+Primrose termina con HP:3125
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3125/4002 SP:500/504 BP:2
+B-Alfyn - HP:5081/5336 SP:383/383 BP:0
+C-Temenos - HP:4002/4002 SP:396/432 BP:1
+Equipo del enemigo
+A-Accursed Armor - HP:1301/3746 Shields:2
+B-Dark Remnant - HP:418/2779 Shields:3
+C-Lightning Elemental - HP:321/2133 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Primrose
+3.Temenos
+4.Dark Remnant
+5.Accursed Armor
+6.Lightning Elemental
+----------------------------------------
+Lightning Elemental usa Thundershot
+Alfyn se defiende
+Alfyn recibe 85 de daño elemental
+Alfyn termina con HP:4996
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3125/4002 SP:500/504 BP:2
+B-Alfyn - HP:4996/5336 SP:383/383 BP:1
+C-Temenos - HP:4002/4002 SP:396/432 BP:2
+Equipo del enemigo
+A-Accursed Armor - HP:1301/3746 Shields:2
+B-Dark Remnant - HP:418/2779 Shields:3
+C-Lightning Elemental - HP:321/2133 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Primrose
+3.Temenos
+4.Dark Remnant
+5.Accursed Armor
+6.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Temenos
+3.Alfyn
+4.Dark Remnant
+5.Accursed Armor
+6.Lightning Elemental
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3125/4002 SP:500/504 BP:2
+B-Alfyn - HP:4996/5336 SP:383/383 BP:1
+C-Temenos - HP:4002/4002 SP:396/432 BP:2
+Equipo del enemigo
+A-Accursed Armor - HP:1301/3746 Shields:2
+B-Dark Remnant - HP:418/2779 Shields:3
+C-Lightning Elemental - HP:321/2133 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Temenos
+3.Dark Remnant
+4.Accursed Armor
+5.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Primrose
+3.Temenos
+4.Dark Remnant
+5.Accursed Armor
+6.Lightning Elemental
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3125/4002 SP:500/504 BP:2
+B-Alfyn - HP:4996/5336 SP:383/383 BP:1
+C-Temenos - HP:4002/4002 SP:396/432 BP:2
+Equipo del enemigo
+A-Accursed Armor - HP:1301/3746 Shields:2
+B-Dark Remnant - HP:418/2779 Shields:3
+C-Lightning Elemental - HP:321/2133 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Dark Remnant
+3.Accursed Armor
+4.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Alfyn
+3.Temenos
+4.Dark Remnant
+5.Accursed Armor
+6.Lightning Elemental
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Temenos
+1: Accursed Armor - HP:1301/3746 Shields:2
+2: Dark Remnant - HP:418/2779 Shields:3
+3: Lightning Elemental - HP:321/2133 Shields:1
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Temenos no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Temenos ataca
+Accursed Armor recibe 199 de daño de tipo Stave con debilidad
+Accursed Armor recibe 199 de daño de tipo Stave con debilidad
+Accursed Armor entra en Breaking Point
+Accursed Armor termina con HP:903
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3125/4002 SP:500/504 BP:2
+B-Alfyn - HP:4996/5336 SP:383/383 BP:1
+C-Temenos - HP:4002/4002 SP:396/432 BP:1
+Equipo del enemigo
+A-Accursed Armor - HP:903/3746 Shields:0
+B-Dark Remnant - HP:418/2779 Shields:3
+C-Lightning Elemental - HP:321/2133 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Dark Remnant
+2.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Alfyn
+3.Temenos
+4.Dark Remnant
+5.Lightning Elemental
+----------------------------------------
+Dark Remnant usa Double Bite
+Primrose se defiende
+Primrose recibe 22 de daño físico
+Primrose recibe 22 de daño físico
+Primrose termina con HP:3081
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3081/4002 SP:500/504 BP:2
+B-Alfyn - HP:4996/5336 SP:383/383 BP:1
+C-Temenos - HP:4002/4002 SP:396/432 BP:1
+Equipo del enemigo
+A-Accursed Armor - HP:903/3746 Shields:0
+B-Dark Remnant - HP:418/2779 Shields:3
+C-Lightning Elemental - HP:321/2133 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Alfyn
+3.Temenos
+4.Dark Remnant
+5.Lightning Elemental
+----------------------------------------
+Lightning Elemental usa Thundershot
+Alfyn se defiende
+Alfyn recibe 85 de daño elemental
+Alfyn termina con HP:4911
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3081/4002 SP:500/504 BP:3
+B-Alfyn - HP:4911/5336 SP:383/383 BP:2
+C-Temenos - HP:4002/4002 SP:396/432 BP:1
+Equipo del enemigo
+A-Accursed Armor - HP:903/3746 Shields:0
+B-Dark Remnant - HP:418/2779 Shields:3
+C-Lightning Elemental - HP:321/2133 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Alfyn
+3.Temenos
+4.Dark Remnant
+5.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Accursed Armor
+2.Primrose
+3.Temenos
+4.Alfyn
+5.Dark Remnant
+6.Lightning Elemental
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Accursed Armor - HP:903/3746 Shields:0
+2: Dark Remnant - HP:418/2779 Shields:3
+3: Lightning Elemental - HP:321/2133 Shields:1
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Primrose ataca
+Accursed Armor recibe 16 de daño de tipo Dagger
+Accursed Armor recibe 16 de daño de tipo Dagger
+Accursed Armor recibe 16 de daño de tipo Dagger
+Accursed Armor termina con HP:855
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3081/4002 SP:500/504 BP:1
+B-Alfyn - HP:4911/5336 SP:383/383 BP:2
+C-Temenos - HP:4002/4002 SP:396/432 BP:1
+Equipo del enemigo
+A-Accursed Armor - HP:855/3746 Shields:0
+B-Dark Remnant - HP:418/2779 Shields:3
+C-Lightning Elemental - HP:321/2133 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Temenos
+3.Dark Remnant
+4.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Accursed Armor
+2.Primrose
+3.Temenos
+4.Alfyn
+5.Dark Remnant
+6.Lightning Elemental
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Alfyn
+1: Transfusion
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alfyn
+1: Primrose - HP:3081/4002 SP:500/504 BP:1
+2: Alfyn - HP:4911/5336 SP:383/383 BP:2
+3: Temenos - HP:4002/4002 SP:396/432 BP:1
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Alfyn no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Alfyn usa Transfusion
+Temenos recupera 2946 de vida
+Alfyn pierde 2455 HP
+Temenos termina con HP:4002
+Alfyn termina con HP:2456
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3081/4002 SP:500/504 BP:1
+B-Alfyn - HP:2456/5336 SP:365/383 BP:1
+C-Temenos - HP:4002/4002 SP:396/432 BP:1
+Equipo del enemigo
+A-Accursed Armor - HP:855/3746 Shields:0
+B-Dark Remnant - HP:418/2779 Shields:3
+C-Lightning Elemental - HP:321/2133 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Dark Remnant
+3.Lightning Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Accursed Armor
+2.Primrose
+3.Temenos
+4.Alfyn
+5.Dark Remnant
+6.Lightning Elemental
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Temenos
+1: Ventus Saltare
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Temenos usa Ventus Saltare
+Accursed Armor recibe 1245 de daño de tipo Wind
+Accursed Armor recibe 1245 de daño de tipo Wind
+Accursed Armor recibe 1245 de daño de tipo Wind
+Dark Remnant recibe 920 de daño de tipo Wind
+Dark Remnant recibe 920 de daño de tipo Wind
+Dark Remnant recibe 920 de daño de tipo Wind
+Lightning Elemental recibe 1200 de daño de tipo Wind con debilidad
+Lightning Elemental entra en Breaking Point
+Lightning Elemental recibe 1600 de daño de tipo Wind con debilidad
+Lightning Elemental recibe 1600 de daño de tipo Wind con debilidad
+Accursed Armor termina con HP:0
+Dark Remnant termina con HP:0
+Lightning Elemental termina con HP:0
+----------------------------------------
+Gana equipo del jugador

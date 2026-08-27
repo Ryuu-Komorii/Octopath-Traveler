@@ -1,0 +1,8 @@
+Player Team
+Heatcore (Holy Touch) [Hang Tough, Fortitude]
+Alfyn (Transfusion) [Saving Grace, BP Eater]
+Osvald (Revive) [Vim and Vigor, BP Eater]
+Enemy Team
+Forest Ratkin I
+Guardian
+Horned Fly

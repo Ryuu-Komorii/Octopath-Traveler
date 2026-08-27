@@ -1,0 +1,523 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+INPUT: 9
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:504/504 BP:1
+B-Cyrus - HP:3557/3557 SP:582/582 BP:1
+Equipo del enemigo
+A-Frost Fox - HP:1302/1302 Shields:2
+B-Meep - HP:1016/1016 Shields:2
+C-Wolf - HP:1577/1577 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Wolf
+3.Cyrus
+4.Meep
+5.Frost Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Wolf
+3.Cyrus
+4.Meep
+5.Frost Fox
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Frost Fox - HP:1302/1302 Shields:2
+2: Meep - HP:1016/1016 Shields:2
+3: Wolf - HP:1577/1577 Shields:2
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose ataca
+Frost Fox recibe 0 de daño de tipo Dagger
+Frost Fox termina con HP:1302
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:504/504 BP:1
+B-Cyrus - HP:3557/3557 SP:582/582 BP:1
+Equipo del enemigo
+A-Frost Fox - HP:1302/1302 Shields:2
+B-Meep - HP:1016/1016 Shields:2
+C-Wolf - HP:1577/1577 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Wolf
+2.Cyrus
+3.Meep
+4.Frost Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Wolf
+3.Cyrus
+4.Meep
+5.Frost Fox
+----------------------------------------
+Wolf usa Attack
+Primrose recibe 215 de daño físico
+Primrose termina con HP:3787
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3787/4002 SP:504/504 BP:1
+B-Cyrus - HP:3557/3557 SP:582/582 BP:1
+Equipo del enemigo
+A-Frost Fox - HP:1302/1302 Shields:2
+B-Meep - HP:1016/1016 Shields:2
+C-Wolf - HP:1577/1577 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Meep
+3.Frost Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Wolf
+3.Cyrus
+4.Meep
+5.Frost Fox
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Wildfire
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: Frost Fox - HP:1302/1302 Shields:2
+2: Meep - HP:1016/1016 Shields:2
+3: Wolf - HP:1577/1577 Shields:2
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus usa Wildfire
+Wolf recibe 680 de daño de tipo Fire con debilidad
+Wolf termina con HP:897
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3787/4002 SP:504/504 BP:1
+B-Cyrus - HP:3557/3557 SP:575/582 BP:1
+Equipo del enemigo
+A-Frost Fox - HP:1302/1302 Shields:2
+B-Meep - HP:1016/1016 Shields:2
+C-Wolf - HP:897/1577 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Meep
+2.Frost Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Wolf
+3.Cyrus
+4.Meep
+5.Frost Fox
+----------------------------------------
+Meep usa Attack
+Primrose recibe 288 de daño físico
+Primrose termina con HP:3499
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3499/4002 SP:504/504 BP:1
+B-Cyrus - HP:3557/3557 SP:575/582 BP:1
+Equipo del enemigo
+A-Frost Fox - HP:1302/1302 Shields:2
+B-Meep - HP:1016/1016 Shields:2
+C-Wolf - HP:897/1577 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Frost Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Wolf
+3.Cyrus
+4.Meep
+5.Frost Fox
+----------------------------------------
+Frost Fox usa Ice blast
+Primrose recibe 201 de daño elemental
+Cyrus recibe 203 de daño elemental
+Primrose termina con HP:3298
+Cyrus termina con HP:3354
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3298/4002 SP:504/504 BP:2
+B-Cyrus - HP:3354/3557 SP:575/582 BP:2
+Equipo del enemigo
+A-Frost Fox - HP:1302/1302 Shields:2
+B-Meep - HP:1016/1016 Shields:2
+C-Wolf - HP:897/1577 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Wolf
+3.Cyrus
+4.Meep
+5.Frost Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Wolf
+3.Cyrus
+4.Meep
+5.Frost Fox
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Frost Fox - HP:1302/1302 Shields:2
+2: Meep - HP:1016/1016 Shields:2
+3: Wolf - HP:897/1577 Shields:1
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose ataca
+Meep recibe 0 de daño de tipo Dagger
+Meep termina con HP:1016
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3298/4002 SP:504/504 BP:2
+B-Cyrus - HP:3354/3557 SP:575/582 BP:2
+Equipo del enemigo
+A-Frost Fox - HP:1302/1302 Shields:2
+B-Meep - HP:1016/1016 Shields:2
+C-Wolf - HP:897/1577 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Wolf
+2.Cyrus
+3.Meep
+4.Frost Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Wolf
+3.Cyrus
+4.Meep
+5.Frost Fox
+----------------------------------------
+Wolf usa Attack
+Cyrus recibe 164 de daño físico
+Cyrus termina con HP:3190
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3298/4002 SP:504/504 BP:2
+B-Cyrus - HP:3190/3557 SP:575/582 BP:2
+Equipo del enemigo
+A-Frost Fox - HP:1302/1302 Shields:2
+B-Meep - HP:1016/1016 Shields:2
+C-Wolf - HP:897/1577 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Meep
+3.Frost Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Wolf
+3.Cyrus
+4.Meep
+5.Frost Fox
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Wildfire
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: Frost Fox - HP:1302/1302 Shields:2
+2: Meep - HP:1016/1016 Shields:2
+3: Wolf - HP:897/1577 Shields:1
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus usa Wildfire
+Frost Fox recibe 614 de daño de tipo Fire con debilidad
+Frost Fox termina con HP:688
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3298/4002 SP:504/504 BP:2
+B-Cyrus - HP:3190/3557 SP:568/582 BP:2
+Equipo del enemigo
+A-Frost Fox - HP:688/1302 Shields:1
+B-Meep - HP:1016/1016 Shields:2
+C-Wolf - HP:897/1577 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Meep
+2.Frost Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Wolf
+3.Cyrus
+4.Meep
+5.Frost Fox
+----------------------------------------
+Meep usa Attack
+Primrose recibe 288 de daño físico
+Primrose termina con HP:3010
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3010/4002 SP:504/504 BP:2
+B-Cyrus - HP:3190/3557 SP:568/582 BP:2
+Equipo del enemigo
+A-Frost Fox - HP:688/1302 Shields:1
+B-Meep - HP:1016/1016 Shields:2
+C-Wolf - HP:897/1577 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Frost Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Wolf
+3.Cyrus
+4.Meep
+5.Frost Fox
+----------------------------------------
+Frost Fox usa Ice blast
+Primrose recibe 201 de daño elemental
+Cyrus recibe 203 de daño elemental
+Primrose termina con HP:2809
+Cyrus termina con HP:2987
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:2809/4002 SP:504/504 BP:3
+B-Cyrus - HP:2987/3557 SP:568/582 BP:3
+Equipo del enemigo
+A-Frost Fox - HP:688/1302 Shields:1
+B-Meep - HP:1016/1016 Shields:2
+C-Wolf - HP:897/1577 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Wolf
+3.Cyrus
+4.Meep
+5.Frost Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Wolf
+3.Cyrus
+4.Meep
+5.Frost Fox
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Primrose
+1: Alephan's Enlightenment
+2: Heal More
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Primrose - HP:2809/4002 SP:504/504 BP:3
+2: Cyrus - HP:2987/3557 SP:568/582 BP:3
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Primrose usa Alephan's Enlightenment
+Cyrus concentrará sus habilidades durante 3 rondas
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:2809/4002 SP:474/504 BP:0
+B-Cyrus - HP:2987/3557 SP:568/582 BP:3
+Equipo del enemigo
+A-Frost Fox - HP:688/1302 Shields:1
+B-Meep - HP:1016/1016 Shields:2
+C-Wolf - HP:897/1577 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Wolf
+2.Cyrus
+3.Meep
+4.Frost Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Wolf
+3.Cyrus
+4.Meep
+5.Frost Fox
+----------------------------------------
+Wolf usa Attack
+Cyrus recibe 164 de daño físico
+Cyrus termina con HP:2823
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:2809/4002 SP:474/504 BP:0
+B-Cyrus - HP:2823/3557 SP:568/582 BP:3
+Equipo del enemigo
+A-Frost Fox - HP:688/1302 Shields:1
+B-Meep - HP:1016/1016 Shields:2
+C-Wolf - HP:897/1577 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Meep
+3.Frost Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Wolf
+3.Cyrus
+4.Meep
+5.Frost Fox
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Wildfire
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: Frost Fox - HP:688/1302 Shields:1
+2: Meep - HP:1016/1016 Shields:2
+3: Wolf - HP:897/1577 Shields:1
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus usa Wildfire
+Frost Fox recibe 614 de daño de tipo Fire con debilidad
+Frost Fox entra en Breaking Point
+Frost Fox termina con HP:74
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:2809/4002 SP:474/504 BP:0
+B-Cyrus - HP:2823/3557 SP:561/582 BP:3
+Equipo del enemigo
+A-Frost Fox - HP:74/1302 Shields:0
+B-Meep - HP:1016/1016 Shields:2
+C-Wolf - HP:897/1577 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Wolf
+3.Cyrus
+4.Meep
+----------------------------------------
+Meep usa Attack
+Cyrus recibe 237 de daño físico
+Cyrus termina con HP:2586
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:2809/4002 SP:474/504 BP:0
+B-Cyrus - HP:2586/3557 SP:561/582 BP:4
+Equipo del enemigo
+A-Frost Fox - HP:74/1302 Shields:0
+B-Meep - HP:1016/1016 Shields:2
+C-Wolf - HP:897/1577 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Wolf
+3.Cyrus
+4.Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Frost Fox
+2.Primrose
+3.Wolf
+4.Cyrus
+5.Meep
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 4
+----------------------------------------
+El equipo de viajeros ha huido!
+----------------------------------------
+Gana equipo del enemigo

@@ -1,0 +1,9 @@
+Player Team
+Temenos (First Aid, Reflective Veil) [The Show Goes On, Elemental Augmentation, Augmented Elements]
+Therion (Double Edge, Armor Corrosive) [Summon Strength, Augmented Elements]
+Cyrus (Donate BP, Combustion) [Boost Start, SP Saver, Cover]
+Enemy Team
+Lord of the Flies
+Army Ant
+Albino Bat
+Devourer of Dreams

@@ -1,0 +1,5795 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+INPUT: 24
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5836/5836 SP:383/383 BP:1
+B-Tressa - HP:4891/4891 SP:357/357 BP:1
+C-Cyrus - HP:3557/3557 SP:582/582 BP:1
+Equipo del enemigo
+A-Light Elemental - HP:1880/1880 Shields:4
+B-Monarch - HP:6740/6740 Shields:8
+C-Albino Bat - HP:1896/1896 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Monarch
+5.Albino Bat
+6.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Monarch
+5.Albino Bat
+6.Light Elemental
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Alfyn
+1: Reflective Veil
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alfyn
+1: Alfyn - HP:5836/5836 SP:383/383 BP:1
+2: Tressa - HP:4891/4891 SP:357/357 BP:1
+3: Cyrus - HP:3557/3557 SP:582/582 BP:1
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Alfyn usa Reflective Veil
+Cyrus reflejará los próximos 2 ataques elementales
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5836/5836 SP:361/383 BP:0
+B-Tressa - HP:4891/4891 SP:357/357 BP:1
+C-Cyrus - HP:3557/3557 SP:582/582 BP:1
+Equipo del enemigo
+A-Light Elemental - HP:1880/1880 Shields:4
+B-Monarch - HP:6740/6740 Shields:8
+C-Albino Bat - HP:1896/1896 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Tressa
+3.Monarch
+4.Albino Bat
+5.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Monarch
+5.Albino Bat
+6.Light Elemental
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Heal Wounds
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Cyrus no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus usa Heal Wounds
+Alfyn recupera 495 de vida
+Tressa recupera 495 de vida
+Cyrus recupera 495 de vida
+Alfyn termina con HP:5836
+Tressa termina con HP:4891
+Cyrus termina con HP:3557
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5836/5836 SP:361/383 BP:0
+B-Tressa - HP:4891/4891 SP:357/357 BP:1
+C-Cyrus - HP:3557/3557 SP:576/582 BP:1
+Equipo del enemigo
+A-Light Elemental - HP:1880/1880 Shields:4
+B-Monarch - HP:6740/6740 Shields:8
+C-Albino Bat - HP:1896/1896 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Monarch
+3.Albino Bat
+4.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Monarch
+5.Albino Bat
+6.Light Elemental
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5836/5836 SP:361/383 BP:0
+B-Tressa - HP:4891/4891 SP:357/357 BP:1
+C-Cyrus - HP:3557/3557 SP:576/582 BP:1
+Equipo del enemigo
+A-Light Elemental - HP:1880/1880 Shields:4
+B-Monarch - HP:6740/6740 Shields:8
+C-Albino Bat - HP:1896/1896 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Monarch
+2.Albino Bat
+3.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Alfyn
+3.Cyrus
+4.Monarch
+5.Albino Bat
+6.Light Elemental
+----------------------------------------
+Monarch usa Galestorm
+Alfyn recibe 408 de daño elemental
+Tressa se defiende
+Tressa recibe 180 de daño elemental
+Cyrus refleja el daño
+Monarch recibe 316 de daño
+Alfyn termina con HP:5428
+Tressa termina con HP:4711
+Monarch termina con HP:6424
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5428/5836 SP:361/383 BP:0
+B-Tressa - HP:4711/4891 SP:357/357 BP:1
+C-Cyrus - HP:3557/3557 SP:576/582 BP:1
+Equipo del enemigo
+A-Light Elemental - HP:1880/1880 Shields:4
+B-Monarch - HP:6424/6740 Shields:8
+C-Albino Bat - HP:1896/1896 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Albino Bat
+2.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Alfyn
+3.Cyrus
+4.Monarch
+5.Albino Bat
+6.Light Elemental
+----------------------------------------
+Albino Bat usa Flap
+Alfyn recibe 149 de daño físico
+Albino Bat tendrá Increased Speed durante 2 rondas
+Alfyn termina con HP:5279
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5279/5836 SP:361/383 BP:0
+B-Tressa - HP:4711/4891 SP:357/357 BP:1
+C-Cyrus - HP:3557/3557 SP:576/582 BP:1
+Equipo del enemigo
+A-Light Elemental - HP:1880/1880 Shields:4
+B-Monarch - HP:6424/6740 Shields:8
+C-Albino Bat - HP:1896/1896 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Alfyn
+3.Cyrus
+4.Albino Bat
+5.Monarch
+6.Light Elemental
+----------------------------------------
+Light Elemental usa Lightshot
+Alfyn recibe 139 de daño elemental
+Alfyn termina con HP:5140
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5723/5836 SP:361/383 BP:0
+B-Tressa - HP:4711/4891 SP:357/357 BP:2
+C-Cyrus - HP:3557/3557 SP:576/582 BP:2
+Equipo del enemigo
+A-Light Elemental - HP:1880/1880 Shields:4
+B-Monarch - HP:6424/6740 Shields:8
+C-Albino Bat - HP:1896/1896 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Alfyn
+3.Cyrus
+4.Albino Bat
+5.Monarch
+6.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Monarch
+5.Albino Bat
+6.Light Elemental
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Light Elemental - HP:1880/1880 Shields:4
+2: Monarch - HP:6424/6740 Shields:8
+3: Albino Bat - HP:1896/1896 Shields:4
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Tressa ataca
+Albino Bat recibe 219 de daño de tipo Spear con debilidad
+Albino Bat termina con HP:1677
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5723/5836 SP:361/383 BP:0
+B-Tressa - HP:4711/4891 SP:357/357 BP:2
+C-Cyrus - HP:3557/3557 SP:576/582 BP:2
+Equipo del enemigo
+A-Light Elemental - HP:1880/1880 Shields:4
+B-Monarch - HP:6424/6740 Shields:8
+C-Albino Bat - HP:1677/1896 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Cyrus
+3.Albino Bat
+4.Monarch
+5.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Monarch
+5.Albino Bat
+6.Light Elemental
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alfyn
+1: Light Elemental - HP:1880/1880 Shields:4
+2: Monarch - HP:6424/6740 Shields:8
+3: Albino Bat - HP:1677/1896 Shields:3
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Alfyn ataca
+Albino Bat recibe 141 de daño de tipo Axe
+Albino Bat termina con HP:1536
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5723/5836 SP:361/383 BP:0
+B-Tressa - HP:4711/4891 SP:357/357 BP:2
+C-Cyrus - HP:3557/3557 SP:576/582 BP:2
+Equipo del enemigo
+A-Light Elemental - HP:1880/1880 Shields:4
+B-Monarch - HP:6424/6740 Shields:8
+C-Albino Bat - HP:1536/1896 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Albino Bat
+3.Monarch
+4.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Monarch
+5.Albino Bat
+6.Light Elemental
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Heal Wounds
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Cyrus usa Heal Wounds
+Alfyn recupera 660 de vida
+Tressa recupera 660 de vida
+Cyrus recupera 660 de vida
+Alfyn termina con HP:5836
+Tressa termina con HP:4891
+Cyrus termina con HP:3557
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5836/5836 SP:361/383 BP:0
+B-Tressa - HP:4891/4891 SP:357/357 BP:2
+C-Cyrus - HP:3557/3557 SP:570/582 BP:1
+Equipo del enemigo
+A-Light Elemental - HP:1880/1880 Shields:4
+B-Monarch - HP:6424/6740 Shields:8
+C-Albino Bat - HP:1536/1896 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Albino Bat
+2.Monarch
+3.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Monarch
+5.Albino Bat
+6.Light Elemental
+----------------------------------------
+Albino Bat usa Flap
+Alfyn recibe 149 de daño físico
+Albino Bat tendrá Increased Speed durante 2 rondas
+Alfyn termina con HP:5687
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5687/5836 SP:361/383 BP:0
+B-Tressa - HP:4891/4891 SP:357/357 BP:2
+C-Cyrus - HP:3557/3557 SP:570/582 BP:1
+Equipo del enemigo
+A-Light Elemental - HP:1880/1880 Shields:4
+B-Monarch - HP:6424/6740 Shields:8
+C-Albino Bat - HP:1536/1896 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Monarch
+2.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Albino Bat
+5.Monarch
+6.Light Elemental
+----------------------------------------
+Monarch usa Galestorm
+Alfyn recibe 408 de daño elemental
+Tressa recibe 361 de daño elemental
+Cyrus refleja el daño
+Monarch recibe 316 de daño
+Alfyn termina con HP:5279
+Tressa termina con HP:4530
+Monarch termina con HP:6108
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5279/5836 SP:361/383 BP:0
+B-Tressa - HP:4530/4891 SP:357/357 BP:2
+C-Cyrus - HP:3557/3557 SP:570/582 BP:1
+Equipo del enemigo
+A-Light Elemental - HP:1880/1880 Shields:4
+B-Monarch - HP:6108/6740 Shields:8
+C-Albino Bat - HP:1536/1896 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Albino Bat
+5.Monarch
+6.Light Elemental
+----------------------------------------
+Light Elemental usa Lightshot
+Alfyn recibe 139 de daño elemental
+Alfyn termina con HP:5140
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5723/5836 SP:361/383 BP:1
+B-Tressa - HP:4530/4891 SP:357/357 BP:3
+C-Cyrus - HP:3557/3557 SP:570/582 BP:1
+Equipo del enemigo
+A-Light Elemental - HP:1880/1880 Shields:4
+B-Monarch - HP:6108/6740 Shields:8
+C-Albino Bat - HP:1536/1896 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Albino Bat
+5.Monarch
+6.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Albino Bat
+5.Monarch
+6.Light Elemental
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alfyn
+1: Light Elemental - HP:1880/1880 Shields:4
+2: Monarch - HP:6108/6740 Shields:8
+3: Albino Bat - HP:1536/1896 Shields:3
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Alfyn no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Alfyn ataca
+Monarch recibe 152 de daño de tipo Axe
+Monarch recibe 152 de daño de tipo Axe
+Monarch termina con HP:5804
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5723/5836 SP:361/383 BP:0
+B-Tressa - HP:4530/4891 SP:357/357 BP:3
+C-Cyrus - HP:3557/3557 SP:570/582 BP:1
+Equipo del enemigo
+A-Light Elemental - HP:1880/1880 Shields:4
+B-Monarch - HP:5804/6740 Shields:8
+C-Albino Bat - HP:1536/1896 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Tressa
+3.Albino Bat
+4.Monarch
+5.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Albino Bat
+5.Monarch
+6.Light Elemental
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: Light Elemental - HP:1880/1880 Shields:4
+2: Monarch - HP:5804/6740 Shields:8
+3: Albino Bat - HP:1536/1896 Shields:3
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Cyrus no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Cyrus ataca
+Albino Bat recibe 0 de daño de tipo Stave con debilidad
+Albino Bat recibe 0 de daño de tipo Stave con debilidad
+Albino Bat termina con HP:1536
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5723/5836 SP:361/383 BP:0
+B-Tressa - HP:4530/4891 SP:357/357 BP:3
+C-Cyrus - HP:3557/3557 SP:570/582 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1880/1880 Shields:4
+B-Monarch - HP:5804/6740 Shields:8
+C-Albino Bat - HP:1536/1896 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Albino Bat
+3.Monarch
+4.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Albino Bat
+5.Monarch
+6.Light Elemental
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Light Elemental - HP:1880/1880 Shields:4
+2: Monarch - HP:5804/6740 Shields:8
+3: Albino Bat - HP:1536/1896 Shields:3
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Tressa ataca
+Albino Bat recibe 219 de daño de tipo Spear con debilidad
+Albino Bat recibe 219 de daño de tipo Spear con debilidad
+Albino Bat recibe 219 de daño de tipo Spear con debilidad
+Albino Bat entra en Breaking Point
+Albino Bat recibe 292 de daño de tipo Spear con debilidad
+Albino Bat termina con HP:587
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5723/5836 SP:361/383 BP:0
+B-Tressa - HP:4530/4891 SP:357/357 BP:0
+C-Cyrus - HP:3557/3557 SP:570/582 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1880/1880 Shields:4
+B-Monarch - HP:5804/6740 Shields:8
+C-Albino Bat - HP:587/1896 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Monarch
+2.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Monarch
+5.Light Elemental
+----------------------------------------
+Monarch usa Galestorm
+Alfyn recibe 408 de daño elemental
+Tressa recibe 361 de daño elemental
+Cyrus recibe 316 de daño elemental
+Alfyn termina con HP:5315
+Tressa termina con HP:4169
+Cyrus termina con HP:3241
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5315/5836 SP:361/383 BP:0
+B-Tressa - HP:4169/4891 SP:357/357 BP:0
+C-Cyrus - HP:3241/3557 SP:570/582 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1880/1880 Shields:4
+B-Monarch - HP:5804/6740 Shields:8
+C-Albino Bat - HP:587/1896 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Monarch
+5.Light Elemental
+----------------------------------------
+Light Elemental usa Lightshot
+Alfyn recibe 139 de daño elemental
+Alfyn termina con HP:5176
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5759/5836 SP:361/383 BP:0
+B-Tressa - HP:4169/4891 SP:357/357 BP:0
+C-Cyrus - HP:3241/3557 SP:570/582 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1880/1880 Shields:4
+B-Monarch - HP:5804/6740 Shields:8
+C-Albino Bat - HP:587/1896 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Monarch
+5.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Albino Bat
+2.Alfyn
+3.Cyrus
+4.Tressa
+5.Monarch
+6.Light Elemental
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Alfyn
+1: Reflective Veil
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alfyn
+1: Alfyn - HP:5759/5836 SP:361/383 BP:0
+2: Tressa - HP:4169/4891 SP:357/357 BP:0
+3: Cyrus - HP:3241/3557 SP:570/582 BP:0
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Alfyn usa Reflective Veil
+Cyrus reflejará los próximos 1 ataques elementales
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5759/5836 SP:339/383 BP:0
+B-Tressa - HP:4169/4891 SP:357/357 BP:0
+C-Cyrus - HP:3241/3557 SP:570/582 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1880/1880 Shields:4
+B-Monarch - HP:5804/6740 Shields:8
+C-Albino Bat - HP:587/1896 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Tressa
+3.Monarch
+4.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Albino Bat
+2.Alfyn
+3.Cyrus
+4.Tressa
+5.Monarch
+6.Light Elemental
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: Light Elemental - HP:1880/1880 Shields:4
+2: Monarch - HP:5804/6740 Shields:8
+3: Albino Bat - HP:587/1896 Shields:0
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Cyrus ataca
+Albino Bat recibe 0 de daño de tipo Stave con debilidad
+Albino Bat termina con HP:587
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5759/5836 SP:339/383 BP:0
+B-Tressa - HP:4169/4891 SP:357/357 BP:0
+C-Cyrus - HP:3241/3557 SP:570/582 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1880/1880 Shields:4
+B-Monarch - HP:5804/6740 Shields:8
+C-Albino Bat - HP:587/1896 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Monarch
+3.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Albino Bat
+2.Alfyn
+3.Cyrus
+4.Tressa
+5.Monarch
+6.Light Elemental
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Heal More
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Tressa usa Heal More
+Alfyn recupera 570 de vida
+Cyrus recupera 570 de vida
+Tressa recupera 570 de vida
+Alfyn termina con HP:5836
+Cyrus termina con HP:3557
+Tressa termina con HP:4739
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5836/5836 SP:339/383 BP:0
+B-Tressa - HP:4739/4891 SP:332/357 BP:0
+C-Cyrus - HP:3557/3557 SP:570/582 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1880/1880 Shields:4
+B-Monarch - HP:5804/6740 Shields:8
+C-Albino Bat - HP:587/1896 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Monarch
+2.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Albino Bat
+2.Alfyn
+3.Cyrus
+4.Tressa
+5.Monarch
+6.Light Elemental
+----------------------------------------
+Monarch usa Galestorm
+Alfyn recibe 408 de daño elemental
+Tressa recibe 361 de daño elemental
+Cyrus refleja el daño
+Monarch recibe 316 de daño
+Alfyn termina con HP:5428
+Tressa termina con HP:4378
+Monarch termina con HP:5488
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5428/5836 SP:339/383 BP:0
+B-Tressa - HP:4378/4891 SP:332/357 BP:0
+C-Cyrus - HP:3557/3557 SP:570/582 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1880/1880 Shields:4
+B-Monarch - HP:5488/6740 Shields:8
+C-Albino Bat - HP:587/1896 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Albino Bat
+2.Alfyn
+3.Cyrus
+4.Tressa
+5.Monarch
+6.Light Elemental
+----------------------------------------
+Light Elemental usa Lightshot
+Alfyn recibe 139 de daño elemental
+Alfyn termina con HP:5289
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5836/5836 SP:339/383 BP:1
+B-Tressa - HP:4378/4891 SP:332/357 BP:1
+C-Cyrus - HP:3557/3557 SP:570/582 BP:1
+Equipo del enemigo
+A-Light Elemental - HP:1880/1880 Shields:4
+B-Monarch - HP:5488/6740 Shields:8
+C-Albino Bat - HP:587/1896 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Albino Bat
+2.Alfyn
+3.Cyrus
+4.Tressa
+5.Monarch
+6.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Monarch
+5.Albino Bat
+6.Light Elemental
+----------------------------------------
+Albino Bat usa Flap
+Alfyn recibe 149 de daño físico
+Albino Bat tendrá Increased Speed durante 2 rondas
+Alfyn termina con HP:5687
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5687/5836 SP:339/383 BP:1
+B-Tressa - HP:4378/4891 SP:332/357 BP:1
+C-Cyrus - HP:3557/3557 SP:570/582 BP:1
+Equipo del enemigo
+A-Light Elemental - HP:1880/1880 Shields:4
+B-Monarch - HP:5488/6740 Shields:8
+C-Albino Bat - HP:587/1896 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Monarch
+5.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Albino Bat
+5.Monarch
+6.Light Elemental
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Alfyn
+1: Reflective Veil
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alfyn
+1: Alfyn - HP:5687/5836 SP:339/383 BP:1
+2: Tressa - HP:4378/4891 SP:332/357 BP:1
+3: Cyrus - HP:3557/3557 SP:570/582 BP:1
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Alfyn no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Alfyn no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Alfyn usa Reflective Veil
+Tressa reflejará los próximos 2 ataques elementales
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5687/5836 SP:317/383 BP:0
+B-Tressa - HP:4378/4891 SP:332/357 BP:1
+C-Cyrus - HP:3557/3557 SP:570/582 BP:1
+Equipo del enemigo
+A-Light Elemental - HP:1880/1880 Shields:4
+B-Monarch - HP:5488/6740 Shields:8
+C-Albino Bat - HP:587/1896 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Tressa
+3.Monarch
+4.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Albino Bat
+5.Monarch
+6.Light Elemental
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Heal Wounds
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Cyrus no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus usa Heal Wounds
+Alfyn recupera 495 de vida
+Tressa recupera 495 de vida
+Cyrus recupera 495 de vida
+Alfyn termina con HP:5836
+Tressa termina con HP:4873
+Cyrus termina con HP:3557
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5836/5836 SP:317/383 BP:0
+B-Tressa - HP:4873/4891 SP:332/357 BP:1
+C-Cyrus - HP:3557/3557 SP:564/582 BP:1
+Equipo del enemigo
+A-Light Elemental - HP:1880/1880 Shields:4
+B-Monarch - HP:5488/6740 Shields:8
+C-Albino Bat - HP:587/1896 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Monarch
+3.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Albino Bat
+5.Monarch
+6.Light Elemental
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Heal More
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Tressa no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Tressa usa Heal More
+Alfyn recupera 570 de vida
+Cyrus recupera 570 de vida
+Tressa recupera 570 de vida
+Alfyn termina con HP:5836
+Cyrus termina con HP:3557
+Tressa termina con HP:4891
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5836/5836 SP:317/383 BP:0
+B-Tressa - HP:4891/4891 SP:307/357 BP:1
+C-Cyrus - HP:3557/3557 SP:564/582 BP:1
+Equipo del enemigo
+A-Light Elemental - HP:1880/1880 Shields:4
+B-Monarch - HP:5488/6740 Shields:8
+C-Albino Bat - HP:587/1896 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Monarch
+2.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Albino Bat
+5.Monarch
+6.Light Elemental
+----------------------------------------
+Monarch usa Galestorm
+Alfyn recibe 408 de daño elemental
+Tressa refleja el daño
+Monarch recibe 361 de daño
+Cyrus recibe 316 de daño elemental
+Alfyn termina con HP:5428
+Monarch termina con HP:5127
+Cyrus termina con HP:3241
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5428/5836 SP:317/383 BP:0
+B-Tressa - HP:4891/4891 SP:307/357 BP:1
+C-Cyrus - HP:3241/3557 SP:564/582 BP:1
+Equipo del enemigo
+A-Light Elemental - HP:1880/1880 Shields:4
+B-Monarch - HP:5127/6740 Shields:8
+C-Albino Bat - HP:587/1896 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Albino Bat
+5.Monarch
+6.Light Elemental
+----------------------------------------
+Light Elemental usa Lightshot
+Alfyn recibe 139 de daño elemental
+Alfyn termina con HP:5289
+----------------------------------------
+INICIA RONDA 6
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5836/5836 SP:317/383 BP:0
+B-Tressa - HP:4891/4891 SP:307/357 BP:2
+C-Cyrus - HP:3241/3557 SP:564/582 BP:2
+Equipo del enemigo
+A-Light Elemental - HP:1880/1880 Shields:4
+B-Monarch - HP:5127/6740 Shields:8
+C-Albino Bat - HP:587/1896 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Albino Bat
+5.Monarch
+6.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Monarch
+5.Albino Bat
+6.Light Elemental
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5836/5836 SP:317/383 BP:0
+B-Tressa - HP:4891/4891 SP:307/357 BP:2
+C-Cyrus - HP:3241/3557 SP:564/582 BP:2
+Equipo del enemigo
+A-Light Elemental - HP:1880/1880 Shields:4
+B-Monarch - HP:5127/6740 Shields:8
+C-Albino Bat - HP:587/1896 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Tressa
+3.Albino Bat
+4.Monarch
+5.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Monarch
+5.Albino Bat
+6.Light Elemental
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Heal Wounds
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Cyrus usa Heal Wounds
+Alfyn recupera 825 de vida
+Tressa recupera 825 de vida
+Cyrus recupera 825 de vida
+Alfyn termina con HP:5836
+Tressa termina con HP:4891
+Cyrus termina con HP:3557
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5836/5836 SP:317/383 BP:0
+B-Tressa - HP:4891/4891 SP:307/357 BP:2
+C-Cyrus - HP:3557/3557 SP:558/582 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1880/1880 Shields:4
+B-Monarch - HP:5127/6740 Shields:8
+C-Albino Bat - HP:587/1896 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Albino Bat
+3.Monarch
+4.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Monarch
+5.Albino Bat
+6.Light Elemental
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Light Elemental - HP:1880/1880 Shields:4
+2: Monarch - HP:5127/6740 Shields:8
+3: Albino Bat - HP:587/1896 Shields:4
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Tressa ataca
+Light Elemental recibe 126 de daño de tipo Bow
+Light Elemental recibe 126 de daño de tipo Bow
+Light Elemental termina con HP:1628
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5836/5836 SP:317/383 BP:0
+B-Tressa - HP:4891/4891 SP:307/357 BP:1
+C-Cyrus - HP:3557/3557 SP:558/582 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1628/1880 Shields:4
+B-Monarch - HP:5127/6740 Shields:8
+C-Albino Bat - HP:587/1896 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Albino Bat
+2.Monarch
+3.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Monarch
+5.Albino Bat
+6.Light Elemental
+----------------------------------------
+Albino Bat usa Flap
+Alfyn se defiende
+Alfyn recibe 74 de daño físico
+Albino Bat tendrá Increased Speed durante 2 rondas
+Alfyn termina con HP:5762
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5762/5836 SP:317/383 BP:0
+B-Tressa - HP:4891/4891 SP:307/357 BP:1
+C-Cyrus - HP:3557/3557 SP:558/582 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1628/1880 Shields:4
+B-Monarch - HP:5127/6740 Shields:8
+C-Albino Bat - HP:587/1896 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Monarch
+2.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Albino Bat
+5.Monarch
+6.Light Elemental
+----------------------------------------
+Monarch usa Galestorm
+Alfyn se defiende
+Alfyn recibe 204 de daño elemental
+Tressa refleja el daño
+Monarch recibe 361 de daño
+Cyrus recibe 316 de daño elemental
+Alfyn termina con HP:5558
+Monarch termina con HP:4766
+Cyrus termina con HP:3241
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5558/5836 SP:317/383 BP:0
+B-Tressa - HP:4891/4891 SP:307/357 BP:1
+C-Cyrus - HP:3241/3557 SP:558/582 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1628/1880 Shields:4
+B-Monarch - HP:4766/6740 Shields:8
+C-Albino Bat - HP:587/1896 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Albino Bat
+5.Monarch
+6.Light Elemental
+----------------------------------------
+Light Elemental usa Lightshot
+Alfyn se defiende
+Alfyn recibe 69 de daño elemental
+Alfyn termina con HP:5489
+----------------------------------------
+INICIA RONDA 7
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5836/5836 SP:317/383 BP:1
+B-Tressa - HP:4891/4891 SP:307/357 BP:1
+C-Cyrus - HP:3241/3557 SP:558/582 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1628/1880 Shields:4
+B-Monarch - HP:4766/6740 Shields:8
+C-Albino Bat - HP:587/1896 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Albino Bat
+5.Monarch
+6.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Albino Bat
+5.Monarch
+6.Light Elemental
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Alfyn
+1: Reflective Veil
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alfyn
+1: Alfyn - HP:5836/5836 SP:317/383 BP:1
+2: Tressa - HP:4891/4891 SP:307/357 BP:1
+3: Cyrus - HP:3241/3557 SP:558/582 BP:0
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Alfyn usa Reflective Veil
+Cyrus reflejará los próximos 1 ataques elementales
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5836/5836 SP:295/383 BP:1
+B-Tressa - HP:4891/4891 SP:307/357 BP:1
+C-Cyrus - HP:3241/3557 SP:558/582 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1628/1880 Shields:4
+B-Monarch - HP:4766/6740 Shields:8
+C-Albino Bat - HP:587/1896 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Tressa
+3.Albino Bat
+4.Monarch
+5.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Albino Bat
+5.Monarch
+6.Light Elemental
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: Light Elemental - HP:1628/1880 Shields:4
+2: Monarch - HP:4766/6740 Shields:8
+3: Albino Bat - HP:587/1896 Shields:4
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Cyrus ataca
+Albino Bat recibe 0 de daño de tipo Stave con debilidad
+Albino Bat termina con HP:587
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5836/5836 SP:295/383 BP:1
+B-Tressa - HP:4891/4891 SP:307/357 BP:1
+C-Cyrus - HP:3241/3557 SP:558/582 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1628/1880 Shields:4
+B-Monarch - HP:4766/6740 Shields:8
+C-Albino Bat - HP:587/1896 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Albino Bat
+3.Monarch
+4.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Albino Bat
+5.Monarch
+6.Light Elemental
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Light Elemental - HP:1628/1880 Shields:4
+2: Monarch - HP:4766/6740 Shields:8
+3: Albino Bat - HP:587/1896 Shields:4
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Tressa no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Tressa ataca
+Monarch recibe 235 de daño de tipo Bow con debilidad
+Monarch recibe 235 de daño de tipo Bow con debilidad
+Monarch termina con HP:4296
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5836/5836 SP:295/383 BP:1
+B-Tressa - HP:4891/4891 SP:307/357 BP:0
+C-Cyrus - HP:3241/3557 SP:558/582 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1628/1880 Shields:4
+B-Monarch - HP:4296/6740 Shields:6
+C-Albino Bat - HP:587/1896 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Albino Bat
+2.Monarch
+3.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Albino Bat
+5.Monarch
+6.Light Elemental
+----------------------------------------
+Albino Bat usa Flap
+Alfyn recibe 149 de daño físico
+Albino Bat tendrá Increased Speed durante 2 rondas
+Alfyn termina con HP:5687
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5687/5836 SP:295/383 BP:1
+B-Tressa - HP:4891/4891 SP:307/357 BP:0
+C-Cyrus - HP:3241/3557 SP:558/582 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1628/1880 Shields:4
+B-Monarch - HP:4296/6740 Shields:6
+C-Albino Bat - HP:587/1896 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Monarch
+2.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Albino Bat
+5.Monarch
+6.Light Elemental
+----------------------------------------
+Monarch usa Galestorm
+Alfyn recibe 408 de daño elemental
+Tressa recibe 361 de daño elemental
+Cyrus refleja el daño
+Monarch recibe 316 de daño
+Alfyn termina con HP:5279
+Tressa termina con HP:4530
+Monarch termina con HP:3980
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5279/5836 SP:295/383 BP:1
+B-Tressa - HP:4530/4891 SP:307/357 BP:0
+C-Cyrus - HP:3241/3557 SP:558/582 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1628/1880 Shields:4
+B-Monarch - HP:3980/6740 Shields:6
+C-Albino Bat - HP:587/1896 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Albino Bat
+5.Monarch
+6.Light Elemental
+----------------------------------------
+Light Elemental usa Lightshot
+Alfyn recibe 139 de daño elemental
+Alfyn termina con HP:5140
+----------------------------------------
+INICIA RONDA 8
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5723/5836 SP:295/383 BP:2
+B-Tressa - HP:4530/4891 SP:307/357 BP:0
+C-Cyrus - HP:3241/3557 SP:558/582 BP:1
+Equipo del enemigo
+A-Light Elemental - HP:1628/1880 Shields:4
+B-Monarch - HP:3980/6740 Shields:6
+C-Albino Bat - HP:587/1896 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Albino Bat
+5.Monarch
+6.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Albino Bat
+5.Monarch
+6.Light Elemental
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Alfyn
+1: Reflective Veil
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alfyn
+1: Alfyn - HP:5723/5836 SP:295/383 BP:2
+2: Tressa - HP:4530/4891 SP:307/357 BP:0
+3: Cyrus - HP:3241/3557 SP:558/582 BP:1
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Alfyn usa Reflective Veil
+Alfyn reflejará los próximos 3 ataques elementales
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5723/5836 SP:273/383 BP:0
+B-Tressa - HP:4530/4891 SP:307/357 BP:0
+C-Cyrus - HP:3241/3557 SP:558/582 BP:1
+Equipo del enemigo
+A-Light Elemental - HP:1628/1880 Shields:4
+B-Monarch - HP:3980/6740 Shields:6
+C-Albino Bat - HP:587/1896 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Tressa
+3.Albino Bat
+4.Monarch
+5.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Albino Bat
+5.Monarch
+6.Light Elemental
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Heal Wounds
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Cyrus no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Cyrus usa Heal Wounds
+Alfyn recupera 660 de vida
+Tressa recupera 660 de vida
+Cyrus recupera 660 de vida
+Alfyn termina con HP:5836
+Tressa termina con HP:4891
+Cyrus termina con HP:3557
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5836/5836 SP:273/383 BP:0
+B-Tressa - HP:4891/4891 SP:307/357 BP:0
+C-Cyrus - HP:3557/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1628/1880 Shields:4
+B-Monarch - HP:3980/6740 Shields:6
+C-Albino Bat - HP:587/1896 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Albino Bat
+3.Monarch
+4.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Albino Bat
+5.Monarch
+6.Light Elemental
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Light Elemental - HP:1628/1880 Shields:4
+2: Monarch - HP:3980/6740 Shields:6
+3: Albino Bat - HP:587/1896 Shields:4
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Tressa ataca
+Albino Bat recibe 219 de daño de tipo Bow con debilidad
+Albino Bat termina con HP:368
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5836/5836 SP:273/383 BP:0
+B-Tressa - HP:4891/4891 SP:307/357 BP:0
+C-Cyrus - HP:3557/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1628/1880 Shields:4
+B-Monarch - HP:3980/6740 Shields:6
+C-Albino Bat - HP:368/1896 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Albino Bat
+2.Monarch
+3.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Albino Bat
+5.Monarch
+6.Light Elemental
+----------------------------------------
+Albino Bat usa Flap
+Alfyn recibe 149 de daño físico
+Albino Bat tendrá Increased Speed durante 2 rondas
+Alfyn termina con HP:5687
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5687/5836 SP:273/383 BP:0
+B-Tressa - HP:4891/4891 SP:307/357 BP:0
+C-Cyrus - HP:3557/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1628/1880 Shields:4
+B-Monarch - HP:3980/6740 Shields:6
+C-Albino Bat - HP:368/1896 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Monarch
+2.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Albino Bat
+5.Monarch
+6.Light Elemental
+----------------------------------------
+Monarch usa Galestorm
+Alfyn refleja el daño
+Monarch recibe 408 de daño
+Tressa recibe 361 de daño elemental
+Cyrus recibe 316 de daño elemental
+Monarch termina con HP:3572
+Tressa termina con HP:4530
+Cyrus termina con HP:3241
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5687/5836 SP:273/383 BP:0
+B-Tressa - HP:4530/4891 SP:307/357 BP:0
+C-Cyrus - HP:3241/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1628/1880 Shields:4
+B-Monarch - HP:3572/6740 Shields:6
+C-Albino Bat - HP:368/1896 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Albino Bat
+5.Monarch
+6.Light Elemental
+----------------------------------------
+Light Elemental usa Lightshot
+Alfyn refleja el daño
+Light Elemental recibe 139 de daño
+Light Elemental termina con HP:1489
+----------------------------------------
+INICIA RONDA 9
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5836/5836 SP:273/383 BP:0
+B-Tressa - HP:4530/4891 SP:307/357 BP:1
+C-Cyrus - HP:3241/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1489/1880 Shields:4
+B-Monarch - HP:3572/6740 Shields:6
+C-Albino Bat - HP:368/1896 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Albino Bat
+5.Monarch
+6.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Albino Bat
+5.Monarch
+6.Light Elemental
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Alfyn
+1: Reflective Veil
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alfyn
+1: Alfyn - HP:5836/5836 SP:273/383 BP:0
+2: Tressa - HP:4530/4891 SP:307/357 BP:1
+3: Cyrus - HP:3241/3557 SP:552/582 BP:0
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Alfyn usa Reflective Veil
+Alfyn reflejará los próximos 1 ataques elementales
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5836/5836 SP:251/383 BP:0
+B-Tressa - HP:4530/4891 SP:307/357 BP:1
+C-Cyrus - HP:3241/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1489/1880 Shields:4
+B-Monarch - HP:3572/6740 Shields:6
+C-Albino Bat - HP:368/1896 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Tressa
+3.Albino Bat
+4.Monarch
+5.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Albino Bat
+5.Monarch
+6.Light Elemental
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5836/5836 SP:251/383 BP:0
+B-Tressa - HP:4530/4891 SP:307/357 BP:1
+C-Cyrus - HP:3241/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1489/1880 Shields:4
+B-Monarch - HP:3572/6740 Shields:6
+C-Albino Bat - HP:368/1896 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Albino Bat
+3.Monarch
+4.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Alfyn
+3.Tressa
+4.Albino Bat
+5.Monarch
+6.Light Elemental
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Heal More
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Tressa usa Heal More
+Alfyn recupera 741 de vida
+Cyrus recupera 741 de vida
+Tressa recupera 741 de vida
+Alfyn termina con HP:5836
+Cyrus termina con HP:3557
+Tressa termina con HP:4891
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5836/5836 SP:251/383 BP:0
+B-Tressa - HP:4891/4891 SP:282/357 BP:0
+C-Cyrus - HP:3557/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1489/1880 Shields:4
+B-Monarch - HP:3572/6740 Shields:6
+C-Albino Bat - HP:368/1896 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Albino Bat
+2.Monarch
+3.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Alfyn
+3.Tressa
+4.Albino Bat
+5.Monarch
+6.Light Elemental
+----------------------------------------
+Albino Bat usa Flap
+Alfyn recibe 149 de daño físico
+Albino Bat tendrá Increased Speed durante 2 rondas
+Alfyn termina con HP:5687
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5687/5836 SP:251/383 BP:0
+B-Tressa - HP:4891/4891 SP:282/357 BP:0
+C-Cyrus - HP:3557/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1489/1880 Shields:4
+B-Monarch - HP:3572/6740 Shields:6
+C-Albino Bat - HP:368/1896 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Monarch
+2.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Alfyn
+3.Tressa
+4.Albino Bat
+5.Monarch
+6.Light Elemental
+----------------------------------------
+Monarch usa Galestorm
+Alfyn refleja el daño
+Monarch recibe 408 de daño
+Tressa recibe 361 de daño elemental
+Cyrus se defiende
+Cyrus recibe 158 de daño elemental
+Monarch termina con HP:3164
+Tressa termina con HP:4530
+Cyrus termina con HP:3399
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5687/5836 SP:251/383 BP:0
+B-Tressa - HP:4530/4891 SP:282/357 BP:0
+C-Cyrus - HP:3399/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1489/1880 Shields:4
+B-Monarch - HP:3164/6740 Shields:6
+C-Albino Bat - HP:368/1896 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Alfyn
+3.Tressa
+4.Albino Bat
+5.Monarch
+6.Light Elemental
+----------------------------------------
+Light Elemental usa Lightshot
+Alfyn refleja el daño
+Light Elemental recibe 139 de daño
+Light Elemental termina con HP:1350
+----------------------------------------
+INICIA RONDA 10
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5836/5836 SP:251/383 BP:1
+B-Tressa - HP:4530/4891 SP:282/357 BP:0
+C-Cyrus - HP:3399/3557 SP:552/582 BP:1
+Equipo del enemigo
+A-Light Elemental - HP:1350/1880 Shields:4
+B-Monarch - HP:3164/6740 Shields:6
+C-Albino Bat - HP:368/1896 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Alfyn
+3.Tressa
+4.Albino Bat
+5.Monarch
+6.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Albino Bat
+5.Monarch
+6.Light Elemental
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: Light Elemental - HP:1350/1880 Shields:4
+2: Monarch - HP:3164/6740 Shields:6
+3: Albino Bat - HP:368/1896 Shields:3
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Cyrus ataca
+Monarch recibe 0 de daño de tipo Stave
+Monarch recibe 0 de daño de tipo Stave
+Monarch termina con HP:3164
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5836/5836 SP:251/383 BP:1
+B-Tressa - HP:4530/4891 SP:282/357 BP:0
+C-Cyrus - HP:3399/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1350/1880 Shields:4
+B-Monarch - HP:3164/6740 Shields:6
+C-Albino Bat - HP:368/1896 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Tressa
+3.Albino Bat
+4.Monarch
+5.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Albino Bat
+5.Monarch
+6.Light Elemental
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Alfyn
+1: Reflective Veil
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alfyn
+1: Alfyn - HP:5836/5836 SP:251/383 BP:1
+2: Tressa - HP:4530/4891 SP:282/357 BP:0
+3: Cyrus - HP:3399/3557 SP:552/582 BP:0
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Alfyn usa Reflective Veil
+Cyrus reflejará los próximos 1 ataques elementales
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5836/5836 SP:229/383 BP:1
+B-Tressa - HP:4530/4891 SP:282/357 BP:0
+C-Cyrus - HP:3399/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1350/1880 Shields:4
+B-Monarch - HP:3164/6740 Shields:6
+C-Albino Bat - HP:368/1896 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Albino Bat
+3.Monarch
+4.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Albino Bat
+5.Monarch
+6.Light Elemental
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Light Elemental - HP:1350/1880 Shields:4
+2: Monarch - HP:3164/6740 Shields:6
+3: Albino Bat - HP:368/1896 Shields:3
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Tressa ataca
+Albino Bat recibe 219 de daño de tipo Spear con debilidad
+Albino Bat termina con HP:149
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5836/5836 SP:229/383 BP:1
+B-Tressa - HP:4530/4891 SP:282/357 BP:0
+C-Cyrus - HP:3399/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1350/1880 Shields:4
+B-Monarch - HP:3164/6740 Shields:6
+C-Albino Bat - HP:149/1896 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Albino Bat
+2.Monarch
+3.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Albino Bat
+5.Monarch
+6.Light Elemental
+----------------------------------------
+Albino Bat usa Flap
+Alfyn recibe 149 de daño físico
+Albino Bat tendrá Increased Speed durante 2 rondas
+Alfyn termina con HP:5687
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5687/5836 SP:229/383 BP:1
+B-Tressa - HP:4530/4891 SP:282/357 BP:0
+C-Cyrus - HP:3399/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1350/1880 Shields:4
+B-Monarch - HP:3164/6740 Shields:6
+C-Albino Bat - HP:149/1896 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Monarch
+2.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Albino Bat
+5.Monarch
+6.Light Elemental
+----------------------------------------
+Monarch usa Galestorm
+Alfyn recibe 408 de daño elemental
+Tressa recibe 361 de daño elemental
+Cyrus refleja el daño
+Monarch recibe 316 de daño
+Alfyn termina con HP:5279
+Tressa termina con HP:4169
+Monarch termina con HP:2848
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5279/5836 SP:229/383 BP:1
+B-Tressa - HP:4169/4891 SP:282/357 BP:0
+C-Cyrus - HP:3399/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1350/1880 Shields:4
+B-Monarch - HP:2848/6740 Shields:6
+C-Albino Bat - HP:149/1896 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Albino Bat
+5.Monarch
+6.Light Elemental
+----------------------------------------
+Light Elemental usa Lightshot
+Alfyn recibe 139 de daño elemental
+Alfyn termina con HP:5140
+----------------------------------------
+INICIA RONDA 11
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5723/5836 SP:229/383 BP:2
+B-Tressa - HP:4169/4891 SP:282/357 BP:1
+C-Cyrus - HP:3399/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1350/1880 Shields:4
+B-Monarch - HP:2848/6740 Shields:6
+C-Albino Bat - HP:149/1896 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Albino Bat
+5.Monarch
+6.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Albino Bat
+5.Monarch
+6.Light Elemental
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Alfyn
+1: Reflective Veil
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alfyn
+1: Alfyn - HP:5723/5836 SP:229/383 BP:2
+2: Tressa - HP:4169/4891 SP:282/357 BP:1
+3: Cyrus - HP:3399/3557 SP:552/582 BP:0
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Alfyn usa Reflective Veil
+Tressa reflejará los próximos 2 ataques elementales
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5723/5836 SP:207/383 BP:1
+B-Tressa - HP:4169/4891 SP:282/357 BP:1
+C-Cyrus - HP:3399/3557 SP:552/582 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1350/1880 Shields:4
+B-Monarch - HP:2848/6740 Shields:6
+C-Albino Bat - HP:149/1896 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Tressa
+3.Albino Bat
+4.Monarch
+5.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Albino Bat
+5.Monarch
+6.Light Elemental
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Heal Wounds
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Cyrus usa Heal Wounds
+Alfyn recupera 495 de vida
+Tressa recupera 495 de vida
+Cyrus recupera 495 de vida
+Alfyn termina con HP:5836
+Tressa termina con HP:4664
+Cyrus termina con HP:3557
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5836/5836 SP:207/383 BP:1
+B-Tressa - HP:4664/4891 SP:282/357 BP:1
+C-Cyrus - HP:3557/3557 SP:546/582 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1350/1880 Shields:4
+B-Monarch - HP:2848/6740 Shields:6
+C-Albino Bat - HP:149/1896 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Albino Bat
+3.Monarch
+4.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Albino Bat
+5.Monarch
+6.Light Elemental
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Heal More
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Tressa usa Heal More
+Alfyn recupera 570 de vida
+Cyrus recupera 570 de vida
+Tressa recupera 570 de vida
+Alfyn termina con HP:5836
+Cyrus termina con HP:3557
+Tressa termina con HP:4891
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5836/5836 SP:207/383 BP:1
+B-Tressa - HP:4891/4891 SP:257/357 BP:1
+C-Cyrus - HP:3557/3557 SP:546/582 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1350/1880 Shields:4
+B-Monarch - HP:2848/6740 Shields:6
+C-Albino Bat - HP:149/1896 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Albino Bat
+2.Monarch
+3.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Albino Bat
+5.Monarch
+6.Light Elemental
+----------------------------------------
+Albino Bat usa Flap
+Alfyn recibe 149 de daño físico
+Albino Bat tendrá Increased Speed durante 2 rondas
+Alfyn termina con HP:5687
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5687/5836 SP:207/383 BP:1
+B-Tressa - HP:4891/4891 SP:257/357 BP:1
+C-Cyrus - HP:3557/3557 SP:546/582 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1350/1880 Shields:4
+B-Monarch - HP:2848/6740 Shields:6
+C-Albino Bat - HP:149/1896 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Monarch
+2.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Albino Bat
+5.Monarch
+6.Light Elemental
+----------------------------------------
+Monarch usa Galestorm
+Alfyn recibe 408 de daño elemental
+Tressa refleja el daño
+Monarch recibe 361 de daño
+Cyrus recibe 316 de daño elemental
+Alfyn termina con HP:5279
+Monarch termina con HP:2487
+Cyrus termina con HP:3241
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5279/5836 SP:207/383 BP:1
+B-Tressa - HP:4891/4891 SP:257/357 BP:1
+C-Cyrus - HP:3241/3557 SP:546/582 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1350/1880 Shields:4
+B-Monarch - HP:2487/6740 Shields:6
+C-Albino Bat - HP:149/1896 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Albino Bat
+5.Monarch
+6.Light Elemental
+----------------------------------------
+Light Elemental usa Lightshot
+Alfyn recibe 139 de daño elemental
+Alfyn termina con HP:5140
+----------------------------------------
+INICIA RONDA 12
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5723/5836 SP:207/383 BP:1
+B-Tressa - HP:4891/4891 SP:257/357 BP:2
+C-Cyrus - HP:3241/3557 SP:546/582 BP:1
+Equipo del enemigo
+A-Light Elemental - HP:1350/1880 Shields:4
+B-Monarch - HP:2487/6740 Shields:6
+C-Albino Bat - HP:149/1896 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Albino Bat
+5.Monarch
+6.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Albino Bat
+5.Monarch
+6.Light Elemental
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5723/5836 SP:207/383 BP:1
+B-Tressa - HP:4891/4891 SP:257/357 BP:2
+C-Cyrus - HP:3241/3557 SP:546/582 BP:1
+Equipo del enemigo
+A-Light Elemental - HP:1350/1880 Shields:4
+B-Monarch - HP:2487/6740 Shields:6
+C-Albino Bat - HP:149/1896 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Tressa
+3.Albino Bat
+4.Monarch
+5.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Albino Bat
+5.Monarch
+6.Light Elemental
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Heal Wounds
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Cyrus no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Cyrus no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Cyrus usa Heal Wounds
+Alfyn recupera 660 de vida
+Tressa recupera 660 de vida
+Cyrus recupera 660 de vida
+Alfyn termina con HP:5836
+Tressa termina con HP:4891
+Cyrus termina con HP:3557
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5836/5836 SP:207/383 BP:1
+B-Tressa - HP:4891/4891 SP:257/357 BP:2
+C-Cyrus - HP:3557/3557 SP:540/582 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1350/1880 Shields:4
+B-Monarch - HP:2487/6740 Shields:6
+C-Albino Bat - HP:149/1896 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Albino Bat
+3.Monarch
+4.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Albino Bat
+5.Monarch
+6.Light Elemental
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5836/5836 SP:207/383 BP:1
+B-Tressa - HP:4891/4891 SP:257/357 BP:2
+C-Cyrus - HP:3557/3557 SP:540/582 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1350/1880 Shields:4
+B-Monarch - HP:2487/6740 Shields:6
+C-Albino Bat - HP:149/1896 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Albino Bat
+2.Monarch
+3.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Tressa
+3.Cyrus
+4.Albino Bat
+5.Monarch
+6.Light Elemental
+----------------------------------------
+Albino Bat usa Flap
+Alfyn se defiende
+Alfyn recibe 74 de daño físico
+Albino Bat tendrá Increased Speed durante 2 rondas
+Alfyn termina con HP:5762
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5762/5836 SP:207/383 BP:1
+B-Tressa - HP:4891/4891 SP:257/357 BP:2
+C-Cyrus - HP:3557/3557 SP:540/582 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1350/1880 Shields:4
+B-Monarch - HP:2487/6740 Shields:6
+C-Albino Bat - HP:149/1896 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Monarch
+2.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Tressa
+3.Cyrus
+4.Albino Bat
+5.Monarch
+6.Light Elemental
+----------------------------------------
+Monarch usa Galestorm
+Alfyn se defiende
+Alfyn recibe 204 de daño elemental
+Tressa se defiende
+Tressa refleja el daño
+Monarch recibe 180 de daño
+Cyrus recibe 316 de daño elemental
+Alfyn termina con HP:5558
+Monarch termina con HP:2307
+Cyrus termina con HP:3241
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5558/5836 SP:207/383 BP:1
+B-Tressa - HP:4891/4891 SP:257/357 BP:2
+C-Cyrus - HP:3241/3557 SP:540/582 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1350/1880 Shields:4
+B-Monarch - HP:2307/6740 Shields:6
+C-Albino Bat - HP:149/1896 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Tressa
+3.Cyrus
+4.Albino Bat
+5.Monarch
+6.Light Elemental
+----------------------------------------
+Light Elemental usa Lightshot
+Alfyn se defiende
+Alfyn recibe 69 de daño elemental
+Alfyn termina con HP:5489
+----------------------------------------
+INICIA RONDA 13
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5836/5836 SP:207/383 BP:2
+B-Tressa - HP:4891/4891 SP:257/357 BP:3
+C-Cyrus - HP:3241/3557 SP:540/582 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1350/1880 Shields:4
+B-Monarch - HP:2307/6740 Shields:6
+C-Albino Bat - HP:149/1896 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Tressa
+3.Cyrus
+4.Albino Bat
+5.Monarch
+6.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Albino Bat
+5.Monarch
+6.Light Elemental
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alfyn
+1: Light Elemental - HP:1350/1880 Shields:4
+2: Monarch - HP:2307/6740 Shields:6
+3: Albino Bat - HP:149/1896 Shields:2
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Alfyn ataca
+Light Elemental recibe 121 de daño de tipo Axe
+Light Elemental termina con HP:1229
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5836/5836 SP:207/383 BP:2
+B-Tressa - HP:4891/4891 SP:257/357 BP:3
+C-Cyrus - HP:3241/3557 SP:540/582 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1229/1880 Shields:4
+B-Monarch - HP:2307/6740 Shields:6
+C-Albino Bat - HP:149/1896 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Cyrus
+3.Albino Bat
+4.Monarch
+5.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Albino Bat
+5.Monarch
+6.Light Elemental
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Heal More
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Tressa usa Heal More
+Alfyn recupera 912 de vida
+Cyrus recupera 912 de vida
+Tressa recupera 912 de vida
+Alfyn termina con HP:5836
+Cyrus termina con HP:3557
+Tressa termina con HP:4891
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5836/5836 SP:207/383 BP:2
+B-Tressa - HP:4891/4891 SP:232/357 BP:1
+C-Cyrus - HP:3557/3557 SP:540/582 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1229/1880 Shields:4
+B-Monarch - HP:2307/6740 Shields:6
+C-Albino Bat - HP:149/1896 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Albino Bat
+3.Monarch
+4.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Albino Bat
+5.Monarch
+6.Light Elemental
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Heal Wounds
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Cyrus usa Heal Wounds
+Alfyn recupera 495 de vida
+Tressa recupera 495 de vida
+Cyrus recupera 495 de vida
+Alfyn termina con HP:5836
+Tressa termina con HP:4891
+Cyrus termina con HP:3557
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5836/5836 SP:207/383 BP:2
+B-Tressa - HP:4891/4891 SP:232/357 BP:1
+C-Cyrus - HP:3557/3557 SP:534/582 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1229/1880 Shields:4
+B-Monarch - HP:2307/6740 Shields:6
+C-Albino Bat - HP:149/1896 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Albino Bat
+2.Monarch
+3.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Albino Bat
+5.Monarch
+6.Light Elemental
+----------------------------------------
+Albino Bat usa Flap
+Alfyn recibe 149 de daño físico
+Albino Bat tendrá Increased Speed durante 2 rondas
+Alfyn termina con HP:5687
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5687/5836 SP:207/383 BP:2
+B-Tressa - HP:4891/4891 SP:232/357 BP:1
+C-Cyrus - HP:3557/3557 SP:534/582 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1229/1880 Shields:4
+B-Monarch - HP:2307/6740 Shields:6
+C-Albino Bat - HP:149/1896 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Monarch
+2.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Albino Bat
+5.Monarch
+6.Light Elemental
+----------------------------------------
+Monarch usa Galestorm
+Alfyn recibe 408 de daño elemental
+Tressa recibe 361 de daño elemental
+Cyrus recibe 316 de daño elemental
+Alfyn termina con HP:5279
+Tressa termina con HP:4530
+Cyrus termina con HP:3241
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5279/5836 SP:207/383 BP:2
+B-Tressa - HP:4530/4891 SP:232/357 BP:1
+C-Cyrus - HP:3241/3557 SP:534/582 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1229/1880 Shields:4
+B-Monarch - HP:2307/6740 Shields:6
+C-Albino Bat - HP:149/1896 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Albino Bat
+5.Monarch
+6.Light Elemental
+----------------------------------------
+Light Elemental usa Lightshot
+Alfyn recibe 139 de daño elemental
+Alfyn termina con HP:5140
+----------------------------------------
+INICIA RONDA 14
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5723/5836 SP:207/383 BP:3
+B-Tressa - HP:4530/4891 SP:232/357 BP:1
+C-Cyrus - HP:3241/3557 SP:534/582 BP:1
+Equipo del enemigo
+A-Light Elemental - HP:1229/1880 Shields:4
+B-Monarch - HP:2307/6740 Shields:6
+C-Albino Bat - HP:149/1896 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Albino Bat
+5.Monarch
+6.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Albino Bat
+5.Monarch
+6.Light Elemental
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5723/5836 SP:207/383 BP:3
+B-Tressa - HP:4530/4891 SP:232/357 BP:1
+C-Cyrus - HP:3241/3557 SP:534/582 BP:1
+Equipo del enemigo
+A-Light Elemental - HP:1229/1880 Shields:4
+B-Monarch - HP:2307/6740 Shields:6
+C-Albino Bat - HP:149/1896 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Tressa
+3.Albino Bat
+4.Monarch
+5.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Albino Bat
+5.Monarch
+6.Light Elemental
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Heal Wounds
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Cyrus no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Cyrus no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus usa Heal Wounds
+Alfyn recupera 495 de vida
+Tressa recupera 495 de vida
+Cyrus recupera 495 de vida
+Alfyn termina con HP:5836
+Tressa termina con HP:4891
+Cyrus termina con HP:3557
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5836/5836 SP:207/383 BP:3
+B-Tressa - HP:4891/4891 SP:232/357 BP:1
+C-Cyrus - HP:3557/3557 SP:528/582 BP:1
+Equipo del enemigo
+A-Light Elemental - HP:1229/1880 Shields:4
+B-Monarch - HP:2307/6740 Shields:6
+C-Albino Bat - HP:149/1896 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Albino Bat
+3.Monarch
+4.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Albino Bat
+5.Monarch
+6.Light Elemental
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Heal More
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Tressa usa Heal More
+Alfyn recupera 741 de vida
+Cyrus recupera 741 de vida
+Tressa recupera 741 de vida
+Alfyn termina con HP:5836
+Cyrus termina con HP:3557
+Tressa termina con HP:4891
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5836/5836 SP:207/383 BP:3
+B-Tressa - HP:4891/4891 SP:207/357 BP:0
+C-Cyrus - HP:3557/3557 SP:528/582 BP:1
+Equipo del enemigo
+A-Light Elemental - HP:1229/1880 Shields:4
+B-Monarch - HP:2307/6740 Shields:6
+C-Albino Bat - HP:149/1896 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Albino Bat
+2.Monarch
+3.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Albino Bat
+5.Monarch
+6.Light Elemental
+----------------------------------------
+Albino Bat usa Flap
+Alfyn se defiende
+Alfyn recibe 74 de daño físico
+Albino Bat tendrá Increased Speed durante 2 rondas
+Alfyn termina con HP:5762
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5762/5836 SP:207/383 BP:3
+B-Tressa - HP:4891/4891 SP:207/357 BP:0
+C-Cyrus - HP:3557/3557 SP:528/582 BP:1
+Equipo del enemigo
+A-Light Elemental - HP:1229/1880 Shields:4
+B-Monarch - HP:2307/6740 Shields:6
+C-Albino Bat - HP:149/1896 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Monarch
+2.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Albino Bat
+5.Monarch
+6.Light Elemental
+----------------------------------------
+Monarch usa Galestorm
+Alfyn se defiende
+Alfyn recibe 204 de daño elemental
+Tressa recibe 361 de daño elemental
+Cyrus recibe 316 de daño elemental
+Alfyn termina con HP:5558
+Tressa termina con HP:4530
+Cyrus termina con HP:3241
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5558/5836 SP:207/383 BP:3
+B-Tressa - HP:4530/4891 SP:207/357 BP:0
+C-Cyrus - HP:3241/3557 SP:528/582 BP:1
+Equipo del enemigo
+A-Light Elemental - HP:1229/1880 Shields:4
+B-Monarch - HP:2307/6740 Shields:6
+C-Albino Bat - HP:149/1896 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Albino Bat
+5.Monarch
+6.Light Elemental
+----------------------------------------
+Light Elemental usa Lightshot
+Alfyn se defiende
+Alfyn recibe 69 de daño elemental
+Alfyn termina con HP:5489
+----------------------------------------
+INICIA RONDA 15
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5836/5836 SP:207/383 BP:4
+B-Tressa - HP:4530/4891 SP:207/357 BP:0
+C-Cyrus - HP:3241/3557 SP:528/582 BP:2
+Equipo del enemigo
+A-Light Elemental - HP:1229/1880 Shields:4
+B-Monarch - HP:2307/6740 Shields:6
+C-Albino Bat - HP:149/1896 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Albino Bat
+5.Monarch
+6.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Albino Bat
+5.Monarch
+6.Light Elemental
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alfyn
+1: Light Elemental - HP:1229/1880 Shields:4
+2: Monarch - HP:2307/6740 Shields:6
+3: Albino Bat - HP:149/1896 Shields:2
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Alfyn ataca
+Light Elemental recibe 121 de daño de tipo Axe
+Light Elemental recibe 121 de daño de tipo Axe
+Light Elemental termina con HP:987
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5836/5836 SP:207/383 BP:3
+B-Tressa - HP:4530/4891 SP:207/357 BP:0
+C-Cyrus - HP:3241/3557 SP:528/582 BP:2
+Equipo del enemigo
+A-Light Elemental - HP:987/1880 Shields:4
+B-Monarch - HP:2307/6740 Shields:6
+C-Albino Bat - HP:149/1896 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Tressa
+3.Albino Bat
+4.Monarch
+5.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Albino Bat
+5.Monarch
+6.Light Elemental
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: Light Elemental - HP:987/1880 Shields:4
+2: Monarch - HP:2307/6740 Shields:6
+3: Albino Bat - HP:149/1896 Shields:2
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Cyrus no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus ataca
+Albino Bat recibe 0 de daño de tipo Stave con debilidad
+Albino Bat termina con HP:149
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5836/5836 SP:207/383 BP:3
+B-Tressa - HP:4530/4891 SP:207/357 BP:0
+C-Cyrus - HP:3241/3557 SP:528/582 BP:2
+Equipo del enemigo
+A-Light Elemental - HP:987/1880 Shields:4
+B-Monarch - HP:2307/6740 Shields:6
+C-Albino Bat - HP:149/1896 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Albino Bat
+3.Monarch
+4.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Albino Bat
+5.Monarch
+6.Light Elemental
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Light Elemental - HP:987/1880 Shields:4
+2: Monarch - HP:2307/6740 Shields:6
+3: Albino Bat - HP:149/1896 Shields:2
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Tressa ataca
+Albino Bat recibe 219 de daño de tipo Spear con debilidad
+Albino Bat termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5836/5836 SP:207/383 BP:3
+B-Tressa - HP:4530/4891 SP:207/357 BP:0
+C-Cyrus - HP:3241/3557 SP:528/582 BP:2
+Equipo del enemigo
+A-Light Elemental - HP:987/1880 Shields:4
+B-Monarch - HP:2307/6740 Shields:6
+C-Albino Bat - HP:0/1896 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Monarch
+2.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Monarch
+5.Light Elemental
+----------------------------------------
+Monarch usa Galestorm
+Alfyn recibe 408 de daño elemental
+Tressa recibe 361 de daño elemental
+Cyrus recibe 316 de daño elemental
+Alfyn termina con HP:5428
+Tressa termina con HP:4169
+Cyrus termina con HP:2925
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5428/5836 SP:207/383 BP:3
+B-Tressa - HP:4169/4891 SP:207/357 BP:0
+C-Cyrus - HP:2925/3557 SP:528/582 BP:2
+Equipo del enemigo
+A-Light Elemental - HP:987/1880 Shields:4
+B-Monarch - HP:2307/6740 Shields:6
+C-Albino Bat - HP:0/1896 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Monarch
+5.Light Elemental
+----------------------------------------
+Light Elemental usa Lightshot
+Alfyn recibe 139 de daño elemental
+Alfyn termina con HP:5289
+----------------------------------------
+INICIA RONDA 16
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5836/5836 SP:207/383 BP:3
+B-Tressa - HP:4169/4891 SP:207/357 BP:1
+C-Cyrus - HP:2925/3557 SP:528/582 BP:3
+Equipo del enemigo
+A-Light Elemental - HP:987/1880 Shields:4
+B-Monarch - HP:2307/6740 Shields:6
+C-Albino Bat - HP:0/1896 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Monarch
+5.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Monarch
+5.Light Elemental
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Alfyn
+1: Holy Touch
+2: Reflective Veil
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alfyn
+1: Alfyn - HP:5836/5836 SP:207/383 BP:3
+2: Tressa - HP:4169/4891 SP:207/357 BP:1
+3: Cyrus - HP:2925/3557 SP:528/582 BP:3
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Alfyn usa Holy Touch
+Cyrus recupera 3557 de vida
+Cyrus termina con HP:3557
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5836/5836 SP:172/383 BP:0
+B-Tressa - HP:4169/4891 SP:207/357 BP:1
+C-Cyrus - HP:3557/3557 SP:528/582 BP:3
+Equipo del enemigo
+A-Light Elemental - HP:987/1880 Shields:4
+B-Monarch - HP:2307/6740 Shields:6
+C-Albino Bat - HP:0/1896 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Tressa
+3.Monarch
+4.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Monarch
+5.Light Elemental
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: Light Elemental - HP:987/1880 Shields:4
+2: Monarch - HP:2307/6740 Shields:6
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Cyrus ataca
+Light Elemental recibe 0 de daño de tipo Stave
+Light Elemental recibe 0 de daño de tipo Stave
+Light Elemental termina con HP:987
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5836/5836 SP:172/383 BP:0
+B-Tressa - HP:4169/4891 SP:207/357 BP:1
+C-Cyrus - HP:3557/3557 SP:528/582 BP:2
+Equipo del enemigo
+A-Light Elemental - HP:987/1880 Shields:4
+B-Monarch - HP:2307/6740 Shields:6
+C-Albino Bat - HP:0/1896 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Monarch
+3.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Monarch
+5.Light Elemental
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Heal More
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Tressa no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Tressa usa Heal More
+Alfyn recupera 741 de vida
+Cyrus recupera 741 de vida
+Tressa recupera 741 de vida
+Alfyn termina con HP:5836
+Cyrus termina con HP:3557
+Tressa termina con HP:4891
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5836/5836 SP:172/383 BP:0
+B-Tressa - HP:4891/4891 SP:182/357 BP:0
+C-Cyrus - HP:3557/3557 SP:528/582 BP:2
+Equipo del enemigo
+A-Light Elemental - HP:987/1880 Shields:4
+B-Monarch - HP:2307/6740 Shields:6
+C-Albino Bat - HP:0/1896 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Monarch
+2.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Monarch
+5.Light Elemental
+----------------------------------------
+Monarch usa Galestorm
+Alfyn recibe 408 de daño elemental
+Tressa recibe 361 de daño elemental
+Cyrus recibe 316 de daño elemental
+Alfyn termina con HP:5428
+Tressa termina con HP:4530
+Cyrus termina con HP:3241
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5428/5836 SP:172/383 BP:0
+B-Tressa - HP:4530/4891 SP:182/357 BP:0
+C-Cyrus - HP:3241/3557 SP:528/582 BP:2
+Equipo del enemigo
+A-Light Elemental - HP:987/1880 Shields:4
+B-Monarch - HP:2307/6740 Shields:6
+C-Albino Bat - HP:0/1896 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Monarch
+5.Light Elemental
+----------------------------------------
+Light Elemental usa Lightshot
+Alfyn recibe 139 de daño elemental
+Alfyn termina con HP:5289
+----------------------------------------
+INICIA RONDA 17
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5836/5836 SP:172/383 BP:0
+B-Tressa - HP:4530/4891 SP:182/357 BP:0
+C-Cyrus - HP:3241/3557 SP:528/582 BP:2
+Equipo del enemigo
+A-Light Elemental - HP:987/1880 Shields:4
+B-Monarch - HP:2307/6740 Shields:6
+C-Albino Bat - HP:0/1896 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Monarch
+5.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Monarch
+5.Light Elemental
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alfyn
+1: Light Elemental - HP:987/1880 Shields:4
+2: Monarch - HP:2307/6740 Shields:6
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Alfyn ataca
+Light Elemental recibe 121 de daño de tipo Axe
+Light Elemental termina con HP:866
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5836/5836 SP:172/383 BP:0
+B-Tressa - HP:4530/4891 SP:182/357 BP:0
+C-Cyrus - HP:3241/3557 SP:528/582 BP:2
+Equipo del enemigo
+A-Light Elemental - HP:866/1880 Shields:4
+B-Monarch - HP:2307/6740 Shields:6
+C-Albino Bat - HP:0/1896 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Tressa
+3.Monarch
+4.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Monarch
+5.Light Elemental
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: Light Elemental - HP:866/1880 Shields:4
+2: Monarch - HP:2307/6740 Shields:6
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Cyrus no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus ataca
+Light Elemental recibe 0 de daño de tipo Stave
+Light Elemental termina con HP:866
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5836/5836 SP:172/383 BP:0
+B-Tressa - HP:4530/4891 SP:182/357 BP:0
+C-Cyrus - HP:3241/3557 SP:528/582 BP:2
+Equipo del enemigo
+A-Light Elemental - HP:866/1880 Shields:4
+B-Monarch - HP:2307/6740 Shields:6
+C-Albino Bat - HP:0/1896 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Monarch
+3.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Monarch
+5.Light Elemental
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Light Elemental - HP:866/1880 Shields:4
+2: Monarch - HP:2307/6740 Shields:6
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Tressa ataca
+Light Elemental recibe 126 de daño de tipo Spear
+Light Elemental termina con HP:740
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5836/5836 SP:172/383 BP:0
+B-Tressa - HP:4530/4891 SP:182/357 BP:0
+C-Cyrus - HP:3241/3557 SP:528/582 BP:2
+Equipo del enemigo
+A-Light Elemental - HP:740/1880 Shields:4
+B-Monarch - HP:2307/6740 Shields:6
+C-Albino Bat - HP:0/1896 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Monarch
+2.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Monarch
+5.Light Elemental
+----------------------------------------
+Monarch usa Galestorm
+Alfyn recibe 408 de daño elemental
+Tressa recibe 361 de daño elemental
+Cyrus recibe 316 de daño elemental
+Alfyn termina con HP:5428
+Tressa termina con HP:4169
+Cyrus termina con HP:2925
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5428/5836 SP:172/383 BP:0
+B-Tressa - HP:4169/4891 SP:182/357 BP:0
+C-Cyrus - HP:2925/3557 SP:528/582 BP:2
+Equipo del enemigo
+A-Light Elemental - HP:740/1880 Shields:4
+B-Monarch - HP:2307/6740 Shields:6
+C-Albino Bat - HP:0/1896 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Monarch
+5.Light Elemental
+----------------------------------------
+Light Elemental usa Lightshot
+Alfyn recibe 139 de daño elemental
+Alfyn termina con HP:5289
+----------------------------------------
+INICIA RONDA 18
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5836/5836 SP:172/383 BP:1
+B-Tressa - HP:4169/4891 SP:182/357 BP:1
+C-Cyrus - HP:2925/3557 SP:528/582 BP:3
+Equipo del enemigo
+A-Light Elemental - HP:740/1880 Shields:4
+B-Monarch - HP:2307/6740 Shields:6
+C-Albino Bat - HP:0/1896 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Monarch
+5.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Monarch
+5.Light Elemental
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Alfyn
+1: Reflective Veil
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alfyn
+1: Alfyn - HP:5836/5836 SP:172/383 BP:1
+2: Tressa - HP:4169/4891 SP:182/357 BP:1
+3: Cyrus - HP:2925/3557 SP:528/582 BP:3
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Alfyn usa Reflective Veil
+Tressa reflejará los próximos 1 ataques elementales
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5836/5836 SP:150/383 BP:1
+B-Tressa - HP:4169/4891 SP:182/357 BP:1
+C-Cyrus - HP:2925/3557 SP:528/582 BP:3
+Equipo del enemigo
+A-Light Elemental - HP:740/1880 Shields:4
+B-Monarch - HP:2307/6740 Shields:6
+C-Albino Bat - HP:0/1896 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Tressa
+3.Monarch
+4.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Monarch
+5.Light Elemental
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: Light Elemental - HP:740/1880 Shields:4
+2: Monarch - HP:2307/6740 Shields:6
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Cyrus ataca
+Light Elemental recibe 0 de daño de tipo Stave
+Light Elemental recibe 0 de daño de tipo Stave
+Light Elemental termina con HP:740
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5836/5836 SP:150/383 BP:1
+B-Tressa - HP:4169/4891 SP:182/357 BP:1
+C-Cyrus - HP:2925/3557 SP:528/582 BP:2
+Equipo del enemigo
+A-Light Elemental - HP:740/1880 Shields:4
+B-Monarch - HP:2307/6740 Shields:6
+C-Albino Bat - HP:0/1896 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Monarch
+3.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Monarch
+5.Light Elemental
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Light Elemental - HP:740/1880 Shields:4
+2: Monarch - HP:2307/6740 Shields:6
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Tressa no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Tressa ataca
+Monarch recibe 235 de daño de tipo Spear con debilidad
+Monarch recibe 235 de daño de tipo Spear con debilidad
+Monarch termina con HP:1837
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5836/5836 SP:150/383 BP:1
+B-Tressa - HP:4169/4891 SP:182/357 BP:0
+C-Cyrus - HP:2925/3557 SP:528/582 BP:2
+Equipo del enemigo
+A-Light Elemental - HP:740/1880 Shields:4
+B-Monarch - HP:1837/6740 Shields:4
+C-Albino Bat - HP:0/1896 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Monarch
+2.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Monarch
+5.Light Elemental
+----------------------------------------
+Monarch usa Galestorm
+Alfyn recibe 408 de daño elemental
+Tressa refleja el daño
+Monarch recibe 361 de daño
+Cyrus recibe 316 de daño elemental
+Alfyn termina con HP:5428
+Monarch termina con HP:1476
+Cyrus termina con HP:2609
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5428/5836 SP:150/383 BP:1
+B-Tressa - HP:4169/4891 SP:182/357 BP:0
+C-Cyrus - HP:2609/3557 SP:528/582 BP:2
+Equipo del enemigo
+A-Light Elemental - HP:740/1880 Shields:4
+B-Monarch - HP:1476/6740 Shields:4
+C-Albino Bat - HP:0/1896 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Monarch
+5.Light Elemental
+----------------------------------------
+Light Elemental usa Lightshot
+Alfyn recibe 139 de daño elemental
+Alfyn termina con HP:5289
+----------------------------------------
+INICIA RONDA 19
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5836/5836 SP:150/383 BP:2
+B-Tressa - HP:4169/4891 SP:182/357 BP:0
+C-Cyrus - HP:2609/3557 SP:528/582 BP:2
+Equipo del enemigo
+A-Light Elemental - HP:740/1880 Shields:4
+B-Monarch - HP:1476/6740 Shields:4
+C-Albino Bat - HP:0/1896 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Monarch
+5.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Monarch
+5.Light Elemental
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Alfyn
+1: Reflective Veil
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alfyn
+1: Alfyn - HP:5836/5836 SP:150/383 BP:2
+2: Tressa - HP:4169/4891 SP:182/357 BP:0
+3: Cyrus - HP:2609/3557 SP:528/582 BP:2
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Alfyn usa Reflective Veil
+Alfyn reflejará los próximos 2 ataques elementales
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5836/5836 SP:128/383 BP:1
+B-Tressa - HP:4169/4891 SP:182/357 BP:0
+C-Cyrus - HP:2609/3557 SP:528/582 BP:2
+Equipo del enemigo
+A-Light Elemental - HP:740/1880 Shields:4
+B-Monarch - HP:1476/6740 Shields:4
+C-Albino Bat - HP:0/1896 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Tressa
+3.Monarch
+4.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Monarch
+5.Light Elemental
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: Light Elemental - HP:740/1880 Shields:4
+2: Monarch - HP:1476/6740 Shields:4
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Cyrus ataca
+Monarch recibe 0 de daño de tipo Stave
+Monarch recibe 0 de daño de tipo Stave
+Monarch termina con HP:1476
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5836/5836 SP:128/383 BP:1
+B-Tressa - HP:4169/4891 SP:182/357 BP:0
+C-Cyrus - HP:2609/3557 SP:528/582 BP:1
+Equipo del enemigo
+A-Light Elemental - HP:740/1880 Shields:4
+B-Monarch - HP:1476/6740 Shields:4
+C-Albino Bat - HP:0/1896 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Monarch
+3.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Monarch
+5.Light Elemental
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Heal More
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Tressa usa Heal More
+Alfyn recupera 570 de vida
+Cyrus recupera 570 de vida
+Tressa recupera 570 de vida
+Alfyn termina con HP:5836
+Cyrus termina con HP:3179
+Tressa termina con HP:4739
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5836/5836 SP:128/383 BP:1
+B-Tressa - HP:4739/4891 SP:157/357 BP:0
+C-Cyrus - HP:3179/3557 SP:528/582 BP:1
+Equipo del enemigo
+A-Light Elemental - HP:740/1880 Shields:4
+B-Monarch - HP:1476/6740 Shields:4
+C-Albino Bat - HP:0/1896 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Monarch
+2.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Monarch
+5.Light Elemental
+----------------------------------------
+Monarch usa Galestorm
+Alfyn refleja el daño
+Monarch recibe 408 de daño
+Tressa recibe 361 de daño elemental
+Cyrus recibe 316 de daño elemental
+Monarch termina con HP:1068
+Tressa termina con HP:4378
+Cyrus termina con HP:2863
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5836/5836 SP:128/383 BP:1
+B-Tressa - HP:4378/4891 SP:157/357 BP:0
+C-Cyrus - HP:2863/3557 SP:528/582 BP:1
+Equipo del enemigo
+A-Light Elemental - HP:740/1880 Shields:4
+B-Monarch - HP:1068/6740 Shields:4
+C-Albino Bat - HP:0/1896 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Monarch
+5.Light Elemental
+----------------------------------------
+Light Elemental usa Lightshot
+Alfyn refleja el daño
+Light Elemental recibe 139 de daño
+Light Elemental termina con HP:601
+----------------------------------------
+INICIA RONDA 20
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5836/5836 SP:128/383 BP:1
+B-Tressa - HP:4378/4891 SP:157/357 BP:1
+C-Cyrus - HP:2863/3557 SP:528/582 BP:1
+Equipo del enemigo
+A-Light Elemental - HP:601/1880 Shields:4
+B-Monarch - HP:1068/6740 Shields:4
+C-Albino Bat - HP:0/1896 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Monarch
+5.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Monarch
+5.Light Elemental
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Alfyn
+1: Reflective Veil
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alfyn
+1: Alfyn - HP:5836/5836 SP:128/383 BP:1
+2: Tressa - HP:4378/4891 SP:157/357 BP:1
+3: Cyrus - HP:2863/3557 SP:528/582 BP:1
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Alfyn usa Reflective Veil
+Alfyn reflejará los próximos 1 ataques elementales
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5836/5836 SP:106/383 BP:1
+B-Tressa - HP:4378/4891 SP:157/357 BP:1
+C-Cyrus - HP:2863/3557 SP:528/582 BP:1
+Equipo del enemigo
+A-Light Elemental - HP:601/1880 Shields:4
+B-Monarch - HP:1068/6740 Shields:4
+C-Albino Bat - HP:0/1896 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Tressa
+3.Monarch
+4.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Monarch
+5.Light Elemental
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Heal Wounds
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Cyrus usa Heal Wounds
+Alfyn recupera 660 de vida
+Tressa recupera 660 de vida
+Cyrus recupera 660 de vida
+Alfyn termina con HP:5836
+Tressa termina con HP:4891
+Cyrus termina con HP:3523
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5836/5836 SP:106/383 BP:1
+B-Tressa - HP:4891/4891 SP:157/357 BP:1
+C-Cyrus - HP:3523/3557 SP:522/582 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:601/1880 Shields:4
+B-Monarch - HP:1068/6740 Shields:4
+C-Albino Bat - HP:0/1896 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Monarch
+3.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Monarch
+5.Light Elemental
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Light Elemental - HP:601/1880 Shields:4
+2: Monarch - HP:1068/6740 Shields:4
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Tressa ataca
+Light Elemental recibe 126 de daño de tipo Bow
+Light Elemental termina con HP:475
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5836/5836 SP:106/383 BP:1
+B-Tressa - HP:4891/4891 SP:157/357 BP:1
+C-Cyrus - HP:3523/3557 SP:522/582 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:475/1880 Shields:4
+B-Monarch - HP:1068/6740 Shields:4
+C-Albino Bat - HP:0/1896 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Monarch
+2.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Monarch
+5.Light Elemental
+----------------------------------------
+Monarch usa Galestorm
+Alfyn refleja el daño
+Monarch recibe 408 de daño
+Tressa recibe 361 de daño elemental
+Cyrus recibe 316 de daño elemental
+Monarch termina con HP:660
+Tressa termina con HP:4530
+Cyrus termina con HP:3207
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5836/5836 SP:106/383 BP:1
+B-Tressa - HP:4530/4891 SP:157/357 BP:1
+C-Cyrus - HP:3207/3557 SP:522/582 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:475/1880 Shields:4
+B-Monarch - HP:660/6740 Shields:4
+C-Albino Bat - HP:0/1896 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Monarch
+5.Light Elemental
+----------------------------------------
+Light Elemental usa Lightshot
+Alfyn recibe 139 de daño elemental
+Alfyn termina con HP:5697
+----------------------------------------
+INICIA RONDA 21
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5836/5836 SP:106/383 BP:2
+B-Tressa - HP:4530/4891 SP:157/357 BP:2
+C-Cyrus - HP:3207/3557 SP:522/582 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:475/1880 Shields:4
+B-Monarch - HP:660/6740 Shields:4
+C-Albino Bat - HP:0/1896 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Monarch
+5.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Monarch
+5.Light Elemental
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5836/5836 SP:106/383 BP:2
+B-Tressa - HP:4530/4891 SP:157/357 BP:2
+C-Cyrus - HP:3207/3557 SP:522/582 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:475/1880 Shields:4
+B-Monarch - HP:660/6740 Shields:4
+C-Albino Bat - HP:0/1896 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Tressa
+3.Monarch
+4.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Monarch
+5.Light Elemental
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Heal Wounds
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Cyrus usa Heal Wounds
+Alfyn recupera 495 de vida
+Tressa recupera 495 de vida
+Cyrus recupera 495 de vida
+Alfyn termina con HP:5836
+Tressa termina con HP:4891
+Cyrus termina con HP:3557
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5836/5836 SP:106/383 BP:2
+B-Tressa - HP:4891/4891 SP:157/357 BP:2
+C-Cyrus - HP:3557/3557 SP:516/582 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:475/1880 Shields:4
+B-Monarch - HP:660/6740 Shields:4
+C-Albino Bat - HP:0/1896 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Monarch
+3.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Monarch
+5.Light Elemental
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Heal More
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Tressa no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Tressa usa Heal More
+Alfyn recupera 912 de vida
+Cyrus recupera 912 de vida
+Tressa recupera 912 de vida
+Alfyn termina con HP:5836
+Cyrus termina con HP:3557
+Tressa termina con HP:4891
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5836/5836 SP:106/383 BP:2
+B-Tressa - HP:4891/4891 SP:132/357 BP:0
+C-Cyrus - HP:3557/3557 SP:516/582 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:475/1880 Shields:4
+B-Monarch - HP:660/6740 Shields:4
+C-Albino Bat - HP:0/1896 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Monarch
+2.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Monarch
+5.Light Elemental
+----------------------------------------
+Monarch usa Galestorm
+Alfyn se defiende
+Alfyn recibe 204 de daño elemental
+Tressa recibe 361 de daño elemental
+Cyrus recibe 316 de daño elemental
+Alfyn termina con HP:5632
+Tressa termina con HP:4530
+Cyrus termina con HP:3241
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5632/5836 SP:106/383 BP:2
+B-Tressa - HP:4530/4891 SP:132/357 BP:0
+C-Cyrus - HP:3241/3557 SP:516/582 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:475/1880 Shields:4
+B-Monarch - HP:660/6740 Shields:4
+C-Albino Bat - HP:0/1896 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Monarch
+5.Light Elemental
+----------------------------------------
+Light Elemental usa Lightshot
+Alfyn se defiende
+Alfyn recibe 69 de daño elemental
+Alfyn termina con HP:5563
+----------------------------------------
+INICIA RONDA 22
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5836/5836 SP:106/383 BP:3
+B-Tressa - HP:4530/4891 SP:132/357 BP:0
+C-Cyrus - HP:3241/3557 SP:516/582 BP:1
+Equipo del enemigo
+A-Light Elemental - HP:475/1880 Shields:4
+B-Monarch - HP:660/6740 Shields:4
+C-Albino Bat - HP:0/1896 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Monarch
+5.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Monarch
+5.Light Elemental
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Alfyn
+1: Holy Touch
+2: Reflective Veil
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Alfyn
+1: Alfyn - HP:5836/5836 SP:106/383 BP:3
+2: Tressa - HP:4530/4891 SP:132/357 BP:0
+3: Cyrus - HP:3241/3557 SP:516/582 BP:1
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Alfyn usa Reflective Veil
+Cyrus reflejará los próximos 1 ataques elementales
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5836/5836 SP:84/383 BP:3
+B-Tressa - HP:4530/4891 SP:132/357 BP:0
+C-Cyrus - HP:3241/3557 SP:516/582 BP:1
+Equipo del enemigo
+A-Light Elemental - HP:475/1880 Shields:4
+B-Monarch - HP:660/6740 Shields:4
+C-Albino Bat - HP:0/1896 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Tressa
+3.Monarch
+4.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Monarch
+5.Light Elemental
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5836/5836 SP:84/383 BP:3
+B-Tressa - HP:4530/4891 SP:132/357 BP:0
+C-Cyrus - HP:3241/3557 SP:516/582 BP:1
+Equipo del enemigo
+A-Light Elemental - HP:475/1880 Shields:4
+B-Monarch - HP:660/6740 Shields:4
+C-Albino Bat - HP:0/1896 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Monarch
+3.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Alfyn
+3.Tressa
+4.Monarch
+5.Light Elemental
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Heal More
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Tressa usa Heal More
+Alfyn recupera 570 de vida
+Cyrus recupera 570 de vida
+Tressa recupera 570 de vida
+Alfyn termina con HP:5836
+Cyrus termina con HP:3557
+Tressa termina con HP:4891
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5836/5836 SP:84/383 BP:3
+B-Tressa - HP:4891/4891 SP:107/357 BP:0
+C-Cyrus - HP:3557/3557 SP:516/582 BP:1
+Equipo del enemigo
+A-Light Elemental - HP:475/1880 Shields:4
+B-Monarch - HP:660/6740 Shields:4
+C-Albino Bat - HP:0/1896 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Monarch
+2.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Alfyn
+3.Tressa
+4.Monarch
+5.Light Elemental
+----------------------------------------
+Monarch usa Galestorm
+Alfyn recibe 408 de daño elemental
+Tressa recibe 361 de daño elemental
+Cyrus se defiende
+Cyrus refleja el daño
+Monarch recibe 158 de daño
+Alfyn termina con HP:5428
+Tressa termina con HP:4530
+Monarch termina con HP:502
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5428/5836 SP:84/383 BP:3
+B-Tressa - HP:4530/4891 SP:107/357 BP:0
+C-Cyrus - HP:3557/3557 SP:516/582 BP:1
+Equipo del enemigo
+A-Light Elemental - HP:475/1880 Shields:4
+B-Monarch - HP:502/6740 Shields:4
+C-Albino Bat - HP:0/1896 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Alfyn
+3.Tressa
+4.Monarch
+5.Light Elemental
+----------------------------------------
+Light Elemental usa Lightshot
+Alfyn recibe 139 de daño elemental
+Alfyn termina con HP:5289
+----------------------------------------
+INICIA RONDA 23
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5836/5836 SP:84/383 BP:4
+B-Tressa - HP:4530/4891 SP:107/357 BP:1
+C-Cyrus - HP:3557/3557 SP:516/582 BP:2
+Equipo del enemigo
+A-Light Elemental - HP:475/1880 Shields:4
+B-Monarch - HP:502/6740 Shields:4
+C-Albino Bat - HP:0/1896 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Alfyn
+3.Tressa
+4.Monarch
+5.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Monarch
+5.Light Elemental
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Heal Wounds
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Cyrus no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Cyrus usa Heal Wounds
+Alfyn recupera 660 de vida
+Tressa recupera 660 de vida
+Cyrus recupera 660 de vida
+Alfyn termina con HP:5836
+Tressa termina con HP:4891
+Cyrus termina con HP:3557
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5836/5836 SP:84/383 BP:4
+B-Tressa - HP:4891/4891 SP:107/357 BP:1
+C-Cyrus - HP:3557/3557 SP:510/582 BP:1
+Equipo del enemigo
+A-Light Elemental - HP:475/1880 Shields:4
+B-Monarch - HP:502/6740 Shields:4
+C-Albino Bat - HP:0/1896 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Tressa
+3.Monarch
+4.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Monarch
+5.Light Elemental
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Alfyn
+1: Holy Touch
+2: Reflective Veil
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Alfyn
+1: Alfyn - HP:5836/5836 SP:84/383 BP:4
+2: Tressa - HP:4891/4891 SP:107/357 BP:1
+3: Cyrus - HP:3557/3557 SP:510/582 BP:1
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Alfyn usa Reflective Veil
+Tressa reflejará los próximos 4 ataques elementales
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5836/5836 SP:62/383 BP:1
+B-Tressa - HP:4891/4891 SP:107/357 BP:1
+C-Cyrus - HP:3557/3557 SP:510/582 BP:1
+Equipo del enemigo
+A-Light Elemental - HP:475/1880 Shields:4
+B-Monarch - HP:502/6740 Shields:4
+C-Albino Bat - HP:0/1896 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Monarch
+3.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Monarch
+5.Light Elemental
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Heal More
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Tressa no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Tressa usa Heal More
+Alfyn recupera 570 de vida
+Cyrus recupera 570 de vida
+Tressa recupera 570 de vida
+Alfyn termina con HP:5836
+Cyrus termina con HP:3557
+Tressa termina con HP:4891
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5836/5836 SP:62/383 BP:1
+B-Tressa - HP:4891/4891 SP:82/357 BP:1
+C-Cyrus - HP:3557/3557 SP:510/582 BP:1
+Equipo del enemigo
+A-Light Elemental - HP:475/1880 Shields:4
+B-Monarch - HP:502/6740 Shields:4
+C-Albino Bat - HP:0/1896 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Monarch
+2.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Monarch
+5.Light Elemental
+----------------------------------------
+Monarch usa Galestorm
+Alfyn recibe 408 de daño elemental
+Tressa refleja el daño
+Monarch recibe 361 de daño
+Cyrus recibe 316 de daño elemental
+Alfyn termina con HP:5428
+Monarch termina con HP:141
+Cyrus termina con HP:3241
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5428/5836 SP:62/383 BP:1
+B-Tressa - HP:4891/4891 SP:82/357 BP:1
+C-Cyrus - HP:3241/3557 SP:510/582 BP:1
+Equipo del enemigo
+A-Light Elemental - HP:475/1880 Shields:4
+B-Monarch - HP:141/6740 Shields:4
+C-Albino Bat - HP:0/1896 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Monarch
+5.Light Elemental
+----------------------------------------
+Light Elemental usa Lightshot
+Alfyn recibe 139 de daño elemental
+Alfyn termina con HP:5289
+----------------------------------------
+INICIA RONDA 24
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5836/5836 SP:62/383 BP:1
+B-Tressa - HP:4891/4891 SP:82/357 BP:2
+C-Cyrus - HP:3241/3557 SP:510/582 BP:1
+Equipo del enemigo
+A-Light Elemental - HP:475/1880 Shields:4
+B-Monarch - HP:141/6740 Shields:4
+C-Albino Bat - HP:0/1896 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Monarch
+5.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Monarch
+5.Light Elemental
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Alfyn
+1: Reflective Veil
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alfyn
+1: Alfyn - HP:5836/5836 SP:62/383 BP:1
+2: Tressa - HP:4891/4891 SP:82/357 BP:2
+3: Cyrus - HP:3241/3557 SP:510/582 BP:1
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Alfyn no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Alfyn usa Reflective Veil
+Tressa reflejará los próximos 2 ataques elementales
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5836/5836 SP:40/383 BP:0
+B-Tressa - HP:4891/4891 SP:82/357 BP:2
+C-Cyrus - HP:3241/3557 SP:510/582 BP:1
+Equipo del enemigo
+A-Light Elemental - HP:475/1880 Shields:4
+B-Monarch - HP:141/6740 Shields:4
+C-Albino Bat - HP:0/1896 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Tressa
+3.Monarch
+4.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Monarch
+5.Light Elemental
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Heal Wounds
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Cyrus no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Cyrus no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Cyrus usa Heal Wounds
+Alfyn recupera 660 de vida
+Tressa recupera 660 de vida
+Cyrus recupera 660 de vida
+Alfyn termina con HP:5836
+Tressa termina con HP:4891
+Cyrus termina con HP:3557
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5836/5836 SP:40/383 BP:0
+B-Tressa - HP:4891/4891 SP:82/357 BP:2
+C-Cyrus - HP:3557/3557 SP:504/582 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:475/1880 Shields:4
+B-Monarch - HP:141/6740 Shields:4
+C-Albino Bat - HP:0/1896 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Monarch
+3.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Monarch
+5.Light Elemental
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Heal More
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Tressa usa Heal More
+Alfyn recupera 912 de vida
+Cyrus recupera 912 de vida
+Tressa recupera 912 de vida
+Alfyn termina con HP:5836
+Cyrus termina con HP:3557
+Tressa termina con HP:4891
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5836/5836 SP:40/383 BP:0
+B-Tressa - HP:4891/4891 SP:57/357 BP:0
+C-Cyrus - HP:3557/3557 SP:504/582 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:475/1880 Shields:4
+B-Monarch - HP:141/6740 Shields:4
+C-Albino Bat - HP:0/1896 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Monarch
+2.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Monarch
+5.Light Elemental
+----------------------------------------
+Monarch usa Galestorm
+Alfyn recibe 408 de daño elemental
+Tressa refleja el daño
+Monarch recibe 361 de daño
+Cyrus recibe 316 de daño elemental
+Alfyn termina con HP:5428
+Monarch termina con HP:0
+Cyrus termina con HP:3241
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5428/5836 SP:40/383 BP:0
+B-Tressa - HP:4891/4891 SP:57/357 BP:0
+C-Cyrus - HP:3241/3557 SP:504/582 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:475/1880 Shields:4
+B-Monarch - HP:0/6740 Shields:4
+C-Albino Bat - HP:0/1896 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Light Elemental
+----------------------------------------
+Light Elemental usa Lightshot
+Alfyn recibe 139 de daño elemental
+Alfyn termina con HP:5289
+----------------------------------------
+INICIA RONDA 25
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5836/5836 SP:40/383 BP:0
+B-Tressa - HP:4891/4891 SP:57/357 BP:0
+C-Cyrus - HP:3241/3557 SP:504/582 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:475/1880 Shields:4
+B-Monarch - HP:0/6740 Shields:4
+C-Albino Bat - HP:0/1896 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Light Elemental
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Alfyn
+1: Reflective Veil
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alfyn
+1: Alfyn - HP:5836/5836 SP:40/383 BP:0
+2: Tressa - HP:4891/4891 SP:57/357 BP:0
+3: Cyrus - HP:3241/3557 SP:504/582 BP:0
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Alfyn usa Reflective Veil
+Cyrus reflejará los próximos 1 ataques elementales
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5836/5836 SP:18/383 BP:0
+B-Tressa - HP:4891/4891 SP:57/357 BP:0
+C-Cyrus - HP:3241/3557 SP:504/582 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:475/1880 Shields:4
+B-Monarch - HP:0/6740 Shields:4
+C-Albino Bat - HP:0/1896 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Tressa
+3.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Light Elemental
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Heal Wounds
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Cyrus usa Heal Wounds
+Alfyn recupera 495 de vida
+Tressa recupera 495 de vida
+Cyrus recupera 495 de vida
+Alfyn termina con HP:5836
+Tressa termina con HP:4891
+Cyrus termina con HP:3557
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5836/5836 SP:18/383 BP:0
+B-Tressa - HP:4891/4891 SP:57/357 BP:0
+C-Cyrus - HP:3557/3557 SP:498/582 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:475/1880 Shields:4
+B-Monarch - HP:0/6740 Shields:4
+C-Albino Bat - HP:0/1896 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Light Elemental
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Heal More
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Tressa usa Heal More
+Alfyn recupera 570 de vida
+Cyrus recupera 570 de vida
+Tressa recupera 570 de vida
+Alfyn termina con HP:5836
+Cyrus termina con HP:3557
+Tressa termina con HP:4891
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5836/5836 SP:18/383 BP:0
+B-Tressa - HP:4891/4891 SP:32/357 BP:0
+C-Cyrus - HP:3557/3557 SP:498/582 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:475/1880 Shields:4
+B-Monarch - HP:0/6740 Shields:4
+C-Albino Bat - HP:0/1896 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Light Elemental
+----------------------------------------
+Light Elemental usa Lightshot
+Alfyn recibe 139 de daño elemental
+Alfyn termina con HP:5697
+----------------------------------------
+INICIA RONDA 26
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5836/5836 SP:18/383 BP:1
+B-Tressa - HP:4891/4891 SP:32/357 BP:1
+C-Cyrus - HP:3557/3557 SP:498/582 BP:1
+Equipo del enemigo
+A-Light Elemental - HP:475/1880 Shields:4
+B-Monarch - HP:0/6740 Shields:4
+C-Albino Bat - HP:0/1896 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Light Elemental
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Alfyn
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Alfyn
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Alfyn
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5836/5836 SP:18/383 BP:1
+B-Tressa - HP:4891/4891 SP:32/357 BP:1
+C-Cyrus - HP:3557/3557 SP:498/582 BP:1
+Equipo del enemigo
+A-Light Elemental - HP:475/1880 Shields:4
+B-Monarch - HP:0/6740 Shields:4
+C-Albino Bat - HP:0/1896 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Tressa
+3.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Light Elemental
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: Light Elemental - HP:475/1880 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Cyrus no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus ataca
+Light Elemental recibe 0 de daño de tipo Stave
+Light Elemental termina con HP:475
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5836/5836 SP:18/383 BP:1
+B-Tressa - HP:4891/4891 SP:32/357 BP:1
+C-Cyrus - HP:3557/3557 SP:498/582 BP:1
+Equipo del enemigo
+A-Light Elemental - HP:475/1880 Shields:4
+B-Monarch - HP:0/6740 Shields:4
+C-Albino Bat - HP:0/1896 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Light Elemental
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5836/5836 SP:18/383 BP:1
+B-Tressa - HP:4891/4891 SP:32/357 BP:1
+C-Cyrus - HP:3557/3557 SP:498/582 BP:1
+Equipo del enemigo
+A-Light Elemental - HP:475/1880 Shields:4
+B-Monarch - HP:0/6740 Shields:4
+C-Albino Bat - HP:0/1896 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Tressa
+3.Cyrus
+4.Light Elemental
+----------------------------------------
+Light Elemental usa Lightshot
+Alfyn se defiende
+Alfyn recibe 69 de daño elemental
+Alfyn termina con HP:5767
+----------------------------------------
+INICIA RONDA 27
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5836/5836 SP:18/383 BP:2
+B-Tressa - HP:4891/4891 SP:32/357 BP:2
+C-Cyrus - HP:3557/3557 SP:498/582 BP:2
+Equipo del enemigo
+A-Light Elemental - HP:475/1880 Shields:4
+B-Monarch - HP:0/6740 Shields:4
+C-Albino Bat - HP:0/1896 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Tressa
+3.Cyrus
+4.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Light Elemental
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alfyn
+1: Light Elemental - HP:475/1880 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Alfyn no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Alfyn ataca
+Light Elemental recibe 121 de daño de tipo Axe
+Light Elemental recibe 121 de daño de tipo Axe
+Light Elemental recibe 121 de daño de tipo Axe
+Light Elemental termina con HP:112
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5836/5836 SP:18/383 BP:0
+B-Tressa - HP:4891/4891 SP:32/357 BP:2
+C-Cyrus - HP:3557/3557 SP:498/582 BP:2
+Equipo del enemigo
+A-Light Elemental - HP:112/1880 Shields:4
+B-Monarch - HP:0/6740 Shields:4
+C-Albino Bat - HP:0/1896 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Cyrus
+3.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Light Elemental
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5836/5836 SP:18/383 BP:0
+B-Tressa - HP:4891/4891 SP:32/357 BP:2
+C-Cyrus - HP:3557/3557 SP:498/582 BP:2
+Equipo del enemigo
+A-Light Elemental - HP:112/1880 Shields:4
+B-Monarch - HP:0/6740 Shields:4
+C-Albino Bat - HP:0/1896 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Alfyn
+3.Cyrus
+4.Light Elemental
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Heal Wounds
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Cyrus usa Heal Wounds
+Alfyn recupera 660 de vida
+Tressa recupera 660 de vida
+Cyrus recupera 660 de vida
+Alfyn termina con HP:5836
+Tressa termina con HP:4891
+Cyrus termina con HP:3557
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5836/5836 SP:18/383 BP:0
+B-Tressa - HP:4891/4891 SP:32/357 BP:2
+C-Cyrus - HP:3557/3557 SP:492/582 BP:1
+Equipo del enemigo
+A-Light Elemental - HP:112/1880 Shields:4
+B-Monarch - HP:0/6740 Shields:4
+C-Albino Bat - HP:0/1896 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Alfyn
+3.Cyrus
+4.Light Elemental
+----------------------------------------
+Light Elemental usa Lightshot
+Alfyn recibe 139 de daño elemental
+Alfyn termina con HP:5697
+----------------------------------------
+INICIA RONDA 28
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5836/5836 SP:18/383 BP:0
+B-Tressa - HP:4891/4891 SP:32/357 BP:3
+C-Cyrus - HP:3557/3557 SP:492/582 BP:1
+Equipo del enemigo
+A-Light Elemental - HP:112/1880 Shields:4
+B-Monarch - HP:0/6740 Shields:4
+C-Albino Bat - HP:0/1896 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Alfyn
+3.Cyrus
+4.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Light Elemental
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Heal More
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Tressa usa Heal More
+Alfyn recupera 1083 de vida
+Cyrus recupera 1083 de vida
+Tressa recupera 1083 de vida
+Alfyn termina con HP:5836
+Cyrus termina con HP:3557
+Tressa termina con HP:4891
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5836/5836 SP:18/383 BP:0
+B-Tressa - HP:4891/4891 SP:7/357 BP:0
+C-Cyrus - HP:3557/3557 SP:492/582 BP:1
+Equipo del enemigo
+A-Light Elemental - HP:112/1880 Shields:4
+B-Monarch - HP:0/6740 Shields:4
+C-Albino Bat - HP:0/1896 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Cyrus
+3.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Light Elemental
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5836/5836 SP:18/383 BP:0
+B-Tressa - HP:4891/4891 SP:7/357 BP:0
+C-Cyrus - HP:3557/3557 SP:492/582 BP:1
+Equipo del enemigo
+A-Light Elemental - HP:112/1880 Shields:4
+B-Monarch - HP:0/6740 Shields:4
+C-Albino Bat - HP:0/1896 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Light Elemental
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: Light Elemental - HP:112/1880 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Cyrus ataca
+Light Elemental recibe 0 de daño de tipo Stave
+Light Elemental recibe 0 de daño de tipo Stave
+Light Elemental termina con HP:112
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5836/5836 SP:18/383 BP:0
+B-Tressa - HP:4891/4891 SP:7/357 BP:0
+C-Cyrus - HP:3557/3557 SP:492/582 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:112/1880 Shields:4
+B-Monarch - HP:0/6740 Shields:4
+C-Albino Bat - HP:0/1896 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Light Elemental
+----------------------------------------
+Light Elemental usa Lightshot
+Alfyn se defiende
+Alfyn recibe 69 de daño elemental
+Alfyn termina con HP:5767
+----------------------------------------
+INICIA RONDA 29
+----------------------------------------
+Equipo del jugador
+A-Alfyn - HP:5836/5836 SP:18/383 BP:1
+B-Tressa - HP:4891/4891 SP:7/357 BP:0
+C-Cyrus - HP:3557/3557 SP:492/582 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:112/1880 Shields:4
+B-Monarch - HP:0/6740 Shields:4
+C-Albino Bat - HP:0/1896 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Cyrus
+3.Tressa
+4.Light Elemental
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alfyn
+1: Light Elemental - HP:112/1880 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Alfyn no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Alfyn no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Alfyn ataca
+Light Elemental recibe 121 de daño de tipo Axe
+Light Elemental recibe 121 de daño de tipo Axe
+Light Elemental termina con HP:0
+----------------------------------------
+Gana equipo del jugador

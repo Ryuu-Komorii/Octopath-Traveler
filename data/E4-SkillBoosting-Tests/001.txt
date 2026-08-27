@@ -1,0 +1,784 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+INPUT: 0
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:317/317 BP:1
+Equipo del enemigo
+A-Meep - HP:1016/1016 Shields:2
+B-Mossy Meep - HP:1060/1060 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Meep
+3.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Meep
+3.Mossy Meep
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Moon's Reflection
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Hikari - HP:5781/5781 SP:317/317 BP:1
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari usa Moon's Reflection
+Hikari reflejará los próximos 1 ataques físicos
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:287/317 BP:1
+Equipo del enemigo
+A-Meep - HP:1016/1016 Shields:2
+B-Mossy Meep - HP:1060/1060 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Meep
+2.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Meep
+3.Mossy Meep
+----------------------------------------
+Meep usa Attack
+Hikari refleja el daño
+Meep recibe 140 de daño
+Meep termina con HP:876
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:287/317 BP:1
+Equipo del enemigo
+A-Meep - HP:876/1016 Shields:2
+B-Mossy Meep - HP:1060/1060 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Meep
+3.Mossy Meep
+----------------------------------------
+Mossy Meep usa Attack
+Hikari recibe 157 de daño físico
+Hikari termina con HP:5624
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5624/5781 SP:287/317 BP:2
+Equipo del enemigo
+A-Meep - HP:876/1016 Shields:2
+B-Mossy Meep - HP:1060/1060 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Meep
+3.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Meep
+3.Mossy Meep
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Moon's Reflection
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Hikari - HP:5624/5781 SP:287/317 BP:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Hikari usa Moon's Reflection
+Hikari reflejará los próximos 3 ataques físicos
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5624/5781 SP:257/317 BP:0
+Equipo del enemigo
+A-Meep - HP:876/1016 Shields:2
+B-Mossy Meep - HP:1060/1060 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Meep
+2.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Meep
+3.Mossy Meep
+----------------------------------------
+Meep usa Attack
+Hikari refleja el daño
+Meep recibe 140 de daño
+Meep termina con HP:736
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5624/5781 SP:257/317 BP:0
+Equipo del enemigo
+A-Meep - HP:736/1016 Shields:2
+B-Mossy Meep - HP:1060/1060 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Meep
+3.Mossy Meep
+----------------------------------------
+Mossy Meep usa Attack
+Hikari refleja el daño
+Mossy Meep recibe 157 de daño
+Mossy Meep termina con HP:903
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5624/5781 SP:257/317 BP:0
+Equipo del enemigo
+A-Meep - HP:736/1016 Shields:2
+B-Mossy Meep - HP:903/1060 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Meep
+3.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Meep
+3.Mossy Meep
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Moon's Reflection
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Hikari - HP:5624/5781 SP:257/317 BP:0
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Hikari usa Moon's Reflection
+Hikari reflejará los próximos 1 ataques físicos
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5624/5781 SP:227/317 BP:0
+Equipo del enemigo
+A-Meep - HP:736/1016 Shields:2
+B-Mossy Meep - HP:903/1060 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Meep
+2.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Meep
+3.Mossy Meep
+----------------------------------------
+Meep usa Attack
+Hikari refleja el daño
+Meep recibe 140 de daño
+Meep termina con HP:596
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5624/5781 SP:227/317 BP:0
+Equipo del enemigo
+A-Meep - HP:596/1016 Shields:2
+B-Mossy Meep - HP:903/1060 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Meep
+3.Mossy Meep
+----------------------------------------
+Mossy Meep usa Attack
+Hikari refleja el daño
+Mossy Meep recibe 157 de daño
+Mossy Meep termina con HP:746
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5624/5781 SP:227/317 BP:1
+Equipo del enemigo
+A-Meep - HP:596/1016 Shields:2
+B-Mossy Meep - HP:746/1060 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Meep
+3.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Meep
+3.Mossy Meep
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Moon's Reflection
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Hikari - HP:5624/5781 SP:227/317 BP:1
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari usa Moon's Reflection
+Hikari reflejará los próximos 1 ataques físicos
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5624/5781 SP:197/317 BP:1
+Equipo del enemigo
+A-Meep - HP:596/1016 Shields:2
+B-Mossy Meep - HP:746/1060 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Meep
+2.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Meep
+3.Mossy Meep
+----------------------------------------
+Meep usa Attack
+Hikari refleja el daño
+Meep recibe 140 de daño
+Meep termina con HP:456
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5624/5781 SP:197/317 BP:1
+Equipo del enemigo
+A-Meep - HP:456/1016 Shields:2
+B-Mossy Meep - HP:746/1060 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Meep
+3.Mossy Meep
+----------------------------------------
+Mossy Meep usa Attack
+Hikari recibe 157 de daño físico
+Hikari termina con HP:5467
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5467/5781 SP:197/317 BP:2
+Equipo del enemigo
+A-Meep - HP:456/1016 Shields:2
+B-Mossy Meep - HP:746/1060 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Meep
+3.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Meep
+3.Mossy Meep
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Moon's Reflection
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Hikari - HP:5467/5781 SP:197/317 BP:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari usa Moon's Reflection
+Hikari reflejará los próximos 1 ataques físicos
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5467/5781 SP:167/317 BP:2
+Equipo del enemigo
+A-Meep - HP:456/1016 Shields:2
+B-Mossy Meep - HP:746/1060 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Meep
+2.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Meep
+3.Mossy Meep
+----------------------------------------
+Meep usa Attack
+Hikari refleja el daño
+Meep recibe 140 de daño
+Meep termina con HP:316
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5467/5781 SP:167/317 BP:2
+Equipo del enemigo
+A-Meep - HP:316/1016 Shields:2
+B-Mossy Meep - HP:746/1060 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Meep
+3.Mossy Meep
+----------------------------------------
+Mossy Meep usa Attack
+Hikari recibe 157 de daño físico
+Hikari termina con HP:5310
+----------------------------------------
+INICIA RONDA 6
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5310/5781 SP:167/317 BP:3
+Equipo del enemigo
+A-Meep - HP:316/1016 Shields:2
+B-Mossy Meep - HP:746/1060 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Meep
+3.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Meep
+3.Mossy Meep
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Moon's Reflection
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Hikari - HP:5310/5781 SP:167/317 BP:3
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Hikari usa Moon's Reflection
+Hikari reflejará los próximos 4 ataques físicos
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5310/5781 SP:137/317 BP:0
+Equipo del enemigo
+A-Meep - HP:316/1016 Shields:2
+B-Mossy Meep - HP:746/1060 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Meep
+2.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Meep
+3.Mossy Meep
+----------------------------------------
+Meep usa Attack
+Hikari refleja el daño
+Meep recibe 140 de daño
+Meep termina con HP:176
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5310/5781 SP:137/317 BP:0
+Equipo del enemigo
+A-Meep - HP:176/1016 Shields:2
+B-Mossy Meep - HP:746/1060 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Meep
+3.Mossy Meep
+----------------------------------------
+Mossy Meep usa Attack
+Hikari refleja el daño
+Mossy Meep recibe 157 de daño
+Mossy Meep termina con HP:589
+----------------------------------------
+INICIA RONDA 7
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5310/5781 SP:137/317 BP:0
+Equipo del enemigo
+A-Meep - HP:176/1016 Shields:2
+B-Mossy Meep - HP:589/1060 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Meep
+3.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Meep
+3.Mossy Meep
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Meep - HP:176/1016 Shields:2
+2: Mossy Meep - HP:589/1060 Shields:3
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Hikari ataca
+Mossy Meep recibe 136 de daño de tipo Sword con debilidad
+Mossy Meep termina con HP:453
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5310/5781 SP:137/317 BP:0
+Equipo del enemigo
+A-Meep - HP:176/1016 Shields:2
+B-Mossy Meep - HP:453/1060 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Meep
+2.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Meep
+3.Mossy Meep
+----------------------------------------
+Meep usa Attack
+Hikari refleja el daño
+Meep recibe 140 de daño
+Meep termina con HP:36
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5310/5781 SP:137/317 BP:0
+Equipo del enemigo
+A-Meep - HP:36/1016 Shields:2
+B-Mossy Meep - HP:453/1060 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Meep
+3.Mossy Meep
+----------------------------------------
+Mossy Meep usa Attack
+Hikari refleja el daño
+Mossy Meep recibe 157 de daño
+Mossy Meep termina con HP:296
+----------------------------------------
+INICIA RONDA 8
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5310/5781 SP:137/317 BP:1
+Equipo del enemigo
+A-Meep - HP:36/1016 Shields:2
+B-Mossy Meep - HP:296/1060 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Meep
+3.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Meep
+3.Mossy Meep
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Meep - HP:36/1016 Shields:2
+2: Mossy Meep - HP:296/1060 Shields:2
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari ataca
+Mossy Meep recibe 136 de daño de tipo Sword con debilidad
+Mossy Meep termina con HP:160
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5310/5781 SP:137/317 BP:1
+Equipo del enemigo
+A-Meep - HP:36/1016 Shields:2
+B-Mossy Meep - HP:160/1060 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Meep
+2.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Meep
+3.Mossy Meep
+----------------------------------------
+Meep usa Attack
+Hikari recibe 140 de daño físico
+Hikari termina con HP:5170
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5170/5781 SP:137/317 BP:1
+Equipo del enemigo
+A-Meep - HP:36/1016 Shields:2
+B-Mossy Meep - HP:160/1060 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Meep
+3.Mossy Meep
+----------------------------------------
+Mossy Meep usa Attack
+Hikari recibe 157 de daño físico
+Hikari termina con HP:5013
+----------------------------------------
+INICIA RONDA 9
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5013/5781 SP:137/317 BP:2
+Equipo del enemigo
+A-Meep - HP:36/1016 Shields:2
+B-Mossy Meep - HP:160/1060 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Meep
+3.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Meep
+3.Mossy Meep
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Moon's Reflection
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Hikari - HP:5013/5781 SP:137/317 BP:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Hikari usa Moon's Reflection
+Hikari reflejará los próximos 2 ataques físicos
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5013/5781 SP:107/317 BP:1
+Equipo del enemigo
+A-Meep - HP:36/1016 Shields:2
+B-Mossy Meep - HP:160/1060 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Meep
+2.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Meep
+3.Mossy Meep
+----------------------------------------
+Meep usa Attack
+Hikari refleja el daño
+Meep recibe 140 de daño
+Meep termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5013/5781 SP:107/317 BP:1
+Equipo del enemigo
+A-Meep - HP:0/1016 Shields:2
+B-Mossy Meep - HP:160/1060 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mossy Meep
+----------------------------------------
+Mossy Meep usa Attack
+Hikari refleja el daño
+Mossy Meep recibe 157 de daño
+Mossy Meep termina con HP:3
+----------------------------------------
+INICIA RONDA 10
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5013/5781 SP:107/317 BP:1
+Equipo del enemigo
+A-Meep - HP:0/1016 Shields:2
+B-Mossy Meep - HP:3/1060 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Mossy Meep
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Mossy Meep - HP:3/1060 Shields:1
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari ataca
+Mossy Meep recibe 136 de daño de tipo Sword con debilidad
+Mossy Meep entra en Breaking Point
+Mossy Meep termina con HP:0
+----------------------------------------
+Gana equipo del jugador

@@ -1,0 +1,3804 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+INPUT: 35
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4502/4502 SP:554/554 BP:1
+B-Tressa - HP:4891/4891 SP:357/357 BP:1
+C-Castti - HP:5336/5336 SP:426/426 BP:1
+D-Osvald - HP:3557/3557 SP:541/541 BP:1
+Equipo del enemigo
+A-Frost Fox - HP:1302/1302 Shields:2
+B-Accursed Armor - HP:3746/3746 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Castti
+3.Tressa
+4.Osvald
+5.Frost Fox
+6.Accursed Armor
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Castti
+3.Tressa
+4.Osvald
+5.Frost Fox
+6.Accursed Armor
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Primrose
+1: Transfusion
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Primrose - HP:4502/4502 SP:554/554 BP:1
+2: Tressa - HP:4891/4891 SP:357/357 BP:1
+3: Castti - HP:5336/5336 SP:426/426 BP:1
+4: Osvald - HP:3557/3557 SP:541/541 BP:1
+5: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose usa Transfusion
+Tressa recupera 2251 de vida
+Primrose pierde 2251 HP
+Tressa termina con HP:4891
+Primrose termina con HP:2251
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:2251/4502 SP:536/554 BP:1
+B-Tressa - HP:4891/4891 SP:357/357 BP:1
+C-Castti - HP:5336/5336 SP:426/426 BP:1
+D-Osvald - HP:3557/3557 SP:541/541 BP:1
+Equipo del enemigo
+A-Frost Fox - HP:1302/1302 Shields:2
+B-Accursed Armor - HP:3746/3746 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Tressa
+3.Osvald
+4.Frost Fox
+5.Accursed Armor
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Castti
+3.Tressa
+4.Osvald
+5.Frost Fox
+6.Accursed Armor
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Transfusion
+2: Shackle Foe
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Primrose - HP:2251/4502 SP:536/554 BP:1
+2: Tressa - HP:4891/4891 SP:357/357 BP:1
+3: Castti - HP:5336/5336 SP:426/426 BP:1
+4: Osvald - HP:3557/3557 SP:541/541 BP:1
+5: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Castti no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Castti usa Transfusion
+Castti recupera 3201 de vida
+Castti pierde 2668 HP
+Castti termina con HP:2668
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:2251/4502 SP:536/554 BP:1
+B-Tressa - HP:4891/4891 SP:357/357 BP:1
+C-Castti - HP:2668/5336 SP:408/426 BP:0
+D-Osvald - HP:3557/3557 SP:541/541 BP:1
+Equipo del enemigo
+A-Frost Fox - HP:1302/1302 Shields:2
+B-Accursed Armor - HP:3746/3746 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Osvald
+3.Frost Fox
+4.Accursed Armor
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Castti
+3.Tressa
+4.Osvald
+5.Frost Fox
+6.Accursed Armor
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Incite
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Tressa usa Incite
+Tressa protegerá de ataques durante 3 rondas
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:2251/4502 SP:536/554 BP:1
+B-Tressa - HP:4891/4891 SP:353/357 BP:1
+C-Castti - HP:2668/5336 SP:408/426 BP:0
+D-Osvald - HP:3557/3557 SP:541/541 BP:1
+Equipo del enemigo
+A-Frost Fox - HP:1302/1302 Shields:2
+B-Accursed Armor - HP:3746/3746 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Frost Fox
+3.Accursed Armor
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Castti
+3.Tressa
+4.Osvald
+5.Frost Fox
+6.Accursed Armor
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:2251/4502 SP:536/554 BP:1
+B-Tressa - HP:4891/4891 SP:353/357 BP:1
+C-Castti - HP:2668/5336 SP:408/426 BP:0
+D-Osvald - HP:3557/3557 SP:541/541 BP:1
+Equipo del enemigo
+A-Frost Fox - HP:1302/1302 Shields:2
+B-Accursed Armor - HP:3746/3746 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Frost Fox
+2.Accursed Armor
+----------------------------------------
+Turnos de la siguiente ronda
+1.Osvald
+2.Primrose
+3.Castti
+4.Tressa
+5.Frost Fox
+6.Accursed Armor
+----------------------------------------
+Frost Fox usa Ice blast
+Primrose recibe 201 de daño elemental
+Tressa recibe 248 de daño elemental
+Castti recibe 205 de daño elemental
+Osvald se defiende
+Osvald recibe 101 de daño elemental
+Primrose termina con HP:2050
+Tressa termina con HP:4643
+Castti termina con HP:2463
+Osvald termina con HP:3456
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:2050/4502 SP:536/554 BP:1
+B-Tressa - HP:4643/4891 SP:353/357 BP:1
+C-Castti - HP:2463/5336 SP:408/426 BP:0
+D-Osvald - HP:3456/3557 SP:541/541 BP:1
+Equipo del enemigo
+A-Frost Fox - HP:1302/1302 Shields:2
+B-Accursed Armor - HP:3746/3746 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Accursed Armor
+----------------------------------------
+Turnos de la siguiente ronda
+1.Osvald
+2.Primrose
+3.Castti
+4.Tressa
+5.Frost Fox
+6.Accursed Armor
+----------------------------------------
+Accursed Armor usa Gather Strength
+Tressa recibe 227 de daño físico
+Accursed Armor tendrá Increased Physical Attack durante 2 rondas
+Tressa termina con HP:4416
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:2050/4502 SP:536/554 BP:2
+B-Tressa - HP:4891/4891 SP:357/357 BP:2
+C-Castti - HP:2463/5336 SP:426/426 BP:0
+D-Osvald - HP:3456/3557 SP:541/541 BP:2
+Equipo del enemigo
+A-Frost Fox - HP:1302/1302 Shields:2
+B-Accursed Armor - HP:3746/3746 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Primrose
+3.Castti
+4.Tressa
+5.Frost Fox
+6.Accursed Armor
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Castti
+3.Tressa
+4.Osvald
+5.Frost Fox
+6.Accursed Armor
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Osvald
+1: Frost Fox - HP:1302/1302 Shields:2
+2: Accursed Armor - HP:3746/3746 Shields:5
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Osvald ataca
+Frost Fox recibe 0 de daño de tipo Stave
+Frost Fox termina con HP:1302
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:2050/4502 SP:536/554 BP:2
+B-Tressa - HP:4891/4891 SP:357/357 BP:2
+C-Castti - HP:2463/5336 SP:426/426 BP:0
+D-Osvald - HP:3456/3557 SP:541/541 BP:2
+Equipo del enemigo
+A-Frost Fox - HP:1302/1302 Shields:2
+B-Accursed Armor - HP:3746/3746 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Castti
+3.Tressa
+4.Frost Fox
+5.Accursed Armor
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Castti
+3.Tressa
+4.Osvald
+5.Frost Fox
+6.Accursed Armor
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:2050/4502 SP:536/554 BP:2
+B-Tressa - HP:4891/4891 SP:357/357 BP:2
+C-Castti - HP:2463/5336 SP:426/426 BP:0
+D-Osvald - HP:3456/3557 SP:541/541 BP:2
+Equipo del enemigo
+A-Frost Fox - HP:1302/1302 Shields:2
+B-Accursed Armor - HP:3746/3746 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Tressa
+3.Frost Fox
+4.Accursed Armor
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Castti
+3.Tressa
+4.Osvald
+5.Frost Fox
+6.Accursed Armor
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Frost Fox - HP:1302/1302 Shields:2
+2: Accursed Armor - HP:3746/3746 Shields:5
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Castti ataca
+Frost Fox recibe 168 de daño de tipo Axe
+Frost Fox termina con HP:1134
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:2050/4502 SP:536/554 BP:2
+B-Tressa - HP:4891/4891 SP:357/357 BP:2
+C-Castti - HP:2463/5336 SP:426/426 BP:0
+D-Osvald - HP:3456/3557 SP:541/541 BP:2
+Equipo del enemigo
+A-Frost Fox - HP:1134/1302 Shields:2
+B-Accursed Armor - HP:3746/3746 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Frost Fox
+3.Accursed Armor
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Castti
+3.Tressa
+4.Osvald
+5.Frost Fox
+6.Accursed Armor
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:2050/4502 SP:536/554 BP:2
+B-Tressa - HP:4891/4891 SP:357/357 BP:2
+C-Castti - HP:2463/5336 SP:426/426 BP:0
+D-Osvald - HP:3456/3557 SP:541/541 BP:2
+Equipo del enemigo
+A-Frost Fox - HP:1134/1302 Shields:2
+B-Accursed Armor - HP:3746/3746 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Frost Fox
+2.Accursed Armor
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Tressa
+3.Castti
+4.Osvald
+5.Frost Fox
+6.Accursed Armor
+----------------------------------------
+Frost Fox usa Ice blast
+Primrose se defiende
+Primrose recibe 100 de daño elemental
+Tressa se defiende
+Tressa recibe 124 de daño elemental
+Castti recibe 205 de daño elemental
+Osvald recibe 203 de daño elemental
+Primrose termina con HP:1950
+Tressa termina con HP:4767
+Castti termina con HP:2258
+Osvald termina con HP:3253
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:1950/4502 SP:536/554 BP:2
+B-Tressa - HP:4767/4891 SP:357/357 BP:2
+C-Castti - HP:2258/5336 SP:426/426 BP:0
+D-Osvald - HP:3253/3557 SP:541/541 BP:2
+Equipo del enemigo
+A-Frost Fox - HP:1134/1302 Shields:2
+B-Accursed Armor - HP:3746/3746 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Accursed Armor
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Tressa
+3.Castti
+4.Osvald
+5.Frost Fox
+6.Accursed Armor
+----------------------------------------
+Accursed Armor usa Gather Strength
+Tressa se defiende
+Tressa recibe 170 de daño físico
+Accursed Armor tendrá Increased Physical Attack durante 2 rondas
+Tressa termina con HP:4597
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:1950/4502 SP:536/554 BP:3
+B-Tressa - HP:4891/4891 SP:357/357 BP:3
+C-Castti - HP:2258/5336 SP:426/426 BP:1
+D-Osvald - HP:3253/3557 SP:541/541 BP:3
+Equipo del enemigo
+A-Frost Fox - HP:1134/1302 Shields:2
+B-Accursed Armor - HP:3746/3746 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Tressa
+3.Castti
+4.Osvald
+5.Frost Fox
+6.Accursed Armor
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Castti
+3.Tressa
+4.Osvald
+5.Frost Fox
+6.Accursed Armor
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Frost Fox - HP:1134/1302 Shields:2
+2: Accursed Armor - HP:3746/3746 Shields:5
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose ataca
+Frost Fox recibe 0 de daño de tipo Dagger
+Frost Fox termina con HP:1134
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:1950/4502 SP:536/554 BP:3
+B-Tressa - HP:4891/4891 SP:357/357 BP:3
+C-Castti - HP:2258/5336 SP:426/426 BP:1
+D-Osvald - HP:3253/3557 SP:541/541 BP:3
+Equipo del enemigo
+A-Frost Fox - HP:1134/1302 Shields:2
+B-Accursed Armor - HP:3746/3746 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Castti
+3.Osvald
+4.Frost Fox
+5.Accursed Armor
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Castti
+3.Tressa
+4.Osvald
+5.Frost Fox
+6.Accursed Armor
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:1950/4502 SP:536/554 BP:3
+B-Tressa - HP:4891/4891 SP:357/357 BP:3
+C-Castti - HP:2258/5336 SP:426/426 BP:1
+D-Osvald - HP:3253/3557 SP:541/541 BP:3
+Equipo del enemigo
+A-Frost Fox - HP:1134/1302 Shields:2
+B-Accursed Armor - HP:3746/3746 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Osvald
+3.Frost Fox
+4.Accursed Armor
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Primrose
+3.Castti
+4.Osvald
+5.Frost Fox
+6.Accursed Armor
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Transfusion
+2: Shackle Foe
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Primrose - HP:1950/4502 SP:536/554 BP:3
+2: Tressa - HP:4891/4891 SP:357/357 BP:3
+3: Castti - HP:2258/5336 SP:426/426 BP:1
+4: Osvald - HP:3253/3557 SP:541/541 BP:3
+5: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Castti no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti usa Transfusion
+Castti recupera 1129 de vida
+Castti pierde 1129 HP
+Castti termina con HP:2258
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:1950/4502 SP:536/554 BP:3
+B-Tressa - HP:4891/4891 SP:357/357 BP:3
+C-Castti - HP:2258/5336 SP:408/426 BP:1
+D-Osvald - HP:3253/3557 SP:541/541 BP:3
+Equipo del enemigo
+A-Frost Fox - HP:1134/1302 Shields:2
+B-Accursed Armor - HP:3746/3746 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Frost Fox
+3.Accursed Armor
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Primrose
+3.Castti
+4.Osvald
+5.Frost Fox
+6.Accursed Armor
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Osvald
+1: Frost Fox - HP:1134/1302 Shields:2
+2: Accursed Armor - HP:3746/3746 Shields:5
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Osvald ataca
+Frost Fox recibe 0 de daño de tipo Stave
+Frost Fox recibe 0 de daño de tipo Stave
+Frost Fox termina con HP:1134
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:1950/4502 SP:536/554 BP:3
+B-Tressa - HP:4891/4891 SP:357/357 BP:3
+C-Castti - HP:2258/5336 SP:408/426 BP:1
+D-Osvald - HP:3253/3557 SP:541/541 BP:2
+Equipo del enemigo
+A-Frost Fox - HP:1134/1302 Shields:2
+B-Accursed Armor - HP:3746/3746 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Frost Fox
+2.Accursed Armor
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Primrose
+3.Castti
+4.Osvald
+5.Frost Fox
+6.Accursed Armor
+----------------------------------------
+Frost Fox usa Ice blast
+Primrose recibe 201 de daño elemental
+Tressa se defiende
+Tressa recibe 124 de daño elemental
+Castti recibe 205 de daño elemental
+Osvald recibe 203 de daño elemental
+Primrose termina con HP:1749
+Tressa termina con HP:4767
+Castti termina con HP:2053
+Osvald termina con HP:3050
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:1749/4502 SP:536/554 BP:3
+B-Tressa - HP:4767/4891 SP:357/357 BP:3
+C-Castti - HP:2053/5336 SP:408/426 BP:1
+D-Osvald - HP:3050/3557 SP:541/541 BP:2
+Equipo del enemigo
+A-Frost Fox - HP:1134/1302 Shields:2
+B-Accursed Armor - HP:3746/3746 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Accursed Armor
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Primrose
+3.Castti
+4.Osvald
+5.Frost Fox
+6.Accursed Armor
+----------------------------------------
+Accursed Armor usa Gather Strength
+Tressa se defiende
+Tressa recibe 170 de daño físico
+Accursed Armor tendrá Increased Physical Attack durante 2 rondas
+Tressa termina con HP:4597
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:1749/4502 SP:536/554 BP:4
+B-Tressa - HP:4891/4891 SP:357/357 BP:4
+C-Castti - HP:2053/5336 SP:426/426 BP:2
+D-Osvald - HP:3050/3557 SP:541/541 BP:2
+Equipo del enemigo
+A-Frost Fox - HP:1134/1302 Shields:2
+B-Accursed Armor - HP:3746/3746 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Primrose
+3.Castti
+4.Osvald
+5.Frost Fox
+6.Accursed Armor
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Castti
+3.Tressa
+4.Osvald
+5.Frost Fox
+6.Accursed Armor
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Incite
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Tressa usa Incite
+Tressa protegerá de ataques durante 3 rondas
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:1749/4502 SP:536/554 BP:4
+B-Tressa - HP:4891/4891 SP:353/357 BP:4
+C-Castti - HP:2053/5336 SP:426/426 BP:2
+D-Osvald - HP:3050/3557 SP:541/541 BP:2
+Equipo del enemigo
+A-Frost Fox - HP:1134/1302 Shields:2
+B-Accursed Armor - HP:3746/3746 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Castti
+3.Osvald
+4.Frost Fox
+5.Accursed Armor
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Castti
+3.Tressa
+4.Osvald
+5.Frost Fox
+6.Accursed Armor
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Frost Fox - HP:1134/1302 Shields:2
+2: Accursed Armor - HP:3746/3746 Shields:5
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Primrose ataca
+Frost Fox recibe 0 de daño de tipo Dagger
+Frost Fox recibe 0 de daño de tipo Dagger
+Frost Fox recibe 0 de daño de tipo Dagger
+Frost Fox termina con HP:1134
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:1749/4502 SP:536/554 BP:2
+B-Tressa - HP:4891/4891 SP:353/357 BP:4
+C-Castti - HP:2053/5336 SP:426/426 BP:2
+D-Osvald - HP:3050/3557 SP:541/541 BP:2
+Equipo del enemigo
+A-Frost Fox - HP:1134/1302 Shields:2
+B-Accursed Armor - HP:3746/3746 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Osvald
+3.Frost Fox
+4.Accursed Armor
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Castti
+3.Tressa
+4.Osvald
+5.Frost Fox
+6.Accursed Armor
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Transfusion
+2: Shackle Foe
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Frost Fox - HP:1134/1302 Shields:2
+2: Accursed Armor - HP:3746/3746 Shields:5
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Castti no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Castti no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti usa Shackle Foe
+Frost Fox tendrá Decreased Physical Attack durante 2 rondas
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:1749/4502 SP:536/554 BP:2
+B-Tressa - HP:4891/4891 SP:353/357 BP:4
+C-Castti - HP:2053/5336 SP:422/426 BP:2
+D-Osvald - HP:3050/3557 SP:541/541 BP:2
+Equipo del enemigo
+A-Frost Fox - HP:1134/1302 Shields:2
+B-Accursed Armor - HP:3746/3746 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Frost Fox
+3.Accursed Armor
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Castti
+3.Tressa
+4.Osvald
+5.Frost Fox
+6.Accursed Armor
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Osvald
+1: Donate BP
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Osvald
+1: Primrose - HP:1749/4502 SP:536/554 BP:2
+2: Tressa - HP:4891/4891 SP:353/357 BP:4
+3: Castti - HP:2053/5336 SP:422/426 BP:2
+4: Osvald - HP:3050/3557 SP:541/541 BP:2
+5: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Osvald usa Donate BP
+Primrose obtiene 3 BP
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:1749/4502 SP:536/554 BP:5
+B-Tressa - HP:4891/4891 SP:353/357 BP:4
+C-Castti - HP:2053/5336 SP:422/426 BP:2
+D-Osvald - HP:3050/3557 SP:538/541 BP:0
+Equipo del enemigo
+A-Frost Fox - HP:1134/1302 Shields:2
+B-Accursed Armor - HP:3746/3746 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Frost Fox
+2.Accursed Armor
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Castti
+3.Tressa
+4.Osvald
+5.Frost Fox
+6.Accursed Armor
+----------------------------------------
+Frost Fox usa Ice blast
+Primrose recibe 201 de daño elemental
+Tressa recibe 248 de daño elemental
+Castti recibe 205 de daño elemental
+Osvald recibe 203 de daño elemental
+Primrose termina con HP:1548
+Tressa termina con HP:4643
+Castti termina con HP:1848
+Osvald termina con HP:2847
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:1548/4502 SP:536/554 BP:5
+B-Tressa - HP:4643/4891 SP:353/357 BP:4
+C-Castti - HP:1848/5336 SP:422/426 BP:2
+D-Osvald - HP:2847/3557 SP:538/541 BP:0
+Equipo del enemigo
+A-Frost Fox - HP:1134/1302 Shields:2
+B-Accursed Armor - HP:3746/3746 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Accursed Armor
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Castti
+3.Tressa
+4.Osvald
+5.Frost Fox
+6.Accursed Armor
+----------------------------------------
+Accursed Armor usa Gather Strength
+Tressa recibe 340 de daño físico
+Accursed Armor tendrá Increased Physical Attack durante 2 rondas
+Tressa termina con HP:4303
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:1548/4502 SP:536/554 BP:5
+B-Tressa - HP:4792/4891 SP:357/357 BP:5
+C-Castti - HP:1848/5336 SP:426/426 BP:3
+D-Osvald - HP:2847/3557 SP:541/541 BP:0
+Equipo del enemigo
+A-Frost Fox - HP:1134/1302 Shields:2
+B-Accursed Armor - HP:3746/3746 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Castti
+3.Tressa
+4.Osvald
+5.Frost Fox
+6.Accursed Armor
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Castti
+3.Tressa
+4.Osvald
+5.Frost Fox
+6.Accursed Armor
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Frost Fox - HP:1134/1302 Shields:2
+2: Accursed Armor - HP:3746/3746 Shields:5
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Primrose ataca
+Accursed Armor recibe 11 de daño de tipo Dagger
+Accursed Armor recibe 11 de daño de tipo Dagger
+Accursed Armor termina con HP:3724
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:1548/4502 SP:536/554 BP:4
+B-Tressa - HP:4792/4891 SP:357/357 BP:5
+C-Castti - HP:1848/5336 SP:426/426 BP:3
+D-Osvald - HP:2847/3557 SP:541/541 BP:0
+Equipo del enemigo
+A-Frost Fox - HP:1134/1302 Shields:2
+B-Accursed Armor - HP:3724/3746 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Tressa
+3.Osvald
+4.Frost Fox
+5.Accursed Armor
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Castti
+3.Tressa
+4.Osvald
+5.Frost Fox
+6.Accursed Armor
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Transfusion
+2: Shackle Foe
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Primrose - HP:1548/4502 SP:536/554 BP:4
+2: Tressa - HP:4792/4891 SP:357/357 BP:5
+3: Castti - HP:1848/5336 SP:426/426 BP:3
+4: Osvald - HP:2847/3557 SP:541/541 BP:0
+5: Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti usa Transfusion
+Osvald recupera 924 de vida
+Castti pierde 924 HP
+Osvald termina con HP:3557
+Castti termina con HP:924
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:1548/4502 SP:536/554 BP:4
+B-Tressa - HP:4792/4891 SP:357/357 BP:5
+C-Castti - HP:924/5336 SP:408/426 BP:3
+D-Osvald - HP:3557/3557 SP:541/541 BP:0
+Equipo del enemigo
+A-Frost Fox - HP:1134/1302 Shields:2
+B-Accursed Armor - HP:3724/3746 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Osvald
+3.Frost Fox
+4.Accursed Armor
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Castti
+3.Tressa
+4.Osvald
+5.Frost Fox
+6.Accursed Armor
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:1548/4502 SP:536/554 BP:4
+B-Tressa - HP:4792/4891 SP:357/357 BP:5
+C-Castti - HP:924/5336 SP:408/426 BP:3
+D-Osvald - HP:3557/3557 SP:541/541 BP:0
+Equipo del enemigo
+A-Frost Fox - HP:1134/1302 Shields:2
+B-Accursed Armor - HP:3724/3746 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Frost Fox
+3.Accursed Armor
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Primrose
+3.Castti
+4.Osvald
+5.Frost Fox
+6.Accursed Armor
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Osvald
+1: Donate BP
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Osvald
+1: Primrose - HP:1548/4502 SP:536/554 BP:4
+2: Tressa - HP:4792/4891 SP:357/357 BP:5
+3: Castti - HP:924/5336 SP:408/426 BP:3
+4: Osvald - HP:3557/3557 SP:541/541 BP:0
+5: Cancelar
+INPUT: 2
+----------------------------------------
+Osvald usa Donate BP
+Tressa obtiene 1 BP
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:1548/4502 SP:536/554 BP:4
+B-Tressa - HP:4792/4891 SP:357/357 BP:5
+C-Castti - HP:924/5336 SP:408/426 BP:3
+D-Osvald - HP:3557/3557 SP:538/541 BP:0
+Equipo del enemigo
+A-Frost Fox - HP:1134/1302 Shields:2
+B-Accursed Armor - HP:3724/3746 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Frost Fox
+2.Accursed Armor
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Primrose
+3.Castti
+4.Osvald
+5.Frost Fox
+6.Accursed Armor
+----------------------------------------
+Frost Fox usa Ice blast
+Primrose recibe 201 de daño elemental
+Tressa se defiende
+Tressa recibe 124 de daño elemental
+Castti recibe 205 de daño elemental
+Osvald recibe 203 de daño elemental
+Primrose termina con HP:1347
+Tressa termina con HP:4668
+Castti termina con HP:719
+Osvald termina con HP:3354
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:1347/4502 SP:536/554 BP:4
+B-Tressa - HP:4668/4891 SP:357/357 BP:5
+C-Castti - HP:719/5336 SP:408/426 BP:3
+D-Osvald - HP:3354/3557 SP:538/541 BP:0
+Equipo del enemigo
+A-Frost Fox - HP:1134/1302 Shields:2
+B-Accursed Armor - HP:3724/3746 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Accursed Armor
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Primrose
+3.Castti
+4.Osvald
+5.Frost Fox
+6.Accursed Armor
+----------------------------------------
+Accursed Armor usa Gather Strength
+Tressa se defiende
+Tressa recibe 170 de daño físico
+Accursed Armor tendrá Increased Physical Attack durante 2 rondas
+Tressa termina con HP:4498
+----------------------------------------
+INICIA RONDA 6
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:1347/4502 SP:536/554 BP:4
+B-Tressa - HP:4891/4891 SP:357/357 BP:5
+C-Castti - HP:719/5336 SP:426/426 BP:4
+D-Osvald - HP:3354/3557 SP:541/541 BP:1
+Equipo del enemigo
+A-Frost Fox - HP:1134/1302 Shields:2
+B-Accursed Armor - HP:3724/3746 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Primrose
+3.Castti
+4.Osvald
+5.Frost Fox
+6.Accursed Armor
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Castti
+3.Tressa
+4.Osvald
+5.Frost Fox
+6.Accursed Armor
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Frost Fox - HP:1134/1302 Shields:2
+2: Accursed Armor - HP:3724/3746 Shields:5
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Tressa ataca
+Frost Fox recibe 175 de daño de tipo Bow con debilidad
+Frost Fox recibe 175 de daño de tipo Bow con debilidad
+Frost Fox entra en Breaking Point
+Frost Fox termina con HP:784
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:1347/4502 SP:536/554 BP:4
+B-Tressa - HP:4891/4891 SP:357/357 BP:4
+C-Castti - HP:719/5336 SP:426/426 BP:4
+D-Osvald - HP:3354/3557 SP:541/541 BP:1
+Equipo del enemigo
+A-Frost Fox - HP:784/1302 Shields:0
+B-Accursed Armor - HP:3724/3746 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Castti
+3.Osvald
+4.Accursed Armor
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Castti
+3.Tressa
+4.Osvald
+5.Accursed Armor
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Primrose
+1: Transfusion
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Primrose - HP:1347/4502 SP:536/554 BP:4
+2: Tressa - HP:4891/4891 SP:357/357 BP:4
+3: Castti - HP:719/5336 SP:426/426 BP:4
+4: Osvald - HP:3354/3557 SP:541/541 BP:1
+5: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Primrose usa Transfusion
+Tressa recupera 807 de vida
+Primrose pierde 673 HP
+Tressa termina con HP:4891
+Primrose termina con HP:674
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:674/4502 SP:518/554 BP:3
+B-Tressa - HP:4891/4891 SP:357/357 BP:4
+C-Castti - HP:719/5336 SP:426/426 BP:4
+D-Osvald - HP:3354/3557 SP:541/541 BP:1
+Equipo del enemigo
+A-Frost Fox - HP:784/1302 Shields:0
+B-Accursed Armor - HP:3724/3746 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Osvald
+3.Accursed Armor
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Castti
+3.Tressa
+4.Osvald
+5.Accursed Armor
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:674/4502 SP:518/554 BP:3
+B-Tressa - HP:4891/4891 SP:357/357 BP:4
+C-Castti - HP:719/5336 SP:426/426 BP:4
+D-Osvald - HP:3354/3557 SP:541/541 BP:1
+Equipo del enemigo
+A-Frost Fox - HP:784/1302 Shields:0
+B-Accursed Armor - HP:3724/3746 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Accursed Armor
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Primrose
+3.Tressa
+4.Osvald
+5.Accursed Armor
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Osvald
+1: Donate BP
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Osvald
+1: Primrose - HP:674/4502 SP:518/554 BP:3
+2: Tressa - HP:4891/4891 SP:357/357 BP:4
+3: Castti - HP:719/5336 SP:426/426 BP:4
+4: Osvald - HP:3354/3557 SP:541/541 BP:1
+5: Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Osvald usa Donate BP
+Osvald obtiene 1 BP
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:674/4502 SP:518/554 BP:3
+B-Tressa - HP:4891/4891 SP:357/357 BP:4
+C-Castti - HP:719/5336 SP:426/426 BP:4
+D-Osvald - HP:3354/3557 SP:538/541 BP:2
+Equipo del enemigo
+A-Frost Fox - HP:784/1302 Shields:0
+B-Accursed Armor - HP:3724/3746 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Accursed Armor
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Primrose
+3.Tressa
+4.Osvald
+5.Accursed Armor
+----------------------------------------
+Accursed Armor usa Gather Strength
+Tressa recibe 340 de daño físico
+Accursed Armor tendrá Increased Physical Attack durante 2 rondas
+Tressa termina con HP:4551
+----------------------------------------
+INICIA RONDA 7
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:674/4502 SP:518/554 BP:3
+B-Tressa - HP:4891/4891 SP:357/357 BP:4
+C-Castti - HP:719/5336 SP:426/426 BP:5
+D-Osvald - HP:3354/3557 SP:541/541 BP:3
+Equipo del enemigo
+A-Frost Fox - HP:784/1302 Shields:0
+B-Accursed Armor - HP:3724/3746 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Primrose
+3.Tressa
+4.Osvald
+5.Accursed Armor
+----------------------------------------
+Turnos de la siguiente ronda
+1.Frost Fox
+2.Primrose
+3.Castti
+4.Tressa
+5.Osvald
+6.Accursed Armor
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Frost Fox - HP:784/1302 Shields:0
+2: Accursed Armor - HP:3724/3746 Shields:5
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Castti ataca
+Frost Fox recibe 168 de daño de tipo Axe
+Frost Fox recibe 168 de daño de tipo Axe
+Frost Fox recibe 168 de daño de tipo Axe
+Frost Fox termina con HP:280
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:674/4502 SP:518/554 BP:3
+B-Tressa - HP:4891/4891 SP:357/357 BP:4
+C-Castti - HP:719/5336 SP:426/426 BP:3
+D-Osvald - HP:3354/3557 SP:541/541 BP:3
+Equipo del enemigo
+A-Frost Fox - HP:280/1302 Shields:0
+B-Accursed Armor - HP:3724/3746 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Tressa
+3.Osvald
+4.Accursed Armor
+----------------------------------------
+Turnos de la siguiente ronda
+1.Frost Fox
+2.Primrose
+3.Castti
+4.Tressa
+5.Osvald
+6.Accursed Armor
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Primrose
+1: Transfusion
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Primrose - HP:674/4502 SP:518/554 BP:3
+2: Tressa - HP:4891/4891 SP:357/357 BP:4
+3: Castti - HP:719/5336 SP:426/426 BP:3
+4: Osvald - HP:3354/3557 SP:541/541 BP:3
+5: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Primrose usa Transfusion
+Castti recupera 404 de vida
+Primrose pierde 337 HP
+Castti termina con HP:1123
+Primrose termina con HP:337
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:337/4502 SP:500/554 BP:2
+B-Tressa - HP:4891/4891 SP:357/357 BP:4
+C-Castti - HP:1123/5336 SP:426/426 BP:3
+D-Osvald - HP:3354/3557 SP:541/541 BP:3
+Equipo del enemigo
+A-Frost Fox - HP:280/1302 Shields:0
+B-Accursed Armor - HP:3724/3746 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Osvald
+3.Accursed Armor
+----------------------------------------
+Turnos de la siguiente ronda
+1.Frost Fox
+2.Primrose
+3.Castti
+4.Tressa
+5.Osvald
+6.Accursed Armor
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Incite
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Tressa usa Incite
+Tressa protegerá de ataques durante 5 rondas
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:337/4502 SP:500/554 BP:2
+B-Tressa - HP:4891/4891 SP:353/357 BP:3
+C-Castti - HP:1123/5336 SP:426/426 BP:3
+D-Osvald - HP:3354/3557 SP:541/541 BP:3
+Equipo del enemigo
+A-Frost Fox - HP:280/1302 Shields:0
+B-Accursed Armor - HP:3724/3746 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Accursed Armor
+----------------------------------------
+Turnos de la siguiente ronda
+1.Frost Fox
+2.Primrose
+3.Castti
+4.Tressa
+5.Osvald
+6.Accursed Armor
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Osvald
+1: Donate BP
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Osvald
+1: Primrose - HP:337/4502 SP:500/554 BP:2
+2: Tressa - HP:4891/4891 SP:353/357 BP:3
+3: Castti - HP:1123/5336 SP:426/426 BP:3
+4: Osvald - HP:3354/3557 SP:541/541 BP:3
+5: Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Osvald usa Donate BP
+Osvald obtiene 4 BP
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:337/4502 SP:500/554 BP:2
+B-Tressa - HP:4891/4891 SP:353/357 BP:3
+C-Castti - HP:1123/5336 SP:426/426 BP:3
+D-Osvald - HP:3354/3557 SP:538/541 BP:4
+Equipo del enemigo
+A-Frost Fox - HP:280/1302 Shields:0
+B-Accursed Armor - HP:3724/3746 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Accursed Armor
+----------------------------------------
+Turnos de la siguiente ronda
+1.Frost Fox
+2.Primrose
+3.Castti
+4.Tressa
+5.Osvald
+6.Accursed Armor
+----------------------------------------
+Accursed Armor usa Gather Strength
+Tressa recibe 340 de daño físico
+Accursed Armor tendrá Increased Physical Attack durante 2 rondas
+Tressa termina con HP:4551
+----------------------------------------
+INICIA RONDA 8
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:337/4502 SP:500/554 BP:2
+B-Tressa - HP:4891/4891 SP:357/357 BP:3
+C-Castti - HP:1123/5336 SP:426/426 BP:3
+D-Osvald - HP:3354/3557 SP:541/541 BP:4
+Equipo del enemigo
+A-Frost Fox - HP:280/1302 Shields:2
+B-Accursed Armor - HP:3724/3746 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Frost Fox
+2.Primrose
+3.Castti
+4.Tressa
+5.Osvald
+6.Accursed Armor
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Castti
+3.Tressa
+4.Osvald
+5.Frost Fox
+6.Accursed Armor
+----------------------------------------
+Frost Fox usa Ice blast
+Primrose recibe 201 de daño elemental
+Tressa recibe 248 de daño elemental
+Castti recibe 205 de daño elemental
+Osvald recibe 203 de daño elemental
+Primrose termina con HP:136
+Tressa termina con HP:4643
+Castti termina con HP:918
+Osvald termina con HP:3151
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:136/4502 SP:500/554 BP:2
+B-Tressa - HP:4643/4891 SP:357/357 BP:3
+C-Castti - HP:918/5336 SP:426/426 BP:3
+D-Osvald - HP:3151/3557 SP:541/541 BP:4
+Equipo del enemigo
+A-Frost Fox - HP:280/1302 Shields:2
+B-Accursed Armor - HP:3724/3746 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Castti
+3.Tressa
+4.Osvald
+5.Accursed Armor
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Castti
+3.Tressa
+4.Osvald
+5.Frost Fox
+6.Accursed Armor
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:136/4502 SP:500/554 BP:2
+B-Tressa - HP:4643/4891 SP:357/357 BP:3
+C-Castti - HP:918/5336 SP:426/426 BP:3
+D-Osvald - HP:3151/3557 SP:541/541 BP:4
+Equipo del enemigo
+A-Frost Fox - HP:280/1302 Shields:2
+B-Accursed Armor - HP:3724/3746 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Tressa
+3.Osvald
+4.Accursed Armor
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Castti
+3.Tressa
+4.Osvald
+5.Frost Fox
+6.Accursed Armor
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:136/4502 SP:500/554 BP:2
+B-Tressa - HP:4643/4891 SP:357/357 BP:3
+C-Castti - HP:918/5336 SP:426/426 BP:3
+D-Osvald - HP:3151/3557 SP:541/541 BP:4
+Equipo del enemigo
+A-Frost Fox - HP:280/1302 Shields:2
+B-Accursed Armor - HP:3724/3746 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Osvald
+3.Accursed Armor
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Castti
+3.Tressa
+4.Osvald
+5.Frost Fox
+6.Accursed Armor
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:136/4502 SP:500/554 BP:2
+B-Tressa - HP:4643/4891 SP:357/357 BP:3
+C-Castti - HP:918/5336 SP:426/426 BP:3
+D-Osvald - HP:3151/3557 SP:541/541 BP:4
+Equipo del enemigo
+A-Frost Fox - HP:280/1302 Shields:2
+B-Accursed Armor - HP:3724/3746 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Accursed Armor
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Castti
+3.Tressa
+4.Osvald
+5.Frost Fox
+6.Accursed Armor
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Osvald
+1: Donate BP
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Osvald
+1: Primrose - HP:136/4502 SP:500/554 BP:2
+2: Tressa - HP:4643/4891 SP:357/357 BP:3
+3: Castti - HP:918/5336 SP:426/426 BP:3
+4: Osvald - HP:3151/3557 SP:541/541 BP:4
+5: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Osvald usa Donate BP
+Castti obtiene 1 BP
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:136/4502 SP:500/554 BP:2
+B-Tressa - HP:4643/4891 SP:357/357 BP:3
+C-Castti - HP:918/5336 SP:426/426 BP:4
+D-Osvald - HP:3151/3557 SP:538/541 BP:4
+Equipo del enemigo
+A-Frost Fox - HP:280/1302 Shields:2
+B-Accursed Armor - HP:3724/3746 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Accursed Armor
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Castti
+3.Tressa
+4.Osvald
+5.Frost Fox
+6.Accursed Armor
+----------------------------------------
+Accursed Armor usa Gather Strength
+Tressa se defiende
+Tressa recibe 170 de daño físico
+Accursed Armor tendrá Increased Physical Attack durante 2 rondas
+Tressa termina con HP:4473
+----------------------------------------
+INICIA RONDA 9
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:136/4502 SP:500/554 BP:3
+B-Tressa - HP:4891/4891 SP:357/357 BP:4
+C-Castti - HP:918/5336 SP:426/426 BP:5
+D-Osvald - HP:3151/3557 SP:541/541 BP:5
+Equipo del enemigo
+A-Frost Fox - HP:280/1302 Shields:2
+B-Accursed Armor - HP:3724/3746 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Castti
+3.Tressa
+4.Osvald
+5.Frost Fox
+6.Accursed Armor
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Castti
+3.Tressa
+4.Osvald
+5.Frost Fox
+6.Accursed Armor
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Frost Fox - HP:280/1302 Shields:2
+2: Accursed Armor - HP:3724/3746 Shields:5
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Primrose ataca
+Accursed Armor recibe 11 de daño de tipo Dagger
+Accursed Armor recibe 11 de daño de tipo Dagger
+Accursed Armor recibe 11 de daño de tipo Dagger
+Accursed Armor termina con HP:3691
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:136/4502 SP:500/554 BP:1
+B-Tressa - HP:4891/4891 SP:357/357 BP:4
+C-Castti - HP:918/5336 SP:426/426 BP:5
+D-Osvald - HP:3151/3557 SP:541/541 BP:5
+Equipo del enemigo
+A-Frost Fox - HP:280/1302 Shields:2
+B-Accursed Armor - HP:3691/3746 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Tressa
+3.Osvald
+4.Frost Fox
+5.Accursed Armor
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Castti
+3.Tressa
+4.Osvald
+5.Frost Fox
+6.Accursed Armor
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Transfusion
+2: Shackle Foe
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Primrose - HP:136/4502 SP:500/554 BP:1
+2: Tressa - HP:4891/4891 SP:357/357 BP:4
+3: Castti - HP:918/5336 SP:426/426 BP:5
+4: Osvald - HP:3151/3557 SP:541/541 BP:5
+5: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti usa Transfusion
+Castti recupera 459 de vida
+Castti pierde 459 HP
+Castti termina con HP:918
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:136/4502 SP:500/554 BP:1
+B-Tressa - HP:4891/4891 SP:357/357 BP:4
+C-Castti - HP:918/5336 SP:408/426 BP:5
+D-Osvald - HP:3151/3557 SP:541/541 BP:5
+Equipo del enemigo
+A-Frost Fox - HP:280/1302 Shields:2
+B-Accursed Armor - HP:3691/3746 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Osvald
+3.Frost Fox
+4.Accursed Armor
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Castti
+3.Tressa
+4.Osvald
+5.Frost Fox
+6.Accursed Armor
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Incite
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Tressa usa Incite
+Tressa protegerá de ataques durante 7 rondas
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:136/4502 SP:500/554 BP:1
+B-Tressa - HP:4891/4891 SP:353/357 BP:2
+C-Castti - HP:918/5336 SP:408/426 BP:5
+D-Osvald - HP:3151/3557 SP:541/541 BP:5
+Equipo del enemigo
+A-Frost Fox - HP:280/1302 Shields:2
+B-Accursed Armor - HP:3691/3746 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Frost Fox
+3.Accursed Armor
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Castti
+3.Tressa
+4.Osvald
+5.Frost Fox
+6.Accursed Armor
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Osvald
+1: Donate BP
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Osvald
+1: Primrose - HP:136/4502 SP:500/554 BP:1
+2: Tressa - HP:4891/4891 SP:353/357 BP:2
+3: Castti - HP:918/5336 SP:408/426 BP:5
+4: Osvald - HP:3151/3557 SP:541/541 BP:5
+5: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Osvald usa Donate BP
+Primrose obtiene 4 BP
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:136/4502 SP:500/554 BP:5
+B-Tressa - HP:4891/4891 SP:353/357 BP:2
+C-Castti - HP:918/5336 SP:408/426 BP:5
+D-Osvald - HP:3151/3557 SP:538/541 BP:2
+Equipo del enemigo
+A-Frost Fox - HP:280/1302 Shields:2
+B-Accursed Armor - HP:3691/3746 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Frost Fox
+2.Accursed Armor
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Castti
+3.Tressa
+4.Osvald
+5.Frost Fox
+6.Accursed Armor
+----------------------------------------
+Frost Fox usa Ice blast
+Primrose recibe 201 de daño elemental
+Tressa recibe 248 de daño elemental
+Castti recibe 205 de daño elemental
+Osvald recibe 203 de daño elemental
+Primrose termina con HP:0
+Tressa termina con HP:4643
+Castti termina con HP:713
+Osvald termina con HP:2948
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4502 SP:500/554 BP:5
+B-Tressa - HP:4643/4891 SP:353/357 BP:2
+C-Castti - HP:713/5336 SP:408/426 BP:5
+D-Osvald - HP:2948/3557 SP:538/541 BP:2
+Equipo del enemigo
+A-Frost Fox - HP:280/1302 Shields:2
+B-Accursed Armor - HP:3691/3746 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Accursed Armor
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Tressa
+3.Osvald
+4.Frost Fox
+5.Accursed Armor
+----------------------------------------
+Accursed Armor usa Gather Strength
+Tressa recibe 340 de daño físico
+Accursed Armor tendrá Increased Physical Attack durante 2 rondas
+Tressa termina con HP:4303
+----------------------------------------
+INICIA RONDA 10
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4502 SP:500/554 BP:5
+B-Tressa - HP:4792/4891 SP:357/357 BP:2
+C-Castti - HP:713/5336 SP:426/426 BP:5
+D-Osvald - HP:2948/3557 SP:541/541 BP:2
+Equipo del enemigo
+A-Frost Fox - HP:280/1302 Shields:2
+B-Accursed Armor - HP:3691/3746 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Tressa
+3.Osvald
+4.Frost Fox
+5.Accursed Armor
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Tressa
+3.Osvald
+4.Frost Fox
+5.Accursed Armor
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Frost Fox - HP:280/1302 Shields:2
+2: Accursed Armor - HP:3691/3746 Shields:5
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Castti ataca
+Frost Fox recibe 112 de daño de tipo Axe
+Frost Fox recibe 112 de daño de tipo Axe
+Frost Fox recibe 112 de daño de tipo Axe
+Frost Fox termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4502 SP:500/554 BP:5
+B-Tressa - HP:4792/4891 SP:357/357 BP:2
+C-Castti - HP:713/5336 SP:426/426 BP:3
+D-Osvald - HP:2948/3557 SP:541/541 BP:2
+Equipo del enemigo
+A-Frost Fox - HP:0/1302 Shields:2
+B-Accursed Armor - HP:3691/3746 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Osvald
+3.Accursed Armor
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Tressa
+3.Osvald
+4.Accursed Armor
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Incite
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Tressa usa Incite
+Tressa protegerá de ataques durante 3 rondas
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4502 SP:500/554 BP:5
+B-Tressa - HP:4792/4891 SP:353/357 BP:2
+C-Castti - HP:713/5336 SP:426/426 BP:3
+D-Osvald - HP:2948/3557 SP:541/541 BP:2
+Equipo del enemigo
+A-Frost Fox - HP:0/1302 Shields:2
+B-Accursed Armor - HP:3691/3746 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Accursed Armor
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Tressa
+3.Osvald
+4.Accursed Armor
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Osvald
+1: Accursed Armor - HP:3691/3746 Shields:5
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Osvald no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Osvald ataca
+Accursed Armor recibe 106 de daño de tipo Stave con debilidad
+Accursed Armor termina con HP:3585
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4502 SP:500/554 BP:5
+B-Tressa - HP:4792/4891 SP:353/357 BP:2
+C-Castti - HP:713/5336 SP:426/426 BP:3
+D-Osvald - HP:2948/3557 SP:541/541 BP:2
+Equipo del enemigo
+A-Frost Fox - HP:0/1302 Shields:2
+B-Accursed Armor - HP:3585/3746 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Accursed Armor
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Tressa
+3.Osvald
+4.Accursed Armor
+----------------------------------------
+Accursed Armor usa Gather Strength
+Tressa recibe 340 de daño físico
+Accursed Armor tendrá Increased Physical Attack durante 2 rondas
+Tressa termina con HP:4452
+----------------------------------------
+INICIA RONDA 11
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4502 SP:500/554 BP:5
+B-Tressa - HP:4891/4891 SP:357/357 BP:3
+C-Castti - HP:713/5336 SP:426/426 BP:3
+D-Osvald - HP:2948/3557 SP:541/541 BP:3
+Equipo del enemigo
+A-Frost Fox - HP:0/1302 Shields:2
+B-Accursed Armor - HP:3585/3746 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Tressa
+3.Osvald
+4.Accursed Armor
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Tressa
+3.Osvald
+4.Accursed Armor
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Transfusion
+2: Shackle Foe
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Tressa - HP:4891/4891 SP:357/357 BP:3
+2: Castti - HP:713/5336 SP:426/426 BP:3
+3: Osvald - HP:2948/3557 SP:541/541 BP:3
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti usa Transfusion
+Castti recupera 356 de vida
+Castti pierde 356 HP
+Castti termina con HP:713
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4502 SP:500/554 BP:5
+B-Tressa - HP:4891/4891 SP:357/357 BP:3
+C-Castti - HP:713/5336 SP:408/426 BP:3
+D-Osvald - HP:2948/3557 SP:541/541 BP:3
+Equipo del enemigo
+A-Frost Fox - HP:0/1302 Shields:2
+B-Accursed Armor - HP:3585/3746 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Osvald
+3.Accursed Armor
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Tressa
+3.Osvald
+4.Accursed Armor
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4502 SP:500/554 BP:5
+B-Tressa - HP:4891/4891 SP:357/357 BP:3
+C-Castti - HP:713/5336 SP:408/426 BP:3
+D-Osvald - HP:2948/3557 SP:541/541 BP:3
+Equipo del enemigo
+A-Frost Fox - HP:0/1302 Shields:2
+B-Accursed Armor - HP:3585/3746 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Accursed Armor
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Castti
+3.Osvald
+4.Accursed Armor
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Osvald
+1: Accursed Armor - HP:3585/3746 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Osvald ataca
+Accursed Armor recibe 106 de daño de tipo Stave con debilidad
+Accursed Armor recibe 106 de daño de tipo Stave con debilidad
+Accursed Armor termina con HP:3373
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4502 SP:500/554 BP:5
+B-Tressa - HP:4891/4891 SP:357/357 BP:3
+C-Castti - HP:713/5336 SP:408/426 BP:3
+D-Osvald - HP:2948/3557 SP:541/541 BP:2
+Equipo del enemigo
+A-Frost Fox - HP:0/1302 Shields:2
+B-Accursed Armor - HP:3373/3746 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Accursed Armor
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Castti
+3.Osvald
+4.Accursed Armor
+----------------------------------------
+Accursed Armor usa Gather Strength
+Tressa se defiende
+Tressa recibe 170 de daño físico
+Accursed Armor tendrá Increased Physical Attack durante 2 rondas
+Tressa termina con HP:4721
+----------------------------------------
+INICIA RONDA 12
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4502 SP:500/554 BP:5
+B-Tressa - HP:4891/4891 SP:357/357 BP:4
+C-Castti - HP:713/5336 SP:426/426 BP:4
+D-Osvald - HP:2948/3557 SP:541/541 BP:2
+Equipo del enemigo
+A-Frost Fox - HP:0/1302 Shields:2
+B-Accursed Armor - HP:3373/3746 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Castti
+3.Osvald
+4.Accursed Armor
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Tressa
+3.Osvald
+4.Accursed Armor
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Accursed Armor - HP:3373/3746 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Tressa ataca
+Accursed Armor recibe 198 de daño de tipo Bow
+Accursed Armor recibe 198 de daño de tipo Bow
+Accursed Armor termina con HP:2977
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4502 SP:500/554 BP:5
+B-Tressa - HP:4891/4891 SP:357/357 BP:3
+C-Castti - HP:713/5336 SP:426/426 BP:4
+D-Osvald - HP:2948/3557 SP:541/541 BP:2
+Equipo del enemigo
+A-Frost Fox - HP:0/1302 Shields:2
+B-Accursed Armor - HP:2977/3746 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Osvald
+3.Accursed Armor
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Tressa
+3.Osvald
+4.Accursed Armor
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Transfusion
+2: Shackle Foe
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Accursed Armor - HP:2977/3746 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Castti usa Shackle Foe
+Accursed Armor tendrá Decreased Physical Attack durante 4 rondas
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4502 SP:500/554 BP:5
+B-Tressa - HP:4891/4891 SP:357/357 BP:3
+C-Castti - HP:713/5336 SP:422/426 BP:3
+D-Osvald - HP:2948/3557 SP:541/541 BP:2
+Equipo del enemigo
+A-Frost Fox - HP:0/1302 Shields:2
+B-Accursed Armor - HP:2977/3746 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Accursed Armor
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Tressa
+3.Osvald
+4.Accursed Armor
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4502 SP:500/554 BP:5
+B-Tressa - HP:4891/4891 SP:357/357 BP:3
+C-Castti - HP:713/5336 SP:422/426 BP:3
+D-Osvald - HP:2948/3557 SP:541/541 BP:2
+Equipo del enemigo
+A-Frost Fox - HP:0/1302 Shields:2
+B-Accursed Armor - HP:2977/3746 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Accursed Armor
+----------------------------------------
+Turnos de la siguiente ronda
+1.Osvald
+2.Castti
+3.Tressa
+4.Accursed Armor
+----------------------------------------
+Accursed Armor usa Gather Strength
+Tressa recibe 227 de daño físico
+Accursed Armor tendrá Increased Physical Attack durante 2 rondas
+Tressa termina con HP:4664
+----------------------------------------
+INICIA RONDA 13
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4502 SP:500/554 BP:5
+B-Tressa - HP:4891/4891 SP:357/357 BP:3
+C-Castti - HP:713/5336 SP:426/426 BP:3
+D-Osvald - HP:2948/3557 SP:541/541 BP:3
+Equipo del enemigo
+A-Frost Fox - HP:0/1302 Shields:2
+B-Accursed Armor - HP:2977/3746 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Castti
+3.Tressa
+4.Accursed Armor
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Tressa
+3.Osvald
+4.Accursed Armor
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Osvald
+1: Donate BP
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Osvald
+1: Tressa - HP:4891/4891 SP:357/357 BP:3
+2: Castti - HP:713/5336 SP:426/426 BP:3
+3: Osvald - HP:2948/3557 SP:541/541 BP:3
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Osvald usa Donate BP
+Osvald obtiene 2 BP
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4502 SP:500/554 BP:5
+B-Tressa - HP:4891/4891 SP:357/357 BP:3
+C-Castti - HP:713/5336 SP:426/426 BP:3
+D-Osvald - HP:2948/3557 SP:538/541 BP:4
+Equipo del enemigo
+A-Frost Fox - HP:0/1302 Shields:2
+B-Accursed Armor - HP:2977/3746 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Tressa
+3.Accursed Armor
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Tressa
+3.Osvald
+4.Accursed Armor
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Accursed Armor - HP:2977/3746 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Castti ataca
+Accursed Armor recibe 289 de daño de tipo Axe con debilidad
+Accursed Armor recibe 289 de daño de tipo Axe con debilidad
+Accursed Armor entra en Breaking Point
+Accursed Armor recibe 386 de daño de tipo Axe con debilidad
+Accursed Armor termina con HP:2013
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4502 SP:500/554 BP:5
+B-Tressa - HP:4891/4891 SP:357/357 BP:3
+C-Castti - HP:713/5336 SP:426/426 BP:1
+D-Osvald - HP:2948/3557 SP:538/541 BP:4
+Equipo del enemigo
+A-Frost Fox - HP:0/1302 Shields:2
+B-Accursed Armor - HP:2013/3746 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Tressa
+3.Osvald
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+INICIA RONDA 14
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4502 SP:500/554 BP:5
+B-Tressa - HP:4891/4891 SP:357/357 BP:4
+C-Castti - HP:713/5336 SP:426/426 BP:1
+D-Osvald - HP:2948/3557 SP:541/541 BP:4
+Equipo del enemigo
+A-Frost Fox - HP:0/1302 Shields:2
+B-Accursed Armor - HP:2013/3746 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Castti
+3.Osvald
+----------------------------------------
+Turnos de la siguiente ronda
+1.Accursed Armor
+2.Castti
+3.Tressa
+4.Osvald
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Incite
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Tressa usa Incite
+Tressa protegerá de ataques durante 9 rondas
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4502 SP:500/554 BP:5
+B-Tressa - HP:4891/4891 SP:353/357 BP:1
+C-Castti - HP:713/5336 SP:426/426 BP:1
+D-Osvald - HP:2948/3557 SP:541/541 BP:4
+Equipo del enemigo
+A-Frost Fox - HP:0/1302 Shields:2
+B-Accursed Armor - HP:2013/3746 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Osvald
+----------------------------------------
+Turnos de la siguiente ronda
+1.Accursed Armor
+2.Castti
+3.Tressa
+4.Osvald
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4502 SP:500/554 BP:5
+B-Tressa - HP:4891/4891 SP:353/357 BP:1
+C-Castti - HP:713/5336 SP:426/426 BP:1
+D-Osvald - HP:2948/3557 SP:541/541 BP:4
+Equipo del enemigo
+A-Frost Fox - HP:0/1302 Shields:2
+B-Accursed Armor - HP:2013/3746 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+----------------------------------------
+Turnos de la siguiente ronda
+1.Accursed Armor
+2.Castti
+3.Tressa
+4.Osvald
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Osvald
+1: Accursed Armor - HP:2013/3746 Shields:0
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Osvald ataca
+Accursed Armor recibe 141 de daño de tipo Stave con debilidad
+Accursed Armor recibe 141 de daño de tipo Stave con debilidad
+Accursed Armor recibe 141 de daño de tipo Stave con debilidad
+Accursed Armor termina con HP:1590
+----------------------------------------
+INICIA RONDA 15
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4502 SP:500/554 BP:5
+B-Tressa - HP:4891/4891 SP:357/357 BP:1
+C-Castti - HP:713/5336 SP:426/426 BP:2
+D-Osvald - HP:2948/3557 SP:541/541 BP:2
+Equipo del enemigo
+A-Frost Fox - HP:0/1302 Shields:2
+B-Accursed Armor - HP:1590/3746 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Accursed Armor
+2.Castti
+3.Tressa
+4.Osvald
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Tressa
+3.Osvald
+4.Accursed Armor
+----------------------------------------
+Accursed Armor usa Gather Strength
+Tressa recibe 227 de daño físico
+Accursed Armor tendrá Increased Physical Attack durante 2 rondas
+Tressa termina con HP:4664
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4502 SP:500/554 BP:5
+B-Tressa - HP:4664/4891 SP:357/357 BP:1
+C-Castti - HP:713/5336 SP:426/426 BP:2
+D-Osvald - HP:2948/3557 SP:541/541 BP:2
+Equipo del enemigo
+A-Frost Fox - HP:0/1302 Shields:2
+B-Accursed Armor - HP:1590/3746 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Tressa
+3.Osvald
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Tressa
+3.Osvald
+4.Accursed Armor
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4502 SP:500/554 BP:5
+B-Tressa - HP:4664/4891 SP:357/357 BP:1
+C-Castti - HP:713/5336 SP:426/426 BP:2
+D-Osvald - HP:2948/3557 SP:541/541 BP:2
+Equipo del enemigo
+A-Frost Fox - HP:0/1302 Shields:2
+B-Accursed Armor - HP:1590/3746 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Osvald
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Tressa
+3.Osvald
+4.Accursed Armor
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Incite
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Tressa usa Incite
+Tressa protegerá de ataques durante 5 rondas
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4502 SP:500/554 BP:5
+B-Tressa - HP:4664/4891 SP:353/357 BP:0
+C-Castti - HP:713/5336 SP:426/426 BP:2
+D-Osvald - HP:2948/3557 SP:541/541 BP:2
+Equipo del enemigo
+A-Frost Fox - HP:0/1302 Shields:2
+B-Accursed Armor - HP:1590/3746 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Tressa
+3.Osvald
+4.Accursed Armor
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Osvald
+1: Accursed Armor - HP:1590/3746 Shields:5
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Osvald ataca
+Accursed Armor recibe 106 de daño de tipo Stave con debilidad
+Accursed Armor recibe 106 de daño de tipo Stave con debilidad
+Accursed Armor recibe 106 de daño de tipo Stave con debilidad
+Accursed Armor termina con HP:1272
+----------------------------------------
+INICIA RONDA 16
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4502 SP:500/554 BP:5
+B-Tressa - HP:4891/4891 SP:357/357 BP:0
+C-Castti - HP:713/5336 SP:426/426 BP:3
+D-Osvald - HP:2948/3557 SP:541/541 BP:0
+Equipo del enemigo
+A-Frost Fox - HP:0/1302 Shields:2
+B-Accursed Armor - HP:1272/3746 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Tressa
+3.Osvald
+4.Accursed Armor
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Tressa
+3.Osvald
+4.Accursed Armor
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4502 SP:500/554 BP:5
+B-Tressa - HP:4891/4891 SP:357/357 BP:0
+C-Castti - HP:713/5336 SP:426/426 BP:3
+D-Osvald - HP:2948/3557 SP:541/541 BP:0
+Equipo del enemigo
+A-Frost Fox - HP:0/1302 Shields:2
+B-Accursed Armor - HP:1272/3746 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Osvald
+3.Accursed Armor
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Tressa
+3.Osvald
+4.Accursed Armor
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Incite
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Tressa usa Incite
+Tressa protegerá de ataques durante 3 rondas
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4502 SP:500/554 BP:5
+B-Tressa - HP:4891/4891 SP:353/357 BP:0
+C-Castti - HP:713/5336 SP:426/426 BP:3
+D-Osvald - HP:2948/3557 SP:541/541 BP:0
+Equipo del enemigo
+A-Frost Fox - HP:0/1302 Shields:2
+B-Accursed Armor - HP:1272/3746 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Accursed Armor
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Tressa
+3.Osvald
+4.Accursed Armor
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Osvald
+1: Accursed Armor - HP:1272/3746 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Osvald ataca
+Accursed Armor recibe 106 de daño de tipo Stave con debilidad
+Accursed Armor termina con HP:1166
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4502 SP:500/554 BP:5
+B-Tressa - HP:4891/4891 SP:353/357 BP:0
+C-Castti - HP:713/5336 SP:426/426 BP:3
+D-Osvald - HP:2948/3557 SP:541/541 BP:0
+Equipo del enemigo
+A-Frost Fox - HP:0/1302 Shields:2
+B-Accursed Armor - HP:1166/3746 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Accursed Armor
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Tressa
+3.Osvald
+4.Accursed Armor
+----------------------------------------
+Accursed Armor usa Gather Strength
+Tressa recibe 340 de daño físico
+Accursed Armor tendrá Increased Physical Attack durante 2 rondas
+Tressa termina con HP:4551
+----------------------------------------
+INICIA RONDA 17
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4502 SP:500/554 BP:5
+B-Tressa - HP:4891/4891 SP:357/357 BP:1
+C-Castti - HP:713/5336 SP:426/426 BP:4
+D-Osvald - HP:2948/3557 SP:541/541 BP:1
+Equipo del enemigo
+A-Frost Fox - HP:0/1302 Shields:2
+B-Accursed Armor - HP:1166/3746 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Tressa
+3.Osvald
+4.Accursed Armor
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Tressa
+3.Osvald
+4.Accursed Armor
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Accursed Armor - HP:1166/3746 Shields:1
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti ataca
+Accursed Armor recibe 289 de daño de tipo Axe con debilidad
+Accursed Armor entra en Breaking Point
+Accursed Armor termina con HP:877
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4502 SP:500/554 BP:5
+B-Tressa - HP:4891/4891 SP:357/357 BP:1
+C-Castti - HP:713/5336 SP:426/426 BP:4
+D-Osvald - HP:2948/3557 SP:541/541 BP:1
+Equipo del enemigo
+A-Frost Fox - HP:0/1302 Shields:2
+B-Accursed Armor - HP:877/3746 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Osvald
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Tressa
+3.Osvald
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Incite
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Tressa no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Tressa no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Tressa usa Incite
+Tressa protegerá de ataques durante 3 rondas
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4502 SP:500/554 BP:5
+B-Tressa - HP:4891/4891 SP:353/357 BP:1
+C-Castti - HP:713/5336 SP:426/426 BP:4
+D-Osvald - HP:2948/3557 SP:541/541 BP:1
+Equipo del enemigo
+A-Frost Fox - HP:0/1302 Shields:2
+B-Accursed Armor - HP:877/3746 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Tressa
+3.Osvald
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Osvald
+1: Accursed Armor - HP:877/3746 Shields:0
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Osvald ataca
+Accursed Armor recibe 141 de daño de tipo Stave con debilidad
+Accursed Armor recibe 141 de daño de tipo Stave con debilidad
+Accursed Armor termina con HP:595
+----------------------------------------
+INICIA RONDA 18
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4502 SP:500/554 BP:5
+B-Tressa - HP:4891/4891 SP:357/357 BP:2
+C-Castti - HP:713/5336 SP:426/426 BP:5
+D-Osvald - HP:2948/3557 SP:541/541 BP:0
+Equipo del enemigo
+A-Frost Fox - HP:0/1302 Shields:2
+B-Accursed Armor - HP:595/3746 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Tressa
+3.Osvald
+----------------------------------------
+Turnos de la siguiente ronda
+1.Accursed Armor
+2.Castti
+3.Tressa
+4.Osvald
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4502 SP:500/554 BP:5
+B-Tressa - HP:4891/4891 SP:357/357 BP:2
+C-Castti - HP:713/5336 SP:426/426 BP:5
+D-Osvald - HP:2948/3557 SP:541/541 BP:0
+Equipo del enemigo
+A-Frost Fox - HP:0/1302 Shields:2
+B-Accursed Armor - HP:595/3746 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Osvald
+----------------------------------------
+Turnos de la siguiente ronda
+1.Accursed Armor
+2.Castti
+3.Tressa
+4.Osvald
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Incite
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Tressa no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Tressa usa Incite
+Tressa protegerá de ataques durante 3 rondas
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4502 SP:500/554 BP:5
+B-Tressa - HP:4891/4891 SP:353/357 BP:2
+C-Castti - HP:713/5336 SP:426/426 BP:5
+D-Osvald - HP:2948/3557 SP:541/541 BP:0
+Equipo del enemigo
+A-Frost Fox - HP:0/1302 Shields:2
+B-Accursed Armor - HP:595/3746 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+----------------------------------------
+Turnos de la siguiente ronda
+1.Accursed Armor
+2.Castti
+3.Tressa
+4.Osvald
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Osvald
+1: Donate BP
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Osvald
+1: Tressa - HP:4891/4891 SP:353/357 BP:2
+2: Castti - HP:713/5336 SP:426/426 BP:5
+3: Osvald - HP:2948/3557 SP:541/541 BP:0
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Osvald usa Donate BP
+Tressa obtiene 1 BP
+----------------------------------------
+INICIA RONDA 19
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4502 SP:500/554 BP:5
+B-Tressa - HP:4891/4891 SP:357/357 BP:4
+C-Castti - HP:713/5336 SP:426/426 BP:5
+D-Osvald - HP:2948/3557 SP:541/541 BP:1
+Equipo del enemigo
+A-Frost Fox - HP:0/1302 Shields:2
+B-Accursed Armor - HP:595/3746 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Accursed Armor
+2.Castti
+3.Tressa
+4.Osvald
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Tressa
+3.Osvald
+4.Accursed Armor
+----------------------------------------
+Accursed Armor usa Gather Strength
+Tressa recibe 340 de daño físico
+Accursed Armor tendrá Increased Physical Attack durante 2 rondas
+Tressa termina con HP:4551
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4502 SP:500/554 BP:5
+B-Tressa - HP:4551/4891 SP:357/357 BP:4
+C-Castti - HP:713/5336 SP:426/426 BP:5
+D-Osvald - HP:2948/3557 SP:541/541 BP:1
+Equipo del enemigo
+A-Frost Fox - HP:0/1302 Shields:2
+B-Accursed Armor - HP:595/3746 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Tressa
+3.Osvald
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Tressa
+3.Osvald
+4.Accursed Armor
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4502 SP:500/554 BP:5
+B-Tressa - HP:4551/4891 SP:357/357 BP:4
+C-Castti - HP:713/5336 SP:426/426 BP:5
+D-Osvald - HP:2948/3557 SP:541/541 BP:1
+Equipo del enemigo
+A-Frost Fox - HP:0/1302 Shields:2
+B-Accursed Armor - HP:595/3746 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Osvald
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Tressa
+3.Osvald
+4.Accursed Armor
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4502 SP:500/554 BP:5
+B-Tressa - HP:4551/4891 SP:357/357 BP:4
+C-Castti - HP:713/5336 SP:426/426 BP:5
+D-Osvald - HP:2948/3557 SP:541/541 BP:1
+Equipo del enemigo
+A-Frost Fox - HP:0/1302 Shields:2
+B-Accursed Armor - HP:595/3746 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Tressa
+3.Osvald
+4.Accursed Armor
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Osvald
+1: Donate BP
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Osvald
+1: Tressa - HP:4551/4891 SP:357/357 BP:4
+2: Castti - HP:713/5336 SP:426/426 BP:5
+3: Osvald - HP:2948/3557 SP:541/541 BP:1
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Osvald no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Osvald usa Donate BP
+Castti obtiene 1 BP
+----------------------------------------
+INICIA RONDA 20
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4502 SP:500/554 BP:5
+B-Tressa - HP:4891/4891 SP:357/357 BP:5
+C-Castti - HP:713/5336 SP:426/426 BP:5
+D-Osvald - HP:2948/3557 SP:541/541 BP:2
+Equipo del enemigo
+A-Frost Fox - HP:0/1302 Shields:2
+B-Accursed Armor - HP:595/3746 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Tressa
+3.Osvald
+4.Accursed Armor
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Tressa
+3.Osvald
+4.Accursed Armor
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4502 SP:500/554 BP:5
+B-Tressa - HP:4891/4891 SP:357/357 BP:5
+C-Castti - HP:713/5336 SP:426/426 BP:5
+D-Osvald - HP:2948/3557 SP:541/541 BP:2
+Equipo del enemigo
+A-Frost Fox - HP:0/1302 Shields:2
+B-Accursed Armor - HP:595/3746 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Osvald
+3.Accursed Armor
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Tressa
+3.Osvald
+4.Accursed Armor
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Incite
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Tressa usa Incite
+Tressa protegerá de ataques durante 3 rondas
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4502 SP:500/554 BP:5
+B-Tressa - HP:4891/4891 SP:353/357 BP:5
+C-Castti - HP:713/5336 SP:426/426 BP:5
+D-Osvald - HP:2948/3557 SP:541/541 BP:2
+Equipo del enemigo
+A-Frost Fox - HP:0/1302 Shields:2
+B-Accursed Armor - HP:595/3746 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Accursed Armor
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Tressa
+3.Osvald
+4.Accursed Armor
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4502 SP:500/554 BP:5
+B-Tressa - HP:4891/4891 SP:353/357 BP:5
+C-Castti - HP:713/5336 SP:426/426 BP:5
+D-Osvald - HP:2948/3557 SP:541/541 BP:2
+Equipo del enemigo
+A-Frost Fox - HP:0/1302 Shields:2
+B-Accursed Armor - HP:595/3746 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Accursed Armor
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Osvald
+3.Tressa
+4.Accursed Armor
+----------------------------------------
+Accursed Armor usa Gather Strength
+Tressa recibe 340 de daño físico
+Accursed Armor tendrá Increased Physical Attack durante 2 rondas
+Tressa termina con HP:4551
+----------------------------------------
+INICIA RONDA 21
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4502 SP:500/554 BP:5
+B-Tressa - HP:4891/4891 SP:357/357 BP:5
+C-Castti - HP:713/5336 SP:426/426 BP:5
+D-Osvald - HP:2948/3557 SP:541/541 BP:3
+Equipo del enemigo
+A-Frost Fox - HP:0/1302 Shields:2
+B-Accursed Armor - HP:595/3746 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Osvald
+3.Tressa
+4.Accursed Armor
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Tressa
+3.Osvald
+4.Accursed Armor
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Accursed Armor - HP:595/3746 Shields:5
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti ataca
+Accursed Armor recibe 289 de daño de tipo Axe con debilidad
+Accursed Armor termina con HP:306
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4502 SP:500/554 BP:5
+B-Tressa - HP:4891/4891 SP:357/357 BP:5
+C-Castti - HP:713/5336 SP:426/426 BP:5
+D-Osvald - HP:2948/3557 SP:541/541 BP:3
+Equipo del enemigo
+A-Frost Fox - HP:0/1302 Shields:2
+B-Accursed Armor - HP:306/3746 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Tressa
+3.Accursed Armor
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Tressa
+3.Osvald
+4.Accursed Armor
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Osvald
+1: Donate BP
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Osvald
+1: Tressa - HP:4891/4891 SP:357/357 BP:5
+2: Castti - HP:713/5336 SP:426/426 BP:5
+3: Osvald - HP:2948/3557 SP:541/541 BP:3
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Osvald usa Donate BP
+Tressa obtiene 2 BP
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4502 SP:500/554 BP:5
+B-Tressa - HP:4891/4891 SP:357/357 BP:5
+C-Castti - HP:713/5336 SP:426/426 BP:5
+D-Osvald - HP:2948/3557 SP:538/541 BP:2
+Equipo del enemigo
+A-Frost Fox - HP:0/1302 Shields:2
+B-Accursed Armor - HP:306/3746 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Accursed Armor
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Tressa
+3.Osvald
+4.Accursed Armor
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4502 SP:500/554 BP:5
+B-Tressa - HP:4891/4891 SP:357/357 BP:5
+C-Castti - HP:713/5336 SP:426/426 BP:5
+D-Osvald - HP:2948/3557 SP:538/541 BP:2
+Equipo del enemigo
+A-Frost Fox - HP:0/1302 Shields:2
+B-Accursed Armor - HP:306/3746 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Accursed Armor
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Castti
+3.Osvald
+4.Accursed Armor
+----------------------------------------
+Accursed Armor usa Gather Strength
+Tressa se defiende
+Tressa recibe 170 de daño físico
+Accursed Armor tendrá Increased Physical Attack durante 2 rondas
+Tressa termina con HP:4721
+----------------------------------------
+INICIA RONDA 22
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:0/4502 SP:500/554 BP:5
+B-Tressa - HP:4891/4891 SP:357/357 BP:5
+C-Castti - HP:713/5336 SP:426/426 BP:5
+D-Osvald - HP:2948/3557 SP:541/541 BP:2
+Equipo del enemigo
+A-Frost Fox - HP:0/1302 Shields:2
+B-Accursed Armor - HP:306/3746 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Castti
+3.Osvald
+4.Accursed Armor
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Tressa
+3.Osvald
+4.Accursed Armor
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Accursed Armor - HP:306/3746 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Tressa ataca
+Accursed Armor recibe 297 de daño de tipo Spear con debilidad
+Accursed Armor recibe 297 de daño de tipo Spear con debilidad
+Accursed Armor recibe 297 de daño de tipo Spear con debilidad
+Accursed Armor termina con HP:0
+----------------------------------------
+Gana equipo del jugador

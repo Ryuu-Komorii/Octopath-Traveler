@@ -1,0 +1,570 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+INPUT: 93
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Ochette - HP:4447/4447 SP:369/369 BP:1
+B-Castti - HP:5336/5336 SP:426/426 BP:2
+C-Tressa - HP:5391/5391 SP:357/357 BP:1
+D-Heatcore - HP:2822/2822 SP:392/392 BP:1
+Equipo del enemigo
+A-Withered Wanderweed - HP:2314/2314 Shields:1
+B-Army Ant - HP:502/502 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Heatcore
+2.Ochette
+3.Castti
+4.Tressa
+5.Withered Wanderweed
+6.Army Ant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Ochette
+3.Castti
+4.Tressa
+5.Withered Wanderweed
+6.Army Ant
+----------------------------------------
+Turno de Heatcore
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Heatcore
+1: Ventus Saltare
+2: Transfer Rune
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Heatcore no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Heatcore no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Heatcore usa Ventus Saltare
+Withered Wanderweed recibe 180 de daño de tipo Wind
+Withered Wanderweed recibe 180 de daño de tipo Wind
+Withered Wanderweed recibe 180 de daño de tipo Wind
+Army Ant recibe 658 de daño de tipo Wind con debilidad
+Army Ant entra en Breaking Point
+Army Ant recibe 877 de daño de tipo Wind con debilidad
+Army Ant recibe 877 de daño de tipo Wind con debilidad
+Withered Wanderweed termina con HP:1774
+Army Ant termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Ochette - HP:4447/4447 SP:369/369 BP:1
+B-Castti - HP:5336/5336 SP:426/426 BP:2
+C-Tressa - HP:5391/5391 SP:357/357 BP:1
+D-Heatcore - HP:2822/2822 SP:356/392 BP:1
+Equipo del enemigo
+A-Withered Wanderweed - HP:1774/2314 Shields:1
+B-Army Ant - HP:0/502 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Castti
+3.Tressa
+4.Withered Wanderweed
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Ochette
+3.Castti
+4.Tressa
+5.Withered Wanderweed
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Ochette - HP:4447/4447 SP:369/369 BP:1
+B-Castti - HP:5336/5336 SP:426/426 BP:2
+C-Tressa - HP:5391/5391 SP:357/357 BP:1
+D-Heatcore - HP:2822/2822 SP:356/392 BP:1
+Equipo del enemigo
+A-Withered Wanderweed - HP:1774/2314 Shields:1
+B-Army Ant - HP:0/502 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Tressa
+3.Withered Wanderweed
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Heatcore
+3.Castti
+4.Tressa
+5.Withered Wanderweed
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Withered Wanderweed - HP:1774/2314 Shields:1
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Castti no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Castti ataca
+Withered Wanderweed recibe 318 de daño de tipo Axe con debilidad
+Withered Wanderweed entra en Breaking Point
+Withered Wanderweed recibe 424 de daño de tipo Axe con debilidad
+Withered Wanderweed recibe 424 de daño de tipo Axe con debilidad
+Withered Wanderweed termina con HP:608
+----------------------------------------
+Equipo del jugador
+A-Ochette - HP:4447/4447 SP:369/369 BP:1
+B-Castti - HP:5336/5336 SP:426/426 BP:0
+C-Tressa - HP:5391/5391 SP:357/357 BP:1
+D-Heatcore - HP:2822/2822 SP:356/392 BP:1
+Equipo del enemigo
+A-Withered Wanderweed - HP:608/2314 Shields:0
+B-Army Ant - HP:0/502 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Heatcore
+3.Castti
+4.Tressa
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Incite
+2: Sidestep
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Tressa usa Incite
+Tressa protegerá de ataques durante 3 rondas
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Ochette - HP:4447/4447 SP:369/369 BP:2
+B-Castti - HP:5336/5336 SP:426/426 BP:0
+C-Tressa - HP:5391/5391 SP:353/357 BP:2
+D-Heatcore - HP:2822/2822 SP:356/392 BP:2
+Equipo del enemigo
+A-Withered Wanderweed - HP:608/2314 Shields:0
+B-Army Ant - HP:0/502 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Heatcore
+3.Castti
+4.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Withered Wanderweed
+2.Heatcore
+3.Ochette
+4.Castti
+5.Tressa
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Ochette - HP:4447/4447 SP:369/369 BP:2
+B-Castti - HP:5336/5336 SP:426/426 BP:0
+C-Tressa - HP:5391/5391 SP:353/357 BP:2
+D-Heatcore - HP:2822/2822 SP:356/392 BP:2
+Equipo del enemigo
+A-Withered Wanderweed - HP:608/2314 Shields:0
+B-Army Ant - HP:0/502 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Heatcore
+2.Castti
+3.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Withered Wanderweed
+2.Ochette
+3.Heatcore
+4.Castti
+5.Tressa
+----------------------------------------
+Turno de Heatcore
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Heatcore
+1: Ventus Saltare
+2: Transfer Rune
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Heatcore
+1: Ochette - HP:4447/4447 SP:369/369 BP:2
+2: Castti - HP:5336/5336 SP:426/426 BP:0
+3: Tressa - HP:5391/5391 SP:353/357 BP:2
+4: Heatcore - HP:2822/2822 SP:356/392 BP:2
+5: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Heatcore usa Transfer Rune
+Tressa modificará sus targets durante 5 rondas
+----------------------------------------
+Equipo del jugador
+A-Ochette - HP:4447/4447 SP:369/369 BP:2
+B-Castti - HP:5336/5336 SP:426/426 BP:0
+C-Tressa - HP:5391/5391 SP:353/357 BP:2
+D-Heatcore - HP:2822/2822 SP:331/392 BP:0
+Equipo del enemigo
+A-Withered Wanderweed - HP:608/2314 Shields:0
+B-Army Ant - HP:0/502 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Withered Wanderweed
+2.Ochette
+3.Heatcore
+4.Castti
+5.Tressa
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Ochette - HP:4447/4447 SP:369/369 BP:2
+B-Castti - HP:5336/5336 SP:426/426 BP:0
+C-Tressa - HP:5391/5391 SP:353/357 BP:2
+D-Heatcore - HP:2822/2822 SP:331/392 BP:0
+Equipo del enemigo
+A-Withered Wanderweed - HP:608/2314 Shields:0
+B-Army Ant - HP:0/502 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Withered Wanderweed
+2.Ochette
+3.Castti
+4.Heatcore
+5.Tressa
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Withered Wanderweed - HP:608/2314 Shields:0
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Tressa no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Tressa ataca
+Withered Wanderweed recibe 325 de daño de tipo Spear
+Withered Wanderweed termina con HP:283
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Ochette - HP:4447/4447 SP:369/369 BP:3
+B-Castti - HP:5336/5336 SP:426/426 BP:1
+C-Tressa - HP:5391/5391 SP:353/357 BP:3
+D-Heatcore - HP:2822/2822 SP:331/392 BP:0
+Equipo del enemigo
+A-Withered Wanderweed - HP:283/2314 Shields:1
+B-Army Ant - HP:0/502 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Withered Wanderweed
+2.Ochette
+3.Castti
+4.Heatcore
+5.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Ochette
+3.Castti
+4.Tressa
+5.Withered Wanderweed
+----------------------------------------
+Withered Wanderweed usa Attack
+Tressa recibe 62 de daño físico
+Tressa termina con HP:5329
+----------------------------------------
+Equipo del jugador
+A-Ochette - HP:4447/4447 SP:369/369 BP:3
+B-Castti - HP:5336/5336 SP:426/426 BP:1
+C-Tressa - HP:5329/5391 SP:353/357 BP:3
+D-Heatcore - HP:2822/2822 SP:331/392 BP:0
+Equipo del enemigo
+A-Withered Wanderweed - HP:283/2314 Shields:1
+B-Army Ant - HP:0/502 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Castti
+3.Heatcore
+4.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Ochette
+3.Castti
+4.Tressa
+5.Withered Wanderweed
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ochette
+1: Heal Wounds
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Ochette usa Heal Wounds
+Castti recupera 705 de vida
+Tressa recupera 916 de vida
+Heatcore recupera 705 de vida
+Ochette recupera 705 de vida
+Castti termina con HP:5336
+Tressa termina con HP:5391
+Heatcore termina con HP:2822
+Ochette termina con HP:4447
+----------------------------------------
+Equipo del jugador
+A-Ochette - HP:4447/4447 SP:363/369 BP:0
+B-Castti - HP:5336/5336 SP:426/426 BP:1
+C-Tressa - HP:5391/5391 SP:353/357 BP:3
+D-Heatcore - HP:2822/2822 SP:331/392 BP:0
+Equipo del enemigo
+A-Withered Wanderweed - HP:283/2314 Shields:1
+B-Army Ant - HP:0/502 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Heatcore
+3.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Ochette
+3.Castti
+4.Tressa
+5.Withered Wanderweed
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Withered Wanderweed - HP:283/2314 Shields:1
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Castti no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Castti ataca
+Withered Wanderweed recibe 318 de daño de tipo Axe con debilidad
+Withered Wanderweed entra en Breaking Point
+Withered Wanderweed recibe 424 de daño de tipo Axe con debilidad
+Withered Wanderweed termina con HP:0
+----------------------------------------
+Gana equipo del jugador

@@ -1,0 +1,716 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+INPUT: 42
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:426/426 BP:1
+B-Alfyn - HP:5336/5336 SP:383/383 BP:1
+Equipo del enemigo
+A-Blood Revenant - HP:16352/16352 Shields:7
+B-Mattias? - HP:5780/5780 Shields:4
+C-Curator - HP:1530/1530 Shields:3
+D-Albino Bat - HP:1896/1896 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Alfyn
+3.Mattias?
+4.Blood Revenant
+5.Curator
+6.Albino Bat
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Alfyn
+3.Mattias?
+4.Blood Revenant
+5.Curator
+6.Albino Bat
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Shackle Foe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Blood Revenant - HP:16352/16352 Shields:7
+2: Mattias? - HP:5780/5780 Shields:4
+3: Curator - HP:1530/1530 Shields:3
+4: Albino Bat - HP:1896/1896 Shields:4
+5: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Castti no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Castti usa Shackle Foe
+Curator tendrá Decreased Physical Attack durante 4 rondas
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:422/426 BP:0
+B-Alfyn - HP:5336/5336 SP:383/383 BP:1
+Equipo del enemigo
+A-Blood Revenant - HP:16352/16352 Shields:7
+B-Mattias? - HP:5780/5780 Shields:4
+C-Curator - HP:1530/1530 Shields:3
+D-Albino Bat - HP:1896/1896 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Mattias?
+3.Blood Revenant
+4.Curator
+5.Albino Bat
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Alfyn
+3.Mattias?
+4.Blood Revenant
+5.Curator
+6.Albino Bat
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alfyn
+1: Blood Revenant - HP:16352/16352 Shields:7
+2: Mattias? - HP:5780/5780 Shields:4
+3: Curator - HP:1530/1530 Shields:3
+4: Albino Bat - HP:1896/1896 Shields:4
+5: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Alfyn ataca
+Curator recibe 307 de daño de tipo Axe
+Curator termina con HP:1223
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:422/426 BP:0
+B-Alfyn - HP:5336/5336 SP:383/383 BP:1
+Equipo del enemigo
+A-Blood Revenant - HP:16352/16352 Shields:7
+B-Mattias? - HP:5780/5780 Shields:4
+C-Curator - HP:1223/1530 Shields:3
+D-Albino Bat - HP:1896/1896 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+2.Blood Revenant
+3.Curator
+4.Albino Bat
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Alfyn
+3.Mattias?
+4.Blood Revenant
+5.Curator
+6.Albino Bat
+----------------------------------------
+Mattias? usa Black Gale
+Castti recibe 617 de daño elemental
+Alfyn recibe 471 de daño elemental
+Castti termina con HP:4719
+Alfyn termina con HP:4865
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:4719/5336 SP:422/426 BP:0
+B-Alfyn - HP:4865/5336 SP:383/383 BP:1
+Equipo del enemigo
+A-Blood Revenant - HP:16352/16352 Shields:7
+B-Mattias? - HP:5780/5780 Shields:4
+C-Curator - HP:1223/1530 Shields:3
+D-Albino Bat - HP:1896/1896 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Blood Revenant
+2.Curator
+3.Albino Bat
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Alfyn
+3.Mattias?
+4.Blood Revenant
+5.Curator
+6.Albino Bat
+----------------------------------------
+Blood Revenant usa Volcano
+Castti recibe 536 de daño elemental
+Castti tendrá Decreased Elemental Defense durante 2 rondas
+Alfyn recibe 417 de daño elemental
+Alfyn tendrá Decreased Elemental Defense durante 2 rondas
+Castti termina con HP:4183
+Alfyn termina con HP:4448
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:4183/5336 SP:422/426 BP:0
+B-Alfyn - HP:4448/5336 SP:383/383 BP:1
+Equipo del enemigo
+A-Blood Revenant - HP:16352/16352 Shields:7
+B-Mattias? - HP:5780/5780 Shields:4
+C-Curator - HP:1223/1530 Shields:3
+D-Albino Bat - HP:1896/1896 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Curator
+2.Albino Bat
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Alfyn
+3.Mattias?
+4.Blood Revenant
+5.Curator
+6.Albino Bat
+----------------------------------------
+Curator usa Augmented Magic
+Blood Revenant tendrá Increased Elemental Attack durante 2 rondas
+Blood Revenant tendrá Increased Elemental Defense durante 2 rondas
+Mattias? tendrá Increased Elemental Attack durante 2 rondas
+Mattias? tendrá Increased Elemental Defense durante 2 rondas
+Albino Bat tendrá Increased Elemental Attack durante 2 rondas
+Albino Bat tendrá Increased Elemental Defense durante 2 rondas
+Curator tendrá Increased Elemental Attack durante 2 rondas
+Curator tendrá Increased Elemental Defense durante 2 rondas
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:4183/5336 SP:422/426 BP:0
+B-Alfyn - HP:4448/5336 SP:383/383 BP:1
+Equipo del enemigo
+A-Blood Revenant - HP:16352/16352 Shields:7
+B-Mattias? - HP:5780/5780 Shields:4
+C-Curator - HP:1223/1530 Shields:3
+D-Albino Bat - HP:1896/1896 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Albino Bat
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Alfyn
+3.Mattias?
+4.Blood Revenant
+5.Curator
+6.Albino Bat
+----------------------------------------
+Albino Bat usa Flap
+Alfyn recibe 149 de daño físico
+Albino Bat tendrá Increased Speed durante 2 rondas
+Alfyn termina con HP:4299
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:4183/5336 SP:422/426 BP:0
+B-Alfyn - HP:4299/5336 SP:383/383 BP:2
+Equipo del enemigo
+A-Blood Revenant - HP:16352/16352 Shields:7
+B-Mattias? - HP:5780/5780 Shields:4
+C-Curator - HP:1223/1530 Shields:3
+D-Albino Bat - HP:1896/1896 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Alfyn
+3.Mattias?
+4.Albino Bat
+5.Blood Revenant
+6.Curator
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Alfyn
+3.Mattias?
+4.Blood Revenant
+5.Curator
+6.Albino Bat
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Shackle Foe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Blood Revenant - HP:16352/16352 Shields:7
+2: Mattias? - HP:5780/5780 Shields:4
+3: Curator - HP:1223/1530 Shields:3
+4: Albino Bat - HP:1896/1896 Shields:4
+5: Cancelar
+INPUT: 1
+----------------------------------------
+Castti usa Shackle Foe
+Blood Revenant tendrá Decreased Physical Attack durante 2 rondas
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:4183/5336 SP:418/426 BP:0
+B-Alfyn - HP:4299/5336 SP:383/383 BP:2
+Equipo del enemigo
+A-Blood Revenant - HP:16352/16352 Shields:7
+B-Mattias? - HP:5780/5780 Shields:4
+C-Curator - HP:1223/1530 Shields:3
+D-Albino Bat - HP:1896/1896 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Mattias?
+3.Albino Bat
+4.Blood Revenant
+5.Curator
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Alfyn
+3.Mattias?
+4.Blood Revenant
+5.Curator
+6.Albino Bat
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Alfyn
+1: Rest
+2: Tonitrus Canere
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Alfyn usa Tonitrus Canere
+Blood Revenant recibe 790 de daño de tipo Lightning
+Blood Revenant recibe 790 de daño de tipo Lightning
+Blood Revenant recibe 790 de daño de tipo Lightning
+Mattias? recibe 662 de daño de tipo Lightning
+Mattias? recibe 662 de daño de tipo Lightning
+Mattias? recibe 662 de daño de tipo Lightning
+Curator recibe 1051 de daño de tipo Lightning
+Curator recibe 1051 de daño de tipo Lightning
+Curator recibe 1051 de daño de tipo Lightning
+Albino Bat recibe 1027 de daño de tipo Lightning
+Albino Bat recibe 1027 de daño de tipo Lightning
+Albino Bat recibe 1027 de daño de tipo Lightning
+Blood Revenant termina con HP:13982
+Mattias? termina con HP:3794
+Curator termina con HP:0
+Albino Bat termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:4183/5336 SP:418/426 BP:0
+B-Alfyn - HP:4299/5336 SP:347/383 BP:0
+Equipo del enemigo
+A-Blood Revenant - HP:13982/16352 Shields:7
+B-Mattias? - HP:3794/5780 Shields:4
+C-Curator - HP:0/1530 Shields:3
+D-Albino Bat - HP:0/1896 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+2.Blood Revenant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Alfyn
+3.Mattias?
+4.Blood Revenant
+----------------------------------------
+Mattias? usa Black Gale
+Castti recibe 1389 de daño elemental
+Alfyn recibe 1061 de daño elemental
+Castti termina con HP:2794
+Alfyn termina con HP:3238
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:2794/5336 SP:418/426 BP:0
+B-Alfyn - HP:3238/5336 SP:347/383 BP:0
+Equipo del enemigo
+A-Blood Revenant - HP:13982/16352 Shields:7
+B-Mattias? - HP:3794/5780 Shields:4
+C-Curator - HP:0/1530 Shields:3
+D-Albino Bat - HP:0/1896 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Blood Revenant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Alfyn
+3.Mattias?
+4.Blood Revenant
+----------------------------------------
+Blood Revenant usa Volcano
+Castti recibe 1206 de daño elemental
+Castti tendrá Decreased Elemental Defense durante 2 rondas
+Alfyn recibe 939 de daño elemental
+Alfyn tendrá Decreased Elemental Defense durante 2 rondas
+Castti termina con HP:1588
+Alfyn termina con HP:2299
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:1588/5336 SP:418/426 BP:1
+B-Alfyn - HP:2299/5336 SP:347/383 BP:0
+Equipo del enemigo
+A-Blood Revenant - HP:13982/16352 Shields:7
+B-Mattias? - HP:3794/5780 Shields:4
+C-Curator - HP:0/1530 Shields:3
+D-Albino Bat - HP:0/1896 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Alfyn
+3.Mattias?
+4.Blood Revenant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Alfyn
+3.Mattias?
+4.Blood Revenant
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Blood Revenant - HP:13982/16352 Shields:7
+2: Mattias? - HP:3794/5780 Shields:4
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Castti ataca
+Mattias? recibe 79 de daño de tipo Axe con debilidad
+Mattias? recibe 79 de daño de tipo Axe con debilidad
+Mattias? recibe 79 de daño de tipo Axe con debilidad
+Mattias? termina con HP:3557
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:1588/5336 SP:418/426 BP:0
+B-Alfyn - HP:2299/5336 SP:347/383 BP:0
+Equipo del enemigo
+A-Blood Revenant - HP:13982/16352 Shields:7
+B-Mattias? - HP:3557/5780 Shields:1
+C-Curator - HP:0/1530 Shields:3
+D-Albino Bat - HP:0/1896 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Mattias?
+3.Blood Revenant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Alfyn
+3.Mattias?
+4.Blood Revenant
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Alfyn
+1: Rest
+2: Tonitrus Canere
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Alfyn usa Rest
+Alfyn recupera 238 de vida
+Alfyn recupera 25 SP
+Alfyn termina con HP:2537
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:1588/5336 SP:418/426 BP:0
+B-Alfyn - HP:2537/5336 SP:372/383 BP:0
+Equipo del enemigo
+A-Blood Revenant - HP:13982/16352 Shields:7
+B-Mattias? - HP:3557/5780 Shields:1
+C-Curator - HP:0/1530 Shields:3
+D-Albino Bat - HP:0/1896 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+2.Blood Revenant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Alfyn
+3.Mattias?
+4.Blood Revenant
+----------------------------------------
+Mattias? usa Black Gale
+Castti recibe 926 de daño elemental
+Alfyn recibe 707 de daño elemental
+Castti termina con HP:662
+Alfyn termina con HP:1830
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:662/5336 SP:418/426 BP:0
+B-Alfyn - HP:1830/5336 SP:372/383 BP:0
+Equipo del enemigo
+A-Blood Revenant - HP:13982/16352 Shields:7
+B-Mattias? - HP:3557/5780 Shields:1
+C-Curator - HP:0/1530 Shields:3
+D-Albino Bat - HP:0/1896 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Blood Revenant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Alfyn
+3.Mattias?
+4.Blood Revenant
+----------------------------------------
+Blood Revenant usa Volcano
+Castti recibe 804 de daño elemental
+Castti tendrá Decreased Elemental Defense durante 2 rondas
+Alfyn recibe 626 de daño elemental
+Alfyn tendrá Decreased Elemental Defense durante 2 rondas
+Castti termina con HP:0
+Alfyn termina con HP:1204
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:0/5336 SP:418/426 BP:0
+B-Alfyn - HP:1204/5336 SP:372/383 BP:1
+Equipo del enemigo
+A-Blood Revenant - HP:13982/16352 Shields:7
+B-Mattias? - HP:3557/5780 Shields:1
+C-Curator - HP:0/1530 Shields:3
+D-Albino Bat - HP:0/1896 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Mattias?
+3.Blood Revenant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Mattias?
+3.Blood Revenant
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Alfyn
+1: Blood Revenant - HP:13982/16352 Shields:7
+2: Mattias? - HP:3557/5780 Shields:1
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Alfyn ataca
+Mattias? recibe 0 de daño de tipo Axe con debilidad
+Mattias? termina con HP:3557
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:0/5336 SP:418/426 BP:0
+B-Alfyn - HP:1204/5336 SP:372/383 BP:1
+Equipo del enemigo
+A-Blood Revenant - HP:13982/16352 Shields:7
+B-Mattias? - HP:3557/5780 Shields:1
+C-Curator - HP:0/1530 Shields:3
+D-Albino Bat - HP:0/1896 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+2.Blood Revenant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Mattias?
+3.Blood Revenant
+----------------------------------------
+Mattias? usa Black Gale
+Alfyn recibe 707 de daño elemental
+Alfyn termina con HP:497
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:0/5336 SP:418/426 BP:0
+B-Alfyn - HP:497/5336 SP:372/383 BP:1
+Equipo del enemigo
+A-Blood Revenant - HP:13982/16352 Shields:7
+B-Mattias? - HP:3557/5780 Shields:1
+C-Curator - HP:0/1530 Shields:3
+D-Albino Bat - HP:0/1896 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Blood Revenant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Mattias?
+3.Blood Revenant
+----------------------------------------
+Blood Revenant usa Volcano
+Alfyn recibe 626 de daño elemental
+Alfyn tendrá Decreased Elemental Defense durante 2 rondas
+Alfyn termina con HP:0
+----------------------------------------
+Gana equipo del enemigo

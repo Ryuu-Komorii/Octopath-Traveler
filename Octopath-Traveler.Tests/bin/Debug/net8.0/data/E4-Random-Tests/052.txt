@@ -1,0 +1,2482 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+INPUT: 51
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4891/4891 SP:357/357 BP:1
+B-Castti - HP:5336/5336 SP:426/426 BP:1
+C-Hikari - HP:5781/5781 SP:317/317 BP:1
+D-Temenos - HP:4002/4002 SP:432/432 BP:1
+Equipo del enemigo
+A-Forest Fox - HP:1380/1380 Shields:2
+B-Mad Ratkin - HP:1233/1233 Shields:1
+C-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Hikari
+3.Temenos
+4.Behemoth
+5.Tressa
+6.Mad Ratkin
+7.Forest Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Hikari
+3.Temenos
+4.Behemoth
+5.Tressa
+6.Mad Ratkin
+7.Forest Fox
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Forest Fox - HP:1380/1380 Shields:2
+2: Mad Ratkin - HP:1233/1233 Shields:1
+3: Behemoth - HP:12690/12690 Shields:8
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti ataca
+Mad Ratkin recibe 178 de daño de tipo Axe
+Mad Ratkin termina con HP:1055
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4891/4891 SP:357/357 BP:1
+B-Castti - HP:5336/5336 SP:426/426 BP:1
+C-Hikari - HP:5781/5781 SP:317/317 BP:1
+D-Temenos - HP:4002/4002 SP:432/432 BP:1
+Equipo del enemigo
+A-Forest Fox - HP:1380/1380 Shields:2
+B-Mad Ratkin - HP:1055/1233 Shields:1
+C-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Temenos
+3.Behemoth
+4.Tressa
+5.Mad Ratkin
+6.Forest Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Hikari
+3.Temenos
+4.Behemoth
+5.Tressa
+6.Mad Ratkin
+7.Forest Fox
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: First Aid
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Tressa - HP:4891/4891 SP:357/357 BP:1
+2: Castti - HP:5336/5336 SP:426/426 BP:1
+3: Hikari - HP:5781/5781 SP:317/317 BP:1
+4: Temenos - HP:4002/4002 SP:432/432 BP:1
+5: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Hikari no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Hikari no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Hikari usa First Aid
+Tressa recupera 569 de vida
+Tressa termina con HP:5460
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:5460/4891 SP:357/357 BP:1
+B-Castti - HP:5336/5336 SP:426/426 BP:1
+C-Hikari - HP:5781/5781 SP:313/317 BP:0
+D-Temenos - HP:4002/4002 SP:432/432 BP:1
+Equipo del enemigo
+A-Forest Fox - HP:1380/1380 Shields:2
+B-Mad Ratkin - HP:1055/1233 Shields:1
+C-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Behemoth
+3.Tressa
+4.Mad Ratkin
+5.Forest Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Hikari
+3.Temenos
+4.Behemoth
+5.Tressa
+6.Mad Ratkin
+7.Forest Fox
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Temenos
+1: Forest Fox - HP:1380/1380 Shields:2
+2: Mad Ratkin - HP:1055/1233 Shields:1
+3: Behemoth - HP:12690/12690 Shields:8
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Temenos ataca
+Behemoth recibe 0 de daño de tipo Stave
+Behemoth recibe 0 de daño de tipo Stave
+Behemoth termina con HP:12690
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:5460/4891 SP:357/357 BP:1
+B-Castti - HP:5336/5336 SP:426/426 BP:1
+C-Hikari - HP:5781/5781 SP:313/317 BP:0
+D-Temenos - HP:4002/4002 SP:432/432 BP:0
+Equipo del enemigo
+A-Forest Fox - HP:1380/1380 Shields:2
+B-Mad Ratkin - HP:1055/1233 Shields:1
+C-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Tressa
+3.Mad Ratkin
+4.Forest Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Hikari
+3.Temenos
+4.Behemoth
+5.Tressa
+6.Mad Ratkin
+7.Forest Fox
+----------------------------------------
+Behemoth usa Stampede
+Tressa recibe 687 de daño físico
+Castti recibe 378 de daño físico
+Hikari recibe 642 de daño físico
+Temenos recibe 718 de daño físico
+Tressa termina con HP:4773
+Castti termina con HP:4958
+Hikari termina con HP:5139
+Temenos termina con HP:3284
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4773/4891 SP:357/357 BP:1
+B-Castti - HP:4958/5336 SP:426/426 BP:1
+C-Hikari - HP:5139/5781 SP:313/317 BP:0
+D-Temenos - HP:3284/4002 SP:432/432 BP:0
+Equipo del enemigo
+A-Forest Fox - HP:1380/1380 Shields:2
+B-Mad Ratkin - HP:1055/1233 Shields:1
+C-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Mad Ratkin
+3.Forest Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Hikari
+3.Temenos
+4.Behemoth
+5.Tressa
+6.Mad Ratkin
+7.Forest Fox
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Forest Fox - HP:1380/1380 Shields:2
+2: Mad Ratkin - HP:1055/1233 Shields:1
+3: Behemoth - HP:12690/12690 Shields:8
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Tressa ataca
+Mad Ratkin recibe 124 de daño de tipo Bow
+Mad Ratkin recibe 124 de daño de tipo Bow
+Mad Ratkin termina con HP:807
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4773/4891 SP:357/357 BP:0
+B-Castti - HP:4958/5336 SP:426/426 BP:1
+C-Hikari - HP:5139/5781 SP:313/317 BP:0
+D-Temenos - HP:3284/4002 SP:432/432 BP:0
+Equipo del enemigo
+A-Forest Fox - HP:1380/1380 Shields:2
+B-Mad Ratkin - HP:807/1233 Shields:1
+C-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Mad Ratkin
+2.Forest Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Hikari
+3.Temenos
+4.Behemoth
+5.Tressa
+6.Mad Ratkin
+7.Forest Fox
+----------------------------------------
+Mad Ratkin usa Stab
+Temenos recibe 307 de daño físico
+Temenos termina con HP:2977
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4773/4891 SP:357/357 BP:0
+B-Castti - HP:4958/5336 SP:426/426 BP:1
+C-Hikari - HP:5139/5781 SP:313/317 BP:0
+D-Temenos - HP:2977/4002 SP:432/432 BP:0
+Equipo del enemigo
+A-Forest Fox - HP:1380/1380 Shields:2
+B-Mad Ratkin - HP:807/1233 Shields:1
+C-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Forest Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Hikari
+3.Temenos
+4.Behemoth
+5.Tressa
+6.Mad Ratkin
+7.Forest Fox
+----------------------------------------
+Forest Fox usa Double Bite
+Temenos recibe 182 de daño físico
+Temenos recibe 182 de daño físico
+Temenos termina con HP:2613
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4773/4891 SP:357/357 BP:0
+B-Castti - HP:4958/5336 SP:426/426 BP:2
+C-Hikari - HP:5139/5781 SP:313/317 BP:0
+D-Temenos - HP:2613/4002 SP:432/432 BP:0
+Equipo del enemigo
+A-Forest Fox - HP:1380/1380 Shields:2
+B-Mad Ratkin - HP:807/1233 Shields:1
+C-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Hikari
+3.Temenos
+4.Behemoth
+5.Tressa
+6.Mad Ratkin
+7.Forest Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Hikari
+3.Temenos
+4.Behemoth
+5.Tressa
+6.Mad Ratkin
+7.Forest Fox
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Armor Corrosive
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Forest Fox - HP:1380/1380 Shields:2
+2: Mad Ratkin - HP:807/1233 Shields:1
+3: Behemoth - HP:12690/12690 Shields:8
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Castti usa Armor Corrosive
+Behemoth tendrá Decreased Physical Defense durante 4 rondas
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4773/4891 SP:357/357 BP:0
+B-Castti - HP:4958/5336 SP:422/426 BP:1
+C-Hikari - HP:5139/5781 SP:313/317 BP:0
+D-Temenos - HP:2613/4002 SP:432/432 BP:0
+Equipo del enemigo
+A-Forest Fox - HP:1380/1380 Shields:2
+B-Mad Ratkin - HP:807/1233 Shields:1
+C-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Temenos
+3.Behemoth
+4.Tressa
+5.Mad Ratkin
+6.Forest Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Hikari
+3.Temenos
+4.Behemoth
+5.Tressa
+6.Mad Ratkin
+7.Forest Fox
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Forest Fox - HP:1380/1380 Shields:2
+2: Mad Ratkin - HP:807/1233 Shields:1
+3: Behemoth - HP:12690/12690 Shields:8
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Hikari ataca
+Mad Ratkin recibe 299 de daño de tipo Spear con debilidad
+Mad Ratkin entra en Breaking Point
+Mad Ratkin termina con HP:508
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4773/4891 SP:357/357 BP:0
+B-Castti - HP:4958/5336 SP:422/426 BP:1
+C-Hikari - HP:5139/5781 SP:313/317 BP:0
+D-Temenos - HP:2613/4002 SP:432/432 BP:0
+Equipo del enemigo
+A-Forest Fox - HP:1380/1380 Shields:2
+B-Mad Ratkin - HP:508/1233 Shields:0
+C-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Behemoth
+3.Tressa
+4.Forest Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Hikari
+3.Temenos
+4.Behemoth
+5.Tressa
+6.Forest Fox
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Temenos
+1: Forest Fox - HP:1380/1380 Shields:2
+2: Mad Ratkin - HP:508/1233 Shields:0
+3: Behemoth - HP:12690/12690 Shields:8
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Temenos ataca
+Mad Ratkin recibe 0 de daño de tipo Stave
+Mad Ratkin termina con HP:508
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4773/4891 SP:357/357 BP:0
+B-Castti - HP:4958/5336 SP:422/426 BP:1
+C-Hikari - HP:5139/5781 SP:313/317 BP:0
+D-Temenos - HP:2613/4002 SP:432/432 BP:0
+Equipo del enemigo
+A-Forest Fox - HP:1380/1380 Shields:2
+B-Mad Ratkin - HP:508/1233 Shields:0
+C-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Tressa
+3.Forest Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Hikari
+3.Temenos
+4.Behemoth
+5.Tressa
+6.Forest Fox
+----------------------------------------
+Behemoth usa Stampede
+Tressa recibe 687 de daño físico
+Castti recibe 378 de daño físico
+Hikari recibe 642 de daño físico
+Temenos recibe 718 de daño físico
+Tressa termina con HP:4086
+Castti termina con HP:4580
+Hikari termina con HP:4497
+Temenos termina con HP:1895
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4086/4891 SP:357/357 BP:0
+B-Castti - HP:4580/5336 SP:422/426 BP:1
+C-Hikari - HP:4497/5781 SP:313/317 BP:0
+D-Temenos - HP:1895/4002 SP:432/432 BP:0
+Equipo del enemigo
+A-Forest Fox - HP:1380/1380 Shields:2
+B-Mad Ratkin - HP:508/1233 Shields:0
+C-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Forest Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Hikari
+3.Temenos
+4.Behemoth
+5.Tressa
+6.Forest Fox
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Combustion
+2: Abide
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Tressa - HP:4086/4891 SP:357/357 BP:0
+2: Castti - HP:4580/5336 SP:422/426 BP:1
+3: Hikari - HP:4497/5781 SP:313/317 BP:0
+4: Temenos - HP:1895/4002 SP:432/432 BP:0
+5: Cancelar
+INPUT: 4
+----------------------------------------
+Tressa usa Abide
+Temenos tendrá Increased Physical Attack durante 3 rondas
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4086/4891 SP:353/357 BP:0
+B-Castti - HP:4580/5336 SP:422/426 BP:1
+C-Hikari - HP:4497/5781 SP:313/317 BP:0
+D-Temenos - HP:1895/4002 SP:432/432 BP:0
+Equipo del enemigo
+A-Forest Fox - HP:1380/1380 Shields:2
+B-Mad Ratkin - HP:508/1233 Shields:0
+C-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Forest Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Hikari
+3.Temenos
+4.Behemoth
+5.Tressa
+6.Forest Fox
+----------------------------------------
+Forest Fox usa Double Bite
+Temenos recibe 182 de daño físico
+Temenos recibe 182 de daño físico
+Temenos termina con HP:1531
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4086/4891 SP:353/357 BP:1
+B-Castti - HP:4580/5336 SP:422/426 BP:1
+C-Hikari - HP:4497/5781 SP:313/317 BP:1
+D-Temenos - HP:1531/4002 SP:432/432 BP:1
+Equipo del enemigo
+A-Forest Fox - HP:1380/1380 Shields:2
+B-Mad Ratkin - HP:508/1233 Shields:0
+C-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Hikari
+3.Temenos
+4.Behemoth
+5.Tressa
+6.Forest Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Mad Ratkin
+2.Castti
+3.Hikari
+4.Temenos
+5.Behemoth
+6.Tressa
+7.Forest Fox
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Forest Fox - HP:1380/1380 Shields:2
+2: Mad Ratkin - HP:508/1233 Shields:0
+3: Behemoth - HP:12690/12690 Shields:8
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Castti no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti ataca
+Forest Fox recibe 334 de daño de tipo Axe
+Forest Fox termina con HP:1046
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4086/4891 SP:353/357 BP:1
+B-Castti - HP:4580/5336 SP:422/426 BP:1
+C-Hikari - HP:4497/5781 SP:313/317 BP:1
+D-Temenos - HP:1531/4002 SP:432/432 BP:1
+Equipo del enemigo
+A-Forest Fox - HP:1046/1380 Shields:2
+B-Mad Ratkin - HP:508/1233 Shields:0
+C-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Temenos
+3.Behemoth
+4.Tressa
+5.Forest Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Mad Ratkin
+2.Castti
+3.Hikari
+4.Temenos
+5.Behemoth
+6.Tressa
+7.Forest Fox
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: First Aid
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Tressa - HP:4086/4891 SP:353/357 BP:1
+2: Castti - HP:4580/5336 SP:422/426 BP:1
+3: Hikari - HP:4497/5781 SP:313/317 BP:1
+4: Temenos - HP:1531/4002 SP:432/432 BP:1
+5: Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Hikari no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Hikari no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Hikari usa First Aid
+Temenos recupera 569 de vida
+Temenos termina con HP:2100
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4086/4891 SP:353/357 BP:1
+B-Castti - HP:4580/5336 SP:422/426 BP:1
+C-Hikari - HP:4497/5781 SP:309/317 BP:0
+D-Temenos - HP:2100/4002 SP:432/432 BP:1
+Equipo del enemigo
+A-Forest Fox - HP:1046/1380 Shields:2
+B-Mad Ratkin - HP:508/1233 Shields:0
+C-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Behemoth
+3.Tressa
+4.Forest Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Mad Ratkin
+2.Castti
+3.Hikari
+4.Temenos
+5.Behemoth
+6.Tressa
+7.Forest Fox
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Temenos
+1: Incite
+2: Mole Dance
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Temenos usa Incite
+Temenos protegerá de ataques durante 3 rondas
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:4086/4891 SP:353/357 BP:1
+B-Castti - HP:4580/5336 SP:422/426 BP:1
+C-Hikari - HP:4497/5781 SP:309/317 BP:0
+D-Temenos - HP:2100/4002 SP:428/432 BP:1
+Equipo del enemigo
+A-Forest Fox - HP:1046/1380 Shields:2
+B-Mad Ratkin - HP:508/1233 Shields:0
+C-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Tressa
+3.Forest Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Mad Ratkin
+2.Castti
+3.Hikari
+4.Temenos
+5.Behemoth
+6.Tressa
+7.Forest Fox
+----------------------------------------
+Behemoth usa Stampede
+Tressa recibe 687 de daño físico
+Castti recibe 378 de daño físico
+Hikari recibe 642 de daño físico
+Temenos recibe 718 de daño físico
+Tressa termina con HP:3399
+Castti termina con HP:4202
+Hikari termina con HP:3855
+Temenos termina con HP:1382
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:3399/4891 SP:353/357 BP:1
+B-Castti - HP:4202/5336 SP:422/426 BP:1
+C-Hikari - HP:3855/5781 SP:309/317 BP:0
+D-Temenos - HP:1382/4002 SP:428/432 BP:1
+Equipo del enemigo
+A-Forest Fox - HP:1046/1380 Shields:2
+B-Mad Ratkin - HP:508/1233 Shields:0
+C-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Forest Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Mad Ratkin
+2.Castti
+3.Hikari
+4.Temenos
+5.Behemoth
+6.Tressa
+7.Forest Fox
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:3399/4891 SP:353/357 BP:1
+B-Castti - HP:4202/5336 SP:422/426 BP:1
+C-Hikari - HP:3855/5781 SP:309/317 BP:0
+D-Temenos - HP:1382/4002 SP:428/432 BP:1
+Equipo del enemigo
+A-Forest Fox - HP:1046/1380 Shields:2
+B-Mad Ratkin - HP:508/1233 Shields:0
+C-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Forest Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Mad Ratkin
+2.Tressa
+3.Castti
+4.Hikari
+5.Temenos
+6.Behemoth
+7.Forest Fox
+----------------------------------------
+Forest Fox usa Double Bite
+Temenos recibe 182 de daño físico
+Temenos recibe 182 de daño físico
+Temenos termina con HP:1018
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:3399/4891 SP:353/357 BP:2
+B-Castti - HP:4202/5336 SP:422/426 BP:2
+C-Hikari - HP:3855/5781 SP:309/317 BP:0
+D-Temenos - HP:1018/4002 SP:428/432 BP:2
+Equipo del enemigo
+A-Forest Fox - HP:1046/1380 Shields:2
+B-Mad Ratkin - HP:508/1233 Shields:1
+C-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Mad Ratkin
+2.Tressa
+3.Castti
+4.Hikari
+5.Temenos
+6.Behemoth
+7.Forest Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Hikari
+3.Temenos
+4.Behemoth
+5.Tressa
+6.Mad Ratkin
+7.Forest Fox
+----------------------------------------
+Mad Ratkin usa Stab
+Temenos recibe 307 de daño físico
+Temenos termina con HP:711
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:3399/4891 SP:353/357 BP:2
+B-Castti - HP:4202/5336 SP:422/426 BP:2
+C-Hikari - HP:3855/5781 SP:309/317 BP:0
+D-Temenos - HP:711/4002 SP:428/432 BP:2
+Equipo del enemigo
+A-Forest Fox - HP:1046/1380 Shields:2
+B-Mad Ratkin - HP:508/1233 Shields:1
+C-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Castti
+3.Hikari
+4.Temenos
+5.Behemoth
+6.Forest Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Hikari
+3.Temenos
+4.Behemoth
+5.Tressa
+6.Mad Ratkin
+7.Forest Fox
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Combustion
+2: Abide
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Tressa usa Combustion
+Forest Fox recibe 2440 de daño de tipo Fire con debilidad
+Mad Ratkin recibe 1406 de daño de tipo Fire
+Behemoth recibe 1263 de daño de tipo Fire
+Tressa pierde 2719 HP
+Forest Fox termina con HP:0
+Mad Ratkin termina con HP:0
+Behemoth termina con HP:11427
+Tressa termina con HP:680
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:680/4891 SP:317/357 BP:1
+B-Castti - HP:4202/5336 SP:422/426 BP:2
+C-Hikari - HP:3855/5781 SP:309/317 BP:0
+D-Temenos - HP:711/4002 SP:428/432 BP:2
+Equipo del enemigo
+A-Forest Fox - HP:0/1380 Shields:1
+B-Mad Ratkin - HP:0/1233 Shields:1
+C-Behemoth - HP:11427/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Hikari
+3.Temenos
+4.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Hikari
+3.Temenos
+4.Behemoth
+5.Tressa
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Armor Corrosive
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Behemoth - HP:11427/12690 Shields:8
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Castti usa Armor Corrosive
+Behemoth tendrá Decreased Physical Defense durante 6 rondas
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:680/4891 SP:317/357 BP:1
+B-Castti - HP:4202/5336 SP:418/426 BP:0
+C-Hikari - HP:3855/5781 SP:309/317 BP:0
+D-Temenos - HP:711/4002 SP:428/432 BP:2
+Equipo del enemigo
+A-Forest Fox - HP:0/1380 Shields:1
+B-Mad Ratkin - HP:0/1233 Shields:1
+C-Behemoth - HP:11427/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Temenos
+3.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Hikari
+3.Temenos
+4.Behemoth
+5.Tressa
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Behemoth - HP:11427/12690 Shields:8
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Hikari ataca
+Behemoth recibe 151 de daño de tipo Sword
+Behemoth termina con HP:11276
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:680/4891 SP:317/357 BP:1
+B-Castti - HP:4202/5336 SP:418/426 BP:0
+C-Hikari - HP:3855/5781 SP:309/317 BP:0
+D-Temenos - HP:711/4002 SP:428/432 BP:2
+Equipo del enemigo
+A-Forest Fox - HP:0/1380 Shields:1
+B-Mad Ratkin - HP:0/1233 Shields:1
+C-Behemoth - HP:11276/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Hikari
+3.Temenos
+4.Behemoth
+5.Tressa
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:680/4891 SP:317/357 BP:1
+B-Castti - HP:4202/5336 SP:418/426 BP:0
+C-Hikari - HP:3855/5781 SP:309/317 BP:0
+D-Temenos - HP:711/4002 SP:428/432 BP:2
+Equipo del enemigo
+A-Forest Fox - HP:0/1380 Shields:1
+B-Mad Ratkin - HP:0/1233 Shields:1
+C-Behemoth - HP:11276/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Castti
+3.Hikari
+4.Behemoth
+5.Tressa
+----------------------------------------
+Behemoth usa Stampede
+Tressa recibe 687 de daño físico
+Castti recibe 378 de daño físico
+Hikari recibe 642 de daño físico
+Temenos se defiende
+Temenos recibe 359 de daño físico
+Tressa termina con HP:0
+Castti termina con HP:3824
+Hikari termina con HP:3213
+Temenos termina con HP:352
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:0/4891 SP:317/357 BP:1
+B-Castti - HP:3824/5336 SP:418/426 BP:0
+C-Hikari - HP:3213/5781 SP:309/317 BP:1
+D-Temenos - HP:352/4002 SP:428/432 BP:3
+Equipo del enemigo
+A-Forest Fox - HP:0/1380 Shields:1
+B-Mad Ratkin - HP:0/1233 Shields:1
+C-Behemoth - HP:11276/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Castti
+3.Hikari
+4.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Hikari
+3.Temenos
+4.Behemoth
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Temenos
+1: Behemoth - HP:11276/12690 Shields:8
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Temenos ataca
+Behemoth recibe 432 de daño de tipo Stave
+Behemoth recibe 432 de daño de tipo Stave
+Behemoth termina con HP:10412
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:0/4891 SP:317/357 BP:1
+B-Castti - HP:3824/5336 SP:418/426 BP:0
+C-Hikari - HP:3213/5781 SP:309/317 BP:1
+D-Temenos - HP:352/4002 SP:428/432 BP:2
+Equipo del enemigo
+A-Forest Fox - HP:0/1380 Shields:1
+B-Mad Ratkin - HP:0/1233 Shields:1
+C-Behemoth - HP:10412/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Hikari
+3.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Hikari
+3.Temenos
+4.Behemoth
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Behemoth - HP:10412/12690 Shields:8
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Castti ataca
+Behemoth recibe 148 de daño de tipo Axe con debilidad
+Behemoth termina con HP:10264
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:0/4891 SP:317/357 BP:1
+B-Castti - HP:3824/5336 SP:418/426 BP:0
+C-Hikari - HP:3213/5781 SP:309/317 BP:1
+D-Temenos - HP:352/4002 SP:428/432 BP:2
+Equipo del enemigo
+A-Forest Fox - HP:0/1380 Shields:1
+B-Mad Ratkin - HP:0/1233 Shields:1
+C-Behemoth - HP:10264/12690 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Hikari
+3.Temenos
+4.Behemoth
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Behemoth - HP:10264/12690 Shields:7
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari ataca
+Behemoth recibe 151 de daño de tipo Sword
+Behemoth termina con HP:10113
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:0/4891 SP:317/357 BP:1
+B-Castti - HP:3824/5336 SP:418/426 BP:0
+C-Hikari - HP:3213/5781 SP:309/317 BP:1
+D-Temenos - HP:352/4002 SP:428/432 BP:2
+Equipo del enemigo
+A-Forest Fox - HP:0/1380 Shields:1
+B-Mad Ratkin - HP:0/1233 Shields:1
+C-Behemoth - HP:10113/12690 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Hikari
+3.Temenos
+4.Behemoth
+----------------------------------------
+Behemoth usa Stampede
+Castti recibe 378 de daño físico
+Hikari recibe 642 de daño físico
+Temenos recibe 718 de daño físico
+Castti termina con HP:3446
+Hikari termina con HP:2571
+Temenos termina con HP:0
+----------------------------------------
+INICIA RONDA 6
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:0/4891 SP:317/357 BP:1
+B-Castti - HP:3446/5336 SP:418/426 BP:1
+C-Hikari - HP:2571/5781 SP:309/317 BP:2
+D-Temenos - HP:0/4002 SP:428/432 BP:2
+Equipo del enemigo
+A-Forest Fox - HP:0/1380 Shields:1
+B-Mad Ratkin - HP:0/1233 Shields:1
+C-Behemoth - HP:10113/12690 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Hikari
+3.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Hikari
+3.Behemoth
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Armor Corrosive
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Behemoth - HP:10113/12690 Shields:7
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti usa Armor Corrosive
+Behemoth tendrá Decreased Physical Defense durante 2 rondas
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:0/4891 SP:317/357 BP:1
+B-Castti - HP:3446/5336 SP:414/426 BP:1
+C-Hikari - HP:2571/5781 SP:309/317 BP:2
+D-Temenos - HP:0/4002 SP:428/432 BP:2
+Equipo del enemigo
+A-Forest Fox - HP:0/1380 Shields:1
+B-Mad Ratkin - HP:0/1233 Shields:1
+C-Behemoth - HP:10113/12690 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Hikari
+3.Behemoth
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Behemoth - HP:10113/12690 Shields:7
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari ataca
+Behemoth recibe 151 de daño de tipo Sword
+Behemoth termina con HP:9962
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:0/4891 SP:317/357 BP:1
+B-Castti - HP:3446/5336 SP:414/426 BP:1
+C-Hikari - HP:2571/5781 SP:309/317 BP:2
+D-Temenos - HP:0/4002 SP:428/432 BP:2
+Equipo del enemigo
+A-Forest Fox - HP:0/1380 Shields:1
+B-Mad Ratkin - HP:0/1233 Shields:1
+C-Behemoth - HP:9962/12690 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Hikari
+3.Behemoth
+----------------------------------------
+Behemoth usa Stampede
+Castti recibe 378 de daño físico
+Hikari recibe 642 de daño físico
+Castti termina con HP:3068
+Hikari termina con HP:1929
+----------------------------------------
+INICIA RONDA 7
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:0/4891 SP:317/357 BP:1
+B-Castti - HP:3068/5336 SP:414/426 BP:2
+C-Hikari - HP:1929/5781 SP:309/317 BP:3
+D-Temenos - HP:0/4002 SP:428/432 BP:2
+Equipo del enemigo
+A-Forest Fox - HP:0/1380 Shields:1
+B-Mad Ratkin - HP:0/1233 Shields:1
+C-Behemoth - HP:9962/12690 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Hikari
+3.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Hikari
+3.Behemoth
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Armor Corrosive
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Behemoth - HP:9962/12690 Shields:7
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Castti usa Armor Corrosive
+Behemoth tendrá Decreased Physical Defense durante 4 rondas
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:0/4891 SP:317/357 BP:1
+B-Castti - HP:3068/5336 SP:410/426 BP:1
+C-Hikari - HP:1929/5781 SP:309/317 BP:3
+D-Temenos - HP:0/4002 SP:428/432 BP:2
+Equipo del enemigo
+A-Forest Fox - HP:0/1380 Shields:1
+B-Mad Ratkin - HP:0/1233 Shields:1
+C-Behemoth - HP:9962/12690 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Hikari
+3.Behemoth
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: First Aid
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Castti - HP:3068/5336 SP:410/426 BP:1
+2: Hikari - HP:1929/5781 SP:309/317 BP:3
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari usa First Aid
+Castti recupera 406 de vida
+Castti termina con HP:3474
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:0/4891 SP:317/357 BP:1
+B-Castti - HP:3474/5336 SP:410/426 BP:1
+C-Hikari - HP:1929/5781 SP:305/317 BP:3
+D-Temenos - HP:0/4002 SP:428/432 BP:2
+Equipo del enemigo
+A-Forest Fox - HP:0/1380 Shields:1
+B-Mad Ratkin - HP:0/1233 Shields:1
+C-Behemoth - HP:9962/12690 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Hikari
+3.Behemoth
+----------------------------------------
+Behemoth usa Stampede
+Castti recibe 378 de daño físico
+Hikari recibe 642 de daño físico
+Castti termina con HP:3096
+Hikari termina con HP:1287
+----------------------------------------
+INICIA RONDA 8
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:0/4891 SP:317/357 BP:1
+B-Castti - HP:3096/5336 SP:410/426 BP:1
+C-Hikari - HP:1287/5781 SP:305/317 BP:4
+D-Temenos - HP:0/4002 SP:428/432 BP:2
+Equipo del enemigo
+A-Forest Fox - HP:0/1380 Shields:1
+B-Mad Ratkin - HP:0/1233 Shields:1
+C-Behemoth - HP:9962/12690 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Hikari
+3.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Hikari
+3.Behemoth
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Armor Corrosive
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Behemoth - HP:9962/12690 Shields:7
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti usa Armor Corrosive
+Behemoth tendrá Decreased Physical Defense durante 2 rondas
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:0/4891 SP:317/357 BP:1
+B-Castti - HP:3096/5336 SP:406/426 BP:1
+C-Hikari - HP:1287/5781 SP:305/317 BP:4
+D-Temenos - HP:0/4002 SP:428/432 BP:2
+Equipo del enemigo
+A-Forest Fox - HP:0/1380 Shields:1
+B-Mad Ratkin - HP:0/1233 Shields:1
+C-Behemoth - HP:9962/12690 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Hikari
+3.Behemoth
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: First Aid
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Castti - HP:3096/5336 SP:406/426 BP:1
+2: Hikari - HP:1287/5781 SP:305/317 BP:4
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Hikari usa First Aid
+Castti recupera 569 de vida
+Castti termina con HP:3665
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:0/4891 SP:317/357 BP:1
+B-Castti - HP:3665/5336 SP:406/426 BP:1
+C-Hikari - HP:1287/5781 SP:301/317 BP:3
+D-Temenos - HP:0/4002 SP:428/432 BP:2
+Equipo del enemigo
+A-Forest Fox - HP:0/1380 Shields:1
+B-Mad Ratkin - HP:0/1233 Shields:1
+C-Behemoth - HP:9962/12690 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Hikari
+3.Behemoth
+----------------------------------------
+Behemoth usa Stampede
+Castti recibe 378 de daño físico
+Hikari recibe 642 de daño físico
+Castti termina con HP:3287
+Hikari termina con HP:645
+----------------------------------------
+INICIA RONDA 9
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:0/4891 SP:317/357 BP:1
+B-Castti - HP:3287/5336 SP:406/426 BP:2
+C-Hikari - HP:645/5781 SP:301/317 BP:3
+D-Temenos - HP:0/4002 SP:428/432 BP:2
+Equipo del enemigo
+A-Forest Fox - HP:0/1380 Shields:1
+B-Mad Ratkin - HP:0/1233 Shields:1
+C-Behemoth - HP:9962/12690 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Hikari
+3.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Hikari
+3.Behemoth
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Armor Corrosive
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Behemoth - HP:9962/12690 Shields:7
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Castti usa Armor Corrosive
+Behemoth tendrá Decreased Physical Defense durante 4 rondas
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:0/4891 SP:317/357 BP:1
+B-Castti - HP:3287/5336 SP:402/426 BP:1
+C-Hikari - HP:645/5781 SP:301/317 BP:3
+D-Temenos - HP:0/4002 SP:428/432 BP:2
+Equipo del enemigo
+A-Forest Fox - HP:0/1380 Shields:1
+B-Mad Ratkin - HP:0/1233 Shields:1
+C-Behemoth - HP:9962/12690 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Hikari
+3.Behemoth
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Behemoth - HP:9962/12690 Shields:7
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Hikari ataca
+Behemoth recibe 258 de daño de tipo Spear con debilidad
+Behemoth recibe 258 de daño de tipo Spear con debilidad
+Behemoth termina con HP:9446
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:0/4891 SP:317/357 BP:1
+B-Castti - HP:3287/5336 SP:402/426 BP:1
+C-Hikari - HP:645/5781 SP:301/317 BP:2
+D-Temenos - HP:0/4002 SP:428/432 BP:2
+Equipo del enemigo
+A-Forest Fox - HP:0/1380 Shields:1
+B-Mad Ratkin - HP:0/1233 Shields:1
+C-Behemoth - HP:9446/12690 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Hikari
+3.Behemoth
+----------------------------------------
+Behemoth usa Stampede
+Castti recibe 378 de daño físico
+Hikari recibe 642 de daño físico
+Castti termina con HP:2909
+Hikari termina con HP:3
+----------------------------------------
+INICIA RONDA 10
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:0/4891 SP:317/357 BP:1
+B-Castti - HP:2909/5336 SP:402/426 BP:1
+C-Hikari - HP:3/5781 SP:301/317 BP:2
+D-Temenos - HP:0/4002 SP:428/432 BP:2
+Equipo del enemigo
+A-Forest Fox - HP:0/1380 Shields:1
+B-Mad Ratkin - HP:0/1233 Shields:1
+C-Behemoth - HP:9446/12690 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Hikari
+3.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Hikari
+3.Behemoth
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Armor Corrosive
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Behemoth - HP:9446/12690 Shields:5
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Castti no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Castti usa Armor Corrosive
+Behemoth tendrá Decreased Physical Defense durante 4 rondas
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:0/4891 SP:317/357 BP:1
+B-Castti - HP:2909/5336 SP:398/426 BP:0
+C-Hikari - HP:3/5781 SP:301/317 BP:2
+D-Temenos - HP:0/4002 SP:428/432 BP:2
+Equipo del enemigo
+A-Forest Fox - HP:0/1380 Shields:1
+B-Mad Ratkin - HP:0/1233 Shields:1
+C-Behemoth - HP:9446/12690 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Hikari
+3.Behemoth
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Behemoth - HP:9446/12690 Shields:5
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Hikari ataca
+Behemoth recibe 151 de daño de tipo Sword
+Behemoth recibe 151 de daño de tipo Sword
+Behemoth termina con HP:9144
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:0/4891 SP:317/357 BP:1
+B-Castti - HP:2909/5336 SP:398/426 BP:0
+C-Hikari - HP:3/5781 SP:301/317 BP:1
+D-Temenos - HP:0/4002 SP:428/432 BP:2
+Equipo del enemigo
+A-Forest Fox - HP:0/1380 Shields:1
+B-Mad Ratkin - HP:0/1233 Shields:1
+C-Behemoth - HP:9144/12690 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Hikari
+3.Behemoth
+----------------------------------------
+Behemoth usa Stampede
+Castti recibe 378 de daño físico
+Hikari recibe 642 de daño físico
+Castti termina con HP:2531
+Hikari termina con HP:0
+----------------------------------------
+INICIA RONDA 11
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:0/4891 SP:317/357 BP:1
+B-Castti - HP:2531/5336 SP:398/426 BP:0
+C-Hikari - HP:0/5781 SP:301/317 BP:1
+D-Temenos - HP:0/4002 SP:428/432 BP:2
+Equipo del enemigo
+A-Forest Fox - HP:0/1380 Shields:1
+B-Mad Ratkin - HP:0/1233 Shields:1
+C-Behemoth - HP:9144/12690 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Behemoth
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Armor Corrosive
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Behemoth - HP:9144/12690 Shields:5
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Castti usa Armor Corrosive
+Behemoth tendrá Decreased Physical Defense durante 2 rondas
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:0/4891 SP:317/357 BP:1
+B-Castti - HP:2531/5336 SP:394/426 BP:0
+C-Hikari - HP:0/5781 SP:301/317 BP:1
+D-Temenos - HP:0/4002 SP:428/432 BP:2
+Equipo del enemigo
+A-Forest Fox - HP:0/1380 Shields:1
+B-Mad Ratkin - HP:0/1233 Shields:1
+C-Behemoth - HP:9144/12690 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Behemoth
+----------------------------------------
+Behemoth usa Stampede
+Castti recibe 378 de daño físico
+Castti termina con HP:2153
+----------------------------------------
+INICIA RONDA 12
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:0/4891 SP:317/357 BP:1
+B-Castti - HP:2153/5336 SP:394/426 BP:1
+C-Hikari - HP:0/5781 SP:301/317 BP:1
+D-Temenos - HP:0/4002 SP:428/432 BP:2
+Equipo del enemigo
+A-Forest Fox - HP:0/1380 Shields:1
+B-Mad Ratkin - HP:0/1233 Shields:1
+C-Behemoth - HP:9144/12690 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Behemoth
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:0/4891 SP:317/357 BP:1
+B-Castti - HP:2153/5336 SP:394/426 BP:1
+C-Hikari - HP:0/5781 SP:301/317 BP:1
+D-Temenos - HP:0/4002 SP:428/432 BP:2
+Equipo del enemigo
+A-Forest Fox - HP:0/1380 Shields:1
+B-Mad Ratkin - HP:0/1233 Shields:1
+C-Behemoth - HP:9144/12690 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Behemoth
+----------------------------------------
+Behemoth usa Stampede
+Castti se defiende
+Castti recibe 189 de daño físico
+Castti termina con HP:1964
+----------------------------------------
+INICIA RONDA 13
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:0/4891 SP:317/357 BP:1
+B-Castti - HP:1964/5336 SP:394/426 BP:2
+C-Hikari - HP:0/5781 SP:301/317 BP:1
+D-Temenos - HP:0/4002 SP:428/432 BP:2
+Equipo del enemigo
+A-Forest Fox - HP:0/1380 Shields:1
+B-Mad Ratkin - HP:0/1233 Shields:1
+C-Behemoth - HP:9144/12690 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Behemoth
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:0/4891 SP:317/357 BP:1
+B-Castti - HP:1964/5336 SP:394/426 BP:2
+C-Hikari - HP:0/5781 SP:301/317 BP:1
+D-Temenos - HP:0/4002 SP:428/432 BP:2
+Equipo del enemigo
+A-Forest Fox - HP:0/1380 Shields:1
+B-Mad Ratkin - HP:0/1233 Shields:1
+C-Behemoth - HP:9144/12690 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Behemoth
+----------------------------------------
+Behemoth usa Stampede
+Castti se defiende
+Castti recibe 189 de daño físico
+Castti termina con HP:1775
+----------------------------------------
+INICIA RONDA 14
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:0/4891 SP:317/357 BP:1
+B-Castti - HP:1775/5336 SP:394/426 BP:3
+C-Hikari - HP:0/5781 SP:301/317 BP:1
+D-Temenos - HP:0/4002 SP:428/432 BP:2
+Equipo del enemigo
+A-Forest Fox - HP:0/1380 Shields:1
+B-Mad Ratkin - HP:0/1233 Shields:1
+C-Behemoth - HP:9144/12690 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Behemoth
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:0/4891 SP:317/357 BP:1
+B-Castti - HP:1775/5336 SP:394/426 BP:3
+C-Hikari - HP:0/5781 SP:301/317 BP:1
+D-Temenos - HP:0/4002 SP:428/432 BP:2
+Equipo del enemigo
+A-Forest Fox - HP:0/1380 Shields:1
+B-Mad Ratkin - HP:0/1233 Shields:1
+C-Behemoth - HP:9144/12690 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Behemoth
+----------------------------------------
+Behemoth usa Stampede
+Castti se defiende
+Castti recibe 189 de daño físico
+Castti termina con HP:1586
+----------------------------------------
+INICIA RONDA 15
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:0/4891 SP:317/357 BP:1
+B-Castti - HP:1586/5336 SP:394/426 BP:4
+C-Hikari - HP:0/5781 SP:301/317 BP:1
+D-Temenos - HP:0/4002 SP:428/432 BP:2
+Equipo del enemigo
+A-Forest Fox - HP:0/1380 Shields:1
+B-Mad Ratkin - HP:0/1233 Shields:1
+C-Behemoth - HP:9144/12690 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Behemoth
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Armor Corrosive
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Behemoth - HP:9144/12690 Shields:5
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti usa Armor Corrosive
+Behemoth tendrá Decreased Physical Defense durante 2 rondas
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:0/4891 SP:317/357 BP:1
+B-Castti - HP:1586/5336 SP:390/426 BP:4
+C-Hikari - HP:0/5781 SP:301/317 BP:1
+D-Temenos - HP:0/4002 SP:428/432 BP:2
+Equipo del enemigo
+A-Forest Fox - HP:0/1380 Shields:1
+B-Mad Ratkin - HP:0/1233 Shields:1
+C-Behemoth - HP:9144/12690 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Behemoth
+----------------------------------------
+Behemoth usa Stampede
+Castti recibe 378 de daño físico
+Castti termina con HP:1208
+----------------------------------------
+INICIA RONDA 16
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:0/4891 SP:317/357 BP:1
+B-Castti - HP:1208/5336 SP:390/426 BP:5
+C-Hikari - HP:0/5781 SP:301/317 BP:1
+D-Temenos - HP:0/4002 SP:428/432 BP:2
+Equipo del enemigo
+A-Forest Fox - HP:0/1380 Shields:1
+B-Mad Ratkin - HP:0/1233 Shields:1
+C-Behemoth - HP:9144/12690 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Behemoth
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Armor Corrosive
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Behemoth - HP:9144/12690 Shields:5
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Castti usa Armor Corrosive
+Behemoth tendrá Decreased Physical Defense durante 6 rondas
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:0/4891 SP:317/357 BP:1
+B-Castti - HP:1208/5336 SP:386/426 BP:3
+C-Hikari - HP:0/5781 SP:301/317 BP:1
+D-Temenos - HP:0/4002 SP:428/432 BP:2
+Equipo del enemigo
+A-Forest Fox - HP:0/1380 Shields:1
+B-Mad Ratkin - HP:0/1233 Shields:1
+C-Behemoth - HP:9144/12690 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Behemoth
+----------------------------------------
+Behemoth usa Stampede
+Castti recibe 378 de daño físico
+Castti termina con HP:830
+----------------------------------------
+INICIA RONDA 17
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:0/4891 SP:317/357 BP:1
+B-Castti - HP:830/5336 SP:386/426 BP:3
+C-Hikari - HP:0/5781 SP:301/317 BP:1
+D-Temenos - HP:0/4002 SP:428/432 BP:2
+Equipo del enemigo
+A-Forest Fox - HP:0/1380 Shields:1
+B-Mad Ratkin - HP:0/1233 Shields:1
+C-Behemoth - HP:9144/12690 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Behemoth
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Behemoth - HP:9144/12690 Shields:5
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti ataca
+Behemoth recibe 1815 de daño de tipo Axe con debilidad
+Behemoth termina con HP:7329
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:0/4891 SP:317/357 BP:1
+B-Castti - HP:830/5336 SP:386/426 BP:3
+C-Hikari - HP:0/5781 SP:301/317 BP:1
+D-Temenos - HP:0/4002 SP:428/432 BP:2
+Equipo del enemigo
+A-Forest Fox - HP:0/1380 Shields:1
+B-Mad Ratkin - HP:0/1233 Shields:1
+C-Behemoth - HP:7329/12690 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Behemoth
+----------------------------------------
+Behemoth usa Stampede
+Castti recibe 378 de daño físico
+Castti termina con HP:452
+----------------------------------------
+INICIA RONDA 18
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:0/4891 SP:317/357 BP:1
+B-Castti - HP:452/5336 SP:386/426 BP:4
+C-Hikari - HP:0/5781 SP:301/317 BP:1
+D-Temenos - HP:0/4002 SP:428/432 BP:2
+Equipo del enemigo
+A-Forest Fox - HP:0/1380 Shields:1
+B-Mad Ratkin - HP:0/1233 Shields:1
+C-Behemoth - HP:7329/12690 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Behemoth
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Armor Corrosive
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Behemoth - HP:7329/12690 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Castti usa Armor Corrosive
+Behemoth tendrá Decreased Physical Defense durante 4 rondas
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:0/4891 SP:317/357 BP:1
+B-Castti - HP:452/5336 SP:382/426 BP:3
+C-Hikari - HP:0/5781 SP:301/317 BP:1
+D-Temenos - HP:0/4002 SP:428/432 BP:2
+Equipo del enemigo
+A-Forest Fox - HP:0/1380 Shields:1
+B-Mad Ratkin - HP:0/1233 Shields:1
+C-Behemoth - HP:7329/12690 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Behemoth
+----------------------------------------
+Behemoth usa Stampede
+Castti recibe 378 de daño físico
+Castti termina con HP:74
+----------------------------------------
+INICIA RONDA 19
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:0/4891 SP:317/357 BP:1
+B-Castti - HP:74/5336 SP:382/426 BP:3
+C-Hikari - HP:0/5781 SP:301/317 BP:1
+D-Temenos - HP:0/4002 SP:428/432 BP:2
+Equipo del enemigo
+A-Forest Fox - HP:0/1380 Shields:1
+B-Mad Ratkin - HP:0/1233 Shields:1
+C-Behemoth - HP:7329/12690 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Behemoth
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Behemoth - HP:7329/12690 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Castti ataca
+Behemoth recibe 1815 de daño de tipo Axe con debilidad
+Behemoth recibe 1815 de daño de tipo Axe con debilidad
+Behemoth recibe 1815 de daño de tipo Axe con debilidad
+Behemoth recibe 1815 de daño de tipo Axe con debilidad
+Behemoth entra en Breaking Point
+Behemoth termina con HP:69
+----------------------------------------
+INICIA RONDA 20
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:0/4891 SP:317/357 BP:1
+B-Castti - HP:74/5336 SP:382/426 BP:0
+C-Hikari - HP:0/5781 SP:301/317 BP:1
+D-Temenos - HP:0/4002 SP:428/432 BP:2
+Equipo del enemigo
+A-Forest Fox - HP:0/1380 Shields:1
+B-Mad Ratkin - HP:0/1233 Shields:1
+C-Behemoth - HP:69/12690 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Castti
+----------------------------------------
+Turnos de la siguiente ronda
+1.Behemoth
+2.Castti
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Armor Corrosive
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Behemoth - HP:69/12690 Shields:0
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Castti usa Armor Corrosive
+Behemoth tendrá Decreased Physical Defense durante 2 rondas
+----------------------------------------
+INICIA RONDA 21
+----------------------------------------
+Equipo del jugador
+A-Tressa - HP:0/4891 SP:317/357 BP:1
+B-Castti - HP:74/5336 SP:378/426 BP:1
+C-Hikari - HP:0/5781 SP:301/317 BP:1
+D-Temenos - HP:0/4002 SP:428/432 BP:2
+Equipo del enemigo
+A-Forest Fox - HP:0/1380 Shields:1
+B-Mad Ratkin - HP:0/1233 Shields:1
+C-Behemoth - HP:69/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Castti
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Behemoth
+----------------------------------------
+Behemoth usa Stampede
+Castti recibe 378 de daño físico
+Castti termina con HP:0
+----------------------------------------
+Gana equipo del enemigo

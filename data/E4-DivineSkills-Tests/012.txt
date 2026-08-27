@@ -1,0 +1,1076 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+INPUT: 11
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:1
+B-Castti - HP:5336/5336 SP:426/426 BP:1
+C-Cyrus - HP:3557/3557 SP:582/582 BP:1
+Equipo del enemigo
+A-Mattias? - HP:5780/5780 Shields:4
+B-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Castti
+3.Behemoth
+4.Cyrus
+5.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Castti
+3.Behemoth
+4.Cyrus
+5.Mattias?
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:1
+B-Castti - HP:5336/5336 SP:426/426 BP:1
+C-Cyrus - HP:3557/3557 SP:582/582 BP:1
+Equipo del enemigo
+A-Mattias? - HP:5780/5780 Shields:4
+B-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Behemoth
+3.Cyrus
+4.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Castti
+3.Behemoth
+4.Cyrus
+5.Mattias?
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:1
+B-Castti - HP:5336/5336 SP:426/426 BP:1
+C-Cyrus - HP:3557/3557 SP:582/582 BP:1
+Equipo del enemigo
+A-Mattias? - HP:5780/5780 Shields:4
+B-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Cyrus
+3.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Castti
+3.Behemoth
+4.Cyrus
+5.Mattias?
+----------------------------------------
+Behemoth usa Stampede
+Ophilia se defiende
+Ophilia recibe 364 de daño físico
+Castti se defiende
+Castti recibe 284 de daño físico
+Cyrus recibe 739 de daño físico
+Ophilia termina con HP:3638
+Castti termina con HP:5052
+Cyrus termina con HP:2818
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:3638/4002 SP:470/470 BP:1
+B-Castti - HP:5052/5336 SP:426/426 BP:1
+C-Cyrus - HP:2818/3557 SP:582/582 BP:1
+Equipo del enemigo
+A-Mattias? - HP:5780/5780 Shields:4
+B-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Castti
+3.Behemoth
+4.Cyrus
+5.Mattias?
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Shooting Stars
+2: Ignis Ardere
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus usa Ignis Ardere
+Mattias? recibe 107 de daño de tipo Fire
+Mattias? recibe 107 de daño de tipo Fire
+Mattias? recibe 107 de daño de tipo Fire
+Behemoth recibe 276 de daño de tipo Fire
+Behemoth recibe 276 de daño de tipo Fire
+Behemoth recibe 276 de daño de tipo Fire
+Mattias? termina con HP:5459
+Behemoth termina con HP:11862
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:3638/4002 SP:470/470 BP:1
+B-Castti - HP:5052/5336 SP:426/426 BP:1
+C-Cyrus - HP:2818/3557 SP:546/582 BP:1
+Equipo del enemigo
+A-Mattias? - HP:5459/5780 Shields:4
+B-Behemoth - HP:11862/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Castti
+3.Behemoth
+4.Cyrus
+5.Mattias?
+----------------------------------------
+Mattias? usa Black Gale
+Ophilia se defiende
+Ophilia recibe 273 de daño elemental
+Castti se defiende
+Castti recibe 308 de daño elemental
+Cyrus recibe 615 de daño elemental
+Ophilia termina con HP:3365
+Castti termina con HP:4744
+Cyrus termina con HP:2203
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:3365/4002 SP:470/470 BP:2
+B-Castti - HP:4744/5336 SP:426/426 BP:2
+C-Cyrus - HP:2203/3557 SP:546/582 BP:2
+Equipo del enemigo
+A-Mattias? - HP:5459/5780 Shields:4
+B-Behemoth - HP:11862/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Castti
+3.Behemoth
+4.Cyrus
+5.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Castti
+3.Behemoth
+4.Cyrus
+5.Mattias?
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ophilia
+1: Heal More
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia usa Heal More
+Castti recupera 798 de vida
+Cyrus recupera 798 de vida
+Ophilia recupera 798 de vida
+Castti termina con HP:5336
+Cyrus termina con HP:3001
+Ophilia termina con HP:4002
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:445/470 BP:2
+B-Castti - HP:5336/5336 SP:426/426 BP:2
+C-Cyrus - HP:3001/3557 SP:546/582 BP:2
+Equipo del enemigo
+A-Mattias? - HP:5459/5780 Shields:4
+B-Behemoth - HP:11862/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Behemoth
+3.Cyrus
+4.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Castti
+3.Behemoth
+4.Cyrus
+5.Mattias?
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Heal More
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti usa Heal More
+Ophilia recupera 656 de vida
+Cyrus recupera 656 de vida
+Castti recupera 656 de vida
+Ophilia termina con HP:4002
+Cyrus termina con HP:3557
+Castti termina con HP:5336
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:445/470 BP:2
+B-Castti - HP:5336/5336 SP:401/426 BP:2
+C-Cyrus - HP:3557/3557 SP:546/582 BP:2
+Equipo del enemigo
+A-Mattias? - HP:5459/5780 Shields:4
+B-Behemoth - HP:11862/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Cyrus
+3.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Castti
+3.Behemoth
+4.Cyrus
+5.Mattias?
+----------------------------------------
+Behemoth usa Stampede
+Ophilia recibe 728 de daño físico
+Castti recibe 568 de daño físico
+Cyrus recibe 739 de daño físico
+Ophilia termina con HP:3274
+Castti termina con HP:4768
+Cyrus termina con HP:2818
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:3274/4002 SP:445/470 BP:2
+B-Castti - HP:4768/5336 SP:401/426 BP:2
+C-Cyrus - HP:2818/3557 SP:546/582 BP:2
+Equipo del enemigo
+A-Mattias? - HP:5459/5780 Shields:4
+B-Behemoth - HP:11862/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Castti
+3.Behemoth
+4.Cyrus
+5.Mattias?
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:3274/4002 SP:445/470 BP:2
+B-Castti - HP:4768/5336 SP:401/426 BP:2
+C-Cyrus - HP:2818/3557 SP:546/582 BP:2
+Equipo del enemigo
+A-Mattias? - HP:5459/5780 Shields:4
+B-Behemoth - HP:11862/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Ophilia
+3.Castti
+4.Behemoth
+5.Mattias?
+----------------------------------------
+Mattias? usa Black Gale
+Ophilia recibe 546 de daño elemental
+Castti recibe 617 de daño elemental
+Cyrus se defiende
+Cyrus recibe 307 de daño elemental
+Ophilia termina con HP:2728
+Castti termina con HP:4151
+Cyrus termina con HP:2511
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:2728/4002 SP:445/470 BP:3
+B-Castti - HP:4151/5336 SP:401/426 BP:3
+C-Cyrus - HP:2511/3557 SP:546/582 BP:3
+Equipo del enemigo
+A-Mattias? - HP:5459/5780 Shields:4
+B-Behemoth - HP:11862/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Ophilia
+3.Castti
+4.Behemoth
+5.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Castti
+3.Behemoth
+4.Cyrus
+5.Mattias?
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:2728/4002 SP:445/470 BP:3
+B-Castti - HP:4151/5336 SP:401/426 BP:3
+C-Cyrus - HP:2511/3557 SP:546/582 BP:3
+Equipo del enemigo
+A-Mattias? - HP:5459/5780 Shields:4
+B-Behemoth - HP:11862/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Castti
+3.Behemoth
+4.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Ophilia
+3.Castti
+4.Behemoth
+5.Mattias?
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ophilia
+1: Heal More
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia usa Heal More
+Castti recupera 798 de vida
+Cyrus recupera 798 de vida
+Ophilia recupera 798 de vida
+Castti termina con HP:4949
+Cyrus termina con HP:3309
+Ophilia termina con HP:3526
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:3526/4002 SP:420/470 BP:3
+B-Castti - HP:4949/5336 SP:401/426 BP:3
+C-Cyrus - HP:3309/3557 SP:546/582 BP:3
+Equipo del enemigo
+A-Mattias? - HP:5459/5780 Shields:4
+B-Behemoth - HP:11862/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Behemoth
+3.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Ophilia
+3.Castti
+4.Behemoth
+5.Mattias?
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Alephan's Enlightenment
+2: Heal More
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Ophilia - HP:3526/4002 SP:420/470 BP:3
+2: Castti - HP:4949/5336 SP:401/426 BP:3
+3: Cyrus - HP:3309/3557 SP:546/582 BP:3
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Castti usa Alephan's Enlightenment
+Cyrus concentrará sus habilidades durante 3 rondas
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:3526/4002 SP:420/470 BP:3
+B-Castti - HP:4949/5336 SP:371/426 BP:0
+C-Cyrus - HP:3309/3557 SP:546/582 BP:3
+Equipo del enemigo
+A-Mattias? - HP:5459/5780 Shields:4
+B-Behemoth - HP:11862/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Ophilia
+3.Castti
+4.Behemoth
+5.Mattias?
+----------------------------------------
+Behemoth usa Stampede
+Ophilia recibe 728 de daño físico
+Castti recibe 568 de daño físico
+Cyrus se defiende
+Cyrus recibe 369 de daño físico
+Ophilia termina con HP:2798
+Castti termina con HP:4381
+Cyrus termina con HP:2940
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:2798/4002 SP:420/470 BP:3
+B-Castti - HP:4381/5336 SP:371/426 BP:0
+C-Cyrus - HP:2940/3557 SP:546/582 BP:3
+Equipo del enemigo
+A-Mattias? - HP:5459/5780 Shields:4
+B-Behemoth - HP:11862/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Ophilia
+3.Castti
+4.Behemoth
+5.Mattias?
+----------------------------------------
+Mattias? usa Black Gale
+Ophilia recibe 546 de daño elemental
+Castti recibe 617 de daño elemental
+Cyrus se defiende
+Cyrus recibe 307 de daño elemental
+Ophilia termina con HP:2252
+Castti termina con HP:3764
+Cyrus termina con HP:2633
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:2252/4002 SP:420/470 BP:4
+B-Castti - HP:3764/5336 SP:371/426 BP:0
+C-Cyrus - HP:2633/3557 SP:546/582 BP:4
+Equipo del enemigo
+A-Mattias? - HP:5459/5780 Shields:4
+B-Behemoth - HP:11862/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Ophilia
+3.Castti
+4.Behemoth
+5.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Castti
+3.Behemoth
+4.Cyrus
+5.Mattias?
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Shooting Stars
+2: Ignis Ardere
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: Mattias? - HP:5459/5780 Shields:4
+2: Behemoth - HP:11862/12690 Shields:8
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Cyrus usa Ignis Ardere
+Behemoth recibe 4475 de daño de tipo Fire
+Behemoth recibe 4475 de daño de tipo Fire
+Behemoth recibe 4475 de daño de tipo Fire
+Behemoth termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:2252/4002 SP:420/470 BP:4
+B-Castti - HP:3764/5336 SP:371/426 BP:0
+C-Cyrus - HP:2633/3557 SP:510/582 BP:1
+Equipo del enemigo
+A-Mattias? - HP:5459/5780 Shields:4
+B-Behemoth - HP:0/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Castti
+3.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Castti
+3.Cyrus
+4.Mattias?
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ophilia
+1: Heal More
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia usa Heal More
+Castti recupera 798 de vida
+Cyrus recupera 798 de vida
+Ophilia recupera 798 de vida
+Castti termina con HP:4562
+Cyrus termina con HP:3431
+Ophilia termina con HP:3050
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:3050/4002 SP:395/470 BP:4
+B-Castti - HP:4562/5336 SP:371/426 BP:0
+C-Cyrus - HP:3431/3557 SP:510/582 BP:1
+Equipo del enemigo
+A-Mattias? - HP:5459/5780 Shields:4
+B-Behemoth - HP:0/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Castti
+3.Cyrus
+4.Mattias?
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Heal More
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Castti usa Heal More
+Ophilia recupera 656 de vida
+Cyrus recupera 656 de vida
+Castti recupera 656 de vida
+Ophilia termina con HP:3706
+Cyrus termina con HP:3557
+Castti termina con HP:5218
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:3706/4002 SP:395/470 BP:4
+B-Castti - HP:5218/5336 SP:346/426 BP:0
+C-Cyrus - HP:3557/3557 SP:510/582 BP:1
+Equipo del enemigo
+A-Mattias? - HP:5459/5780 Shields:4
+B-Behemoth - HP:0/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Castti
+3.Cyrus
+4.Mattias?
+----------------------------------------
+Mattias? usa Black Gale
+Ophilia recibe 546 de daño elemental
+Castti recibe 617 de daño elemental
+Cyrus recibe 615 de daño elemental
+Ophilia termina con HP:3160
+Castti termina con HP:4601
+Cyrus termina con HP:2942
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:3160/4002 SP:395/470 BP:5
+B-Castti - HP:4601/5336 SP:346/426 BP:1
+C-Cyrus - HP:2942/3557 SP:510/582 BP:1
+Equipo del enemigo
+A-Mattias? - HP:5459/5780 Shields:4
+B-Behemoth - HP:0/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Castti
+3.Cyrus
+4.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Castti
+3.Cyrus
+4.Mattias?
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:3160/4002 SP:395/470 BP:5
+B-Castti - HP:4601/5336 SP:346/426 BP:1
+C-Cyrus - HP:2942/3557 SP:510/582 BP:1
+Equipo del enemigo
+A-Mattias? - HP:5459/5780 Shields:4
+B-Behemoth - HP:0/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Cyrus
+3.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Castti
+3.Cyrus
+4.Mattias?
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:3160/4002 SP:395/470 BP:5
+B-Castti - HP:4601/5336 SP:346/426 BP:1
+C-Cyrus - HP:2942/3557 SP:510/582 BP:1
+Equipo del enemigo
+A-Mattias? - HP:5459/5780 Shields:4
+B-Behemoth - HP:0/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Castti
+3.Cyrus
+4.Mattias?
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Shooting Stars
+2: Ignis Ardere
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: Mattias? - HP:5459/5780 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus usa Shooting Stars
+Mattias? recibe 0 de daño de tipo Wind
+Mattias? recibe 0 de daño de tipo Light con debilidad
+Mattias? recibe 0 de daño de tipo Dark
+Mattias? termina con HP:5459
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:3160/4002 SP:395/470 BP:5
+B-Castti - HP:4601/5336 SP:346/426 BP:1
+C-Cyrus - HP:2942/3557 SP:475/582 BP:1
+Equipo del enemigo
+A-Mattias? - HP:5459/5780 Shields:4
+B-Behemoth - HP:0/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Castti
+3.Cyrus
+4.Mattias?
+----------------------------------------
+Mattias? usa Black Gale
+Ophilia se defiende
+Ophilia recibe 273 de daño elemental
+Castti se defiende
+Castti recibe 308 de daño elemental
+Cyrus recibe 615 de daño elemental
+Ophilia termina con HP:2887
+Castti termina con HP:4293
+Cyrus termina con HP:2327
+----------------------------------------
+INICIA RONDA 6
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:2887/4002 SP:395/470 BP:5
+B-Castti - HP:4293/5336 SP:346/426 BP:2
+C-Cyrus - HP:2327/3557 SP:475/582 BP:2
+Equipo del enemigo
+A-Mattias? - HP:5459/5780 Shields:4
+B-Behemoth - HP:0/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Castti
+3.Cyrus
+4.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Castti
+3.Cyrus
+4.Mattias?
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ophilia
+1: Heal More
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Ophilia usa Heal More
+Castti recupera 1516 de vida
+Cyrus recupera 1516 de vida
+Ophilia recupera 1516 de vida
+Castti termina con HP:5336
+Cyrus termina con HP:3557
+Ophilia termina con HP:4002
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:370/470 BP:2
+B-Castti - HP:5336/5336 SP:346/426 BP:2
+C-Cyrus - HP:3557/3557 SP:475/582 BP:2
+Equipo del enemigo
+A-Mattias? - HP:5459/5780 Shields:4
+B-Behemoth - HP:0/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Cyrus
+3.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Castti
+3.Cyrus
+4.Mattias?
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Mattias? - HP:5459/5780 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti ataca
+Mattias? recibe 0 de daño de tipo Axe con debilidad
+Mattias? termina con HP:5459
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:370/470 BP:2
+B-Castti - HP:5336/5336 SP:346/426 BP:2
+C-Cyrus - HP:3557/3557 SP:475/582 BP:2
+Equipo del enemigo
+A-Mattias? - HP:5459/5780 Shields:4
+B-Behemoth - HP:0/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Castti
+3.Cyrus
+4.Mattias?
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Shooting Stars
+2: Ignis Ardere
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus usa Shooting Stars
+Mattias? recibe 0 de daño de tipo Wind
+Mattias? recibe 0 de daño de tipo Light con debilidad
+Mattias? recibe 0 de daño de tipo Dark
+Mattias? termina con HP:5459
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:370/470 BP:2
+B-Castti - HP:5336/5336 SP:346/426 BP:2
+C-Cyrus - HP:3557/3557 SP:440/582 BP:2
+Equipo del enemigo
+A-Mattias? - HP:5459/5780 Shields:4
+B-Behemoth - HP:0/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Castti
+3.Cyrus
+4.Mattias?
+----------------------------------------
+Mattias? usa Black Gale
+Ophilia recibe 546 de daño elemental
+Castti recibe 617 de daño elemental
+Cyrus recibe 615 de daño elemental
+Ophilia termina con HP:3456
+Castti termina con HP:4719
+Cyrus termina con HP:2942
+----------------------------------------
+INICIA RONDA 7
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:3456/4002 SP:370/470 BP:2
+B-Castti - HP:4719/5336 SP:346/426 BP:3
+C-Cyrus - HP:2942/3557 SP:440/582 BP:3
+Equipo del enemigo
+A-Mattias? - HP:5459/5780 Shields:4
+B-Behemoth - HP:0/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Castti
+3.Cyrus
+4.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Castti
+3.Cyrus
+4.Mattias?
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:3456/4002 SP:370/470 BP:2
+B-Castti - HP:4719/5336 SP:346/426 BP:3
+C-Cyrus - HP:2942/3557 SP:440/582 BP:3
+Equipo del enemigo
+A-Mattias? - HP:5459/5780 Shields:4
+B-Behemoth - HP:0/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Cyrus
+3.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Castti
+3.Cyrus
+4.Mattias?
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Alephan's Enlightenment
+2: Heal More
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Ophilia - HP:3456/4002 SP:370/470 BP:2
+2: Castti - HP:4719/5336 SP:346/426 BP:3
+3: Cyrus - HP:2942/3557 SP:440/582 BP:3
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Castti usa Alephan's Enlightenment
+Cyrus concentrará sus habilidades durante 3 rondas
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:3456/4002 SP:370/470 BP:2
+B-Castti - HP:4719/5336 SP:316/426 BP:0
+C-Cyrus - HP:2942/3557 SP:440/582 BP:3
+Equipo del enemigo
+A-Mattias? - HP:5459/5780 Shields:4
+B-Behemoth - HP:0/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Castti
+3.Cyrus
+4.Mattias?
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Shooting Stars
+2: Ignis Ardere
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: Mattias? - HP:5459/5780 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Cyrus usa Shooting Stars
+Mattias? recibe 1785 de daño de tipo Wind
+Mattias? recibe 2678 de daño de tipo Light con debilidad
+Mattias? recibe 1785 de daño de tipo Dark
+Mattias? termina con HP:0
+----------------------------------------
+Gana equipo del jugador

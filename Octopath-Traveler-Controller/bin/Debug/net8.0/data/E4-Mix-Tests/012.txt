@@ -1,0 +1,254 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+INPUT: 11
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:1
+Equipo del enemigo
+A-Forest Fox - HP:1380/1380 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Forest Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Forest Fox
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Moon's Reflection
+2: Sidestep
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Olberic - HP:5781/5781 SP:291/291 BP:1
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic usa Moon's Reflection
+Olberic reflejará los próximos 1 ataques físicos
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:261/291 BP:1
+Equipo del enemigo
+A-Forest Fox - HP:1380/1380 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Forest Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Forest Fox
+----------------------------------------
+Forest Fox usa Double Bite
+Olberic refleja el daño
+Forest Fox recibe 106 de daño
+Olberic recibe 106 de daño físico
+Olberic contraataca
+Forest Fox recibe 293 de daño de tipo Sword
+Forest Fox termina con HP:981
+Olberic termina con HP:5675
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5675/5781 SP:261/291 BP:2
+Equipo del enemigo
+A-Forest Fox - HP:981/1380 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Forest Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Forest Fox
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Moon's Reflection
+2: Sidestep
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic usa Sidestep
+Olberic esquivará los próximos 1 ataques físicos
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5675/5781 SP:251/291 BP:2
+Equipo del enemigo
+A-Forest Fox - HP:981/1380 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Forest Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Forest Fox
+----------------------------------------
+Forest Fox usa Double Bite
+Olberic ha esquivado el ataque
+Olberic recibe 106 de daño físico
+Olberic contraataca
+Forest Fox recibe 293 de daño de tipo Sword
+Olberic termina con HP:5569
+Forest Fox termina con HP:688
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5569/5781 SP:251/291 BP:3
+Equipo del enemigo
+A-Forest Fox - HP:688/1380 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Forest Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Forest Fox
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Moon's Reflection
+2: Sidestep
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Olberic - HP:5569/5781 SP:251/291 BP:3
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Olberic usa Moon's Reflection
+Olberic reflejará los próximos 4 ataques físicos
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5569/5781 SP:221/291 BP:0
+Equipo del enemigo
+A-Forest Fox - HP:688/1380 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Forest Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Forest Fox
+----------------------------------------
+Forest Fox usa Double Bite
+Olberic refleja el daño
+Forest Fox recibe 106 de daño
+Olberic refleja el daño
+Forest Fox recibe 106 de daño
+Forest Fox termina con HP:476
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5569/5781 SP:221/291 BP:0
+Equipo del enemigo
+A-Forest Fox - HP:476/1380 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Forest Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Forest Fox
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5569/5781 SP:221/291 BP:0
+Equipo del enemigo
+A-Forest Fox - HP:476/1380 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Forest Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Forest Fox
+----------------------------------------
+Forest Fox usa Double Bite
+Olberic se defiende
+Olberic refleja el daño
+Forest Fox recibe 53 de daño
+Olberic refleja el daño
+Forest Fox recibe 53 de daño
+Forest Fox termina con HP:370
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5569/5781 SP:221/291 BP:1
+Equipo del enemigo
+A-Forest Fox - HP:370/1380 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Forest Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Forest Fox
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 4
+----------------------------------------
+El equipo de viajeros ha huido!
+----------------------------------------
+Gana equipo del enemigo

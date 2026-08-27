@@ -1,0 +1,408 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+INPUT: 8
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:504/504 BP:1
+Equipo del enemigo
+A-Forest Ratkin I - HP:1348/1348 Shields:1
+B-Ice Elemental - HP:2160/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Ice Elemental
+3.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ice Elemental
+3.Forest Ratkin I
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Forest Ratkin I - HP:1348/1348 Shields:1
+2: Ice Elemental - HP:2160/2160 Shields:4
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose ataca
+Ice Elemental recibe 0 de daño de tipo Dagger
+Ice Elemental termina con HP:2160
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:4002/4002 SP:504/504 BP:1
+Equipo del enemigo
+A-Forest Ratkin I - HP:1348/1348 Shields:1
+B-Ice Elemental - HP:2160/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+2.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ice Elemental
+3.Forest Ratkin I
+----------------------------------------
+Ice Elemental usa Iceshot
+Primrose recibe 143 de daño elemental
+Primrose termina con HP:3859
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3859/4002 SP:504/504 BP:1
+Equipo del enemigo
+A-Forest Ratkin I - HP:1348/1348 Shields:1
+B-Ice Elemental - HP:2160/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ice Elemental
+3.Forest Ratkin I
+----------------------------------------
+Forest Ratkin I usa Stab
+Primrose recibe 152 de daño físico
+Primrose contraataca
+Forest Ratkin I recibe 153 de daño de tipo Dagger con debilidad
+Forest Ratkin I entra en Breaking Point
+Primrose termina con HP:3707
+Forest Ratkin I termina con HP:1195
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3707/4002 SP:504/504 BP:2
+Equipo del enemigo
+A-Forest Ratkin I - HP:1195/1348 Shields:0
+B-Ice Elemental - HP:2160/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Forest Ratkin I
+2.Primrose
+3.Ice Elemental
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Forest Ratkin I - HP:1195/1348 Shields:0
+2: Ice Elemental - HP:2160/2160 Shields:4
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose ataca
+Forest Ratkin I recibe 204 de daño de tipo Dagger con debilidad
+Forest Ratkin I termina con HP:991
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3707/4002 SP:504/504 BP:2
+Equipo del enemigo
+A-Forest Ratkin I - HP:991/1348 Shields:0
+B-Ice Elemental - HP:2160/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Forest Ratkin I
+2.Primrose
+3.Ice Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Primrose recibe 143 de daño elemental
+Primrose termina con HP:3564
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3564/4002 SP:504/504 BP:3
+Equipo del enemigo
+A-Forest Ratkin I - HP:991/1348 Shields:1
+B-Ice Elemental - HP:2160/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Forest Ratkin I
+2.Primrose
+3.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ice Elemental
+3.Forest Ratkin I
+----------------------------------------
+Forest Ratkin I usa Stab
+Primrose recibe 152 de daño físico
+Primrose termina con HP:3412
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3412/4002 SP:504/504 BP:3
+Equipo del enemigo
+A-Forest Ratkin I - HP:991/1348 Shields:1
+B-Ice Elemental - HP:2160/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ice Elemental
+3.Forest Ratkin I
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Primrose
+1: Night Ode
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose usa Night Ode
+Forest Ratkin I recibe 498 de daño de tipo Dark
+Ice Elemental recibe 491 de daño de tipo Dark
+Forest Ratkin I termina con HP:493
+Ice Elemental termina con HP:1669
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3412/4002 SP:494/504 BP:3
+Equipo del enemigo
+A-Forest Ratkin I - HP:493/1348 Shields:1
+B-Ice Elemental - HP:1669/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ice Elemental
+3.Forest Ratkin I
+----------------------------------------
+Ice Elemental usa Iceshot
+Primrose recibe 143 de daño elemental
+Primrose termina con HP:3269
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3269/4002 SP:494/504 BP:4
+Equipo del enemigo
+A-Forest Ratkin I - HP:493/1348 Shields:1
+B-Ice Elemental - HP:1669/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Ice Elemental
+3.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ice Elemental
+3.Forest Ratkin I
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Forest Ratkin I - HP:493/1348 Shields:1
+2: Ice Elemental - HP:1669/2160 Shields:4
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose ataca
+Ice Elemental recibe 0 de daño de tipo Dagger
+Ice Elemental termina con HP:1669
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3269/4002 SP:494/504 BP:4
+Equipo del enemigo
+A-Forest Ratkin I - HP:493/1348 Shields:1
+B-Ice Elemental - HP:1669/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+2.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ice Elemental
+3.Forest Ratkin I
+----------------------------------------
+Ice Elemental usa Iceshot
+Primrose recibe 143 de daño elemental
+Primrose termina con HP:3126
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:3126/4002 SP:494/504 BP:4
+Equipo del enemigo
+A-Forest Ratkin I - HP:493/1348 Shields:1
+B-Ice Elemental - HP:1669/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ice Elemental
+3.Forest Ratkin I
+----------------------------------------
+Forest Ratkin I usa Stab
+Primrose recibe 152 de daño físico
+Primrose termina con HP:2974
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:2974/4002 SP:494/504 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:493/1348 Shields:1
+B-Ice Elemental - HP:1669/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Ice Elemental
+3.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ice Elemental
+3.Forest Ratkin I
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Primrose
+1: Night Ode
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose usa Night Ode
+Forest Ratkin I recibe 498 de daño de tipo Dark
+Ice Elemental recibe 491 de daño de tipo Dark
+Forest Ratkin I termina con HP:0
+Ice Elemental termina con HP:1178
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:2974/4002 SP:484/504 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:1
+B-Ice Elemental - HP:1178/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ice Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Primrose recibe 143 de daño elemental
+Primrose termina con HP:2831
+----------------------------------------
+INICIA RONDA 6
+----------------------------------------
+Equipo del jugador
+A-Primrose - HP:2831/4002 SP:484/504 BP:5
+Equipo del enemigo
+A-Forest Ratkin I - HP:0/1348 Shields:1
+B-Ice Elemental - HP:1178/2160 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Ice Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ice Elemental
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Primrose
+1: Night Ode
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Primrose usa Night Ode
+Ice Elemental recibe 2400 de daño de tipo Dark
+Ice Elemental termina con HP:0
+----------------------------------------
+Gana equipo del jugador

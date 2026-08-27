@@ -1,0 +1,2985 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+INPUT: 94
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:4447/4447 SP:332/332 BP:1
+B-Z'aanta - HP:3222/3222 SP:371/371 BP:1
+C-Primrose - HP:4002/4002 SP:504/504 BP:1
+D-Ophilia - HP:4002/4002 SP:520/520 BP:1
+Equipo del enemigo
+A-Blood Revenant - HP:16352/16352 Shields:7
+B-River Fly - HP:1010/1010 Shields:2
+C-Dark Guardian - HP:1470/1470 Shields:3
+D-Forest Ratkin I - HP:1348/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Primrose
+3.Z'aanta
+4.Ophilia
+5.River Fly
+6.Blood Revenant
+7.Dark Guardian
+8.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.Z'aanta
+4.Ophilia
+5.River Fly
+6.Blood Revenant
+7.Dark Guardian
+8.Forest Ratkin I
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Therion
+1: Double Edge
+2: Heal Wounds
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Therion
+1: Blood Revenant - HP:16352/16352 Shields:7
+2: River Fly - HP:1010/1010 Shields:2
+3: Dark Guardian - HP:1470/1470 Shields:3
+4: Forest Ratkin I - HP:1348/1348 Shields:1
+5: Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Therion usa Double Edge
+Forest Ratkin I recibe 735 de daño de tipo Sword
+Therion pierde 1334 HP
+Forest Ratkin I termina con HP:613
+Therion termina con HP:3113
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:3113/4447 SP:320/332 BP:1
+B-Z'aanta - HP:3222/3222 SP:371/371 BP:1
+C-Primrose - HP:4002/4002 SP:504/504 BP:1
+D-Ophilia - HP:4002/4002 SP:520/520 BP:1
+Equipo del enemigo
+A-Blood Revenant - HP:16352/16352 Shields:7
+B-River Fly - HP:1010/1010 Shields:2
+C-Dark Guardian - HP:1470/1470 Shields:3
+D-Forest Ratkin I - HP:613/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Z'aanta
+3.Ophilia
+4.River Fly
+5.Blood Revenant
+6.Dark Guardian
+7.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.Z'aanta
+4.Ophilia
+5.River Fly
+6.Blood Revenant
+7.Dark Guardian
+8.Forest Ratkin I
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Blood Revenant - HP:16352/16352 Shields:7
+2: River Fly - HP:1010/1010 Shields:2
+3: Dark Guardian - HP:1470/1470 Shields:3
+4: Forest Ratkin I - HP:613/1348 Shields:1
+5: Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Primrose no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Primrose no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Primrose no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Primrose ataca
+Forest Ratkin I recibe 153 de daño de tipo Dagger con debilidad
+Forest Ratkin I entra en Breaking Point
+Forest Ratkin I recibe 204 de daño de tipo Dagger con debilidad
+Forest Ratkin I termina con HP:256
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:3113/4447 SP:320/332 BP:1
+B-Z'aanta - HP:3222/3222 SP:371/371 BP:1
+C-Primrose - HP:4002/4002 SP:504/504 BP:0
+D-Ophilia - HP:4002/4002 SP:520/520 BP:1
+Equipo del enemigo
+A-Blood Revenant - HP:16352/16352 Shields:7
+B-River Fly - HP:1010/1010 Shields:2
+C-Dark Guardian - HP:1470/1470 Shields:3
+D-Forest Ratkin I - HP:256/1348 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Ophilia
+3.River Fly
+4.Blood Revenant
+5.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.Z'aanta
+4.Ophilia
+5.River Fly
+6.Blood Revenant
+7.Dark Guardian
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Z'aanta
+1: Abide
+2: Mole Dance
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Z'aanta
+1: Therion - HP:3113/4447 SP:320/332 BP:1
+2: Z'aanta - HP:3222/3222 SP:371/371 BP:1
+3: Primrose - HP:4002/4002 SP:504/504 BP:0
+4: Ophilia - HP:4002/4002 SP:520/520 BP:1
+5: Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Z'aanta no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Z'aanta no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Z'aanta no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Z'aanta usa Abide
+Ophilia tendrá Increased Physical Attack durante 2 rondas
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:3113/4447 SP:320/332 BP:1
+B-Z'aanta - HP:3222/3222 SP:367/371 BP:1
+C-Primrose - HP:4002/4002 SP:504/504 BP:0
+D-Ophilia - HP:4002/4002 SP:520/520 BP:1
+Equipo del enemigo
+A-Blood Revenant - HP:16352/16352 Shields:7
+B-River Fly - HP:1010/1010 Shields:2
+C-Dark Guardian - HP:1470/1470 Shields:3
+D-Forest Ratkin I - HP:256/1348 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.River Fly
+3.Blood Revenant
+4.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.Z'aanta
+4.Ophilia
+5.River Fly
+6.Blood Revenant
+7.Dark Guardian
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ophilia
+1: Sidestep
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Ophilia no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Ophilia no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia usa Sidestep
+Ophilia esquivará los próximos 1 ataques físicos
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:3113/4447 SP:320/332 BP:1
+B-Z'aanta - HP:3222/3222 SP:367/371 BP:1
+C-Primrose - HP:4002/4002 SP:504/504 BP:0
+D-Ophilia - HP:4002/4002 SP:510/520 BP:1
+Equipo del enemigo
+A-Blood Revenant - HP:16352/16352 Shields:7
+B-River Fly - HP:1010/1010 Shields:2
+C-Dark Guardian - HP:1470/1470 Shields:3
+D-Forest Ratkin I - HP:256/1348 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.River Fly
+2.Blood Revenant
+3.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.Z'aanta
+4.Ophilia
+5.River Fly
+6.Blood Revenant
+7.Dark Guardian
+----------------------------------------
+River Fly usa Attack
+Primrose recibe 0 de daño físico
+Primrose termina con HP:4002
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:3113/4447 SP:320/332 BP:1
+B-Z'aanta - HP:3222/3222 SP:367/371 BP:1
+C-Primrose - HP:4002/4002 SP:504/504 BP:0
+D-Ophilia - HP:4002/4002 SP:510/520 BP:1
+Equipo del enemigo
+A-Blood Revenant - HP:16352/16352 Shields:7
+B-River Fly - HP:1010/1010 Shields:2
+C-Dark Guardian - HP:1470/1470 Shields:3
+D-Forest Ratkin I - HP:256/1348 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Blood Revenant
+2.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.Z'aanta
+4.Ophilia
+5.River Fly
+6.Blood Revenant
+7.Dark Guardian
+----------------------------------------
+Blood Revenant usa Volcano
+Therion recibe 636 de daño elemental
+Therion tendrá Decreased Elemental Defense durante 2 rondas
+Z'aanta recibe 631 de daño elemental
+Z'aanta tendrá Decreased Elemental Defense durante 2 rondas
+Primrose recibe 0 de daño elemental
+Primrose tendrá Decreased Elemental Defense durante 2 rondas
+Ophilia recibe 465 de daño elemental
+Ophilia tendrá Decreased Elemental Defense durante 2 rondas
+Therion termina con HP:2477
+Z'aanta termina con HP:2591
+Primrose termina con HP:4002
+Ophilia termina con HP:3537
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:2477/4447 SP:320/332 BP:1
+B-Z'aanta - HP:2591/3222 SP:367/371 BP:1
+C-Primrose - HP:4002/4002 SP:504/504 BP:0
+D-Ophilia - HP:3537/4002 SP:510/520 BP:1
+Equipo del enemigo
+A-Blood Revenant - HP:16352/16352 Shields:7
+B-River Fly - HP:1010/1010 Shields:2
+C-Dark Guardian - HP:1470/1470 Shields:3
+D-Forest Ratkin I - HP:256/1348 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.Z'aanta
+4.Ophilia
+5.River Fly
+6.Blood Revenant
+7.Dark Guardian
+----------------------------------------
+Dark Guardian usa Attack
+Primrose recibe 0 de daño físico
+Primrose termina con HP:4002
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:2477/4447 SP:332/332 BP:2
+B-Z'aanta - HP:2591/3222 SP:367/371 BP:2
+C-Primrose - HP:4002/4002 SP:504/504 BP:0
+D-Ophilia - HP:3537/4002 SP:510/520 BP:2
+Equipo del enemigo
+A-Blood Revenant - HP:16352/16352 Shields:7
+B-River Fly - HP:1010/1010 Shields:2
+C-Dark Guardian - HP:1470/1470 Shields:3
+D-Forest Ratkin I - HP:256/1348 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Primrose
+3.Z'aanta
+4.Ophilia
+5.River Fly
+6.Blood Revenant
+7.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Forest Ratkin I
+2.Therion
+3.Primrose
+4.Z'aanta
+5.Ophilia
+6.River Fly
+7.Blood Revenant
+8.Dark Guardian
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Therion
+1: Blood Revenant - HP:16352/16352 Shields:7
+2: River Fly - HP:1010/1010 Shields:2
+3: Dark Guardian - HP:1470/1470 Shields:3
+4: Forest Ratkin I - HP:256/1348 Shields:0
+5: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Therion ataca
+River Fly recibe 165 de daño de tipo Dagger
+River Fly termina con HP:845
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:2477/4447 SP:332/332 BP:2
+B-Z'aanta - HP:2591/3222 SP:367/371 BP:2
+C-Primrose - HP:4002/4002 SP:504/504 BP:0
+D-Ophilia - HP:3537/4002 SP:510/520 BP:2
+Equipo del enemigo
+A-Blood Revenant - HP:16352/16352 Shields:7
+B-River Fly - HP:845/1010 Shields:2
+C-Dark Guardian - HP:1470/1470 Shields:3
+D-Forest Ratkin I - HP:256/1348 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Z'aanta
+3.Ophilia
+4.River Fly
+5.Blood Revenant
+6.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Forest Ratkin I
+2.Therion
+3.Primrose
+4.Z'aanta
+5.Ophilia
+6.River Fly
+7.Blood Revenant
+8.Dark Guardian
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Primrose
+1: Heal Wounds
+2: Moon's Reflection
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Primrose usa Heal Wounds
+Therion recupera 498 de vida
+Z'aanta recupera 498 de vida
+Ophilia recupera 498 de vida
+Primrose recupera 498 de vida
+Therion termina con HP:2975
+Z'aanta termina con HP:3089
+Ophilia termina con HP:4035
+Primrose termina con HP:4002
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:2975/4447 SP:332/332 BP:2
+B-Z'aanta - HP:3089/3222 SP:367/371 BP:2
+C-Primrose - HP:4002/4002 SP:498/504 BP:0
+D-Ophilia - HP:4035/4002 SP:510/520 BP:2
+Equipo del enemigo
+A-Blood Revenant - HP:16352/16352 Shields:7
+B-River Fly - HP:845/1010 Shields:2
+C-Dark Guardian - HP:1470/1470 Shields:3
+D-Forest Ratkin I - HP:256/1348 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Ophilia
+3.River Fly
+4.Blood Revenant
+5.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Forest Ratkin I
+2.Therion
+3.Primrose
+4.Z'aanta
+5.Ophilia
+6.River Fly
+7.Blood Revenant
+8.Dark Guardian
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Z'aanta
+1: Abide
+2: Mole Dance
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Z'aanta
+1: Therion - HP:2975/4447 SP:332/332 BP:2
+2: Z'aanta - HP:3089/3222 SP:367/371 BP:2
+3: Primrose - HP:4002/4002 SP:498/504 BP:0
+4: Ophilia - HP:4035/4002 SP:510/520 BP:2
+5: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Z'aanta usa Mole Dance
+Therion tendrá Increased Physical Defense durante 6 rondas
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:2975/4447 SP:332/332 BP:2
+B-Z'aanta - HP:3089/3222 SP:363/371 BP:0
+C-Primrose - HP:4002/4002 SP:498/504 BP:0
+D-Ophilia - HP:4035/4002 SP:510/520 BP:2
+Equipo del enemigo
+A-Blood Revenant - HP:16352/16352 Shields:7
+B-River Fly - HP:845/1010 Shields:2
+C-Dark Guardian - HP:1470/1470 Shields:3
+D-Forest Ratkin I - HP:256/1348 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.River Fly
+3.Blood Revenant
+4.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Forest Ratkin I
+2.Therion
+3.Primrose
+4.Z'aanta
+5.Ophilia
+6.River Fly
+7.Blood Revenant
+8.Dark Guardian
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ophilia
+1: Sidestep
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Ophilia no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia usa Sidestep
+Ophilia esquivará los próximos 1 ataques físicos
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:2975/4447 SP:332/332 BP:2
+B-Z'aanta - HP:3089/3222 SP:363/371 BP:0
+C-Primrose - HP:4002/4002 SP:498/504 BP:0
+D-Ophilia - HP:4035/4002 SP:500/520 BP:2
+Equipo del enemigo
+A-Blood Revenant - HP:16352/16352 Shields:7
+B-River Fly - HP:845/1010 Shields:2
+C-Dark Guardian - HP:1470/1470 Shields:3
+D-Forest Ratkin I - HP:256/1348 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.River Fly
+2.Blood Revenant
+3.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Forest Ratkin I
+2.Therion
+3.Primrose
+4.Z'aanta
+5.Ophilia
+6.River Fly
+7.Blood Revenant
+8.Dark Guardian
+----------------------------------------
+River Fly usa Attack
+Ophilia ha esquivado el ataque
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:2975/4447 SP:332/332 BP:2
+B-Z'aanta - HP:3089/3222 SP:363/371 BP:0
+C-Primrose - HP:4002/4002 SP:498/504 BP:0
+D-Ophilia - HP:4035/4002 SP:500/520 BP:2
+Equipo del enemigo
+A-Blood Revenant - HP:16352/16352 Shields:7
+B-River Fly - HP:845/1010 Shields:2
+C-Dark Guardian - HP:1470/1470 Shields:3
+D-Forest Ratkin I - HP:256/1348 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Blood Revenant
+2.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Forest Ratkin I
+2.Therion
+3.Primrose
+4.Z'aanta
+5.Ophilia
+6.River Fly
+7.Blood Revenant
+8.Dark Guardian
+----------------------------------------
+Blood Revenant usa Volcano
+Therion recibe 954 de daño elemental
+Therion tendrá Decreased Elemental Defense durante 2 rondas
+Z'aanta recibe 946 de daño elemental
+Z'aanta tendrá Decreased Elemental Defense durante 2 rondas
+Primrose recibe 0 de daño elemental
+Primrose tendrá Decreased Elemental Defense durante 2 rondas
+Ophilia recibe 697 de daño elemental
+Ophilia tendrá Decreased Elemental Defense durante 2 rondas
+Therion termina con HP:2021
+Z'aanta termina con HP:2143
+Primrose termina con HP:4002
+Ophilia termina con HP:3338
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:2021/4447 SP:332/332 BP:2
+B-Z'aanta - HP:2143/3222 SP:363/371 BP:0
+C-Primrose - HP:4002/4002 SP:498/504 BP:0
+D-Ophilia - HP:3338/4002 SP:500/520 BP:2
+Equipo del enemigo
+A-Blood Revenant - HP:16352/16352 Shields:7
+B-River Fly - HP:845/1010 Shields:2
+C-Dark Guardian - HP:1470/1470 Shields:3
+D-Forest Ratkin I - HP:256/1348 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Forest Ratkin I
+2.Therion
+3.Primrose
+4.Z'aanta
+5.Ophilia
+6.River Fly
+7.Blood Revenant
+8.Dark Guardian
+----------------------------------------
+Dark Guardian usa Attack
+Primrose recibe 0 de daño físico
+Primrose termina con HP:4002
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:2021/4447 SP:332/332 BP:3
+B-Z'aanta - HP:2143/3222 SP:363/371 BP:0
+C-Primrose - HP:4002/4002 SP:498/504 BP:1
+D-Ophilia - HP:3338/4002 SP:500/520 BP:3
+Equipo del enemigo
+A-Blood Revenant - HP:16352/16352 Shields:7
+B-River Fly - HP:845/1010 Shields:2
+C-Dark Guardian - HP:1470/1470 Shields:3
+D-Forest Ratkin I - HP:256/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Forest Ratkin I
+2.Therion
+3.Primrose
+4.Z'aanta
+5.Ophilia
+6.River Fly
+7.Blood Revenant
+8.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.Z'aanta
+4.Ophilia
+5.River Fly
+6.Blood Revenant
+7.Dark Guardian
+8.Forest Ratkin I
+----------------------------------------
+Forest Ratkin I usa Stab
+Primrose recibe 0 de daño físico
+Primrose termina con HP:4002
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:2021/4447 SP:332/332 BP:3
+B-Z'aanta - HP:2143/3222 SP:363/371 BP:0
+C-Primrose - HP:4002/4002 SP:498/504 BP:1
+D-Ophilia - HP:3338/4002 SP:500/520 BP:3
+Equipo del enemigo
+A-Blood Revenant - HP:16352/16352 Shields:7
+B-River Fly - HP:845/1010 Shields:2
+C-Dark Guardian - HP:1470/1470 Shields:3
+D-Forest Ratkin I - HP:256/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Primrose
+3.Z'aanta
+4.Ophilia
+5.River Fly
+6.Blood Revenant
+7.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.Z'aanta
+4.Ophilia
+5.River Fly
+6.Blood Revenant
+7.Dark Guardian
+8.Forest Ratkin I
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Therion
+1: Blood Revenant - HP:16352/16352 Shields:7
+2: River Fly - HP:845/1010 Shields:2
+3: Dark Guardian - HP:1470/1470 Shields:3
+4: Forest Ratkin I - HP:256/1348 Shields:1
+5: Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Therion ataca
+Forest Ratkin I recibe 281 de daño de tipo Sword
+Forest Ratkin I recibe 281 de daño de tipo Sword
+Forest Ratkin I termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:2021/4447 SP:332/332 BP:2
+B-Z'aanta - HP:2143/3222 SP:363/371 BP:0
+C-Primrose - HP:4002/4002 SP:498/504 BP:1
+D-Ophilia - HP:3338/4002 SP:500/520 BP:3
+Equipo del enemigo
+A-Blood Revenant - HP:16352/16352 Shields:7
+B-River Fly - HP:845/1010 Shields:2
+C-Dark Guardian - HP:1470/1470 Shields:3
+D-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Z'aanta
+3.Ophilia
+4.River Fly
+5.Blood Revenant
+6.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.Z'aanta
+4.Ophilia
+5.River Fly
+6.Blood Revenant
+7.Dark Guardian
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Primrose
+1: Heal Wounds
+2: Moon's Reflection
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Therion - HP:2021/4447 SP:332/332 BP:2
+2: Z'aanta - HP:2143/3222 SP:363/371 BP:0
+3: Primrose - HP:4002/4002 SP:498/504 BP:1
+4: Ophilia - HP:3338/4002 SP:500/520 BP:3
+5: Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Primrose no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Primrose usa Moon's Reflection
+Ophilia reflejará los próximos 2 ataques físicos
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:2021/4447 SP:332/332 BP:2
+B-Z'aanta - HP:2143/3222 SP:363/371 BP:0
+C-Primrose - HP:4002/4002 SP:468/504 BP:0
+D-Ophilia - HP:3338/4002 SP:500/520 BP:3
+Equipo del enemigo
+A-Blood Revenant - HP:16352/16352 Shields:7
+B-River Fly - HP:845/1010 Shields:2
+C-Dark Guardian - HP:1470/1470 Shields:3
+D-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Ophilia
+3.River Fly
+4.Blood Revenant
+5.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.Z'aanta
+4.Ophilia
+5.River Fly
+6.Blood Revenant
+7.Dark Guardian
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Z'aanta
+1: Abide
+2: Mole Dance
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Z'aanta
+1: Therion - HP:2021/4447 SP:332/332 BP:2
+2: Z'aanta - HP:2143/3222 SP:363/371 BP:0
+3: Primrose - HP:4002/4002 SP:468/504 BP:0
+4: Ophilia - HP:3338/4002 SP:500/520 BP:3
+5: Cancelar
+INPUT: 3
+----------------------------------------
+Z'aanta usa Mole Dance
+Primrose tendrá Increased Physical Defense durante 2 rondas
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:2021/4447 SP:332/332 BP:2
+B-Z'aanta - HP:2143/3222 SP:359/371 BP:0
+C-Primrose - HP:4002/4002 SP:468/504 BP:0
+D-Ophilia - HP:3338/4002 SP:500/520 BP:3
+Equipo del enemigo
+A-Blood Revenant - HP:16352/16352 Shields:7
+B-River Fly - HP:845/1010 Shields:2
+C-Dark Guardian - HP:1470/1470 Shields:3
+D-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.River Fly
+3.Blood Revenant
+4.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.Z'aanta
+4.Ophilia
+5.River Fly
+6.Blood Revenant
+7.Dark Guardian
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:2021/4447 SP:332/332 BP:2
+B-Z'aanta - HP:2143/3222 SP:359/371 BP:0
+C-Primrose - HP:4002/4002 SP:468/504 BP:0
+D-Ophilia - HP:3338/4002 SP:500/520 BP:3
+Equipo del enemigo
+A-Blood Revenant - HP:16352/16352 Shields:7
+B-River Fly - HP:845/1010 Shields:2
+C-Dark Guardian - HP:1470/1470 Shields:3
+D-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.River Fly
+2.Blood Revenant
+3.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Therion
+3.Primrose
+4.Z'aanta
+5.River Fly
+6.Blood Revenant
+7.Dark Guardian
+----------------------------------------
+River Fly usa Attack
+Primrose recibe 148 de daño físico
+Primrose termina con HP:3854
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:2021/4447 SP:332/332 BP:2
+B-Z'aanta - HP:2143/3222 SP:359/371 BP:0
+C-Primrose - HP:3854/4002 SP:468/504 BP:0
+D-Ophilia - HP:3338/4002 SP:500/520 BP:3
+Equipo del enemigo
+A-Blood Revenant - HP:16352/16352 Shields:7
+B-River Fly - HP:845/1010 Shields:2
+C-Dark Guardian - HP:1470/1470 Shields:3
+D-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Blood Revenant
+2.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Therion
+3.Primrose
+4.Z'aanta
+5.River Fly
+6.Blood Revenant
+7.Dark Guardian
+----------------------------------------
+Blood Revenant usa Volcano
+Therion recibe 954 de daño elemental
+Therion tendrá Decreased Elemental Defense durante 2 rondas
+Z'aanta recibe 946 de daño elemental
+Z'aanta tendrá Decreased Elemental Defense durante 2 rondas
+Primrose recibe 0 de daño elemental
+Primrose tendrá Decreased Elemental Defense durante 2 rondas
+Ophilia se defiende
+Ophilia recibe 348 de daño elemental
+Ophilia tendrá Decreased Elemental Defense durante 2 rondas
+Therion termina con HP:1067
+Z'aanta termina con HP:1197
+Primrose termina con HP:3854
+Ophilia termina con HP:2990
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:1067/4447 SP:332/332 BP:2
+B-Z'aanta - HP:1197/3222 SP:359/371 BP:0
+C-Primrose - HP:3854/4002 SP:468/504 BP:0
+D-Ophilia - HP:2990/4002 SP:500/520 BP:3
+Equipo del enemigo
+A-Blood Revenant - HP:16352/16352 Shields:7
+B-River Fly - HP:845/1010 Shields:2
+C-Dark Guardian - HP:1470/1470 Shields:3
+D-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Therion
+3.Primrose
+4.Z'aanta
+5.River Fly
+6.Blood Revenant
+7.Dark Guardian
+----------------------------------------
+Dark Guardian usa Attack
+Primrose recibe 0 de daño físico
+Primrose termina con HP:3854
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:1067/4447 SP:332/332 BP:2
+B-Z'aanta - HP:1197/3222 SP:359/371 BP:1
+C-Primrose - HP:3854/4002 SP:468/504 BP:0
+D-Ophilia - HP:2990/4002 SP:500/520 BP:4
+Equipo del enemigo
+A-Blood Revenant - HP:16352/16352 Shields:7
+B-River Fly - HP:845/1010 Shields:2
+C-Dark Guardian - HP:1470/1470 Shields:3
+D-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Therion
+3.Primrose
+4.Z'aanta
+5.River Fly
+6.Blood Revenant
+7.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.Z'aanta
+4.Ophilia
+5.River Fly
+6.Blood Revenant
+7.Dark Guardian
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Blood Revenant - HP:16352/16352 Shields:7
+2: River Fly - HP:845/1010 Shields:2
+3: Dark Guardian - HP:1470/1470 Shields:3
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Ophilia ataca
+Blood Revenant recibe 0 de daño de tipo Stave con debilidad
+Blood Revenant recibe 0 de daño de tipo Stave con debilidad
+Blood Revenant recibe 0 de daño de tipo Stave con debilidad
+Blood Revenant termina con HP:16352
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:1067/4447 SP:332/332 BP:2
+B-Z'aanta - HP:1197/3222 SP:359/371 BP:1
+C-Primrose - HP:3854/4002 SP:468/504 BP:0
+D-Ophilia - HP:2990/4002 SP:500/520 BP:2
+Equipo del enemigo
+A-Blood Revenant - HP:16352/16352 Shields:7
+B-River Fly - HP:845/1010 Shields:2
+C-Dark Guardian - HP:1470/1470 Shields:3
+D-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Primrose
+3.Z'aanta
+4.River Fly
+5.Blood Revenant
+6.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.Z'aanta
+4.Ophilia
+5.River Fly
+6.Blood Revenant
+7.Dark Guardian
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Therion
+1: Blood Revenant - HP:16352/16352 Shields:7
+2: River Fly - HP:845/1010 Shields:2
+3: Dark Guardian - HP:1470/1470 Shields:3
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Therion ataca
+Dark Guardian recibe 318 de daño de tipo Sword con debilidad
+Dark Guardian termina con HP:1152
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:1067/4447 SP:332/332 BP:2
+B-Z'aanta - HP:1197/3222 SP:359/371 BP:1
+C-Primrose - HP:3854/4002 SP:468/504 BP:0
+D-Ophilia - HP:2990/4002 SP:500/520 BP:2
+Equipo del enemigo
+A-Blood Revenant - HP:16352/16352 Shields:7
+B-River Fly - HP:845/1010 Shields:2
+C-Dark Guardian - HP:1152/1470 Shields:2
+D-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Z'aanta
+3.River Fly
+4.Blood Revenant
+5.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.Z'aanta
+4.Ophilia
+5.River Fly
+6.Blood Revenant
+7.Dark Guardian
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Primrose
+1: Heal Wounds
+2: Moon's Reflection
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Therion - HP:1067/4447 SP:332/332 BP:2
+2: Z'aanta - HP:1197/3222 SP:359/371 BP:1
+3: Primrose - HP:3854/4002 SP:468/504 BP:0
+4: Ophilia - HP:2990/4002 SP:500/520 BP:2
+5: Cancelar
+INPUT: 2
+----------------------------------------
+Primrose usa Moon's Reflection
+Z'aanta reflejará los próximos 1 ataques físicos
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:1067/4447 SP:332/332 BP:2
+B-Z'aanta - HP:1197/3222 SP:359/371 BP:1
+C-Primrose - HP:3854/4002 SP:438/504 BP:0
+D-Ophilia - HP:2990/4002 SP:500/520 BP:2
+Equipo del enemigo
+A-Blood Revenant - HP:16352/16352 Shields:7
+B-River Fly - HP:845/1010 Shields:2
+C-Dark Guardian - HP:1152/1470 Shields:2
+D-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.River Fly
+3.Blood Revenant
+4.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.Z'aanta
+4.Ophilia
+5.River Fly
+6.Blood Revenant
+7.Dark Guardian
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Z'aanta
+1: Blood Revenant - HP:16352/16352 Shields:7
+2: River Fly - HP:845/1010 Shields:2
+3: Dark Guardian - HP:1152/1470 Shields:2
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Z'aanta no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Z'aanta ataca
+Dark Guardian recibe 355 de daño de tipo Axe
+Dark Guardian termina con HP:797
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:1067/4447 SP:332/332 BP:2
+B-Z'aanta - HP:1197/3222 SP:359/371 BP:1
+C-Primrose - HP:3854/4002 SP:438/504 BP:0
+D-Ophilia - HP:2990/4002 SP:500/520 BP:2
+Equipo del enemigo
+A-Blood Revenant - HP:16352/16352 Shields:7
+B-River Fly - HP:845/1010 Shields:2
+C-Dark Guardian - HP:797/1470 Shields:2
+D-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.River Fly
+2.Blood Revenant
+3.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.Z'aanta
+4.Ophilia
+5.River Fly
+6.Blood Revenant
+7.Dark Guardian
+----------------------------------------
+River Fly usa Attack
+Primrose recibe 148 de daño físico
+Primrose termina con HP:3706
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:1067/4447 SP:332/332 BP:2
+B-Z'aanta - HP:1197/3222 SP:359/371 BP:1
+C-Primrose - HP:3706/4002 SP:438/504 BP:0
+D-Ophilia - HP:2990/4002 SP:500/520 BP:2
+Equipo del enemigo
+A-Blood Revenant - HP:16352/16352 Shields:7
+B-River Fly - HP:845/1010 Shields:2
+C-Dark Guardian - HP:797/1470 Shields:2
+D-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Blood Revenant
+2.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.Z'aanta
+4.Ophilia
+5.River Fly
+6.Blood Revenant
+7.Dark Guardian
+----------------------------------------
+Blood Revenant usa Volcano
+Therion recibe 954 de daño elemental
+Therion tendrá Decreased Elemental Defense durante 2 rondas
+Z'aanta recibe 946 de daño elemental
+Z'aanta tendrá Decreased Elemental Defense durante 2 rondas
+Primrose recibe 0 de daño elemental
+Primrose tendrá Decreased Elemental Defense durante 2 rondas
+Ophilia recibe 697 de daño elemental
+Ophilia tendrá Decreased Elemental Defense durante 2 rondas
+Therion termina con HP:113
+Z'aanta termina con HP:251
+Primrose termina con HP:3706
+Ophilia termina con HP:2293
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:113/4447 SP:332/332 BP:2
+B-Z'aanta - HP:251/3222 SP:359/371 BP:1
+C-Primrose - HP:3706/4002 SP:438/504 BP:0
+D-Ophilia - HP:2293/4002 SP:500/520 BP:2
+Equipo del enemigo
+A-Blood Revenant - HP:16352/16352 Shields:7
+B-River Fly - HP:845/1010 Shields:2
+C-Dark Guardian - HP:797/1470 Shields:2
+D-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.Z'aanta
+4.Ophilia
+5.River Fly
+6.Blood Revenant
+7.Dark Guardian
+----------------------------------------
+Dark Guardian usa Attack
+Primrose recibe 161 de daño físico
+Primrose termina con HP:3545
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:113/4447 SP:332/332 BP:3
+B-Z'aanta - HP:251/3222 SP:359/371 BP:2
+C-Primrose - HP:3545/4002 SP:438/504 BP:1
+D-Ophilia - HP:2293/4002 SP:500/520 BP:2
+Equipo del enemigo
+A-Blood Revenant - HP:16352/16352 Shields:7
+B-River Fly - HP:845/1010 Shields:2
+C-Dark Guardian - HP:797/1470 Shields:2
+D-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Primrose
+3.Z'aanta
+4.Ophilia
+5.River Fly
+6.Blood Revenant
+7.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.Z'aanta
+4.Ophilia
+5.River Fly
+6.Blood Revenant
+7.Dark Guardian
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:113/4447 SP:332/332 BP:3
+B-Z'aanta - HP:251/3222 SP:359/371 BP:2
+C-Primrose - HP:3545/4002 SP:438/504 BP:1
+D-Ophilia - HP:2293/4002 SP:500/520 BP:2
+Equipo del enemigo
+A-Blood Revenant - HP:16352/16352 Shields:7
+B-River Fly - HP:845/1010 Shields:2
+C-Dark Guardian - HP:797/1470 Shields:2
+D-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Z'aanta
+3.Ophilia
+4.River Fly
+5.Blood Revenant
+6.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.Z'aanta
+4.Ophilia
+5.River Fly
+6.Blood Revenant
+7.Dark Guardian
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Blood Revenant - HP:16352/16352 Shields:7
+2: River Fly - HP:845/1010 Shields:2
+3: Dark Guardian - HP:797/1470 Shields:2
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Primrose ataca
+Dark Guardian recibe 49 de daño de tipo Dagger con debilidad
+Dark Guardian recibe 49 de daño de tipo Dagger con debilidad
+Dark Guardian entra en Breaking Point
+Dark Guardian termina con HP:699
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:113/4447 SP:332/332 BP:3
+B-Z'aanta - HP:251/3222 SP:359/371 BP:2
+C-Primrose - HP:3545/4002 SP:438/504 BP:0
+D-Ophilia - HP:2293/4002 SP:500/520 BP:2
+Equipo del enemigo
+A-Blood Revenant - HP:16352/16352 Shields:7
+B-River Fly - HP:845/1010 Shields:2
+C-Dark Guardian - HP:699/1470 Shields:0
+D-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Ophilia
+3.River Fly
+4.Blood Revenant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.Z'aanta
+4.Ophilia
+5.River Fly
+6.Blood Revenant
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Z'aanta
+1: Blood Revenant - HP:16352/16352 Shields:7
+2: River Fly - HP:845/1010 Shields:2
+3: Dark Guardian - HP:699/1470 Shields:0
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Z'aanta ataca
+Blood Revenant recibe 0 de daño de tipo Axe
+Blood Revenant termina con HP:16352
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:113/4447 SP:332/332 BP:3
+B-Z'aanta - HP:251/3222 SP:359/371 BP:2
+C-Primrose - HP:3545/4002 SP:438/504 BP:0
+D-Ophilia - HP:2293/4002 SP:500/520 BP:2
+Equipo del enemigo
+A-Blood Revenant - HP:16352/16352 Shields:7
+B-River Fly - HP:845/1010 Shields:2
+C-Dark Guardian - HP:699/1470 Shields:0
+D-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.River Fly
+3.Blood Revenant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.Z'aanta
+4.Ophilia
+5.River Fly
+6.Blood Revenant
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ophilia
+1: Sidestep
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia usa Sidestep
+Ophilia esquivará los próximos 1 ataques físicos
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:113/4447 SP:332/332 BP:3
+B-Z'aanta - HP:251/3222 SP:359/371 BP:2
+C-Primrose - HP:3545/4002 SP:438/504 BP:0
+D-Ophilia - HP:2293/4002 SP:490/520 BP:2
+Equipo del enemigo
+A-Blood Revenant - HP:16352/16352 Shields:7
+B-River Fly - HP:845/1010 Shields:2
+C-Dark Guardian - HP:699/1470 Shields:0
+D-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.River Fly
+2.Blood Revenant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.Z'aanta
+4.Ophilia
+5.River Fly
+6.Blood Revenant
+----------------------------------------
+River Fly usa Attack
+Primrose recibe 222 de daño físico
+Primrose termina con HP:3323
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:113/4447 SP:332/332 BP:3
+B-Z'aanta - HP:251/3222 SP:359/371 BP:2
+C-Primrose - HP:3323/4002 SP:438/504 BP:0
+D-Ophilia - HP:2293/4002 SP:490/520 BP:2
+Equipo del enemigo
+A-Blood Revenant - HP:16352/16352 Shields:7
+B-River Fly - HP:845/1010 Shields:2
+C-Dark Guardian - HP:699/1470 Shields:0
+D-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Blood Revenant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Primrose
+3.Z'aanta
+4.Ophilia
+5.River Fly
+6.Blood Revenant
+----------------------------------------
+Blood Revenant usa Volcano
+Therion se defiende
+Therion recibe 477 de daño elemental
+Therion tendrá Decreased Elemental Defense durante 2 rondas
+Z'aanta recibe 946 de daño elemental
+Z'aanta tendrá Decreased Elemental Defense durante 2 rondas
+Primrose recibe 798 de daño elemental
+Primrose tendrá Decreased Elemental Defense durante 2 rondas
+Ophilia recibe 697 de daño elemental
+Ophilia tendrá Decreased Elemental Defense durante 2 rondas
+Therion termina con HP:0
+Z'aanta termina con HP:0
+Primrose termina con HP:2525
+Ophilia termina con HP:1596
+----------------------------------------
+INICIA RONDA 6
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:0/4447 SP:332/332 BP:3
+B-Z'aanta - HP:0/3222 SP:359/371 BP:2
+C-Primrose - HP:2525/4002 SP:438/504 BP:0
+D-Ophilia - HP:1596/4002 SP:490/520 BP:3
+Equipo del enemigo
+A-Blood Revenant - HP:16352/16352 Shields:7
+B-River Fly - HP:845/1010 Shields:2
+C-Dark Guardian - HP:699/1470 Shields:0
+D-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Ophilia
+3.River Fly
+4.Blood Revenant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dark Guardian
+2.Primrose
+3.Ophilia
+4.River Fly
+5.Blood Revenant
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Primrose
+1: Heal Wounds
+2: Moon's Reflection
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Primrose - HP:2525/4002 SP:438/504 BP:0
+2: Ophilia - HP:1596/4002 SP:490/520 BP:3
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Primrose usa Moon's Reflection
+Primrose reflejará los próximos 1 ataques físicos
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:0/4447 SP:332/332 BP:3
+B-Z'aanta - HP:0/3222 SP:359/371 BP:2
+C-Primrose - HP:2525/4002 SP:408/504 BP:0
+D-Ophilia - HP:1596/4002 SP:490/520 BP:3
+Equipo del enemigo
+A-Blood Revenant - HP:16352/16352 Shields:7
+B-River Fly - HP:845/1010 Shields:2
+C-Dark Guardian - HP:699/1470 Shields:0
+D-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.River Fly
+3.Blood Revenant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dark Guardian
+2.Primrose
+3.Ophilia
+4.River Fly
+5.Blood Revenant
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Blood Revenant - HP:16352/16352 Shields:7
+2: River Fly - HP:845/1010 Shields:2
+3: Dark Guardian - HP:699/1470 Shields:0
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Ophilia ataca
+River Fly recibe 0 de daño de tipo Stave
+River Fly recibe 0 de daño de tipo Stave
+River Fly termina con HP:845
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:0/4447 SP:332/332 BP:3
+B-Z'aanta - HP:0/3222 SP:359/371 BP:2
+C-Primrose - HP:2525/4002 SP:408/504 BP:0
+D-Ophilia - HP:1596/4002 SP:490/520 BP:2
+Equipo del enemigo
+A-Blood Revenant - HP:16352/16352 Shields:7
+B-River Fly - HP:845/1010 Shields:2
+C-Dark Guardian - HP:699/1470 Shields:0
+D-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.River Fly
+2.Blood Revenant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dark Guardian
+2.Primrose
+3.Ophilia
+4.River Fly
+5.Blood Revenant
+----------------------------------------
+River Fly usa Attack
+Primrose refleja el daño
+River Fly recibe 222 de daño
+River Fly termina con HP:623
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:0/4447 SP:332/332 BP:3
+B-Z'aanta - HP:0/3222 SP:359/371 BP:2
+C-Primrose - HP:2525/4002 SP:408/504 BP:0
+D-Ophilia - HP:1596/4002 SP:490/520 BP:2
+Equipo del enemigo
+A-Blood Revenant - HP:16352/16352 Shields:7
+B-River Fly - HP:623/1010 Shields:2
+C-Dark Guardian - HP:699/1470 Shields:0
+D-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Blood Revenant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dark Guardian
+2.Primrose
+3.Ophilia
+4.River Fly
+5.Blood Revenant
+----------------------------------------
+Blood Revenant usa Volcano
+Primrose recibe 798 de daño elemental
+Primrose tendrá Decreased Elemental Defense durante 2 rondas
+Ophilia recibe 697 de daño elemental
+Ophilia tendrá Decreased Elemental Defense durante 2 rondas
+Primrose termina con HP:1727
+Ophilia termina con HP:899
+----------------------------------------
+INICIA RONDA 7
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:0/4447 SP:332/332 BP:3
+B-Z'aanta - HP:0/3222 SP:359/371 BP:2
+C-Primrose - HP:1727/4002 SP:408/504 BP:1
+D-Ophilia - HP:899/4002 SP:490/520 BP:2
+Equipo del enemigo
+A-Blood Revenant - HP:16352/16352 Shields:7
+B-River Fly - HP:623/1010 Shields:2
+C-Dark Guardian - HP:699/1470 Shields:3
+D-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Dark Guardian
+2.Primrose
+3.Ophilia
+4.River Fly
+5.Blood Revenant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ophilia
+3.River Fly
+4.Blood Revenant
+5.Dark Guardian
+----------------------------------------
+Dark Guardian usa Attack
+Primrose recibe 241 de daño físico
+Primrose termina con HP:1486
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:0/4447 SP:332/332 BP:3
+B-Z'aanta - HP:0/3222 SP:359/371 BP:2
+C-Primrose - HP:1486/4002 SP:408/504 BP:1
+D-Ophilia - HP:899/4002 SP:490/520 BP:2
+Equipo del enemigo
+A-Blood Revenant - HP:16352/16352 Shields:7
+B-River Fly - HP:623/1010 Shields:2
+C-Dark Guardian - HP:699/1470 Shields:3
+D-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Ophilia
+3.River Fly
+4.Blood Revenant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ophilia
+3.River Fly
+4.Blood Revenant
+5.Dark Guardian
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Primrose
+1: Heal Wounds
+2: Moon's Reflection
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose usa Heal Wounds
+Ophilia recupera 498 de vida
+Primrose recupera 498 de vida
+Ophilia termina con HP:1397
+Primrose termina con HP:1984
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:0/4447 SP:332/332 BP:3
+B-Z'aanta - HP:0/3222 SP:359/371 BP:2
+C-Primrose - HP:1984/4002 SP:402/504 BP:1
+D-Ophilia - HP:1397/4002 SP:490/520 BP:2
+Equipo del enemigo
+A-Blood Revenant - HP:16352/16352 Shields:7
+B-River Fly - HP:623/1010 Shields:2
+C-Dark Guardian - HP:699/1470 Shields:3
+D-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.River Fly
+3.Blood Revenant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ophilia
+3.River Fly
+4.Blood Revenant
+5.Dark Guardian
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Blood Revenant - HP:16352/16352 Shields:7
+2: River Fly - HP:623/1010 Shields:2
+3: Dark Guardian - HP:699/1470 Shields:3
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia ataca
+Blood Revenant recibe 0 de daño de tipo Stave con debilidad
+Blood Revenant termina con HP:16352
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:0/4447 SP:332/332 BP:3
+B-Z'aanta - HP:0/3222 SP:359/371 BP:2
+C-Primrose - HP:1984/4002 SP:402/504 BP:1
+D-Ophilia - HP:1397/4002 SP:490/520 BP:2
+Equipo del enemigo
+A-Blood Revenant - HP:16352/16352 Shields:7
+B-River Fly - HP:623/1010 Shields:2
+C-Dark Guardian - HP:699/1470 Shields:3
+D-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.River Fly
+2.Blood Revenant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ophilia
+3.River Fly
+4.Blood Revenant
+5.Dark Guardian
+----------------------------------------
+River Fly usa Attack
+Primrose recibe 222 de daño físico
+Primrose termina con HP:1762
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:0/4447 SP:332/332 BP:3
+B-Z'aanta - HP:0/3222 SP:359/371 BP:2
+C-Primrose - HP:1762/4002 SP:402/504 BP:1
+D-Ophilia - HP:1397/4002 SP:490/520 BP:2
+Equipo del enemigo
+A-Blood Revenant - HP:16352/16352 Shields:7
+B-River Fly - HP:623/1010 Shields:2
+C-Dark Guardian - HP:699/1470 Shields:3
+D-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Blood Revenant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ophilia
+3.River Fly
+4.Blood Revenant
+5.Dark Guardian
+----------------------------------------
+Blood Revenant usa Volcano
+Primrose recibe 0 de daño elemental
+Primrose tendrá Decreased Elemental Defense durante 2 rondas
+Ophilia recibe 697 de daño elemental
+Ophilia tendrá Decreased Elemental Defense durante 2 rondas
+Primrose termina con HP:1762
+Ophilia termina con HP:700
+----------------------------------------
+INICIA RONDA 8
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:0/4447 SP:332/332 BP:3
+B-Z'aanta - HP:0/3222 SP:359/371 BP:2
+C-Primrose - HP:1762/4002 SP:402/504 BP:2
+D-Ophilia - HP:700/4002 SP:490/520 BP:3
+Equipo del enemigo
+A-Blood Revenant - HP:16352/16352 Shields:7
+B-River Fly - HP:623/1010 Shields:2
+C-Dark Guardian - HP:699/1470 Shields:3
+D-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Ophilia
+3.River Fly
+4.Blood Revenant
+5.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ophilia
+3.River Fly
+4.Blood Revenant
+5.Dark Guardian
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Primrose
+1: Heal Wounds
+2: Moon's Reflection
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Primrose usa Heal Wounds
+Ophilia recupera 830 de vida
+Primrose recupera 830 de vida
+Ophilia termina con HP:1530
+Primrose termina con HP:2592
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:0/4447 SP:332/332 BP:3
+B-Z'aanta - HP:0/3222 SP:359/371 BP:2
+C-Primrose - HP:2592/4002 SP:396/504 BP:0
+D-Ophilia - HP:1530/4002 SP:490/520 BP:3
+Equipo del enemigo
+A-Blood Revenant - HP:16352/16352 Shields:7
+B-River Fly - HP:623/1010 Shields:2
+C-Dark Guardian - HP:699/1470 Shields:3
+D-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.River Fly
+3.Blood Revenant
+4.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ophilia
+3.River Fly
+4.Blood Revenant
+5.Dark Guardian
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ophilia
+1: Sidestep
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Ophilia usa Sidestep
+Ophilia esquivará los próximos 4 ataques físicos
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:0/4447 SP:332/332 BP:3
+B-Z'aanta - HP:0/3222 SP:359/371 BP:2
+C-Primrose - HP:2592/4002 SP:396/504 BP:0
+D-Ophilia - HP:1530/4002 SP:480/520 BP:0
+Equipo del enemigo
+A-Blood Revenant - HP:16352/16352 Shields:7
+B-River Fly - HP:623/1010 Shields:2
+C-Dark Guardian - HP:699/1470 Shields:3
+D-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.River Fly
+2.Blood Revenant
+3.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ophilia
+3.River Fly
+4.Blood Revenant
+5.Dark Guardian
+----------------------------------------
+River Fly usa Attack
+Primrose recibe 222 de daño físico
+Primrose termina con HP:2370
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:0/4447 SP:332/332 BP:3
+B-Z'aanta - HP:0/3222 SP:359/371 BP:2
+C-Primrose - HP:2370/4002 SP:396/504 BP:0
+D-Ophilia - HP:1530/4002 SP:480/520 BP:0
+Equipo del enemigo
+A-Blood Revenant - HP:16352/16352 Shields:7
+B-River Fly - HP:623/1010 Shields:2
+C-Dark Guardian - HP:699/1470 Shields:3
+D-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Blood Revenant
+2.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ophilia
+3.River Fly
+4.Blood Revenant
+5.Dark Guardian
+----------------------------------------
+Blood Revenant usa Volcano
+Primrose recibe 0 de daño elemental
+Primrose tendrá Decreased Elemental Defense durante 2 rondas
+Ophilia recibe 697 de daño elemental
+Ophilia tendrá Decreased Elemental Defense durante 2 rondas
+Primrose termina con HP:2370
+Ophilia termina con HP:833
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:0/4447 SP:332/332 BP:3
+B-Z'aanta - HP:0/3222 SP:359/371 BP:2
+C-Primrose - HP:2370/4002 SP:396/504 BP:0
+D-Ophilia - HP:833/4002 SP:480/520 BP:0
+Equipo del enemigo
+A-Blood Revenant - HP:16352/16352 Shields:7
+B-River Fly - HP:623/1010 Shields:2
+C-Dark Guardian - HP:699/1470 Shields:3
+D-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ophilia
+3.River Fly
+4.Blood Revenant
+5.Dark Guardian
+----------------------------------------
+Dark Guardian usa Attack
+Primrose recibe 241 de daño físico
+Primrose termina con HP:2129
+----------------------------------------
+INICIA RONDA 9
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:0/4447 SP:332/332 BP:3
+B-Z'aanta - HP:0/3222 SP:359/371 BP:2
+C-Primrose - HP:2129/4002 SP:396/504 BP:0
+D-Ophilia - HP:833/4002 SP:480/520 BP:0
+Equipo del enemigo
+A-Blood Revenant - HP:16352/16352 Shields:7
+B-River Fly - HP:623/1010 Shields:2
+C-Dark Guardian - HP:699/1470 Shields:3
+D-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Ophilia
+3.River Fly
+4.Blood Revenant
+5.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ophilia
+3.River Fly
+4.Blood Revenant
+5.Dark Guardian
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Primrose
+1: Heal Wounds
+2: Moon's Reflection
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Primrose usa Heal Wounds
+Ophilia recupera 498 de vida
+Primrose recupera 498 de vida
+Ophilia termina con HP:1331
+Primrose termina con HP:2627
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:0/4447 SP:332/332 BP:3
+B-Z'aanta - HP:0/3222 SP:359/371 BP:2
+C-Primrose - HP:2627/4002 SP:390/504 BP:0
+D-Ophilia - HP:1331/4002 SP:480/520 BP:0
+Equipo del enemigo
+A-Blood Revenant - HP:16352/16352 Shields:7
+B-River Fly - HP:623/1010 Shields:2
+C-Dark Guardian - HP:699/1470 Shields:3
+D-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.River Fly
+3.Blood Revenant
+4.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ophilia
+3.River Fly
+4.Blood Revenant
+5.Dark Guardian
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Blood Revenant - HP:16352/16352 Shields:7
+2: River Fly - HP:623/1010 Shields:2
+3: Dark Guardian - HP:699/1470 Shields:3
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Ophilia ataca
+River Fly recibe 0 de daño de tipo Stave
+River Fly termina con HP:623
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:0/4447 SP:332/332 BP:3
+B-Z'aanta - HP:0/3222 SP:359/371 BP:2
+C-Primrose - HP:2627/4002 SP:390/504 BP:0
+D-Ophilia - HP:1331/4002 SP:480/520 BP:0
+Equipo del enemigo
+A-Blood Revenant - HP:16352/16352 Shields:7
+B-River Fly - HP:623/1010 Shields:2
+C-Dark Guardian - HP:699/1470 Shields:3
+D-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.River Fly
+2.Blood Revenant
+3.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ophilia
+3.River Fly
+4.Blood Revenant
+5.Dark Guardian
+----------------------------------------
+River Fly usa Attack
+Primrose recibe 222 de daño físico
+Primrose termina con HP:2405
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:0/4447 SP:332/332 BP:3
+B-Z'aanta - HP:0/3222 SP:359/371 BP:2
+C-Primrose - HP:2405/4002 SP:390/504 BP:0
+D-Ophilia - HP:1331/4002 SP:480/520 BP:0
+Equipo del enemigo
+A-Blood Revenant - HP:16352/16352 Shields:7
+B-River Fly - HP:623/1010 Shields:2
+C-Dark Guardian - HP:699/1470 Shields:3
+D-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Blood Revenant
+2.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ophilia
+3.River Fly
+4.Blood Revenant
+5.Dark Guardian
+----------------------------------------
+Blood Revenant usa Volcano
+Primrose recibe 798 de daño elemental
+Primrose tendrá Decreased Elemental Defense durante 2 rondas
+Ophilia recibe 697 de daño elemental
+Ophilia tendrá Decreased Elemental Defense durante 2 rondas
+Primrose termina con HP:1607
+Ophilia termina con HP:634
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:0/4447 SP:332/332 BP:3
+B-Z'aanta - HP:0/3222 SP:359/371 BP:2
+C-Primrose - HP:1607/4002 SP:390/504 BP:0
+D-Ophilia - HP:634/4002 SP:480/520 BP:0
+Equipo del enemigo
+A-Blood Revenant - HP:16352/16352 Shields:7
+B-River Fly - HP:623/1010 Shields:2
+C-Dark Guardian - HP:699/1470 Shields:3
+D-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ophilia
+3.River Fly
+4.Blood Revenant
+5.Dark Guardian
+----------------------------------------
+Dark Guardian usa Attack
+Primrose recibe 241 de daño físico
+Primrose termina con HP:1366
+----------------------------------------
+INICIA RONDA 10
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:0/4447 SP:332/332 BP:3
+B-Z'aanta - HP:0/3222 SP:359/371 BP:2
+C-Primrose - HP:1366/4002 SP:390/504 BP:1
+D-Ophilia - HP:634/4002 SP:480/520 BP:1
+Equipo del enemigo
+A-Blood Revenant - HP:16352/16352 Shields:7
+B-River Fly - HP:623/1010 Shields:2
+C-Dark Guardian - HP:699/1470 Shields:3
+D-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Ophilia
+3.River Fly
+4.Blood Revenant
+5.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ophilia
+3.River Fly
+4.Blood Revenant
+5.Dark Guardian
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Primrose
+1: Heal Wounds
+2: Moon's Reflection
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Primrose no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Primrose no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Primrose no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Primrose usa Heal Wounds
+Ophilia recupera 498 de vida
+Primrose recupera 498 de vida
+Ophilia termina con HP:1132
+Primrose termina con HP:1864
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:0/4447 SP:332/332 BP:3
+B-Z'aanta - HP:0/3222 SP:359/371 BP:2
+C-Primrose - HP:1864/4002 SP:384/504 BP:1
+D-Ophilia - HP:1132/4002 SP:480/520 BP:1
+Equipo del enemigo
+A-Blood Revenant - HP:16352/16352 Shields:7
+B-River Fly - HP:623/1010 Shields:2
+C-Dark Guardian - HP:699/1470 Shields:3
+D-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.River Fly
+3.Blood Revenant
+4.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ophilia
+3.River Fly
+4.Blood Revenant
+5.Dark Guardian
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Blood Revenant - HP:16352/16352 Shields:7
+2: River Fly - HP:623/1010 Shields:2
+3: Dark Guardian - HP:699/1470 Shields:3
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Ophilia no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Ophilia no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia ataca
+Blood Revenant recibe 180 de daño de tipo Stave con debilidad
+Blood Revenant termina con HP:16172
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:0/4447 SP:332/332 BP:3
+B-Z'aanta - HP:0/3222 SP:359/371 BP:2
+C-Primrose - HP:1864/4002 SP:384/504 BP:1
+D-Ophilia - HP:1132/4002 SP:480/520 BP:1
+Equipo del enemigo
+A-Blood Revenant - HP:16172/16352 Shields:6
+B-River Fly - HP:623/1010 Shields:2
+C-Dark Guardian - HP:699/1470 Shields:3
+D-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.River Fly
+2.Blood Revenant
+3.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ophilia
+3.River Fly
+4.Blood Revenant
+5.Dark Guardian
+----------------------------------------
+River Fly usa Attack
+Primrose recibe 222 de daño físico
+Primrose termina con HP:1642
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:0/4447 SP:332/332 BP:3
+B-Z'aanta - HP:0/3222 SP:359/371 BP:2
+C-Primrose - HP:1642/4002 SP:384/504 BP:1
+D-Ophilia - HP:1132/4002 SP:480/520 BP:1
+Equipo del enemigo
+A-Blood Revenant - HP:16172/16352 Shields:6
+B-River Fly - HP:623/1010 Shields:2
+C-Dark Guardian - HP:699/1470 Shields:3
+D-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Blood Revenant
+2.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ophilia
+3.River Fly
+4.Blood Revenant
+5.Dark Guardian
+----------------------------------------
+Blood Revenant usa Volcano
+Primrose recibe 0 de daño elemental
+Primrose tendrá Decreased Elemental Defense durante 2 rondas
+Ophilia recibe 697 de daño elemental
+Ophilia tendrá Decreased Elemental Defense durante 2 rondas
+Primrose termina con HP:1642
+Ophilia termina con HP:435
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:0/4447 SP:332/332 BP:3
+B-Z'aanta - HP:0/3222 SP:359/371 BP:2
+C-Primrose - HP:1642/4002 SP:384/504 BP:1
+D-Ophilia - HP:435/4002 SP:480/520 BP:1
+Equipo del enemigo
+A-Blood Revenant - HP:16172/16352 Shields:6
+B-River Fly - HP:623/1010 Shields:2
+C-Dark Guardian - HP:699/1470 Shields:3
+D-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ophilia
+3.River Fly
+4.Blood Revenant
+5.Dark Guardian
+----------------------------------------
+Dark Guardian usa Attack
+Primrose recibe 241 de daño físico
+Primrose termina con HP:1401
+----------------------------------------
+INICIA RONDA 11
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:0/4447 SP:332/332 BP:3
+B-Z'aanta - HP:0/3222 SP:359/371 BP:2
+C-Primrose - HP:1401/4002 SP:384/504 BP:2
+D-Ophilia - HP:435/4002 SP:480/520 BP:2
+Equipo del enemigo
+A-Blood Revenant - HP:16172/16352 Shields:6
+B-River Fly - HP:623/1010 Shields:2
+C-Dark Guardian - HP:699/1470 Shields:3
+D-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.Ophilia
+3.River Fly
+4.Blood Revenant
+5.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ophilia
+3.River Fly
+4.Blood Revenant
+5.Dark Guardian
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:0/4447 SP:332/332 BP:3
+B-Z'aanta - HP:0/3222 SP:359/371 BP:2
+C-Primrose - HP:1401/4002 SP:384/504 BP:2
+D-Ophilia - HP:435/4002 SP:480/520 BP:2
+Equipo del enemigo
+A-Blood Revenant - HP:16172/16352 Shields:6
+B-River Fly - HP:623/1010 Shields:2
+C-Dark Guardian - HP:699/1470 Shields:3
+D-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.River Fly
+3.Blood Revenant
+4.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ophilia
+3.River Fly
+4.Blood Revenant
+5.Dark Guardian
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Blood Revenant - HP:16172/16352 Shields:6
+2: River Fly - HP:623/1010 Shields:2
+3: Dark Guardian - HP:699/1470 Shields:3
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia ataca
+River Fly recibe 326 de daño de tipo Stave
+River Fly termina con HP:297
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:0/4447 SP:332/332 BP:3
+B-Z'aanta - HP:0/3222 SP:359/371 BP:2
+C-Primrose - HP:1401/4002 SP:384/504 BP:2
+D-Ophilia - HP:435/4002 SP:480/520 BP:2
+Equipo del enemigo
+A-Blood Revenant - HP:16172/16352 Shields:6
+B-River Fly - HP:297/1010 Shields:2
+C-Dark Guardian - HP:699/1470 Shields:3
+D-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.River Fly
+2.Blood Revenant
+3.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ophilia
+3.River Fly
+4.Blood Revenant
+5.Dark Guardian
+----------------------------------------
+River Fly usa Attack
+Primrose se defiende
+Primrose recibe 111 de daño físico
+Primrose termina con HP:1290
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:0/4447 SP:332/332 BP:3
+B-Z'aanta - HP:0/3222 SP:359/371 BP:2
+C-Primrose - HP:1290/4002 SP:384/504 BP:2
+D-Ophilia - HP:435/4002 SP:480/520 BP:2
+Equipo del enemigo
+A-Blood Revenant - HP:16172/16352 Shields:6
+B-River Fly - HP:297/1010 Shields:2
+C-Dark Guardian - HP:699/1470 Shields:3
+D-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Blood Revenant
+2.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.Ophilia
+3.River Fly
+4.Blood Revenant
+5.Dark Guardian
+----------------------------------------
+Blood Revenant usa Volcano
+Primrose se defiende
+Primrose recibe 0 de daño elemental
+Primrose tendrá Decreased Elemental Defense durante 2 rondas
+Ophilia recibe 697 de daño elemental
+Ophilia tendrá Decreased Elemental Defense durante 2 rondas
+Primrose termina con HP:1290
+Ophilia termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:0/4447 SP:332/332 BP:3
+B-Z'aanta - HP:0/3222 SP:359/371 BP:2
+C-Primrose - HP:1290/4002 SP:384/504 BP:2
+D-Ophilia - HP:0/4002 SP:480/520 BP:2
+Equipo del enemigo
+A-Blood Revenant - HP:16172/16352 Shields:6
+B-River Fly - HP:297/1010 Shields:2
+C-Dark Guardian - HP:699/1470 Shields:3
+D-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.River Fly
+3.Blood Revenant
+4.Dark Guardian
+----------------------------------------
+Dark Guardian usa Attack
+Primrose se defiende
+Primrose recibe 120 de daño físico
+Primrose termina con HP:1170
+----------------------------------------
+INICIA RONDA 12
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:0/4447 SP:332/332 BP:3
+B-Z'aanta - HP:0/3222 SP:359/371 BP:2
+C-Primrose - HP:1170/4002 SP:384/504 BP:3
+D-Ophilia - HP:0/4002 SP:480/520 BP:2
+Equipo del enemigo
+A-Blood Revenant - HP:16172/16352 Shields:6
+B-River Fly - HP:297/1010 Shields:2
+C-Dark Guardian - HP:699/1470 Shields:3
+D-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.River Fly
+3.Blood Revenant
+4.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.River Fly
+3.Blood Revenant
+4.Dark Guardian
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Blood Revenant - HP:16172/16352 Shields:6
+2: River Fly - HP:297/1010 Shields:2
+3: Dark Guardian - HP:699/1470 Shields:3
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Primrose ataca
+Blood Revenant recibe 138 de daño de tipo Dagger con debilidad
+Blood Revenant recibe 138 de daño de tipo Dagger con debilidad
+Blood Revenant recibe 138 de daño de tipo Dagger con debilidad
+Blood Revenant recibe 138 de daño de tipo Dagger con debilidad
+Blood Revenant termina con HP:15620
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:0/4447 SP:332/332 BP:3
+B-Z'aanta - HP:0/3222 SP:359/371 BP:2
+C-Primrose - HP:1170/4002 SP:384/504 BP:0
+D-Ophilia - HP:0/4002 SP:480/520 BP:2
+Equipo del enemigo
+A-Blood Revenant - HP:15620/16352 Shields:2
+B-River Fly - HP:297/1010 Shields:2
+C-Dark Guardian - HP:699/1470 Shields:3
+D-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.River Fly
+2.Blood Revenant
+3.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.River Fly
+3.Blood Revenant
+4.Dark Guardian
+----------------------------------------
+River Fly usa Attack
+Primrose recibe 222 de daño físico
+Primrose termina con HP:948
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:0/4447 SP:332/332 BP:3
+B-Z'aanta - HP:0/3222 SP:359/371 BP:2
+C-Primrose - HP:948/4002 SP:384/504 BP:0
+D-Ophilia - HP:0/4002 SP:480/520 BP:2
+Equipo del enemigo
+A-Blood Revenant - HP:15620/16352 Shields:2
+B-River Fly - HP:297/1010 Shields:2
+C-Dark Guardian - HP:699/1470 Shields:3
+D-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Blood Revenant
+2.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.River Fly
+3.Blood Revenant
+4.Dark Guardian
+----------------------------------------
+Blood Revenant usa Volcano
+Primrose recibe 0 de daño elemental
+Primrose tendrá Decreased Elemental Defense durante 2 rondas
+Primrose termina con HP:948
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:0/4447 SP:332/332 BP:3
+B-Z'aanta - HP:0/3222 SP:359/371 BP:2
+C-Primrose - HP:948/4002 SP:384/504 BP:0
+D-Ophilia - HP:0/4002 SP:480/520 BP:2
+Equipo del enemigo
+A-Blood Revenant - HP:15620/16352 Shields:2
+B-River Fly - HP:297/1010 Shields:2
+C-Dark Guardian - HP:699/1470 Shields:3
+D-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.River Fly
+3.Blood Revenant
+4.Dark Guardian
+----------------------------------------
+Dark Guardian usa Attack
+Primrose recibe 241 de daño físico
+Primrose termina con HP:707
+----------------------------------------
+INICIA RONDA 13
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:0/4447 SP:332/332 BP:3
+B-Z'aanta - HP:0/3222 SP:359/371 BP:2
+C-Primrose - HP:707/4002 SP:384/504 BP:0
+D-Ophilia - HP:0/4002 SP:480/520 BP:2
+Equipo del enemigo
+A-Blood Revenant - HP:15620/16352 Shields:2
+B-River Fly - HP:297/1010 Shields:2
+C-Dark Guardian - HP:699/1470 Shields:3
+D-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Primrose
+2.River Fly
+3.Blood Revenant
+4.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.River Fly
+3.Blood Revenant
+4.Dark Guardian
+----------------------------------------
+Turno de Primrose
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Primrose
+1: Heal Wounds
+2: Moon's Reflection
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Primrose
+1: Primrose - HP:707/4002 SP:384/504 BP:0
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Primrose usa Moon's Reflection
+Primrose reflejará los próximos 1 ataques físicos
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:0/4447 SP:332/332 BP:3
+B-Z'aanta - HP:0/3222 SP:359/371 BP:2
+C-Primrose - HP:707/4002 SP:354/504 BP:0
+D-Ophilia - HP:0/4002 SP:480/520 BP:2
+Equipo del enemigo
+A-Blood Revenant - HP:15620/16352 Shields:2
+B-River Fly - HP:297/1010 Shields:2
+C-Dark Guardian - HP:699/1470 Shields:3
+D-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.River Fly
+2.Blood Revenant
+3.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.River Fly
+3.Blood Revenant
+4.Dark Guardian
+----------------------------------------
+River Fly usa Attack
+Primrose refleja el daño
+River Fly recibe 222 de daño
+River Fly termina con HP:75
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:0/4447 SP:332/332 BP:3
+B-Z'aanta - HP:0/3222 SP:359/371 BP:2
+C-Primrose - HP:707/4002 SP:354/504 BP:0
+D-Ophilia - HP:0/4002 SP:480/520 BP:2
+Equipo del enemigo
+A-Blood Revenant - HP:15620/16352 Shields:2
+B-River Fly - HP:75/1010 Shields:2
+C-Dark Guardian - HP:699/1470 Shields:3
+D-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Blood Revenant
+2.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.River Fly
+3.Blood Revenant
+4.Dark Guardian
+----------------------------------------
+Blood Revenant usa Volcano
+Primrose recibe 706 de daño elemental
+Primrose tendrá Decreased Elemental Defense durante 2 rondas
+Primrose termina con HP:1
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:0/4447 SP:332/332 BP:3
+B-Z'aanta - HP:0/3222 SP:359/371 BP:2
+C-Primrose - HP:1/4002 SP:354/504 BP:0
+D-Ophilia - HP:0/4002 SP:480/520 BP:2
+Equipo del enemigo
+A-Blood Revenant - HP:15620/16352 Shields:2
+B-River Fly - HP:75/1010 Shields:2
+C-Dark Guardian - HP:699/1470 Shields:3
+D-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Dark Guardian
+----------------------------------------
+Turnos de la siguiente ronda
+1.Primrose
+2.River Fly
+3.Blood Revenant
+4.Dark Guardian
+----------------------------------------
+Dark Guardian usa Attack
+Primrose recibe 241 de daño físico
+Primrose termina con HP:0
+----------------------------------------
+Gana equipo del enemigo

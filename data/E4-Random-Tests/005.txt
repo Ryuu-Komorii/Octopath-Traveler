@@ -1,0 +1,1583 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+INPUT: 4
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:4002/4002 SP:432/432 BP:1
+B-Ochette - HP:4447/4447 SP:369/369 BP:1
+Equipo del enemigo
+A-Light Elemental - HP:1880/1880 Shields:4
+B-Monarch - HP:6740/6740 Shields:8
+C-Curator - HP:1530/1530 Shields:3
+D-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Temenos
+3.Frost Fox
+4.Curator
+5.Monarch
+6.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Temenos
+3.Frost Fox
+4.Curator
+5.Monarch
+6.Light Elemental
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ochette
+1: Double Edge
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ochette
+1: Light Elemental - HP:1880/1880 Shields:4
+2: Monarch - HP:6740/6740 Shields:8
+3: Curator - HP:1530/1530 Shields:3
+4: Frost Fox - HP:1302/1302 Shields:2
+5: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Ochette no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Ochette usa Double Edge
+Monarch recibe 1468 de daño de tipo Sword
+Ochette pierde 1334 HP
+Monarch termina con HP:5272
+Ochette termina con HP:3113
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:4002/4002 SP:432/432 BP:1
+B-Ochette - HP:3113/4447 SP:357/369 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1880/1880 Shields:4
+B-Monarch - HP:5272/6740 Shields:8
+C-Curator - HP:1530/1530 Shields:3
+D-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Frost Fox
+3.Curator
+4.Monarch
+5.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Temenos
+3.Frost Fox
+4.Curator
+5.Monarch
+6.Light Elemental
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Temenos
+1: Light Elemental - HP:1880/1880 Shields:4
+2: Monarch - HP:5272/6740 Shields:8
+3: Curator - HP:1530/1530 Shields:3
+4: Frost Fox - HP:1302/1302 Shields:2
+5: Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Temenos no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Temenos ataca
+Frost Fox recibe 52 de daño de tipo Stave
+Frost Fox recibe 52 de daño de tipo Stave
+Frost Fox termina con HP:1198
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:4002/4002 SP:432/432 BP:0
+B-Ochette - HP:3113/4447 SP:357/369 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1880/1880 Shields:4
+B-Monarch - HP:5272/6740 Shields:8
+C-Curator - HP:1530/1530 Shields:3
+D-Frost Fox - HP:1198/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Frost Fox
+2.Curator
+3.Monarch
+4.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Temenos
+3.Frost Fox
+4.Curator
+5.Monarch
+6.Light Elemental
+----------------------------------------
+Frost Fox usa Ice blast
+Temenos recibe 134 de daño elemental
+Ochette recibe 298 de daño elemental
+Temenos termina con HP:3868
+Ochette termina con HP:2815
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:3868/4002 SP:432/432 BP:0
+B-Ochette - HP:2815/4447 SP:357/369 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1880/1880 Shields:4
+B-Monarch - HP:5272/6740 Shields:8
+C-Curator - HP:1530/1530 Shields:3
+D-Frost Fox - HP:1198/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Curator
+2.Monarch
+3.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Temenos
+3.Frost Fox
+4.Curator
+5.Monarch
+6.Light Elemental
+----------------------------------------
+Curator usa Augmented Magic
+Light Elemental tendrá Increased Elemental Attack durante 2 rondas
+Light Elemental tendrá Increased Elemental Defense durante 2 rondas
+Monarch tendrá Increased Elemental Attack durante 2 rondas
+Monarch tendrá Increased Elemental Defense durante 2 rondas
+Frost Fox tendrá Increased Elemental Attack durante 2 rondas
+Frost Fox tendrá Increased Elemental Defense durante 2 rondas
+Curator tendrá Increased Elemental Attack durante 2 rondas
+Curator tendrá Increased Elemental Defense durante 2 rondas
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:3868/4002 SP:432/432 BP:0
+B-Ochette - HP:2815/4447 SP:357/369 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1880/1880 Shields:4
+B-Monarch - HP:5272/6740 Shields:8
+C-Curator - HP:1530/1530 Shields:3
+D-Frost Fox - HP:1198/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Monarch
+2.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Temenos
+3.Frost Fox
+4.Curator
+5.Monarch
+6.Light Elemental
+----------------------------------------
+Monarch usa Galestorm
+Temenos recibe 370 de daño elemental
+Ochette recibe 616 de daño elemental
+Temenos termina con HP:3498
+Ochette termina con HP:2199
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:3498/4002 SP:432/432 BP:0
+B-Ochette - HP:2199/4447 SP:357/369 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1880/1880 Shields:4
+B-Monarch - HP:5272/6740 Shields:8
+C-Curator - HP:1530/1530 Shields:3
+D-Frost Fox - HP:1198/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Temenos
+3.Frost Fox
+4.Curator
+5.Monarch
+6.Light Elemental
+----------------------------------------
+Light Elemental usa Lightshot
+Ochette recibe 213 de daño elemental
+Ochette termina con HP:1986
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:3498/4002 SP:432/432 BP:0
+B-Ochette - HP:1986/4447 SP:357/369 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1880/1880 Shields:4
+B-Monarch - HP:5272/6740 Shields:8
+C-Curator - HP:1530/1530 Shields:3
+D-Frost Fox - HP:1198/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Temenos
+3.Frost Fox
+4.Curator
+5.Monarch
+6.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Temenos
+3.Frost Fox
+4.Curator
+5.Monarch
+6.Light Elemental
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:3498/4002 SP:432/432 BP:0
+B-Ochette - HP:1986/4447 SP:357/369 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1880/1880 Shields:4
+B-Monarch - HP:5272/6740 Shields:8
+C-Curator - HP:1530/1530 Shields:3
+D-Frost Fox - HP:1198/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Frost Fox
+3.Curator
+4.Monarch
+5.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Temenos
+3.Frost Fox
+4.Curator
+5.Monarch
+6.Light Elemental
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:3498/4002 SP:432/432 BP:0
+B-Ochette - HP:1986/4447 SP:357/369 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1880/1880 Shields:4
+B-Monarch - HP:5272/6740 Shields:8
+C-Curator - HP:1530/1530 Shields:3
+D-Frost Fox - HP:1198/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Frost Fox
+2.Curator
+3.Monarch
+4.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Temenos
+3.Frost Fox
+4.Curator
+5.Monarch
+6.Light Elemental
+----------------------------------------
+Frost Fox usa Ice blast
+Temenos se defiende
+Temenos recibe 100 de daño elemental
+Ochette se defiende
+Ochette recibe 223 de daño elemental
+Temenos termina con HP:3398
+Ochette termina con HP:1763
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:3398/4002 SP:432/432 BP:0
+B-Ochette - HP:1763/4447 SP:357/369 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1880/1880 Shields:4
+B-Monarch - HP:5272/6740 Shields:8
+C-Curator - HP:1530/1530 Shields:3
+D-Frost Fox - HP:1198/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Curator
+2.Monarch
+3.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Temenos
+3.Frost Fox
+4.Curator
+5.Monarch
+6.Light Elemental
+----------------------------------------
+Curator usa Augmented Magic
+Light Elemental tendrá Increased Elemental Attack durante 2 rondas
+Light Elemental tendrá Increased Elemental Defense durante 2 rondas
+Monarch tendrá Increased Elemental Attack durante 2 rondas
+Monarch tendrá Increased Elemental Defense durante 2 rondas
+Frost Fox tendrá Increased Elemental Attack durante 2 rondas
+Frost Fox tendrá Increased Elemental Defense durante 2 rondas
+Curator tendrá Increased Elemental Attack durante 2 rondas
+Curator tendrá Increased Elemental Defense durante 2 rondas
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:3398/4002 SP:432/432 BP:0
+B-Ochette - HP:1763/4447 SP:357/369 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1880/1880 Shields:4
+B-Monarch - HP:5272/6740 Shields:8
+C-Curator - HP:1530/1530 Shields:3
+D-Frost Fox - HP:1198/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Monarch
+2.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Temenos
+3.Frost Fox
+4.Curator
+5.Monarch
+6.Light Elemental
+----------------------------------------
+Monarch usa Galestorm
+Temenos se defiende
+Temenos recibe 185 de daño elemental
+Ochette se defiende
+Ochette recibe 308 de daño elemental
+Temenos termina con HP:3213
+Ochette termina con HP:1455
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:3213/4002 SP:432/432 BP:0
+B-Ochette - HP:1455/4447 SP:357/369 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1880/1880 Shields:4
+B-Monarch - HP:5272/6740 Shields:8
+C-Curator - HP:1530/1530 Shields:3
+D-Frost Fox - HP:1198/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Temenos
+3.Frost Fox
+4.Curator
+5.Monarch
+6.Light Elemental
+----------------------------------------
+Light Elemental usa Lightshot
+Ochette se defiende
+Ochette recibe 106 de daño elemental
+Ochette termina con HP:1349
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:3213/4002 SP:432/432 BP:1
+B-Ochette - HP:1349/4447 SP:357/369 BP:1
+Equipo del enemigo
+A-Light Elemental - HP:1880/1880 Shields:4
+B-Monarch - HP:5272/6740 Shields:8
+C-Curator - HP:1530/1530 Shields:3
+D-Frost Fox - HP:1198/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Temenos
+3.Frost Fox
+4.Curator
+5.Monarch
+6.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Temenos
+3.Frost Fox
+4.Curator
+5.Monarch
+6.Light Elemental
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:3213/4002 SP:432/432 BP:1
+B-Ochette - HP:1349/4447 SP:357/369 BP:1
+Equipo del enemigo
+A-Light Elemental - HP:1880/1880 Shields:4
+B-Monarch - HP:5272/6740 Shields:8
+C-Curator - HP:1530/1530 Shields:3
+D-Frost Fox - HP:1198/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Frost Fox
+3.Curator
+4.Monarch
+5.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Temenos
+3.Frost Fox
+4.Curator
+5.Monarch
+6.Light Elemental
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Temenos
+1: Light Elemental - HP:1880/1880 Shields:4
+2: Monarch - HP:5272/6740 Shields:8
+3: Curator - HP:1530/1530 Shields:3
+4: Frost Fox - HP:1198/1302 Shields:2
+5: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Temenos ataca
+Curator recibe 370 de daño de tipo Stave con debilidad
+Curator recibe 370 de daño de tipo Stave con debilidad
+Curator termina con HP:790
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:3213/4002 SP:432/432 BP:0
+B-Ochette - HP:1349/4447 SP:357/369 BP:1
+Equipo del enemigo
+A-Light Elemental - HP:1880/1880 Shields:4
+B-Monarch - HP:5272/6740 Shields:8
+C-Curator - HP:790/1530 Shields:1
+D-Frost Fox - HP:1198/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Frost Fox
+2.Curator
+3.Monarch
+4.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Temenos
+3.Frost Fox
+4.Curator
+5.Monarch
+6.Light Elemental
+----------------------------------------
+Frost Fox usa Ice blast
+Temenos recibe 201 de daño elemental
+Ochette se defiende
+Ochette recibe 223 de daño elemental
+Temenos termina con HP:3012
+Ochette termina con HP:1126
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:3012/4002 SP:432/432 BP:0
+B-Ochette - HP:1126/4447 SP:357/369 BP:1
+Equipo del enemigo
+A-Light Elemental - HP:1880/1880 Shields:4
+B-Monarch - HP:5272/6740 Shields:8
+C-Curator - HP:790/1530 Shields:1
+D-Frost Fox - HP:1198/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Curator
+2.Monarch
+3.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Temenos
+3.Frost Fox
+4.Curator
+5.Monarch
+6.Light Elemental
+----------------------------------------
+Curator usa Augmented Magic
+Light Elemental tendrá Increased Elemental Attack durante 2 rondas
+Light Elemental tendrá Increased Elemental Defense durante 2 rondas
+Monarch tendrá Increased Elemental Attack durante 2 rondas
+Monarch tendrá Increased Elemental Defense durante 2 rondas
+Frost Fox tendrá Increased Elemental Attack durante 2 rondas
+Frost Fox tendrá Increased Elemental Defense durante 2 rondas
+Curator tendrá Increased Elemental Attack durante 2 rondas
+Curator tendrá Increased Elemental Defense durante 2 rondas
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:3012/4002 SP:432/432 BP:0
+B-Ochette - HP:1126/4447 SP:357/369 BP:1
+Equipo del enemigo
+A-Light Elemental - HP:1880/1880 Shields:4
+B-Monarch - HP:5272/6740 Shields:8
+C-Curator - HP:790/1530 Shields:1
+D-Frost Fox - HP:1198/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Monarch
+2.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Temenos
+3.Frost Fox
+4.Curator
+5.Monarch
+6.Light Elemental
+----------------------------------------
+Monarch usa Galestorm
+Temenos recibe 370 de daño elemental
+Ochette se defiende
+Ochette recibe 308 de daño elemental
+Temenos termina con HP:2642
+Ochette termina con HP:818
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:2642/4002 SP:432/432 BP:0
+B-Ochette - HP:818/4447 SP:357/369 BP:1
+Equipo del enemigo
+A-Light Elemental - HP:1880/1880 Shields:4
+B-Monarch - HP:5272/6740 Shields:8
+C-Curator - HP:790/1530 Shields:1
+D-Frost Fox - HP:1198/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Temenos
+3.Frost Fox
+4.Curator
+5.Monarch
+6.Light Elemental
+----------------------------------------
+Light Elemental usa Lightshot
+Temenos recibe 0 de daño elemental
+Temenos termina con HP:2642
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:2642/4002 SP:432/432 BP:0
+B-Ochette - HP:818/4447 SP:357/369 BP:2
+Equipo del enemigo
+A-Light Elemental - HP:1880/1880 Shields:4
+B-Monarch - HP:5272/6740 Shields:8
+C-Curator - HP:790/1530 Shields:1
+D-Frost Fox - HP:1198/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Temenos
+3.Frost Fox
+4.Curator
+5.Monarch
+6.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Temenos
+3.Frost Fox
+4.Curator
+5.Monarch
+6.Light Elemental
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ochette
+1: Double Edge
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ochette
+1: Light Elemental - HP:1880/1880 Shields:4
+2: Monarch - HP:5272/6740 Shields:8
+3: Curator - HP:790/1530 Shields:1
+4: Frost Fox - HP:1198/1302 Shields:2
+5: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Ochette usa Double Edge
+Monarch recibe 4770 de daño de tipo Sword
+Ochette pierde 245 HP
+Monarch termina con HP:502
+Ochette termina con HP:573
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:2642/4002 SP:432/432 BP:0
+B-Ochette - HP:573/4447 SP:345/369 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1880/1880 Shields:4
+B-Monarch - HP:502/6740 Shields:8
+C-Curator - HP:790/1530 Shields:1
+D-Frost Fox - HP:1198/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Frost Fox
+3.Curator
+4.Monarch
+5.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Temenos
+3.Frost Fox
+4.Curator
+5.Monarch
+6.Light Elemental
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Temenos
+1: Light Elemental - HP:1880/1880 Shields:4
+2: Monarch - HP:502/6740 Shields:8
+3: Curator - HP:790/1530 Shields:1
+4: Frost Fox - HP:1198/1302 Shields:2
+5: Cancelar
+INPUT: 2
+----------------------------------------
+Temenos ataca
+Monarch recibe 92 de daño de tipo Stave
+Monarch termina con HP:410
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:2642/4002 SP:432/432 BP:0
+B-Ochette - HP:573/4447 SP:345/369 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1880/1880 Shields:4
+B-Monarch - HP:410/6740 Shields:8
+C-Curator - HP:790/1530 Shields:1
+D-Frost Fox - HP:1198/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Frost Fox
+2.Curator
+3.Monarch
+4.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Temenos
+3.Frost Fox
+4.Curator
+5.Monarch
+6.Light Elemental
+----------------------------------------
+Frost Fox usa Ice blast
+Temenos recibe 201 de daño elemental
+Ochette recibe 447 de daño elemental
+Temenos termina con HP:2441
+Ochette termina con HP:126
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:2441/4002 SP:432/432 BP:0
+B-Ochette - HP:126/4447 SP:345/369 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1880/1880 Shields:4
+B-Monarch - HP:410/6740 Shields:8
+C-Curator - HP:790/1530 Shields:1
+D-Frost Fox - HP:1198/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Curator
+2.Monarch
+3.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Temenos
+3.Frost Fox
+4.Curator
+5.Monarch
+6.Light Elemental
+----------------------------------------
+Curator usa Augmented Magic
+Light Elemental tendrá Increased Elemental Attack durante 2 rondas
+Light Elemental tendrá Increased Elemental Defense durante 2 rondas
+Monarch tendrá Increased Elemental Attack durante 2 rondas
+Monarch tendrá Increased Elemental Defense durante 2 rondas
+Frost Fox tendrá Increased Elemental Attack durante 2 rondas
+Frost Fox tendrá Increased Elemental Defense durante 2 rondas
+Curator tendrá Increased Elemental Attack durante 2 rondas
+Curator tendrá Increased Elemental Defense durante 2 rondas
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:2441/4002 SP:432/432 BP:0
+B-Ochette - HP:126/4447 SP:345/369 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1880/1880 Shields:4
+B-Monarch - HP:410/6740 Shields:8
+C-Curator - HP:790/1530 Shields:1
+D-Frost Fox - HP:1198/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Monarch
+2.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Temenos
+3.Frost Fox
+4.Curator
+5.Monarch
+6.Light Elemental
+----------------------------------------
+Monarch usa Galestorm
+Temenos recibe 370 de daño elemental
+Ochette recibe 616 de daño elemental
+Temenos termina con HP:2071
+Ochette termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:2071/4002 SP:432/432 BP:0
+B-Ochette - HP:0/4447 SP:345/369 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1880/1880 Shields:4
+B-Monarch - HP:410/6740 Shields:8
+C-Curator - HP:790/1530 Shields:1
+D-Frost Fox - HP:1198/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Frost Fox
+3.Curator
+4.Monarch
+5.Light Elemental
+----------------------------------------
+Light Elemental usa Lightshot
+Temenos recibe 0 de daño elemental
+Temenos termina con HP:2071
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:2071/4002 SP:432/432 BP:1
+B-Ochette - HP:0/4447 SP:345/369 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1880/1880 Shields:4
+B-Monarch - HP:410/6740 Shields:8
+C-Curator - HP:790/1530 Shields:1
+D-Frost Fox - HP:1198/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Frost Fox
+3.Curator
+4.Monarch
+5.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Frost Fox
+3.Curator
+4.Monarch
+5.Light Elemental
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:2071/4002 SP:432/432 BP:1
+B-Ochette - HP:0/4447 SP:345/369 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1880/1880 Shields:4
+B-Monarch - HP:410/6740 Shields:8
+C-Curator - HP:790/1530 Shields:1
+D-Frost Fox - HP:1198/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Frost Fox
+2.Curator
+3.Monarch
+4.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Frost Fox
+3.Curator
+4.Monarch
+5.Light Elemental
+----------------------------------------
+Frost Fox usa Ice blast
+Temenos se defiende
+Temenos recibe 100 de daño elemental
+Temenos termina con HP:1971
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:1971/4002 SP:432/432 BP:1
+B-Ochette - HP:0/4447 SP:345/369 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1880/1880 Shields:4
+B-Monarch - HP:410/6740 Shields:8
+C-Curator - HP:790/1530 Shields:1
+D-Frost Fox - HP:1198/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Curator
+2.Monarch
+3.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Frost Fox
+3.Curator
+4.Monarch
+5.Light Elemental
+----------------------------------------
+Curator usa Augmented Magic
+Light Elemental tendrá Increased Elemental Attack durante 2 rondas
+Light Elemental tendrá Increased Elemental Defense durante 2 rondas
+Monarch tendrá Increased Elemental Attack durante 2 rondas
+Monarch tendrá Increased Elemental Defense durante 2 rondas
+Frost Fox tendrá Increased Elemental Attack durante 2 rondas
+Frost Fox tendrá Increased Elemental Defense durante 2 rondas
+Curator tendrá Increased Elemental Attack durante 2 rondas
+Curator tendrá Increased Elemental Defense durante 2 rondas
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:1971/4002 SP:432/432 BP:1
+B-Ochette - HP:0/4447 SP:345/369 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1880/1880 Shields:4
+B-Monarch - HP:410/6740 Shields:8
+C-Curator - HP:790/1530 Shields:1
+D-Frost Fox - HP:1198/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Monarch
+2.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Frost Fox
+3.Curator
+4.Monarch
+5.Light Elemental
+----------------------------------------
+Monarch usa Galestorm
+Temenos se defiende
+Temenos recibe 185 de daño elemental
+Temenos termina con HP:1786
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:1786/4002 SP:432/432 BP:1
+B-Ochette - HP:0/4447 SP:345/369 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1880/1880 Shields:4
+B-Monarch - HP:410/6740 Shields:8
+C-Curator - HP:790/1530 Shields:1
+D-Frost Fox - HP:1198/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Frost Fox
+3.Curator
+4.Monarch
+5.Light Elemental
+----------------------------------------
+Light Elemental usa Lightshot
+Temenos se defiende
+Temenos recibe 0 de daño elemental
+Temenos termina con HP:1786
+----------------------------------------
+INICIA RONDA 6
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:1786/4002 SP:432/432 BP:2
+B-Ochette - HP:0/4447 SP:345/369 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1880/1880 Shields:4
+B-Monarch - HP:410/6740 Shields:8
+C-Curator - HP:790/1530 Shields:1
+D-Frost Fox - HP:1198/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Frost Fox
+3.Curator
+4.Monarch
+5.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Frost Fox
+3.Curator
+4.Monarch
+5.Light Elemental
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Temenos
+1: Light Elemental - HP:1880/1880 Shields:4
+2: Monarch - HP:410/6740 Shields:8
+3: Curator - HP:790/1530 Shields:1
+4: Frost Fox - HP:1198/1302 Shields:2
+5: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Temenos ataca
+Light Elemental recibe 61 de daño de tipo Stave
+Light Elemental recibe 61 de daño de tipo Stave
+Light Elemental termina con HP:1758
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:1786/4002 SP:432/432 BP:1
+B-Ochette - HP:0/4447 SP:345/369 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1758/1880 Shields:4
+B-Monarch - HP:410/6740 Shields:8
+C-Curator - HP:790/1530 Shields:1
+D-Frost Fox - HP:1198/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Frost Fox
+2.Curator
+3.Monarch
+4.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Frost Fox
+3.Curator
+4.Monarch
+5.Light Elemental
+----------------------------------------
+Frost Fox usa Ice blast
+Temenos recibe 201 de daño elemental
+Temenos termina con HP:1585
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:1585/4002 SP:432/432 BP:1
+B-Ochette - HP:0/4447 SP:345/369 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1758/1880 Shields:4
+B-Monarch - HP:410/6740 Shields:8
+C-Curator - HP:790/1530 Shields:1
+D-Frost Fox - HP:1198/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Curator
+2.Monarch
+3.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Frost Fox
+3.Curator
+4.Monarch
+5.Light Elemental
+----------------------------------------
+Curator usa Augmented Magic
+Light Elemental tendrá Increased Elemental Attack durante 2 rondas
+Light Elemental tendrá Increased Elemental Defense durante 2 rondas
+Monarch tendrá Increased Elemental Attack durante 2 rondas
+Monarch tendrá Increased Elemental Defense durante 2 rondas
+Frost Fox tendrá Increased Elemental Attack durante 2 rondas
+Frost Fox tendrá Increased Elemental Defense durante 2 rondas
+Curator tendrá Increased Elemental Attack durante 2 rondas
+Curator tendrá Increased Elemental Defense durante 2 rondas
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:1585/4002 SP:432/432 BP:1
+B-Ochette - HP:0/4447 SP:345/369 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1758/1880 Shields:4
+B-Monarch - HP:410/6740 Shields:8
+C-Curator - HP:790/1530 Shields:1
+D-Frost Fox - HP:1198/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Monarch
+2.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Frost Fox
+3.Curator
+4.Monarch
+5.Light Elemental
+----------------------------------------
+Monarch usa Galestorm
+Temenos recibe 370 de daño elemental
+Temenos termina con HP:1215
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:1215/4002 SP:432/432 BP:1
+B-Ochette - HP:0/4447 SP:345/369 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1758/1880 Shields:4
+B-Monarch - HP:410/6740 Shields:8
+C-Curator - HP:790/1530 Shields:1
+D-Frost Fox - HP:1198/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Frost Fox
+3.Curator
+4.Monarch
+5.Light Elemental
+----------------------------------------
+Light Elemental usa Lightshot
+Temenos recibe 0 de daño elemental
+Temenos termina con HP:1215
+----------------------------------------
+INICIA RONDA 7
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:1215/4002 SP:432/432 BP:1
+B-Ochette - HP:0/4447 SP:345/369 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1758/1880 Shields:4
+B-Monarch - HP:410/6740 Shields:8
+C-Curator - HP:790/1530 Shields:1
+D-Frost Fox - HP:1198/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Frost Fox
+3.Curator
+4.Monarch
+5.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Frost Fox
+3.Curator
+4.Monarch
+5.Light Elemental
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Temenos
+1: Light Elemental - HP:1758/1880 Shields:4
+2: Monarch - HP:410/6740 Shields:8
+3: Curator - HP:790/1530 Shields:1
+4: Frost Fox - HP:1198/1302 Shields:2
+5: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Temenos no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Temenos no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Temenos no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Temenos ataca
+Curator recibe 370 de daño de tipo Stave con debilidad
+Curator entra en Breaking Point
+Curator termina con HP:420
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:1215/4002 SP:432/432 BP:1
+B-Ochette - HP:0/4447 SP:345/369 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1758/1880 Shields:4
+B-Monarch - HP:410/6740 Shields:8
+C-Curator - HP:420/1530 Shields:0
+D-Frost Fox - HP:1198/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Frost Fox
+2.Monarch
+3.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Frost Fox
+3.Monarch
+4.Light Elemental
+----------------------------------------
+Frost Fox usa Ice blast
+Temenos recibe 201 de daño elemental
+Temenos termina con HP:1014
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:1014/4002 SP:432/432 BP:1
+B-Ochette - HP:0/4447 SP:345/369 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1758/1880 Shields:4
+B-Monarch - HP:410/6740 Shields:8
+C-Curator - HP:420/1530 Shields:0
+D-Frost Fox - HP:1198/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Monarch
+2.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Frost Fox
+3.Monarch
+4.Light Elemental
+----------------------------------------
+Monarch usa Galestorm
+Temenos recibe 370 de daño elemental
+Temenos termina con HP:644
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:644/4002 SP:432/432 BP:1
+B-Ochette - HP:0/4447 SP:345/369 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1758/1880 Shields:4
+B-Monarch - HP:410/6740 Shields:8
+C-Curator - HP:420/1530 Shields:0
+D-Frost Fox - HP:1198/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Frost Fox
+3.Monarch
+4.Light Elemental
+----------------------------------------
+Light Elemental usa Lightshot
+Temenos recibe 0 de daño elemental
+Temenos termina con HP:644
+----------------------------------------
+INICIA RONDA 8
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:644/4002 SP:432/432 BP:2
+B-Ochette - HP:0/4447 SP:345/369 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1758/1880 Shields:4
+B-Monarch - HP:410/6740 Shields:8
+C-Curator - HP:420/1530 Shields:0
+D-Frost Fox - HP:1198/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Frost Fox
+3.Monarch
+4.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Curator
+2.Temenos
+3.Frost Fox
+4.Monarch
+5.Light Elemental
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Temenos
+1: Light Elemental - HP:1758/1880 Shields:4
+2: Monarch - HP:410/6740 Shields:8
+3: Curator - HP:420/1530 Shields:0
+4: Frost Fox - HP:1198/1302 Shields:2
+5: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Temenos no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Temenos ataca
+Light Elemental recibe 61 de daño de tipo Stave
+Light Elemental recibe 61 de daño de tipo Stave
+Light Elemental termina con HP:1636
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:644/4002 SP:432/432 BP:1
+B-Ochette - HP:0/4447 SP:345/369 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1636/1880 Shields:4
+B-Monarch - HP:410/6740 Shields:8
+C-Curator - HP:420/1530 Shields:0
+D-Frost Fox - HP:1198/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Frost Fox
+2.Monarch
+3.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Curator
+2.Temenos
+3.Frost Fox
+4.Monarch
+5.Light Elemental
+----------------------------------------
+Frost Fox usa Ice blast
+Temenos recibe 201 de daño elemental
+Temenos termina con HP:443
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:443/4002 SP:432/432 BP:1
+B-Ochette - HP:0/4447 SP:345/369 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1636/1880 Shields:4
+B-Monarch - HP:410/6740 Shields:8
+C-Curator - HP:420/1530 Shields:0
+D-Frost Fox - HP:1198/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Monarch
+2.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Curator
+2.Temenos
+3.Frost Fox
+4.Monarch
+5.Light Elemental
+----------------------------------------
+Monarch usa Galestorm
+Temenos recibe 370 de daño elemental
+Temenos termina con HP:73
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:73/4002 SP:432/432 BP:1
+B-Ochette - HP:0/4447 SP:345/369 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1636/1880 Shields:4
+B-Monarch - HP:410/6740 Shields:8
+C-Curator - HP:420/1530 Shields:0
+D-Frost Fox - HP:1198/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Curator
+2.Temenos
+3.Frost Fox
+4.Monarch
+5.Light Elemental
+----------------------------------------
+Light Elemental usa Lightshot
+Temenos recibe 0 de daño elemental
+Temenos termina con HP:73
+----------------------------------------
+INICIA RONDA 9
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:73/4002 SP:432/432 BP:1
+B-Ochette - HP:0/4447 SP:345/369 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1636/1880 Shields:4
+B-Monarch - HP:410/6740 Shields:8
+C-Curator - HP:420/1530 Shields:3
+D-Frost Fox - HP:1198/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Curator
+2.Temenos
+3.Frost Fox
+4.Monarch
+5.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Frost Fox
+3.Curator
+4.Monarch
+5.Light Elemental
+----------------------------------------
+Curator usa Augmented Magic
+Light Elemental tendrá Increased Elemental Attack durante 2 rondas
+Light Elemental tendrá Increased Elemental Defense durante 2 rondas
+Monarch tendrá Increased Elemental Attack durante 2 rondas
+Monarch tendrá Increased Elemental Defense durante 2 rondas
+Frost Fox tendrá Increased Elemental Attack durante 2 rondas
+Frost Fox tendrá Increased Elemental Defense durante 2 rondas
+Curator tendrá Increased Elemental Attack durante 2 rondas
+Curator tendrá Increased Elemental Defense durante 2 rondas
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:73/4002 SP:432/432 BP:1
+B-Ochette - HP:0/4447 SP:345/369 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1636/1880 Shields:4
+B-Monarch - HP:410/6740 Shields:8
+C-Curator - HP:420/1530 Shields:3
+D-Frost Fox - HP:1198/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Temenos
+2.Frost Fox
+3.Monarch
+4.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Frost Fox
+3.Curator
+4.Monarch
+5.Light Elemental
+----------------------------------------
+Turno de Temenos
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Temenos - HP:73/4002 SP:432/432 BP:1
+B-Ochette - HP:0/4447 SP:345/369 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1636/1880 Shields:4
+B-Monarch - HP:410/6740 Shields:8
+C-Curator - HP:420/1530 Shields:3
+D-Frost Fox - HP:1198/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Frost Fox
+2.Monarch
+3.Light Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Temenos
+2.Frost Fox
+3.Curator
+4.Monarch
+5.Light Elemental
+----------------------------------------
+Frost Fox usa Ice blast
+Temenos se defiende
+Temenos recibe 100 de daño elemental
+Temenos termina con HP:0
+----------------------------------------
+Gana equipo del enemigo

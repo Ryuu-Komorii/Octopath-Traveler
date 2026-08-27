@@ -1,0 +1,1073 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+INPUT: 8
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Osvald - HP:3557/3557 SP:541/541 BP:2
+B-Olberic - HP:5781/5781 SP:291/291 BP:1
+C-Castti - HP:5336/5336 SP:426/426 BP:2
+Equipo del enemigo
+A-Dark Elemental - HP:1822/1822 Shields:4
+B-Ice Remnant - HP:2779/2779 Shields:3
+C-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Behemoth
+3.Olberic
+4.Osvald
+5.Ice Remnant
+6.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Behemoth
+3.Olberic
+4.Osvald
+5.Ice Remnant
+6.Dark Elemental
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Sidestep
+2: Panther Dance
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Osvald - HP:3557/3557 SP:541/541 BP:2
+2: Olberic - HP:5781/5781 SP:291/291 BP:1
+3: Castti - HP:5336/5336 SP:426/426 BP:2
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti usa Panther Dance
+Castti tendrá Increased Speed durante 2 rondas
+----------------------------------------
+Equipo del jugador
+A-Osvald - HP:3557/3557 SP:541/541 BP:2
+B-Olberic - HP:5781/5781 SP:291/291 BP:1
+C-Castti - HP:5336/5336 SP:422/426 BP:2
+Equipo del enemigo
+A-Dark Elemental - HP:1822/1822 Shields:4
+B-Ice Remnant - HP:2779/2779 Shields:3
+C-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Olberic
+3.Osvald
+4.Ice Remnant
+5.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Behemoth
+3.Olberic
+4.Osvald
+5.Ice Remnant
+6.Dark Elemental
+----------------------------------------
+Behemoth usa Stampede
+Osvald recibe 699 de daño físico
+Olberic recibe 642 de daño físico
+Castti recibe 568 de daño físico
+Osvald termina con HP:2858
+Olberic termina con HP:5139
+Castti termina con HP:4768
+----------------------------------------
+Equipo del jugador
+A-Osvald - HP:2858/3557 SP:541/541 BP:2
+B-Olberic - HP:5139/5781 SP:291/291 BP:1
+C-Castti - HP:4768/5336 SP:422/426 BP:2
+Equipo del enemigo
+A-Dark Elemental - HP:1822/1822 Shields:4
+B-Ice Remnant - HP:2779/2779 Shields:3
+C-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Osvald
+3.Ice Remnant
+4.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Behemoth
+3.Olberic
+4.Osvald
+5.Ice Remnant
+6.Dark Elemental
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Heal More
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Olberic no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic usa Heal More
+Osvald recupera 542 de vida
+Castti recupera 542 de vida
+Olberic recupera 542 de vida
+Osvald termina con HP:3400
+Castti termina con HP:5310
+Olberic termina con HP:5681
+----------------------------------------
+Equipo del jugador
+A-Osvald - HP:3400/3557 SP:541/541 BP:2
+B-Olberic - HP:5681/5781 SP:266/291 BP:1
+C-Castti - HP:5310/5336 SP:422/426 BP:2
+Equipo del enemigo
+A-Dark Elemental - HP:1822/1822 Shields:4
+B-Ice Remnant - HP:2779/2779 Shields:3
+C-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Ice Remnant
+3.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Behemoth
+3.Olberic
+4.Osvald
+5.Ice Remnant
+6.Dark Elemental
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Osvald
+1: Dark Elemental - HP:1822/1822 Shields:4
+2: Ice Remnant - HP:2779/2779 Shields:3
+3: Behemoth - HP:12690/12690 Shields:8
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Osvald ataca
+Behemoth recibe 0 de daño de tipo Stave
+Behemoth recibe 0 de daño de tipo Stave
+Behemoth termina con HP:12690
+----------------------------------------
+Equipo del jugador
+A-Osvald - HP:3400/3557 SP:541/541 BP:1
+B-Olberic - HP:5681/5781 SP:266/291 BP:1
+C-Castti - HP:5310/5336 SP:422/426 BP:2
+Equipo del enemigo
+A-Dark Elemental - HP:1822/1822 Shields:4
+B-Ice Remnant - HP:2779/2779 Shields:3
+C-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Ice Remnant
+2.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Behemoth
+3.Olberic
+4.Osvald
+5.Ice Remnant
+6.Dark Elemental
+----------------------------------------
+Ice Remnant usa Double Bite
+Osvald recibe 0 de daño físico
+Osvald recibe 0 de daño físico
+Osvald termina con HP:3400
+----------------------------------------
+Equipo del jugador
+A-Osvald - HP:3400/3557 SP:541/541 BP:1
+B-Olberic - HP:5681/5781 SP:266/291 BP:1
+C-Castti - HP:5310/5336 SP:422/426 BP:2
+Equipo del enemigo
+A-Dark Elemental - HP:1822/1822 Shields:4
+B-Ice Remnant - HP:2779/2779 Shields:3
+C-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Behemoth
+3.Olberic
+4.Osvald
+5.Ice Remnant
+6.Dark Elemental
+----------------------------------------
+Dark Elemental usa Shadowshot
+Olberic recibe 219 de daño elemental
+Olberic termina con HP:5462
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Osvald - HP:3400/3557 SP:541/541 BP:1
+B-Olberic - HP:5462/5781 SP:266/291 BP:2
+C-Castti - HP:5310/5336 SP:426/426 BP:3
+Equipo del enemigo
+A-Dark Elemental - HP:1822/1822 Shields:4
+B-Ice Remnant - HP:2779/2779 Shields:3
+C-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Behemoth
+3.Olberic
+4.Osvald
+5.Ice Remnant
+6.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Behemoth
+3.Olberic
+4.Osvald
+5.Ice Remnant
+6.Dark Elemental
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Sidestep
+2: Panther Dance
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti usa Sidestep
+Castti esquivará los próximos 1 ataques físicos
+----------------------------------------
+Equipo del jugador
+A-Osvald - HP:3400/3557 SP:541/541 BP:1
+B-Olberic - HP:5462/5781 SP:266/291 BP:2
+C-Castti - HP:5310/5336 SP:416/426 BP:3
+Equipo del enemigo
+A-Dark Elemental - HP:1822/1822 Shields:4
+B-Ice Remnant - HP:2779/2779 Shields:3
+C-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Olberic
+3.Osvald
+4.Ice Remnant
+5.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Behemoth
+3.Olberic
+4.Osvald
+5.Ice Remnant
+6.Dark Elemental
+----------------------------------------
+Behemoth usa Stampede
+Osvald recibe 699 de daño físico
+Olberic recibe 0 de daño físico
+Castti ha esquivado el ataque
+Osvald termina con HP:2701
+Olberic termina con HP:5462
+----------------------------------------
+Equipo del jugador
+A-Osvald - HP:2701/3557 SP:541/541 BP:1
+B-Olberic - HP:5462/5781 SP:266/291 BP:2
+C-Castti - HP:5310/5336 SP:416/426 BP:3
+Equipo del enemigo
+A-Dark Elemental - HP:1822/1822 Shields:4
+B-Ice Remnant - HP:2779/2779 Shields:3
+C-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Osvald
+3.Ice Remnant
+4.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Behemoth
+3.Olberic
+4.Osvald
+5.Ice Remnant
+6.Dark Elemental
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Osvald - HP:2701/3557 SP:541/541 BP:1
+B-Olberic - HP:5462/5781 SP:266/291 BP:2
+C-Castti - HP:5310/5336 SP:416/426 BP:3
+Equipo del enemigo
+A-Dark Elemental - HP:1822/1822 Shields:4
+B-Ice Remnant - HP:2779/2779 Shields:3
+C-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Ice Remnant
+3.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Castti
+3.Behemoth
+4.Osvald
+5.Ice Remnant
+6.Dark Elemental
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Osvald
+1: Dark Elemental - HP:1822/1822 Shields:4
+2: Ice Remnant - HP:2779/2779 Shields:3
+3: Behemoth - HP:12690/12690 Shields:8
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Osvald no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Osvald no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Osvald ataca
+Dark Elemental recibe 0 de daño de tipo Stave
+Dark Elemental recibe 0 de daño de tipo Stave
+Dark Elemental termina con HP:1822
+----------------------------------------
+Equipo del jugador
+A-Osvald - HP:2701/3557 SP:541/541 BP:0
+B-Olberic - HP:5462/5781 SP:266/291 BP:2
+C-Castti - HP:5310/5336 SP:416/426 BP:3
+Equipo del enemigo
+A-Dark Elemental - HP:1822/1822 Shields:4
+B-Ice Remnant - HP:2779/2779 Shields:3
+C-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Ice Remnant
+2.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Castti
+3.Behemoth
+4.Osvald
+5.Ice Remnant
+6.Dark Elemental
+----------------------------------------
+Ice Remnant usa Double Bite
+Osvald recibe 0 de daño físico
+Osvald recibe 0 de daño físico
+Osvald termina con HP:2701
+----------------------------------------
+Equipo del jugador
+A-Osvald - HP:2701/3557 SP:541/541 BP:0
+B-Olberic - HP:5462/5781 SP:266/291 BP:2
+C-Castti - HP:5310/5336 SP:416/426 BP:3
+Equipo del enemigo
+A-Dark Elemental - HP:1822/1822 Shields:4
+B-Ice Remnant - HP:2779/2779 Shields:3
+C-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Castti
+3.Behemoth
+4.Osvald
+5.Ice Remnant
+6.Dark Elemental
+----------------------------------------
+Dark Elemental usa Shadowshot
+Olberic se defiende
+Olberic recibe 0 de daño elemental
+Olberic termina con HP:5462
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Osvald - HP:2701/3557 SP:541/541 BP:0
+B-Olberic - HP:5462/5781 SP:266/291 BP:3
+C-Castti - HP:5310/5336 SP:426/426 BP:4
+Equipo del enemigo
+A-Dark Elemental - HP:1822/1822 Shields:4
+B-Ice Remnant - HP:2779/2779 Shields:3
+C-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Castti
+3.Behemoth
+4.Osvald
+5.Ice Remnant
+6.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Behemoth
+3.Olberic
+4.Osvald
+5.Ice Remnant
+6.Dark Elemental
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Heal More
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Olberic usa Heal More
+Osvald recupera 867 de vida
+Castti recupera 867 de vida
+Olberic recupera 867 de vida
+Osvald termina con HP:3557
+Castti termina con HP:5336
+Olberic termina con HP:5781
+----------------------------------------
+Equipo del jugador
+A-Osvald - HP:3557/3557 SP:541/541 BP:0
+B-Olberic - HP:5781/5781 SP:241/291 BP:1
+C-Castti - HP:5336/5336 SP:426/426 BP:4
+Equipo del enemigo
+A-Dark Elemental - HP:1822/1822 Shields:4
+B-Ice Remnant - HP:2779/2779 Shields:3
+C-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Behemoth
+3.Osvald
+4.Ice Remnant
+5.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Behemoth
+3.Olberic
+4.Osvald
+5.Ice Remnant
+6.Dark Elemental
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Osvald - HP:3557/3557 SP:541/541 BP:0
+B-Olberic - HP:5781/5781 SP:241/291 BP:1
+C-Castti - HP:5336/5336 SP:426/426 BP:4
+Equipo del enemigo
+A-Dark Elemental - HP:1822/1822 Shields:4
+B-Ice Remnant - HP:2779/2779 Shields:3
+C-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Osvald
+3.Ice Remnant
+4.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Behemoth
+3.Olberic
+4.Osvald
+5.Ice Remnant
+6.Dark Elemental
+----------------------------------------
+Behemoth usa Stampede
+Osvald recibe 699 de daño físico
+Olberic recibe 642 de daño físico
+Castti se defiende
+Castti recibe 284 de daño físico
+Osvald termina con HP:2858
+Olberic termina con HP:5139
+Castti termina con HP:5052
+----------------------------------------
+Equipo del jugador
+A-Osvald - HP:2858/3557 SP:541/541 BP:0
+B-Olberic - HP:5139/5781 SP:241/291 BP:1
+C-Castti - HP:5052/5336 SP:426/426 BP:4
+Equipo del enemigo
+A-Dark Elemental - HP:1822/1822 Shields:4
+B-Ice Remnant - HP:2779/2779 Shields:3
+C-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Ice Remnant
+3.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Behemoth
+3.Olberic
+4.Osvald
+5.Ice Remnant
+6.Dark Elemental
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Osvald
+1: Glacies Claudere
+2: Sidestep
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Osvald usa Sidestep
+Osvald esquivará los próximos 1 ataques físicos
+----------------------------------------
+Equipo del jugador
+A-Osvald - HP:2858/3557 SP:531/541 BP:0
+B-Olberic - HP:5139/5781 SP:241/291 BP:1
+C-Castti - HP:5052/5336 SP:426/426 BP:4
+Equipo del enemigo
+A-Dark Elemental - HP:1822/1822 Shields:4
+B-Ice Remnant - HP:2779/2779 Shields:3
+C-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Ice Remnant
+2.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Behemoth
+3.Olberic
+4.Osvald
+5.Ice Remnant
+6.Dark Elemental
+----------------------------------------
+Ice Remnant usa Double Bite
+Osvald recibe 0 de daño físico
+Osvald recibe 0 de daño físico
+Osvald termina con HP:2858
+----------------------------------------
+Equipo del jugador
+A-Osvald - HP:2858/3557 SP:531/541 BP:0
+B-Olberic - HP:5139/5781 SP:241/291 BP:1
+C-Castti - HP:5052/5336 SP:426/426 BP:4
+Equipo del enemigo
+A-Dark Elemental - HP:1822/1822 Shields:4
+B-Ice Remnant - HP:2779/2779 Shields:3
+C-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Behemoth
+3.Olberic
+4.Osvald
+5.Ice Remnant
+6.Dark Elemental
+----------------------------------------
+Dark Elemental usa Shadowshot
+Olberic recibe 219 de daño elemental
+Olberic termina con HP:4920
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Osvald - HP:2858/3557 SP:531/541 BP:1
+B-Olberic - HP:4920/5781 SP:241/291 BP:1
+C-Castti - HP:5052/5336 SP:426/426 BP:5
+Equipo del enemigo
+A-Dark Elemental - HP:1822/1822 Shields:4
+B-Ice Remnant - HP:2779/2779 Shields:3
+C-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Behemoth
+3.Olberic
+4.Osvald
+5.Ice Remnant
+6.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Behemoth
+3.Olberic
+4.Osvald
+5.Ice Remnant
+6.Dark Elemental
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Dark Elemental - HP:1822/1822 Shields:4
+2: Ice Remnant - HP:2779/2779 Shields:3
+3: Behemoth - HP:12690/12690 Shields:8
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Castti ataca
+Dark Elemental recibe 0 de daño de tipo Axe
+Dark Elemental recibe 0 de daño de tipo Axe
+Dark Elemental termina con HP:1822
+----------------------------------------
+Equipo del jugador
+A-Osvald - HP:2858/3557 SP:531/541 BP:1
+B-Olberic - HP:4920/5781 SP:241/291 BP:1
+C-Castti - HP:5052/5336 SP:426/426 BP:4
+Equipo del enemigo
+A-Dark Elemental - HP:1822/1822 Shields:4
+B-Ice Remnant - HP:2779/2779 Shields:3
+C-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Olberic
+3.Osvald
+4.Ice Remnant
+5.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Behemoth
+3.Olberic
+4.Osvald
+5.Ice Remnant
+6.Dark Elemental
+----------------------------------------
+Behemoth usa Stampede
+Osvald ha esquivado el ataque
+Olberic recibe 0 de daño físico
+Castti recibe 568 de daño físico
+Olberic termina con HP:4920
+Castti termina con HP:4484
+----------------------------------------
+Equipo del jugador
+A-Osvald - HP:2858/3557 SP:531/541 BP:1
+B-Olberic - HP:4920/5781 SP:241/291 BP:1
+C-Castti - HP:4484/5336 SP:426/426 BP:4
+Equipo del enemigo
+A-Dark Elemental - HP:1822/1822 Shields:4
+B-Ice Remnant - HP:2779/2779 Shields:3
+C-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Osvald
+3.Ice Remnant
+4.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Behemoth
+3.Olberic
+4.Osvald
+5.Ice Remnant
+6.Dark Elemental
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Heal More
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Olberic usa Heal More
+Osvald recupera 704 de vida
+Castti recupera 704 de vida
+Olberic recupera 704 de vida
+Osvald termina con HP:3557
+Castti termina con HP:5188
+Olberic termina con HP:5624
+----------------------------------------
+Equipo del jugador
+A-Osvald - HP:3557/3557 SP:531/541 BP:1
+B-Olberic - HP:5624/5781 SP:216/291 BP:0
+C-Castti - HP:5188/5336 SP:426/426 BP:4
+Equipo del enemigo
+A-Dark Elemental - HP:1822/1822 Shields:4
+B-Ice Remnant - HP:2779/2779 Shields:3
+C-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Ice Remnant
+3.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Behemoth
+3.Olberic
+4.Osvald
+5.Ice Remnant
+6.Dark Elemental
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Osvald
+1: Glacies Claudere
+2: Sidestep
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Osvald no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Osvald no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Osvald usa Glacies Claudere
+Dark Elemental recibe 746 de daño de tipo Ice
+Dark Elemental recibe 746 de daño de tipo Ice
+Dark Elemental recibe 746 de daño de tipo Ice
+Ice Remnant recibe 746 de daño de tipo Ice
+Ice Remnant recibe 746 de daño de tipo Ice
+Ice Remnant recibe 746 de daño de tipo Ice
+Behemoth recibe 621 de daño de tipo Ice con debilidad
+Behemoth recibe 621 de daño de tipo Ice con debilidad
+Behemoth recibe 621 de daño de tipo Ice con debilidad
+Dark Elemental termina con HP:0
+Ice Remnant termina con HP:541
+Behemoth termina con HP:10827
+----------------------------------------
+Equipo del jugador
+A-Osvald - HP:3557/3557 SP:495/541 BP:1
+B-Olberic - HP:5624/5781 SP:216/291 BP:0
+C-Castti - HP:5188/5336 SP:426/426 BP:4
+Equipo del enemigo
+A-Dark Elemental - HP:0/1822 Shields:4
+B-Ice Remnant - HP:541/2779 Shields:3
+C-Behemoth - HP:10827/12690 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Ice Remnant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Behemoth
+3.Olberic
+4.Osvald
+5.Ice Remnant
+----------------------------------------
+Ice Remnant usa Double Bite
+Osvald recibe 0 de daño físico
+Osvald recibe 0 de daño físico
+Osvald termina con HP:3557
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Osvald - HP:3557/3557 SP:495/541 BP:2
+B-Olberic - HP:5624/5781 SP:216/291 BP:0
+C-Castti - HP:5188/5336 SP:426/426 BP:4
+Equipo del enemigo
+A-Dark Elemental - HP:0/1822 Shields:4
+B-Ice Remnant - HP:541/2779 Shields:3
+C-Behemoth - HP:10827/12690 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Behemoth
+3.Olberic
+4.Osvald
+5.Ice Remnant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Behemoth
+3.Olberic
+4.Osvald
+5.Ice Remnant
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Sidestep
+2: Panther Dance
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Osvald - HP:3557/3557 SP:495/541 BP:2
+2: Olberic - HP:5624/5781 SP:216/291 BP:0
+3: Castti - HP:5188/5336 SP:426/426 BP:4
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Castti usa Panther Dance
+Osvald tendrá Increased Speed durante 6 rondas
+----------------------------------------
+Equipo del jugador
+A-Osvald - HP:3557/3557 SP:495/541 BP:2
+B-Olberic - HP:5624/5781 SP:216/291 BP:0
+C-Castti - HP:5188/5336 SP:422/426 BP:2
+Equipo del enemigo
+A-Dark Elemental - HP:0/1822 Shields:4
+B-Ice Remnant - HP:541/2779 Shields:3
+C-Behemoth - HP:10827/12690 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Behemoth
+3.Olberic
+4.Ice Remnant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Osvald
+2.Castti
+3.Behemoth
+4.Olberic
+5.Ice Remnant
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Osvald
+1: Glacies Claudere
+2: Sidestep
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Osvald usa Glacies Claudere
+Ice Remnant recibe 4061 de daño de tipo Ice
+Ice Remnant recibe 4061 de daño de tipo Ice
+Ice Remnant recibe 4061 de daño de tipo Ice
+Behemoth recibe 5345 de daño de tipo Ice con debilidad
+Behemoth recibe 5345 de daño de tipo Ice con debilidad
+Behemoth recibe 5345 de daño de tipo Ice con debilidad
+Ice Remnant termina con HP:0
+Behemoth termina con HP:0
+----------------------------------------
+Gana equipo del jugador

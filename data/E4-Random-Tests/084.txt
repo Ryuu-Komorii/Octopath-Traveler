@@ -1,0 +1,1171 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+INPUT: 83
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:3222/3222 SP:371/371 BP:1
+B-Ochette - HP:4447/4447 SP:369/369 BP:1
+Equipo del enemigo
+A-High Wolf - HP:1458/1458 Shields:2
+B-Dreadwolf - HP:7530/7530 Shields:9
+C-Monarch - HP:6740/6740 Shields:8
+D-Withered Wanderweed - HP:2314/2314 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Dreadwolf
+3.High Wolf
+4.Z'aanta
+5.Withered Wanderweed
+6.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Dreadwolf
+3.High Wolf
+4.Z'aanta
+5.Withered Wanderweed
+6.Monarch
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ochette
+1: High Wolf - HP:1458/1458 Shields:2
+2: Dreadwolf - HP:7530/7530 Shields:9
+3: Monarch - HP:6740/6740 Shields:8
+4: Withered Wanderweed - HP:2314/2314 Shields:1
+5: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Ochette no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Ochette no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Ochette ataca
+High Wolf recibe 343 de daño de tipo Axe con debilidad
+High Wolf recibe 343 de daño de tipo Axe con debilidad
+High Wolf entra en Breaking Point
+High Wolf termina con HP:772
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:3222/3222 SP:371/371 BP:1
+B-Ochette - HP:4447/4447 SP:369/369 BP:0
+Equipo del enemigo
+A-High Wolf - HP:772/1458 Shields:0
+B-Dreadwolf - HP:7530/7530 Shields:9
+C-Monarch - HP:6740/6740 Shields:8
+D-Withered Wanderweed - HP:2314/2314 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Z'aanta
+3.Withered Wanderweed
+4.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Dreadwolf
+3.Z'aanta
+4.Withered Wanderweed
+5.Monarch
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Ochette recibe 831 de daño físico
+Ochette termina con HP:3616
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:3222/3222 SP:371/371 BP:1
+B-Ochette - HP:3616/4447 SP:369/369 BP:0
+Equipo del enemigo
+A-High Wolf - HP:772/1458 Shields:0
+B-Dreadwolf - HP:7530/7530 Shields:9
+C-Monarch - HP:6740/6740 Shields:8
+D-Withered Wanderweed - HP:2314/2314 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Withered Wanderweed
+3.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Dreadwolf
+3.Z'aanta
+4.Withered Wanderweed
+5.Monarch
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Z'aanta
+1: Heal Wounds
+2: Revive
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Z'aanta no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Z'aanta usa Heal Wounds
+Ochette recupera 349 de vida
+Z'aanta recupera 349 de vida
+Ochette termina con HP:3965
+Z'aanta termina con HP:3571
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:3571/3222 SP:365/371 BP:1
+B-Ochette - HP:3965/4447 SP:369/369 BP:0
+Equipo del enemigo
+A-High Wolf - HP:772/1458 Shields:0
+B-Dreadwolf - HP:7530/7530 Shields:9
+C-Monarch - HP:6740/6740 Shields:8
+D-Withered Wanderweed - HP:2314/2314 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Withered Wanderweed
+2.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Dreadwolf
+3.Z'aanta
+4.Withered Wanderweed
+5.Monarch
+----------------------------------------
+Withered Wanderweed usa Attack
+Ochette recibe 184 de daño físico
+Ochette termina con HP:3781
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:3571/3222 SP:365/371 BP:1
+B-Ochette - HP:3781/4447 SP:369/369 BP:0
+Equipo del enemigo
+A-High Wolf - HP:772/1458 Shields:0
+B-Dreadwolf - HP:7530/7530 Shields:9
+C-Monarch - HP:6740/6740 Shields:8
+D-Withered Wanderweed - HP:2314/2314 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Dreadwolf
+3.Z'aanta
+4.Withered Wanderweed
+5.Monarch
+----------------------------------------
+Monarch usa Galestorm
+Z'aanta recibe 413 de daño elemental
+Ochette recibe 411 de daño elemental
+Z'aanta termina con HP:3158
+Ochette termina con HP:3370
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:3158/3222 SP:365/371 BP:2
+B-Ochette - HP:3370/4447 SP:369/369 BP:0
+Equipo del enemigo
+A-High Wolf - HP:772/1458 Shields:0
+B-Dreadwolf - HP:7530/7530 Shields:9
+C-Monarch - HP:6740/6740 Shields:8
+D-Withered Wanderweed - HP:2314/2314 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Dreadwolf
+3.Z'aanta
+4.Withered Wanderweed
+5.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.High Wolf
+2.Ochette
+3.Dreadwolf
+4.Z'aanta
+5.Withered Wanderweed
+6.Monarch
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ochette
+1: Double Edge
+2: Peacock Strut
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ochette
+1: High Wolf - HP:772/1458 Shields:0
+2: Dreadwolf - HP:7530/7530 Shields:9
+3: Monarch - HP:6740/6740 Shields:8
+4: Withered Wanderweed - HP:2314/2314 Shields:1
+5: Cancelar
+INPUT: 2
+----------------------------------------
+Ochette usa Double Edge
+Dreadwolf recibe 601 de daño de tipo Sword
+Ochette pierde 1011 HP
+Dreadwolf termina con HP:6929
+Ochette termina con HP:2359
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:3158/3222 SP:365/371 BP:2
+B-Ochette - HP:2359/4447 SP:357/369 BP:0
+Equipo del enemigo
+A-High Wolf - HP:772/1458 Shields:0
+B-Dreadwolf - HP:6929/7530 Shields:9
+C-Monarch - HP:6740/6740 Shields:8
+D-Withered Wanderweed - HP:2314/2314 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Z'aanta
+3.Withered Wanderweed
+4.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.High Wolf
+2.Ochette
+3.Dreadwolf
+4.Z'aanta
+5.Withered Wanderweed
+6.Monarch
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Ochette recibe 831 de daño físico
+Ochette termina con HP:1528
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:3158/3222 SP:365/371 BP:2
+B-Ochette - HP:1528/4447 SP:357/369 BP:0
+Equipo del enemigo
+A-High Wolf - HP:772/1458 Shields:0
+B-Dreadwolf - HP:6929/7530 Shields:9
+C-Monarch - HP:6740/6740 Shields:8
+D-Withered Wanderweed - HP:2314/2314 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Withered Wanderweed
+3.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.High Wolf
+2.Ochette
+3.Dreadwolf
+4.Z'aanta
+5.Withered Wanderweed
+6.Monarch
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Z'aanta
+1: High Wolf - HP:772/1458 Shields:0
+2: Dreadwolf - HP:6929/7530 Shields:9
+3: Monarch - HP:6740/6740 Shields:8
+4: Withered Wanderweed - HP:2314/2314 Shields:1
+5: Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Z'aanta ataca
+Withered Wanderweed recibe 351 de daño de tipo Bow
+Withered Wanderweed termina con HP:1963
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:3158/3222 SP:365/371 BP:2
+B-Ochette - HP:1528/4447 SP:357/369 BP:0
+Equipo del enemigo
+A-High Wolf - HP:772/1458 Shields:0
+B-Dreadwolf - HP:6929/7530 Shields:9
+C-Monarch - HP:6740/6740 Shields:8
+D-Withered Wanderweed - HP:1963/2314 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Withered Wanderweed
+2.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.High Wolf
+2.Ochette
+3.Dreadwolf
+4.Z'aanta
+5.Withered Wanderweed
+6.Monarch
+----------------------------------------
+Withered Wanderweed usa Attack
+Z'aanta recibe 104 de daño físico
+Z'aanta termina con HP:3054
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:3054/3222 SP:365/371 BP:2
+B-Ochette - HP:1528/4447 SP:357/369 BP:0
+Equipo del enemigo
+A-High Wolf - HP:772/1458 Shields:0
+B-Dreadwolf - HP:6929/7530 Shields:9
+C-Monarch - HP:6740/6740 Shields:8
+D-Withered Wanderweed - HP:1963/2314 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.High Wolf
+2.Ochette
+3.Dreadwolf
+4.Z'aanta
+5.Withered Wanderweed
+6.Monarch
+----------------------------------------
+Monarch usa Galestorm
+Z'aanta recibe 413 de daño elemental
+Ochette recibe 411 de daño elemental
+Z'aanta termina con HP:2641
+Ochette termina con HP:1117
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:2641/3222 SP:365/371 BP:3
+B-Ochette - HP:1117/4447 SP:357/369 BP:1
+Equipo del enemigo
+A-High Wolf - HP:772/1458 Shields:2
+B-Dreadwolf - HP:6929/7530 Shields:9
+C-Monarch - HP:6740/6740 Shields:8
+D-Withered Wanderweed - HP:1963/2314 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.High Wolf
+2.Ochette
+3.Dreadwolf
+4.Z'aanta
+5.Withered Wanderweed
+6.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Dreadwolf
+3.High Wolf
+4.Z'aanta
+5.Withered Wanderweed
+6.Monarch
+----------------------------------------
+High Wolf usa Attack
+Z'aanta recibe 89 de daño físico
+Z'aanta termina con HP:2552
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:2552/3222 SP:365/371 BP:3
+B-Ochette - HP:1117/4447 SP:357/369 BP:1
+Equipo del enemigo
+A-High Wolf - HP:772/1458 Shields:2
+B-Dreadwolf - HP:6929/7530 Shields:9
+C-Monarch - HP:6740/6740 Shields:8
+D-Withered Wanderweed - HP:1963/2314 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Dreadwolf
+3.Z'aanta
+4.Withered Wanderweed
+5.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Dreadwolf
+3.High Wolf
+4.Z'aanta
+5.Withered Wanderweed
+6.Monarch
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:2552/3222 SP:365/371 BP:3
+B-Ochette - HP:1117/4447 SP:357/369 BP:1
+Equipo del enemigo
+A-High Wolf - HP:772/1458 Shields:2
+B-Dreadwolf - HP:6929/7530 Shields:9
+C-Monarch - HP:6740/6740 Shields:8
+D-Withered Wanderweed - HP:1963/2314 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Z'aanta
+3.Withered Wanderweed
+4.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Dreadwolf
+3.High Wolf
+4.Z'aanta
+5.Withered Wanderweed
+6.Monarch
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Ochette se defiende
+Ochette recibe 415 de daño físico
+Ochette termina con HP:702
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:2552/3222 SP:365/371 BP:3
+B-Ochette - HP:702/4447 SP:357/369 BP:1
+Equipo del enemigo
+A-High Wolf - HP:772/1458 Shields:2
+B-Dreadwolf - HP:6929/7530 Shields:9
+C-Monarch - HP:6740/6740 Shields:8
+D-Withered Wanderweed - HP:1963/2314 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Withered Wanderweed
+3.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Dreadwolf
+3.High Wolf
+4.Z'aanta
+5.Withered Wanderweed
+6.Monarch
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Z'aanta
+1: High Wolf - HP:772/1458 Shields:2
+2: Dreadwolf - HP:6929/7530 Shields:9
+3: Monarch - HP:6740/6740 Shields:8
+4: Withered Wanderweed - HP:1963/2314 Shields:1
+5: Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Z'aanta ataca
+Withered Wanderweed recibe 351 de daño de tipo Bow
+Withered Wanderweed recibe 351 de daño de tipo Bow
+Withered Wanderweed recibe 351 de daño de tipo Bow
+Withered Wanderweed termina con HP:910
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:2552/3222 SP:365/371 BP:1
+B-Ochette - HP:702/4447 SP:357/369 BP:1
+Equipo del enemigo
+A-High Wolf - HP:772/1458 Shields:2
+B-Dreadwolf - HP:6929/7530 Shields:9
+C-Monarch - HP:6740/6740 Shields:8
+D-Withered Wanderweed - HP:910/2314 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Withered Wanderweed
+2.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Dreadwolf
+3.High Wolf
+4.Z'aanta
+5.Withered Wanderweed
+6.Monarch
+----------------------------------------
+Withered Wanderweed usa Attack
+Z'aanta recibe 104 de daño físico
+Z'aanta termina con HP:2448
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:2448/3222 SP:365/371 BP:1
+B-Ochette - HP:702/4447 SP:357/369 BP:1
+Equipo del enemigo
+A-High Wolf - HP:772/1458 Shields:2
+B-Dreadwolf - HP:6929/7530 Shields:9
+C-Monarch - HP:6740/6740 Shields:8
+D-Withered Wanderweed - HP:910/2314 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Dreadwolf
+3.High Wolf
+4.Z'aanta
+5.Withered Wanderweed
+6.Monarch
+----------------------------------------
+Monarch usa Galestorm
+Z'aanta recibe 413 de daño elemental
+Ochette se defiende
+Ochette recibe 205 de daño elemental
+Z'aanta termina con HP:2035
+Ochette termina con HP:497
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:2035/3222 SP:365/371 BP:1
+B-Ochette - HP:497/4447 SP:357/369 BP:2
+Equipo del enemigo
+A-High Wolf - HP:772/1458 Shields:2
+B-Dreadwolf - HP:6929/7530 Shields:9
+C-Monarch - HP:6740/6740 Shields:8
+D-Withered Wanderweed - HP:910/2314 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ochette
+2.Dreadwolf
+3.High Wolf
+4.Z'aanta
+5.Withered Wanderweed
+6.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Dreadwolf
+3.High Wolf
+4.Z'aanta
+5.Withered Wanderweed
+6.Monarch
+----------------------------------------
+Turno de Ochette
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ochette
+1: Double Edge
+2: Peacock Strut
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ochette
+1: High Wolf - HP:772/1458 Shields:2
+2: Dreadwolf - HP:6929/7530 Shields:9
+3: Monarch - HP:6740/6740 Shields:8
+4: Withered Wanderweed - HP:910/2314 Shields:1
+5: Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Ochette no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Ochette no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Ochette no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Ochette usa Double Edge
+Withered Wanderweed recibe 5008 de daño de tipo Sword con debilidad
+Withered Wanderweed entra en Breaking Point
+Ochette pierde 149 HP
+Withered Wanderweed termina con HP:0
+Ochette termina con HP:348
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:2035/3222 SP:365/371 BP:1
+B-Ochette - HP:348/4447 SP:345/369 BP:1
+Equipo del enemigo
+A-High Wolf - HP:772/1458 Shields:2
+B-Dreadwolf - HP:6929/7530 Shields:9
+C-Monarch - HP:6740/6740 Shields:8
+D-Withered Wanderweed - HP:0/2314 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.High Wolf
+3.Z'aanta
+4.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Dreadwolf
+3.High Wolf
+4.Z'aanta
+5.Monarch
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Ochette recibe 831 de daño físico
+Ochette termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:2035/3222 SP:365/371 BP:1
+B-Ochette - HP:0/4447 SP:345/369 BP:1
+Equipo del enemigo
+A-High Wolf - HP:772/1458 Shields:2
+B-Dreadwolf - HP:6929/7530 Shields:9
+C-Monarch - HP:6740/6740 Shields:8
+D-Withered Wanderweed - HP:0/2314 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.High Wolf
+2.Z'aanta
+3.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.High Wolf
+3.Z'aanta
+4.Monarch
+----------------------------------------
+High Wolf usa Attack
+Z'aanta recibe 89 de daño físico
+Z'aanta termina con HP:1946
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:1946/3222 SP:365/371 BP:1
+B-Ochette - HP:0/4447 SP:345/369 BP:1
+Equipo del enemigo
+A-High Wolf - HP:772/1458 Shields:2
+B-Dreadwolf - HP:6929/7530 Shields:9
+C-Monarch - HP:6740/6740 Shields:8
+D-Withered Wanderweed - HP:0/2314 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.High Wolf
+3.Z'aanta
+4.Monarch
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:1946/3222 SP:365/371 BP:1
+B-Ochette - HP:0/4447 SP:345/369 BP:1
+Equipo del enemigo
+A-High Wolf - HP:772/1458 Shields:2
+B-Dreadwolf - HP:6929/7530 Shields:9
+C-Monarch - HP:6740/6740 Shields:8
+D-Withered Wanderweed - HP:0/2314 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Dreadwolf
+3.High Wolf
+4.Monarch
+----------------------------------------
+Monarch usa Galestorm
+Z'aanta se defiende
+Z'aanta recibe 206 de daño elemental
+Z'aanta termina con HP:1740
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:1740/3222 SP:365/371 BP:2
+B-Ochette - HP:0/4447 SP:345/369 BP:1
+Equipo del enemigo
+A-High Wolf - HP:772/1458 Shields:2
+B-Dreadwolf - HP:6929/7530 Shields:9
+C-Monarch - HP:6740/6740 Shields:8
+D-Withered Wanderweed - HP:0/2314 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Dreadwolf
+3.High Wolf
+4.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.High Wolf
+3.Z'aanta
+4.Monarch
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Z'aanta
+1: Heal Wounds
+2: Revive
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Z'aanta usa Heal Wounds
+Z'aanta recupera 582 de vida
+Z'aanta termina con HP:2322
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:2322/3222 SP:359/371 BP:0
+B-Ochette - HP:0/4447 SP:345/369 BP:1
+Equipo del enemigo
+A-High Wolf - HP:772/1458 Shields:2
+B-Dreadwolf - HP:6929/7530 Shields:9
+C-Monarch - HP:6740/6740 Shields:8
+D-Withered Wanderweed - HP:0/2314 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.High Wolf
+3.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.High Wolf
+3.Z'aanta
+4.Monarch
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Z'aanta recibe 536 de daño físico
+Z'aanta termina con HP:1786
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:1786/3222 SP:359/371 BP:0
+B-Ochette - HP:0/4447 SP:345/369 BP:1
+Equipo del enemigo
+A-High Wolf - HP:772/1458 Shields:2
+B-Dreadwolf - HP:6929/7530 Shields:9
+C-Monarch - HP:6740/6740 Shields:8
+D-Withered Wanderweed - HP:0/2314 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.High Wolf
+2.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.High Wolf
+3.Z'aanta
+4.Monarch
+----------------------------------------
+High Wolf usa Attack
+Z'aanta recibe 89 de daño físico
+Z'aanta termina con HP:1697
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:1697/3222 SP:359/371 BP:0
+B-Ochette - HP:0/4447 SP:345/369 BP:1
+Equipo del enemigo
+A-High Wolf - HP:772/1458 Shields:2
+B-Dreadwolf - HP:6929/7530 Shields:9
+C-Monarch - HP:6740/6740 Shields:8
+D-Withered Wanderweed - HP:0/2314 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.High Wolf
+3.Z'aanta
+4.Monarch
+----------------------------------------
+Monarch usa Galestorm
+Z'aanta recibe 413 de daño elemental
+Z'aanta termina con HP:1284
+----------------------------------------
+INICIA RONDA 6
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:1284/3222 SP:359/371 BP:0
+B-Ochette - HP:0/4447 SP:345/369 BP:1
+Equipo del enemigo
+A-High Wolf - HP:772/1458 Shields:2
+B-Dreadwolf - HP:6929/7530 Shields:9
+C-Monarch - HP:6740/6740 Shields:8
+D-Withered Wanderweed - HP:0/2314 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.High Wolf
+3.Z'aanta
+4.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.High Wolf
+3.Z'aanta
+4.Monarch
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Z'aanta recibe 536 de daño físico
+Z'aanta termina con HP:748
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:748/3222 SP:359/371 BP:0
+B-Ochette - HP:0/4447 SP:345/369 BP:1
+Equipo del enemigo
+A-High Wolf - HP:772/1458 Shields:2
+B-Dreadwolf - HP:6929/7530 Shields:9
+C-Monarch - HP:6740/6740 Shields:8
+D-Withered Wanderweed - HP:0/2314 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.High Wolf
+2.Z'aanta
+3.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.High Wolf
+3.Z'aanta
+4.Monarch
+----------------------------------------
+High Wolf usa Attack
+Z'aanta recibe 89 de daño físico
+Z'aanta termina con HP:659
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:659/3222 SP:359/371 BP:0
+B-Ochette - HP:0/4447 SP:345/369 BP:1
+Equipo del enemigo
+A-High Wolf - HP:772/1458 Shields:2
+B-Dreadwolf - HP:6929/7530 Shields:9
+C-Monarch - HP:6740/6740 Shields:8
+D-Withered Wanderweed - HP:0/2314 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.High Wolf
+3.Z'aanta
+4.Monarch
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:659/3222 SP:359/371 BP:0
+B-Ochette - HP:0/4447 SP:345/369 BP:1
+Equipo del enemigo
+A-High Wolf - HP:772/1458 Shields:2
+B-Dreadwolf - HP:6929/7530 Shields:9
+C-Monarch - HP:6740/6740 Shields:8
+D-Withered Wanderweed - HP:0/2314 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Dreadwolf
+3.High Wolf
+4.Monarch
+----------------------------------------
+Monarch usa Galestorm
+Z'aanta se defiende
+Z'aanta recibe 206 de daño elemental
+Z'aanta termina con HP:453
+----------------------------------------
+INICIA RONDA 7
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:453/3222 SP:359/371 BP:1
+B-Ochette - HP:0/4447 SP:345/369 BP:1
+Equipo del enemigo
+A-High Wolf - HP:772/1458 Shields:2
+B-Dreadwolf - HP:6929/7530 Shields:9
+C-Monarch - HP:6740/6740 Shields:8
+D-Withered Wanderweed - HP:0/2314 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Dreadwolf
+3.High Wolf
+4.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.High Wolf
+3.Z'aanta
+4.Monarch
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Z'aanta
+1: Heal Wounds
+2: Revive
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Z'aanta no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Z'aanta usa Revive
+Ochette revive
+Ochette termina con HP:1
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:453/3222 SP:309/371 BP:1
+B-Ochette - HP:1/4447 SP:345/369 BP:1
+Equipo del enemigo
+A-High Wolf - HP:772/1458 Shields:2
+B-Dreadwolf - HP:6929/7530 Shields:9
+C-Monarch - HP:6740/6740 Shields:8
+D-Withered Wanderweed - HP:0/2314 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.High Wolf
+3.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ochette
+2.Dreadwolf
+3.High Wolf
+4.Z'aanta
+5.Monarch
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Ochette recibe 831 de daño físico
+Ochette termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:453/3222 SP:309/371 BP:1
+B-Ochette - HP:0/4447 SP:345/369 BP:1
+Equipo del enemigo
+A-High Wolf - HP:772/1458 Shields:2
+B-Dreadwolf - HP:6929/7530 Shields:9
+C-Monarch - HP:6740/6740 Shields:8
+D-Withered Wanderweed - HP:0/2314 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.High Wolf
+2.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.High Wolf
+3.Z'aanta
+4.Monarch
+----------------------------------------
+High Wolf usa Attack
+Z'aanta recibe 89 de daño físico
+Z'aanta termina con HP:364
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:364/3222 SP:309/371 BP:1
+B-Ochette - HP:0/4447 SP:345/369 BP:1
+Equipo del enemigo
+A-High Wolf - HP:772/1458 Shields:2
+B-Dreadwolf - HP:6929/7530 Shields:9
+C-Monarch - HP:6740/6740 Shields:8
+D-Withered Wanderweed - HP:0/2314 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Monarch
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.High Wolf
+3.Z'aanta
+4.Monarch
+----------------------------------------
+Monarch usa Galestorm
+Z'aanta recibe 413 de daño elemental
+Z'aanta termina con HP:0
+----------------------------------------
+Gana equipo del enemigo

@@ -1,0 +1,8 @@
+Player Team
+Ochette (Heal Wounds) [Elemental Augmentation, Stat Swap, Stronger Strikes]
+Castti (Heal Wounds, Sidestep) [Boost Start, Augmented Elements]
+Tressa (Incite, Sidestep) [Hale and Hearty, Heightened Healing, BP Eater]
+Heatcore (Ventus Saltare, Transfer Rune) [Hang Tough, Augmented Elements, Inner Strength]
+Enemy Team
+Withered Wanderweed
+Army Ant

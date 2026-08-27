@@ -1,0 +1,346 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+INPUT: 10
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:4447/4447 SP:332/332 BP:1
+B-Cyrus - HP:3557/3557 SP:582/582 BP:1
+Equipo del enemigo
+A-Mattias? - HP:5780/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Cyrus
+3.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Cyrus
+3.Mattias?
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Throné
+1: Mattias? - HP:5780/5780 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Throné ataca
+Mattias? recibe 11 de daño de tipo Dagger
+Mattias? termina con HP:5769
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:4447/4447 SP:332/332 BP:1
+B-Cyrus - HP:3557/3557 SP:582/582 BP:1
+Equipo del enemigo
+A-Mattias? - HP:5769/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Cyrus
+3.Mattias?
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Fireball
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus usa Fireball
+Mattias? recibe 62 de daño de tipo Fire
+Mattias? termina con HP:5707
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:4447/4447 SP:332/332 BP:1
+B-Cyrus - HP:3557/3557 SP:574/582 BP:1
+Equipo del enemigo
+A-Mattias? - HP:5707/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Cyrus
+3.Mattias?
+----------------------------------------
+Mattias? usa Black Gale
+Throné recibe 717 de daño elemental
+Cyrus recibe 615 de daño elemental
+Throné termina con HP:3730
+Cyrus termina con HP:2942
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:3730/4447 SP:332/332 BP:2
+B-Cyrus - HP:2942/3557 SP:574/582 BP:2
+Equipo del enemigo
+A-Mattias? - HP:5707/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Cyrus
+3.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Cyrus
+3.Mattias?
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Throné
+1: Mattias? - HP:5707/5780 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Throné ataca
+Mattias? recibe 11 de daño de tipo Dagger
+Mattias? termina con HP:5696
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:3730/4447 SP:332/332 BP:2
+B-Cyrus - HP:2942/3557 SP:574/582 BP:2
+Equipo del enemigo
+A-Mattias? - HP:5696/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Cyrus
+3.Mattias?
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Fireball
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Cyrus usa Fireball
+Mattias? recibe 1287 de daño de tipo Fire
+Mattias? termina con HP:4409
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:3730/4447 SP:332/332 BP:2
+B-Cyrus - HP:2942/3557 SP:566/582 BP:0
+Equipo del enemigo
+A-Mattias? - HP:4409/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Cyrus
+3.Mattias?
+----------------------------------------
+Mattias? usa Black Gale
+Throné recibe 717 de daño elemental
+Cyrus recibe 615 de daño elemental
+Throné termina con HP:3013
+Cyrus termina con HP:2327
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:3013/4447 SP:332/332 BP:3
+B-Cyrus - HP:2327/3557 SP:566/582 BP:0
+Equipo del enemigo
+A-Mattias? - HP:4409/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Cyrus
+3.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Cyrus
+3.Mattias?
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Throné
+1: Donate BP
+2: Heal More
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Throné
+1: Throné - HP:3013/4447 SP:332/332 BP:3
+2: Cyrus - HP:2327/3557 SP:566/582 BP:0
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Throné usa Donate BP
+Cyrus obtiene 4 BP
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:3013/4447 SP:329/332 BP:0
+B-Cyrus - HP:2327/3557 SP:566/582 BP:4
+Equipo del enemigo
+A-Mattias? - HP:4409/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Cyrus
+3.Mattias?
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Fireball
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Cyrus usa Fireball
+Mattias? recibe 1900 de daño de tipo Fire
+Mattias? termina con HP:2509
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:3013/4447 SP:329/332 BP:0
+B-Cyrus - HP:2327/3557 SP:558/582 BP:1
+Equipo del enemigo
+A-Mattias? - HP:2509/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Cyrus
+3.Mattias?
+----------------------------------------
+Mattias? usa Black Gale
+Throné recibe 717 de daño elemental
+Cyrus recibe 615 de daño elemental
+Throné termina con HP:2296
+Cyrus termina con HP:1712
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Throné - HP:2296/4447 SP:329/332 BP:0
+B-Cyrus - HP:1712/3557 SP:558/582 BP:1
+Equipo del enemigo
+A-Mattias? - HP:2509/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Throné
+2.Cyrus
+3.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Throné
+2.Cyrus
+3.Mattias?
+----------------------------------------
+Turno de Throné
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 4
+----------------------------------------
+El equipo de viajeros ha huido!
+----------------------------------------
+Gana equipo del enemigo

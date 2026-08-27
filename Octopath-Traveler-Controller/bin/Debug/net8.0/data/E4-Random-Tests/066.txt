@@ -1,0 +1,3747 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+INPUT: 65
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:4447/4447 SP:369/369 BP:1
+B-Agnea - HP:4002/4002 SP:504/504 BP:1
+C-Tressa - HP:4891/4891 SP:357/357 BP:1
+D-Therion - HP:4447/4447 SP:332/332 BP:2
+Equipo del enemigo
+A-Mossy Meep - HP:1060/1060 Shields:3
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Agnea
+3.H'aanit
+4.Tressa
+5.Frost Fox
+6.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Agnea
+3.H'aanit
+4.Tressa
+5.Frost Fox
+6.Mossy Meep
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:4447/4447 SP:369/369 BP:1
+B-Agnea - HP:4002/4002 SP:504/504 BP:1
+C-Tressa - HP:4891/4891 SP:357/357 BP:1
+D-Therion - HP:4447/4447 SP:332/332 BP:2
+Equipo del enemigo
+A-Mossy Meep - HP:1060/1060 Shields:3
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.H'aanit
+3.Tressa
+4.Frost Fox
+5.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Agnea
+3.H'aanit
+4.Tressa
+5.Frost Fox
+6.Mossy Meep
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Agnea
+1: Mossy Meep - HP:1060/1060 Shields:3
+2: Frost Fox - HP:1302/1302 Shields:2
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Agnea ataca
+Frost Fox recibe 0 de daño de tipo Dagger
+Frost Fox recibe 0 de daño de tipo Dagger
+Frost Fox termina con HP:1302
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:4447/4447 SP:369/369 BP:1
+B-Agnea - HP:4002/4002 SP:504/504 BP:0
+C-Tressa - HP:4891/4891 SP:357/357 BP:1
+D-Therion - HP:4447/4447 SP:332/332 BP:2
+Equipo del enemigo
+A-Mossy Meep - HP:1060/1060 Shields:3
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Tressa
+3.Frost Fox
+4.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Agnea
+3.H'aanit
+4.Tressa
+5.Frost Fox
+6.Mossy Meep
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para H'aanit
+1: Donate BP
+2: Rest
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+H'aanit usa Rest
+H'aanit recupera 331 de vida
+H'aanit recupera 50 SP
+H'aanit termina con HP:4447
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:4447/4447 SP:369/369 BP:0
+B-Agnea - HP:4002/4002 SP:504/504 BP:0
+C-Tressa - HP:4891/4891 SP:357/357 BP:1
+D-Therion - HP:4447/4447 SP:332/332 BP:2
+Equipo del enemigo
+A-Mossy Meep - HP:1060/1060 Shields:3
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Frost Fox
+3.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Agnea
+3.H'aanit
+4.Tressa
+5.Frost Fox
+6.Mossy Meep
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Mossy Meep - HP:1060/1060 Shields:3
+2: Frost Fox - HP:1302/1302 Shields:2
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Tressa ataca
+Mossy Meep recibe 8 de daño de tipo Bow
+Mossy Meep termina con HP:1052
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:4447/4447 SP:369/369 BP:0
+B-Agnea - HP:4002/4002 SP:504/504 BP:0
+C-Tressa - HP:4891/4891 SP:357/357 BP:1
+D-Therion - HP:4447/4447 SP:332/332 BP:2
+Equipo del enemigo
+A-Mossy Meep - HP:1052/1060 Shields:3
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Frost Fox
+2.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Agnea
+3.H'aanit
+4.Tressa
+5.Frost Fox
+6.Mossy Meep
+----------------------------------------
+Frost Fox usa Ice blast
+H'aanit recibe 278 de daño elemental
+Agnea recibe 201 de daño elemental
+Tressa recibe 248 de daño elemental
+Therion se defiende
+Therion recibe 152 de daño elemental
+H'aanit termina con HP:4169
+Agnea termina con HP:3801
+Tressa termina con HP:4643
+Therion termina con HP:4295
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:4169/4447 SP:369/369 BP:0
+B-Agnea - HP:3801/4002 SP:504/504 BP:0
+C-Tressa - HP:4643/4891 SP:357/357 BP:1
+D-Therion - HP:4295/4447 SP:332/332 BP:2
+Equipo del enemigo
+A-Mossy Meep - HP:1052/1060 Shields:3
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Agnea
+3.H'aanit
+4.Tressa
+5.Frost Fox
+6.Mossy Meep
+----------------------------------------
+Mossy Meep usa Attack
+Tressa recibe 202 de daño físico
+Tressa termina con HP:4441
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:4169/4447 SP:369/369 BP:0
+B-Agnea - HP:3801/4002 SP:504/504 BP:0
+C-Tressa - HP:4441/4891 SP:357/357 BP:2
+D-Therion - HP:4295/4447 SP:332/332 BP:3
+Equipo del enemigo
+A-Mossy Meep - HP:1052/1060 Shields:3
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Agnea
+3.H'aanit
+4.Tressa
+5.Frost Fox
+6.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Agnea
+3.H'aanit
+4.Tressa
+5.Frost Fox
+6.Mossy Meep
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Therion
+1: Armor Corrosive
+2: Abide
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Therion
+1: H'aanit - HP:4169/4447 SP:369/369 BP:0
+2: Agnea - HP:3801/4002 SP:504/504 BP:0
+3: Tressa - HP:4441/4891 SP:357/357 BP:2
+4: Therion - HP:4295/4447 SP:332/332 BP:3
+5: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Therion usa Abide
+H'aanit tendrá Increased Physical Attack durante 4 rondas
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:4169/4447 SP:369/369 BP:0
+B-Agnea - HP:3801/4002 SP:504/504 BP:0
+C-Tressa - HP:4441/4891 SP:357/357 BP:2
+D-Therion - HP:4295/4447 SP:328/332 BP:2
+Equipo del enemigo
+A-Mossy Meep - HP:1052/1060 Shields:3
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.H'aanit
+3.Tressa
+4.Frost Fox
+5.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Agnea
+3.H'aanit
+4.Tressa
+5.Frost Fox
+6.Mossy Meep
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Agnea
+1: Mossy Meep - HP:1052/1060 Shields:3
+2: Frost Fox - HP:1302/1302 Shields:2
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Agnea ataca
+Mossy Meep recibe 0 de daño de tipo Dagger
+Mossy Meep termina con HP:1052
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:4169/4447 SP:369/369 BP:0
+B-Agnea - HP:3801/4002 SP:504/504 BP:0
+C-Tressa - HP:4441/4891 SP:357/357 BP:2
+D-Therion - HP:4295/4447 SP:328/332 BP:2
+Equipo del enemigo
+A-Mossy Meep - HP:1052/1060 Shields:3
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Tressa
+3.Frost Fox
+4.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Agnea
+3.H'aanit
+4.Tressa
+5.Frost Fox
+6.Mossy Meep
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para H'aanit
+1: Donate BP
+2: Rest
+3: Cancelar
+INPUT: 2
+----------------------------------------
+H'aanit usa Rest
+H'aanit recupera 255 de vida
+H'aanit recupera 25 SP
+H'aanit termina con HP:4424
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:4424/4447 SP:369/369 BP:0
+B-Agnea - HP:3801/4002 SP:504/504 BP:0
+C-Tressa - HP:4441/4891 SP:357/357 BP:2
+D-Therion - HP:4295/4447 SP:328/332 BP:2
+Equipo del enemigo
+A-Mossy Meep - HP:1052/1060 Shields:3
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Frost Fox
+3.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Agnea
+3.H'aanit
+4.Tressa
+5.Frost Fox
+6.Mossy Meep
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:4424/4447 SP:369/369 BP:0
+B-Agnea - HP:3801/4002 SP:504/504 BP:0
+C-Tressa - HP:4441/4891 SP:357/357 BP:2
+D-Therion - HP:4295/4447 SP:328/332 BP:2
+Equipo del enemigo
+A-Mossy Meep - HP:1052/1060 Shields:3
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Frost Fox
+2.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Therion
+3.Agnea
+4.H'aanit
+5.Frost Fox
+6.Mossy Meep
+----------------------------------------
+Frost Fox usa Ice blast
+H'aanit recibe 278 de daño elemental
+Agnea recibe 201 de daño elemental
+Tressa se defiende
+Tressa recibe 124 de daño elemental
+Therion recibe 305 de daño elemental
+H'aanit termina con HP:4146
+Agnea termina con HP:3600
+Tressa termina con HP:4317
+Therion termina con HP:3990
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:4146/4447 SP:369/369 BP:0
+B-Agnea - HP:3600/4002 SP:504/504 BP:0
+C-Tressa - HP:4317/4891 SP:357/357 BP:2
+D-Therion - HP:3990/4447 SP:328/332 BP:2
+Equipo del enemigo
+A-Mossy Meep - HP:1052/1060 Shields:3
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Therion
+3.Agnea
+4.H'aanit
+5.Frost Fox
+6.Mossy Meep
+----------------------------------------
+Mossy Meep usa Attack
+Tressa se defiende
+Tressa recibe 101 de daño físico
+Tressa termina con HP:4216
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:4146/4447 SP:369/369 BP:1
+B-Agnea - HP:3600/4002 SP:504/504 BP:1
+C-Tressa - HP:4216/4891 SP:357/357 BP:3
+D-Therion - HP:3990/4447 SP:328/332 BP:2
+Equipo del enemigo
+A-Mossy Meep - HP:1052/1060 Shields:3
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Therion
+3.Agnea
+4.H'aanit
+5.Frost Fox
+6.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Agnea
+3.H'aanit
+4.Tressa
+5.Frost Fox
+6.Mossy Meep
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Heal Wounds
+2: Abide
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Tressa usa Heal Wounds
+H'aanit recupera 712 de vida
+Agnea recupera 712 de vida
+Therion recupera 712 de vida
+Tressa recupera 712 de vida
+H'aanit termina con HP:4447
+Agnea termina con HP:4002
+Therion termina con HP:4447
+Tressa termina con HP:4891
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:4447/4447 SP:369/369 BP:1
+B-Agnea - HP:4002/4002 SP:504/504 BP:1
+C-Tressa - HP:4891/4891 SP:351/357 BP:1
+D-Therion - HP:4447/4447 SP:328/332 BP:2
+Equipo del enemigo
+A-Mossy Meep - HP:1052/1060 Shields:3
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Agnea
+3.H'aanit
+4.Frost Fox
+5.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Agnea
+3.H'aanit
+4.Tressa
+5.Frost Fox
+6.Mossy Meep
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Therion
+1: Armor Corrosive
+2: Abide
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Therion
+1: Mossy Meep - HP:1052/1060 Shields:3
+2: Frost Fox - HP:1302/1302 Shields:2
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Therion usa Armor Corrosive
+Frost Fox tendrá Decreased Physical Defense durante 4 rondas
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:4447/4447 SP:369/369 BP:1
+B-Agnea - HP:4002/4002 SP:504/504 BP:1
+C-Tressa - HP:4891/4891 SP:351/357 BP:1
+D-Therion - HP:4447/4447 SP:324/332 BP:1
+Equipo del enemigo
+A-Mossy Meep - HP:1052/1060 Shields:3
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.H'aanit
+3.Frost Fox
+4.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Agnea
+3.H'aanit
+4.Tressa
+5.Frost Fox
+6.Mossy Meep
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Agnea
+1: Moon's Reflection
+2: Peacock Strut
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Agnea
+1: H'aanit - HP:4447/4447 SP:369/369 BP:1
+2: Agnea - HP:4002/4002 SP:504/504 BP:1
+3: Tressa - HP:4891/4891 SP:351/357 BP:1
+4: Therion - HP:4447/4447 SP:324/332 BP:1
+5: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Agnea no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Agnea no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Agnea no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Agnea no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Agnea no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Agnea no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Agnea no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Agnea usa Peacock Strut
+Agnea tendrá Increased Elemental Attack durante 4 rondas
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:4447/4447 SP:369/369 BP:1
+B-Agnea - HP:4002/4002 SP:500/504 BP:0
+C-Tressa - HP:4891/4891 SP:351/357 BP:1
+D-Therion - HP:4447/4447 SP:324/332 BP:1
+Equipo del enemigo
+A-Mossy Meep - HP:1052/1060 Shields:3
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Frost Fox
+3.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Agnea
+3.H'aanit
+4.Tressa
+5.Frost Fox
+6.Mossy Meep
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para H'aanit
+1: Donate BP
+2: Rest
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+H'aanit no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+H'aanit no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+H'aanit no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+H'aanit usa Rest
+H'aanit recupera 331 de vida
+H'aanit recupera 50 SP
+H'aanit termina con HP:4447
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:4447/4447 SP:369/369 BP:0
+B-Agnea - HP:4002/4002 SP:500/504 BP:0
+C-Tressa - HP:4891/4891 SP:351/357 BP:1
+D-Therion - HP:4447/4447 SP:324/332 BP:1
+Equipo del enemigo
+A-Mossy Meep - HP:1052/1060 Shields:3
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Frost Fox
+2.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Agnea
+3.H'aanit
+4.Tressa
+5.Frost Fox
+6.Mossy Meep
+----------------------------------------
+Frost Fox usa Ice blast
+H'aanit recibe 278 de daño elemental
+Agnea recibe 201 de daño elemental
+Tressa recibe 248 de daño elemental
+Therion recibe 305 de daño elemental
+H'aanit termina con HP:4169
+Agnea termina con HP:3801
+Tressa termina con HP:4643
+Therion termina con HP:4142
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:4169/4447 SP:369/369 BP:0
+B-Agnea - HP:3801/4002 SP:500/504 BP:0
+C-Tressa - HP:4643/4891 SP:351/357 BP:1
+D-Therion - HP:4142/4447 SP:324/332 BP:1
+Equipo del enemigo
+A-Mossy Meep - HP:1052/1060 Shields:3
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Agnea
+3.H'aanit
+4.Tressa
+5.Frost Fox
+6.Mossy Meep
+----------------------------------------
+Mossy Meep usa Attack
+Tressa recibe 202 de daño físico
+Tressa termina con HP:4441
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:4169/4447 SP:369/369 BP:0
+B-Agnea - HP:3801/4002 SP:504/504 BP:0
+C-Tressa - HP:4441/4891 SP:351/357 BP:1
+D-Therion - HP:4142/4447 SP:324/332 BP:1
+Equipo del enemigo
+A-Mossy Meep - HP:1052/1060 Shields:3
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Agnea
+3.H'aanit
+4.Tressa
+5.Frost Fox
+6.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Agnea
+3.H'aanit
+4.Tressa
+5.Frost Fox
+6.Mossy Meep
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:4169/4447 SP:369/369 BP:0
+B-Agnea - HP:3801/4002 SP:504/504 BP:0
+C-Tressa - HP:4441/4891 SP:351/357 BP:1
+D-Therion - HP:4142/4447 SP:324/332 BP:1
+Equipo del enemigo
+A-Mossy Meep - HP:1052/1060 Shields:3
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.H'aanit
+3.Tressa
+4.Frost Fox
+5.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Agnea
+3.H'aanit
+4.Tressa
+5.Frost Fox
+6.Mossy Meep
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:4169/4447 SP:369/369 BP:0
+B-Agnea - HP:3801/4002 SP:504/504 BP:0
+C-Tressa - HP:4441/4891 SP:351/357 BP:1
+D-Therion - HP:4142/4447 SP:324/332 BP:1
+Equipo del enemigo
+A-Mossy Meep - HP:1052/1060 Shields:3
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Tressa
+3.Frost Fox
+4.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Agnea
+3.H'aanit
+4.Tressa
+5.Frost Fox
+6.Mossy Meep
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para H'aanit
+1: Donate BP
+2: Rest
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para H'aanit
+1: H'aanit - HP:4169/4447 SP:369/369 BP:0
+2: Agnea - HP:3801/4002 SP:504/504 BP:0
+3: Tressa - HP:4441/4891 SP:351/357 BP:1
+4: Therion - HP:4142/4447 SP:324/332 BP:1
+5: Cancelar
+INPUT: 3
+----------------------------------------
+H'aanit usa Donate BP
+Tressa obtiene 1 BP
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:4169/4447 SP:366/369 BP:0
+B-Agnea - HP:3801/4002 SP:504/504 BP:0
+C-Tressa - HP:4441/4891 SP:351/357 BP:2
+D-Therion - HP:4142/4447 SP:324/332 BP:1
+Equipo del enemigo
+A-Mossy Meep - HP:1052/1060 Shields:3
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Frost Fox
+3.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Agnea
+3.H'aanit
+4.Tressa
+5.Frost Fox
+6.Mossy Meep
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Heal Wounds
+2: Abide
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: H'aanit - HP:4169/4447 SP:366/369 BP:0
+2: Agnea - HP:3801/4002 SP:504/504 BP:0
+3: Tressa - HP:4441/4891 SP:351/357 BP:2
+4: Therion - HP:4142/4447 SP:324/332 BP:1
+5: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Tressa usa Abide
+Agnea tendrá Increased Physical Attack durante 4 rondas
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:4169/4447 SP:366/369 BP:0
+B-Agnea - HP:3801/4002 SP:504/504 BP:0
+C-Tressa - HP:4441/4891 SP:347/357 BP:1
+D-Therion - HP:4142/4447 SP:324/332 BP:1
+Equipo del enemigo
+A-Mossy Meep - HP:1052/1060 Shields:3
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Frost Fox
+2.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Agnea
+3.H'aanit
+4.Tressa
+5.Frost Fox
+6.Mossy Meep
+----------------------------------------
+Frost Fox usa Ice blast
+H'aanit recibe 278 de daño elemental
+Agnea se defiende
+Agnea recibe 100 de daño elemental
+Tressa recibe 248 de daño elemental
+Therion se defiende
+Therion recibe 152 de daño elemental
+H'aanit termina con HP:3891
+Agnea termina con HP:3701
+Tressa termina con HP:4193
+Therion termina con HP:3990
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:3891/4447 SP:366/369 BP:0
+B-Agnea - HP:3701/4002 SP:504/504 BP:0
+C-Tressa - HP:4193/4891 SP:347/357 BP:1
+D-Therion - HP:3990/4447 SP:324/332 BP:1
+Equipo del enemigo
+A-Mossy Meep - HP:1052/1060 Shields:3
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Agnea
+3.H'aanit
+4.Tressa
+5.Frost Fox
+6.Mossy Meep
+----------------------------------------
+Mossy Meep usa Attack
+Tressa recibe 202 de daño físico
+Tressa termina con HP:3991
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:3891/4447 SP:366/369 BP:1
+B-Agnea - HP:3701/4002 SP:504/504 BP:1
+C-Tressa - HP:3991/4891 SP:347/357 BP:1
+D-Therion - HP:3990/4447 SP:324/332 BP:2
+Equipo del enemigo
+A-Mossy Meep - HP:1052/1060 Shields:3
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Agnea
+3.H'aanit
+4.Tressa
+5.Frost Fox
+6.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Agnea
+3.H'aanit
+4.Tressa
+5.Frost Fox
+6.Mossy Meep
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Therion
+1: Armor Corrosive
+2: Abide
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Therion
+1: Mossy Meep - HP:1052/1060 Shields:3
+2: Frost Fox - HP:1302/1302 Shields:2
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Therion no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Therion usa Armor Corrosive
+Frost Fox tendrá Decreased Physical Defense durante 4 rondas
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:3891/4447 SP:366/369 BP:1
+B-Agnea - HP:3701/4002 SP:504/504 BP:1
+C-Tressa - HP:3991/4891 SP:347/357 BP:1
+D-Therion - HP:3990/4447 SP:320/332 BP:1
+Equipo del enemigo
+A-Mossy Meep - HP:1052/1060 Shields:3
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.H'aanit
+3.Tressa
+4.Frost Fox
+5.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Agnea
+3.H'aanit
+4.Tressa
+5.Frost Fox
+6.Mossy Meep
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Agnea
+1: Moon's Reflection
+2: Peacock Strut
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Agnea
+1: H'aanit - HP:3891/4447 SP:366/369 BP:1
+2: Agnea - HP:3701/4002 SP:504/504 BP:1
+3: Tressa - HP:3991/4891 SP:347/357 BP:1
+4: Therion - HP:3990/4447 SP:320/332 BP:1
+5: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Agnea no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Agnea usa Moon's Reflection
+H'aanit reflejará los próximos 2 ataques físicos
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:3891/4447 SP:366/369 BP:1
+B-Agnea - HP:3701/4002 SP:474/504 BP:0
+C-Tressa - HP:3991/4891 SP:347/357 BP:1
+D-Therion - HP:3990/4447 SP:320/332 BP:1
+Equipo del enemigo
+A-Mossy Meep - HP:1052/1060 Shields:3
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Tressa
+3.Frost Fox
+4.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Agnea
+3.H'aanit
+4.Tressa
+5.Frost Fox
+6.Mossy Meep
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para H'aanit
+1: Donate BP
+2: Rest
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+H'aanit no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+H'aanit usa Rest
+H'aanit recupera 331 de vida
+H'aanit recupera 50 SP
+H'aanit termina con HP:4222
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:4222/4447 SP:369/369 BP:0
+B-Agnea - HP:3701/4002 SP:474/504 BP:0
+C-Tressa - HP:3991/4891 SP:347/357 BP:1
+D-Therion - HP:3990/4447 SP:320/332 BP:1
+Equipo del enemigo
+A-Mossy Meep - HP:1052/1060 Shields:3
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Frost Fox
+3.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Agnea
+3.H'aanit
+4.Tressa
+5.Frost Fox
+6.Mossy Meep
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Heal Wounds
+2: Abide
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: H'aanit - HP:4222/4447 SP:369/369 BP:0
+2: Agnea - HP:3701/4002 SP:474/504 BP:0
+3: Tressa - HP:3991/4891 SP:347/357 BP:1
+4: Therion - HP:3990/4447 SP:320/332 BP:1
+5: Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Tressa usa Abide
+Therion tendrá Increased Physical Attack durante 4 rondas
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:4222/4447 SP:369/369 BP:0
+B-Agnea - HP:3701/4002 SP:474/504 BP:0
+C-Tressa - HP:3991/4891 SP:343/357 BP:0
+D-Therion - HP:3990/4447 SP:320/332 BP:1
+Equipo del enemigo
+A-Mossy Meep - HP:1052/1060 Shields:3
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Frost Fox
+2.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Agnea
+3.H'aanit
+4.Tressa
+5.Frost Fox
+6.Mossy Meep
+----------------------------------------
+Frost Fox usa Ice blast
+H'aanit recibe 278 de daño elemental
+Agnea recibe 201 de daño elemental
+Tressa recibe 248 de daño elemental
+Therion recibe 305 de daño elemental
+H'aanit termina con HP:3944
+Agnea termina con HP:3500
+Tressa termina con HP:3743
+Therion termina con HP:3685
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:3944/4447 SP:369/369 BP:0
+B-Agnea - HP:3500/4002 SP:474/504 BP:0
+C-Tressa - HP:3743/4891 SP:343/357 BP:0
+D-Therion - HP:3685/4447 SP:320/332 BP:1
+Equipo del enemigo
+A-Mossy Meep - HP:1052/1060 Shields:3
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Agnea
+3.H'aanit
+4.Tressa
+5.Frost Fox
+6.Mossy Meep
+----------------------------------------
+Mossy Meep usa Attack
+H'aanit refleja el daño
+Mossy Meep recibe 304 de daño
+Mossy Meep termina con HP:748
+----------------------------------------
+INICIA RONDA 6
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:3944/4447 SP:369/369 BP:0
+B-Agnea - HP:3500/4002 SP:499/504 BP:0
+C-Tressa - HP:3743/4891 SP:343/357 BP:0
+D-Therion - HP:3685/4447 SP:320/332 BP:1
+Equipo del enemigo
+A-Mossy Meep - HP:748/1060 Shields:3
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Agnea
+3.H'aanit
+4.Tressa
+5.Frost Fox
+6.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Agnea
+3.H'aanit
+4.Tressa
+5.Frost Fox
+6.Mossy Meep
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:3944/4447 SP:369/369 BP:0
+B-Agnea - HP:3500/4002 SP:499/504 BP:0
+C-Tressa - HP:3743/4891 SP:343/357 BP:0
+D-Therion - HP:3685/4447 SP:320/332 BP:1
+Equipo del enemigo
+A-Mossy Meep - HP:748/1060 Shields:3
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.H'aanit
+3.Tressa
+4.Frost Fox
+5.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Agnea
+3.H'aanit
+4.Tressa
+5.Frost Fox
+6.Mossy Meep
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Agnea
+1: Mossy Meep - HP:748/1060 Shields:3
+2: Frost Fox - HP:1302/1302 Shields:2
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Agnea ataca
+Mossy Meep recibe 0 de daño de tipo Dagger
+Mossy Meep termina con HP:748
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:3944/4447 SP:369/369 BP:0
+B-Agnea - HP:3500/4002 SP:499/504 BP:0
+C-Tressa - HP:3743/4891 SP:343/357 BP:0
+D-Therion - HP:3685/4447 SP:320/332 BP:1
+Equipo del enemigo
+A-Mossy Meep - HP:748/1060 Shields:3
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Tressa
+3.Frost Fox
+4.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Agnea
+3.H'aanit
+4.Tressa
+5.Frost Fox
+6.Mossy Meep
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para H'aanit
+1: Donate BP
+2: Rest
+3: Cancelar
+INPUT: 2
+----------------------------------------
+H'aanit usa Rest
+H'aanit recupera 255 de vida
+H'aanit recupera 25 SP
+H'aanit termina con HP:4199
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:4199/4447 SP:369/369 BP:0
+B-Agnea - HP:3500/4002 SP:499/504 BP:0
+C-Tressa - HP:3743/4891 SP:343/357 BP:0
+D-Therion - HP:3685/4447 SP:320/332 BP:1
+Equipo del enemigo
+A-Mossy Meep - HP:748/1060 Shields:3
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Frost Fox
+3.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Agnea
+3.H'aanit
+4.Tressa
+5.Frost Fox
+6.Mossy Meep
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Mossy Meep - HP:748/1060 Shields:3
+2: Frost Fox - HP:1302/1302 Shields:2
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Tressa ataca
+Mossy Meep recibe 8 de daño de tipo Bow
+Mossy Meep termina con HP:740
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:4199/4447 SP:369/369 BP:0
+B-Agnea - HP:3500/4002 SP:499/504 BP:0
+C-Tressa - HP:3743/4891 SP:343/357 BP:0
+D-Therion - HP:3685/4447 SP:320/332 BP:1
+Equipo del enemigo
+A-Mossy Meep - HP:740/1060 Shields:3
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Frost Fox
+2.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Agnea
+3.H'aanit
+4.Tressa
+5.Frost Fox
+6.Mossy Meep
+----------------------------------------
+Frost Fox usa Ice blast
+H'aanit recibe 278 de daño elemental
+Agnea recibe 201 de daño elemental
+Tressa recibe 248 de daño elemental
+Therion se defiende
+Therion recibe 152 de daño elemental
+H'aanit termina con HP:3921
+Agnea termina con HP:3299
+Tressa termina con HP:3495
+Therion termina con HP:3533
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:3921/4447 SP:369/369 BP:0
+B-Agnea - HP:3299/4002 SP:499/504 BP:0
+C-Tressa - HP:3495/4891 SP:343/357 BP:0
+D-Therion - HP:3533/4447 SP:320/332 BP:1
+Equipo del enemigo
+A-Mossy Meep - HP:740/1060 Shields:3
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Agnea
+3.H'aanit
+4.Tressa
+5.Frost Fox
+6.Mossy Meep
+----------------------------------------
+Mossy Meep usa Attack
+H'aanit refleja el daño
+Mossy Meep recibe 304 de daño
+Mossy Meep termina con HP:436
+----------------------------------------
+INICIA RONDA 7
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:3921/4447 SP:369/369 BP:1
+B-Agnea - HP:3299/4002 SP:504/504 BP:1
+C-Tressa - HP:3495/4891 SP:343/357 BP:1
+D-Therion - HP:3533/4447 SP:320/332 BP:2
+Equipo del enemigo
+A-Mossy Meep - HP:436/1060 Shields:3
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Agnea
+3.H'aanit
+4.Tressa
+5.Frost Fox
+6.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Agnea
+3.H'aanit
+4.Tressa
+5.Frost Fox
+6.Mossy Meep
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:3921/4447 SP:369/369 BP:1
+B-Agnea - HP:3299/4002 SP:504/504 BP:1
+C-Tressa - HP:3495/4891 SP:343/357 BP:1
+D-Therion - HP:3533/4447 SP:320/332 BP:2
+Equipo del enemigo
+A-Mossy Meep - HP:436/1060 Shields:3
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.H'aanit
+3.Tressa
+4.Frost Fox
+5.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Agnea
+3.H'aanit
+4.Tressa
+5.Frost Fox
+6.Mossy Meep
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Agnea
+1: Mossy Meep - HP:436/1060 Shields:3
+2: Frost Fox - HP:1302/1302 Shields:2
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Agnea ataca
+Frost Fox recibe 0 de daño de tipo Dagger
+Frost Fox termina con HP:1302
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:3921/4447 SP:369/369 BP:1
+B-Agnea - HP:3299/4002 SP:504/504 BP:1
+C-Tressa - HP:3495/4891 SP:343/357 BP:1
+D-Therion - HP:3533/4447 SP:320/332 BP:2
+Equipo del enemigo
+A-Mossy Meep - HP:436/1060 Shields:3
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Tressa
+3.Frost Fox
+4.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Agnea
+3.H'aanit
+4.Tressa
+5.Frost Fox
+6.Mossy Meep
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para H'aanit
+1: Donate BP
+2: Rest
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para H'aanit
+1: H'aanit - HP:3921/4447 SP:369/369 BP:1
+2: Agnea - HP:3299/4002 SP:504/504 BP:1
+3: Tressa - HP:3495/4891 SP:343/357 BP:1
+4: Therion - HP:3533/4447 SP:320/332 BP:2
+5: Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+H'aanit usa Donate BP
+Therion obtiene 2 BP
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:3921/4447 SP:366/369 BP:0
+B-Agnea - HP:3299/4002 SP:504/504 BP:1
+C-Tressa - HP:3495/4891 SP:343/357 BP:1
+D-Therion - HP:3533/4447 SP:320/332 BP:4
+Equipo del enemigo
+A-Mossy Meep - HP:436/1060 Shields:3
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Frost Fox
+3.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Agnea
+3.H'aanit
+4.Tressa
+5.Frost Fox
+6.Mossy Meep
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Heal Wounds
+2: Abide
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: H'aanit - HP:3921/4447 SP:366/369 BP:0
+2: Agnea - HP:3299/4002 SP:504/504 BP:1
+3: Tressa - HP:3495/4891 SP:343/357 BP:1
+4: Therion - HP:3533/4447 SP:320/332 BP:4
+5: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Tressa no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Tressa usa Abide
+H'aanit tendrá Increased Physical Attack durante 2 rondas
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:3921/4447 SP:366/369 BP:0
+B-Agnea - HP:3299/4002 SP:504/504 BP:1
+C-Tressa - HP:3495/4891 SP:339/357 BP:1
+D-Therion - HP:3533/4447 SP:320/332 BP:4
+Equipo del enemigo
+A-Mossy Meep - HP:436/1060 Shields:3
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Frost Fox
+2.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Agnea
+3.H'aanit
+4.Tressa
+5.Frost Fox
+6.Mossy Meep
+----------------------------------------
+Frost Fox usa Ice blast
+H'aanit recibe 278 de daño elemental
+Agnea recibe 201 de daño elemental
+Tressa recibe 248 de daño elemental
+Therion se defiende
+Therion recibe 152 de daño elemental
+H'aanit termina con HP:3643
+Agnea termina con HP:3098
+Tressa termina con HP:3247
+Therion termina con HP:3381
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:3643/4447 SP:366/369 BP:0
+B-Agnea - HP:3098/4002 SP:504/504 BP:1
+C-Tressa - HP:3247/4891 SP:339/357 BP:1
+D-Therion - HP:3381/4447 SP:320/332 BP:4
+Equipo del enemigo
+A-Mossy Meep - HP:436/1060 Shields:3
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Agnea
+3.H'aanit
+4.Tressa
+5.Frost Fox
+6.Mossy Meep
+----------------------------------------
+Mossy Meep usa Attack
+H'aanit recibe 304 de daño físico
+H'aanit termina con HP:3339
+----------------------------------------
+INICIA RONDA 8
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:3339/4447 SP:366/369 BP:0
+B-Agnea - HP:3098/4002 SP:504/504 BP:2
+C-Tressa - HP:3247/4891 SP:339/357 BP:2
+D-Therion - HP:3381/4447 SP:320/332 BP:5
+Equipo del enemigo
+A-Mossy Meep - HP:436/1060 Shields:3
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Agnea
+3.H'aanit
+4.Tressa
+5.Frost Fox
+6.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Agnea
+3.H'aanit
+4.Tressa
+5.Frost Fox
+6.Mossy Meep
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Therion
+1: Armor Corrosive
+2: Abide
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Therion
+1: H'aanit - HP:3339/4447 SP:366/369 BP:0
+2: Agnea - HP:3098/4002 SP:504/504 BP:2
+3: Tressa - HP:3247/4891 SP:339/357 BP:2
+4: Therion - HP:3381/4447 SP:320/332 BP:5
+5: Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Therion usa Abide
+Therion tendrá Increased Physical Attack durante 4 rondas
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:3339/4447 SP:366/369 BP:0
+B-Agnea - HP:3098/4002 SP:504/504 BP:2
+C-Tressa - HP:3247/4891 SP:339/357 BP:2
+D-Therion - HP:3381/4447 SP:316/332 BP:4
+Equipo del enemigo
+A-Mossy Meep - HP:436/1060 Shields:3
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.H'aanit
+3.Tressa
+4.Frost Fox
+5.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Agnea
+3.H'aanit
+4.Tressa
+5.Frost Fox
+6.Mossy Meep
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Agnea
+1: Mossy Meep - HP:436/1060 Shields:3
+2: Frost Fox - HP:1302/1302 Shields:2
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Agnea ataca
+Frost Fox recibe 0 de daño de tipo Dagger
+Frost Fox recibe 0 de daño de tipo Dagger
+Frost Fox recibe 0 de daño de tipo Dagger
+Frost Fox termina con HP:1302
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:3339/4447 SP:366/369 BP:0
+B-Agnea - HP:3098/4002 SP:504/504 BP:0
+C-Tressa - HP:3247/4891 SP:339/357 BP:2
+D-Therion - HP:3381/4447 SP:316/332 BP:4
+Equipo del enemigo
+A-Mossy Meep - HP:436/1060 Shields:3
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Tressa
+3.Frost Fox
+4.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Agnea
+3.H'aanit
+4.Tressa
+5.Frost Fox
+6.Mossy Meep
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:3339/4447 SP:366/369 BP:0
+B-Agnea - HP:3098/4002 SP:504/504 BP:0
+C-Tressa - HP:3247/4891 SP:339/357 BP:2
+D-Therion - HP:3381/4447 SP:316/332 BP:4
+Equipo del enemigo
+A-Mossy Meep - HP:436/1060 Shields:3
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Frost Fox
+3.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Therion
+3.Agnea
+4.Tressa
+5.Frost Fox
+6.Mossy Meep
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:3339/4447 SP:366/369 BP:0
+B-Agnea - HP:3098/4002 SP:504/504 BP:0
+C-Tressa - HP:3247/4891 SP:339/357 BP:2
+D-Therion - HP:3381/4447 SP:316/332 BP:4
+Equipo del enemigo
+A-Mossy Meep - HP:436/1060 Shields:3
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Frost Fox
+2.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Tressa
+3.Therion
+4.Agnea
+5.Frost Fox
+6.Mossy Meep
+----------------------------------------
+Frost Fox usa Ice blast
+H'aanit se defiende
+H'aanit recibe 139 de daño elemental
+Agnea recibe 201 de daño elemental
+Tressa se defiende
+Tressa recibe 124 de daño elemental
+Therion recibe 305 de daño elemental
+H'aanit termina con HP:3200
+Agnea termina con HP:2897
+Tressa termina con HP:3123
+Therion termina con HP:3076
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:3200/4447 SP:366/369 BP:0
+B-Agnea - HP:2897/4002 SP:504/504 BP:0
+C-Tressa - HP:3123/4891 SP:339/357 BP:2
+D-Therion - HP:3076/4447 SP:316/332 BP:4
+Equipo del enemigo
+A-Mossy Meep - HP:436/1060 Shields:3
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Tressa
+3.Therion
+4.Agnea
+5.Frost Fox
+6.Mossy Meep
+----------------------------------------
+Mossy Meep usa Attack
+H'aanit se defiende
+H'aanit recibe 152 de daño físico
+H'aanit termina con HP:3048
+----------------------------------------
+INICIA RONDA 9
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:3048/4447 SP:366/369 BP:1
+B-Agnea - HP:2897/4002 SP:504/504 BP:0
+C-Tressa - HP:3123/4891 SP:339/357 BP:3
+D-Therion - HP:3076/4447 SP:316/332 BP:4
+Equipo del enemigo
+A-Mossy Meep - HP:436/1060 Shields:3
+B-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Tressa
+3.Therion
+4.Agnea
+5.Frost Fox
+6.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Agnea
+3.H'aanit
+4.Tressa
+5.Frost Fox
+6.Mossy Meep
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para H'aanit
+1: Mossy Meep - HP:436/1060 Shields:3
+2: Frost Fox - HP:1302/1302 Shields:2
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+H'aanit no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+H'aanit ataca
+Frost Fox recibe 275 de daño de tipo Bow con debilidad
+Frost Fox termina con HP:1027
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:3048/4447 SP:366/369 BP:1
+B-Agnea - HP:2897/4002 SP:504/504 BP:0
+C-Tressa - HP:3123/4891 SP:339/357 BP:3
+D-Therion - HP:3076/4447 SP:316/332 BP:4
+Equipo del enemigo
+A-Mossy Meep - HP:436/1060 Shields:3
+B-Frost Fox - HP:1027/1302 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Therion
+3.Agnea
+4.Frost Fox
+5.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Agnea
+3.H'aanit
+4.Tressa
+5.Frost Fox
+6.Mossy Meep
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Heal Wounds
+2: Abide
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Tressa usa Heal Wounds
+H'aanit recupera 570 de vida
+Agnea recupera 570 de vida
+Therion recupera 570 de vida
+Tressa recupera 570 de vida
+H'aanit termina con HP:3618
+Agnea termina con HP:3467
+Therion termina con HP:3646
+Tressa termina con HP:3693
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:3618/4447 SP:366/369 BP:1
+B-Agnea - HP:3467/4002 SP:504/504 BP:0
+C-Tressa - HP:3693/4891 SP:333/357 BP:2
+D-Therion - HP:3646/4447 SP:316/332 BP:4
+Equipo del enemigo
+A-Mossy Meep - HP:436/1060 Shields:3
+B-Frost Fox - HP:1027/1302 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Agnea
+3.Frost Fox
+4.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Agnea
+3.H'aanit
+4.Tressa
+5.Frost Fox
+6.Mossy Meep
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Therion
+1: Armor Corrosive
+2: Abide
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Therion
+1: H'aanit - HP:3618/4447 SP:366/369 BP:1
+2: Agnea - HP:3467/4002 SP:504/504 BP:0
+3: Tressa - HP:3693/4891 SP:333/357 BP:2
+4: Therion - HP:3646/4447 SP:316/332 BP:4
+5: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Therion usa Abide
+Tressa tendrá Increased Physical Attack durante 2 rondas
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:3618/4447 SP:366/369 BP:1
+B-Agnea - HP:3467/4002 SP:504/504 BP:0
+C-Tressa - HP:3693/4891 SP:333/357 BP:2
+D-Therion - HP:3646/4447 SP:312/332 BP:4
+Equipo del enemigo
+A-Mossy Meep - HP:436/1060 Shields:3
+B-Frost Fox - HP:1027/1302 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Frost Fox
+3.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Agnea
+3.H'aanit
+4.Tressa
+5.Frost Fox
+6.Mossy Meep
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Agnea
+1: Moon's Reflection
+2: Peacock Strut
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Agnea
+1: H'aanit - HP:3618/4447 SP:366/369 BP:1
+2: Agnea - HP:3467/4002 SP:504/504 BP:0
+3: Tressa - HP:3693/4891 SP:333/357 BP:2
+4: Therion - HP:3646/4447 SP:312/332 BP:4
+5: Cancelar
+INPUT: 4
+----------------------------------------
+Agnea usa Moon's Reflection
+Therion reflejará los próximos 1 ataques físicos
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:3618/4447 SP:366/369 BP:1
+B-Agnea - HP:3467/4002 SP:474/504 BP:0
+C-Tressa - HP:3693/4891 SP:333/357 BP:2
+D-Therion - HP:3646/4447 SP:312/332 BP:4
+Equipo del enemigo
+A-Mossy Meep - HP:436/1060 Shields:3
+B-Frost Fox - HP:1027/1302 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Frost Fox
+2.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Agnea
+3.H'aanit
+4.Tressa
+5.Frost Fox
+6.Mossy Meep
+----------------------------------------
+Frost Fox usa Ice blast
+H'aanit recibe 278 de daño elemental
+Agnea recibe 201 de daño elemental
+Tressa recibe 248 de daño elemental
+Therion recibe 305 de daño elemental
+H'aanit termina con HP:3340
+Agnea termina con HP:3266
+Tressa termina con HP:3445
+Therion termina con HP:3341
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:3340/4447 SP:366/369 BP:1
+B-Agnea - HP:3266/4002 SP:474/504 BP:0
+C-Tressa - HP:3445/4891 SP:333/357 BP:2
+D-Therion - HP:3341/4447 SP:312/332 BP:4
+Equipo del enemigo
+A-Mossy Meep - HP:436/1060 Shields:3
+B-Frost Fox - HP:1027/1302 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Agnea
+3.H'aanit
+4.Tressa
+5.Frost Fox
+6.Mossy Meep
+----------------------------------------
+Mossy Meep usa Attack
+Tressa recibe 202 de daño físico
+Tressa termina con HP:3243
+----------------------------------------
+INICIA RONDA 10
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:3340/4447 SP:366/369 BP:2
+B-Agnea - HP:3266/4002 SP:499/504 BP:1
+C-Tressa - HP:3243/4891 SP:333/357 BP:2
+D-Therion - HP:3341/4447 SP:312/332 BP:5
+Equipo del enemigo
+A-Mossy Meep - HP:436/1060 Shields:3
+B-Frost Fox - HP:1027/1302 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Agnea
+3.H'aanit
+4.Tressa
+5.Frost Fox
+6.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Agnea
+3.H'aanit
+4.Tressa
+5.Frost Fox
+6.Mossy Meep
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:3340/4447 SP:366/369 BP:2
+B-Agnea - HP:3266/4002 SP:499/504 BP:1
+C-Tressa - HP:3243/4891 SP:333/357 BP:2
+D-Therion - HP:3341/4447 SP:312/332 BP:5
+Equipo del enemigo
+A-Mossy Meep - HP:436/1060 Shields:3
+B-Frost Fox - HP:1027/1302 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.H'aanit
+3.Tressa
+4.Frost Fox
+5.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Agnea
+3.H'aanit
+4.Tressa
+5.Frost Fox
+6.Mossy Meep
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Agnea
+1: Mossy Meep - HP:436/1060 Shields:3
+2: Frost Fox - HP:1027/1302 Shields:1
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Agnea ataca
+Mossy Meep recibe 0 de daño de tipo Dagger
+Mossy Meep recibe 0 de daño de tipo Dagger
+Mossy Meep termina con HP:436
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:3340/4447 SP:366/369 BP:2
+B-Agnea - HP:3266/4002 SP:499/504 BP:0
+C-Tressa - HP:3243/4891 SP:333/357 BP:2
+D-Therion - HP:3341/4447 SP:312/332 BP:5
+Equipo del enemigo
+A-Mossy Meep - HP:436/1060 Shields:3
+B-Frost Fox - HP:1027/1302 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Tressa
+3.Frost Fox
+4.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Agnea
+3.H'aanit
+4.Tressa
+5.Frost Fox
+6.Mossy Meep
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para H'aanit
+1: Mossy Meep - HP:436/1060 Shields:3
+2: Frost Fox - HP:1027/1302 Shields:1
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+H'aanit ataca
+Mossy Meep recibe 66 de daño de tipo Axe con debilidad
+Mossy Meep recibe 66 de daño de tipo Axe con debilidad
+Mossy Meep termina con HP:304
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:3340/4447 SP:366/369 BP:1
+B-Agnea - HP:3266/4002 SP:499/504 BP:0
+C-Tressa - HP:3243/4891 SP:333/357 BP:2
+D-Therion - HP:3341/4447 SP:312/332 BP:5
+Equipo del enemigo
+A-Mossy Meep - HP:304/1060 Shields:1
+B-Frost Fox - HP:1027/1302 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Frost Fox
+3.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Agnea
+3.H'aanit
+4.Tressa
+5.Frost Fox
+6.Mossy Meep
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:3340/4447 SP:366/369 BP:1
+B-Agnea - HP:3266/4002 SP:499/504 BP:0
+C-Tressa - HP:3243/4891 SP:333/357 BP:2
+D-Therion - HP:3341/4447 SP:312/332 BP:5
+Equipo del enemigo
+A-Mossy Meep - HP:304/1060 Shields:1
+B-Frost Fox - HP:1027/1302 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Frost Fox
+2.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Tressa
+3.Agnea
+4.H'aanit
+5.Frost Fox
+6.Mossy Meep
+----------------------------------------
+Frost Fox usa Ice blast
+H'aanit recibe 278 de daño elemental
+Agnea recibe 201 de daño elemental
+Tressa se defiende
+Tressa recibe 124 de daño elemental
+Therion se defiende
+Therion recibe 152 de daño elemental
+H'aanit termina con HP:3062
+Agnea termina con HP:3065
+Tressa termina con HP:3119
+Therion termina con HP:3189
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:3062/4447 SP:366/369 BP:1
+B-Agnea - HP:3065/4002 SP:499/504 BP:0
+C-Tressa - HP:3119/4891 SP:333/357 BP:2
+D-Therion - HP:3189/4447 SP:312/332 BP:5
+Equipo del enemigo
+A-Mossy Meep - HP:304/1060 Shields:1
+B-Frost Fox - HP:1027/1302 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Tressa
+3.Agnea
+4.H'aanit
+5.Frost Fox
+6.Mossy Meep
+----------------------------------------
+Mossy Meep usa Attack
+Therion se defiende
+Therion refleja el daño
+Mossy Meep recibe 140 de daño
+Mossy Meep termina con HP:164
+----------------------------------------
+INICIA RONDA 11
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:3062/4447 SP:366/369 BP:1
+B-Agnea - HP:3065/4002 SP:504/504 BP:0
+C-Tressa - HP:3119/4891 SP:333/357 BP:3
+D-Therion - HP:3189/4447 SP:312/332 BP:5
+Equipo del enemigo
+A-Mossy Meep - HP:164/1060 Shields:1
+B-Frost Fox - HP:1027/1302 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Tressa
+3.Agnea
+4.H'aanit
+5.Frost Fox
+6.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Agnea
+3.H'aanit
+4.Tressa
+5.Frost Fox
+6.Mossy Meep
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Therion
+1: Armor Corrosive
+2: Abide
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Therion
+1: Mossy Meep - HP:164/1060 Shields:1
+2: Frost Fox - HP:1027/1302 Shields:1
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Therion usa Armor Corrosive
+Mossy Meep tendrá Decreased Physical Defense durante 2 rondas
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:3062/4447 SP:366/369 BP:1
+B-Agnea - HP:3065/4002 SP:504/504 BP:0
+C-Tressa - HP:3119/4891 SP:333/357 BP:3
+D-Therion - HP:3189/4447 SP:308/332 BP:5
+Equipo del enemigo
+A-Mossy Meep - HP:164/1060 Shields:1
+B-Frost Fox - HP:1027/1302 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Agnea
+3.H'aanit
+4.Frost Fox
+5.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Agnea
+3.H'aanit
+4.Tressa
+5.Frost Fox
+6.Mossy Meep
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Heal Wounds
+2: Abide
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Tressa usa Heal Wounds
+H'aanit recupera 570 de vida
+Agnea recupera 570 de vida
+Therion recupera 570 de vida
+Tressa recupera 570 de vida
+H'aanit termina con HP:3632
+Agnea termina con HP:3635
+Therion termina con HP:3759
+Tressa termina con HP:3689
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:3632/4447 SP:366/369 BP:1
+B-Agnea - HP:3635/4002 SP:504/504 BP:0
+C-Tressa - HP:3689/4891 SP:327/357 BP:2
+D-Therion - HP:3759/4447 SP:308/332 BP:5
+Equipo del enemigo
+A-Mossy Meep - HP:164/1060 Shields:1
+B-Frost Fox - HP:1027/1302 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.H'aanit
+3.Frost Fox
+4.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Agnea
+3.H'aanit
+4.Tressa
+5.Frost Fox
+6.Mossy Meep
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Agnea
+1: Mossy Meep - HP:164/1060 Shields:1
+2: Frost Fox - HP:1027/1302 Shields:1
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Agnea ataca
+Mossy Meep recibe 0 de daño de tipo Dagger
+Mossy Meep termina con HP:164
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:3632/4447 SP:366/369 BP:1
+B-Agnea - HP:3635/4002 SP:504/504 BP:0
+C-Tressa - HP:3689/4891 SP:327/357 BP:2
+D-Therion - HP:3759/4447 SP:308/332 BP:5
+Equipo del enemigo
+A-Mossy Meep - HP:164/1060 Shields:1
+B-Frost Fox - HP:1027/1302 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Frost Fox
+3.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Agnea
+3.H'aanit
+4.Tressa
+5.Frost Fox
+6.Mossy Meep
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para H'aanit
+1: Donate BP
+2: Rest
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+H'aanit usa Rest
+H'aanit recupera 255 de vida
+H'aanit recupera 25 SP
+H'aanit termina con HP:3887
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:3887/4447 SP:369/369 BP:1
+B-Agnea - HP:3635/4002 SP:504/504 BP:0
+C-Tressa - HP:3689/4891 SP:327/357 BP:2
+D-Therion - HP:3759/4447 SP:308/332 BP:5
+Equipo del enemigo
+A-Mossy Meep - HP:164/1060 Shields:1
+B-Frost Fox - HP:1027/1302 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Frost Fox
+2.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Agnea
+3.H'aanit
+4.Tressa
+5.Frost Fox
+6.Mossy Meep
+----------------------------------------
+Frost Fox usa Ice blast
+H'aanit recibe 278 de daño elemental
+Agnea recibe 201 de daño elemental
+Tressa recibe 248 de daño elemental
+Therion recibe 305 de daño elemental
+H'aanit termina con HP:3609
+Agnea termina con HP:3434
+Tressa termina con HP:3441
+Therion termina con HP:3454
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:3609/4447 SP:369/369 BP:1
+B-Agnea - HP:3434/4002 SP:504/504 BP:0
+C-Tressa - HP:3441/4891 SP:327/357 BP:2
+D-Therion - HP:3454/4447 SP:308/332 BP:5
+Equipo del enemigo
+A-Mossy Meep - HP:164/1060 Shields:1
+B-Frost Fox - HP:1027/1302 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Agnea
+3.H'aanit
+4.Tressa
+5.Frost Fox
+6.Mossy Meep
+----------------------------------------
+Mossy Meep usa Attack
+H'aanit recibe 304 de daño físico
+H'aanit termina con HP:3305
+----------------------------------------
+INICIA RONDA 12
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:3305/4447 SP:369/369 BP:2
+B-Agnea - HP:3434/4002 SP:504/504 BP:1
+C-Tressa - HP:3441/4891 SP:327/357 BP:2
+D-Therion - HP:3454/4447 SP:308/332 BP:5
+Equipo del enemigo
+A-Mossy Meep - HP:164/1060 Shields:1
+B-Frost Fox - HP:1027/1302 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Agnea
+3.H'aanit
+4.Tressa
+5.Frost Fox
+6.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Agnea
+3.H'aanit
+4.Tressa
+5.Frost Fox
+6.Mossy Meep
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Therion
+1: Mossy Meep - HP:164/1060 Shields:1
+2: Frost Fox - HP:1027/1302 Shields:1
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Therion ataca
+Mossy Meep recibe 325 de daño de tipo Sword con debilidad
+Mossy Meep entra en Breaking Point
+Mossy Meep recibe 433 de daño de tipo Sword con debilidad
+Mossy Meep recibe 433 de daño de tipo Sword con debilidad
+Mossy Meep recibe 433 de daño de tipo Sword con debilidad
+Mossy Meep termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:3305/4447 SP:369/369 BP:2
+B-Agnea - HP:3434/4002 SP:504/504 BP:1
+C-Tressa - HP:3441/4891 SP:327/357 BP:2
+D-Therion - HP:3454/4447 SP:308/332 BP:2
+Equipo del enemigo
+A-Mossy Meep - HP:0/1060 Shields:0
+B-Frost Fox - HP:1027/1302 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.H'aanit
+3.Tressa
+4.Frost Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Agnea
+3.H'aanit
+4.Tressa
+5.Frost Fox
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Agnea
+1: Moon's Reflection
+2: Peacock Strut
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Agnea
+1: H'aanit - HP:3305/4447 SP:369/369 BP:2
+2: Agnea - HP:3434/4002 SP:504/504 BP:1
+3: Tressa - HP:3441/4891 SP:327/357 BP:2
+4: Therion - HP:3454/4447 SP:308/332 BP:2
+5: Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Agnea usa Peacock Strut
+Therion tendrá Increased Elemental Attack durante 4 rondas
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:3305/4447 SP:369/369 BP:2
+B-Agnea - HP:3434/4002 SP:500/504 BP:0
+C-Tressa - HP:3441/4891 SP:327/357 BP:2
+D-Therion - HP:3454/4447 SP:308/332 BP:2
+Equipo del enemigo
+A-Mossy Meep - HP:0/1060 Shields:0
+B-Frost Fox - HP:1027/1302 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Tressa
+3.Frost Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Agnea
+3.H'aanit
+4.Tressa
+5.Frost Fox
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para H'aanit
+1: Frost Fox - HP:1027/1302 Shields:1
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+H'aanit ataca
+Frost Fox recibe 122 de daño de tipo Axe
+Frost Fox recibe 122 de daño de tipo Axe
+Frost Fox termina con HP:783
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:3305/4447 SP:369/369 BP:1
+B-Agnea - HP:3434/4002 SP:500/504 BP:0
+C-Tressa - HP:3441/4891 SP:327/357 BP:2
+D-Therion - HP:3454/4447 SP:308/332 BP:2
+Equipo del enemigo
+A-Mossy Meep - HP:0/1060 Shields:0
+B-Frost Fox - HP:783/1302 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Frost Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Agnea
+3.H'aanit
+4.Tressa
+5.Frost Fox
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:3305/4447 SP:369/369 BP:1
+B-Agnea - HP:3434/4002 SP:500/504 BP:0
+C-Tressa - HP:3441/4891 SP:327/357 BP:2
+D-Therion - HP:3454/4447 SP:308/332 BP:2
+Equipo del enemigo
+A-Mossy Meep - HP:0/1060 Shields:0
+B-Frost Fox - HP:783/1302 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Frost Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Tressa
+2.Therion
+3.Agnea
+4.H'aanit
+5.Frost Fox
+----------------------------------------
+Frost Fox usa Ice blast
+H'aanit recibe 278 de daño elemental
+Agnea recibe 201 de daño elemental
+Tressa se defiende
+Tressa recibe 124 de daño elemental
+Therion recibe 305 de daño elemental
+H'aanit termina con HP:3027
+Agnea termina con HP:3233
+Tressa termina con HP:3317
+Therion termina con HP:3149
+----------------------------------------
+INICIA RONDA 13
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:3027/4447 SP:369/369 BP:1
+B-Agnea - HP:3233/4002 SP:504/504 BP:0
+C-Tressa - HP:3317/4891 SP:327/357 BP:3
+D-Therion - HP:3149/4447 SP:308/332 BP:2
+Equipo del enemigo
+A-Mossy Meep - HP:0/1060 Shields:0
+B-Frost Fox - HP:783/1302 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Therion
+3.Agnea
+4.H'aanit
+5.Frost Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Agnea
+3.H'aanit
+4.Tressa
+5.Frost Fox
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Heal Wounds
+2: Abide
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Tressa usa Heal Wounds
+H'aanit recupera 570 de vida
+Agnea recupera 570 de vida
+Therion recupera 570 de vida
+Tressa recupera 570 de vida
+H'aanit termina con HP:3597
+Agnea termina con HP:3803
+Therion termina con HP:3719
+Tressa termina con HP:3887
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:3597/4447 SP:369/369 BP:1
+B-Agnea - HP:3803/4002 SP:504/504 BP:0
+C-Tressa - HP:3887/4891 SP:321/357 BP:2
+D-Therion - HP:3719/4447 SP:308/332 BP:2
+Equipo del enemigo
+A-Mossy Meep - HP:0/1060 Shields:0
+B-Frost Fox - HP:783/1302 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Agnea
+3.H'aanit
+4.Frost Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Agnea
+3.H'aanit
+4.Tressa
+5.Frost Fox
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:3597/4447 SP:369/369 BP:1
+B-Agnea - HP:3803/4002 SP:504/504 BP:0
+C-Tressa - HP:3887/4891 SP:321/357 BP:2
+D-Therion - HP:3719/4447 SP:308/332 BP:2
+Equipo del enemigo
+A-Mossy Meep - HP:0/1060 Shields:0
+B-Frost Fox - HP:783/1302 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.H'aanit
+3.Frost Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Agnea
+3.H'aanit
+4.Tressa
+5.Frost Fox
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:3597/4447 SP:369/369 BP:1
+B-Agnea - HP:3803/4002 SP:504/504 BP:0
+C-Tressa - HP:3887/4891 SP:321/357 BP:2
+D-Therion - HP:3719/4447 SP:308/332 BP:2
+Equipo del enemigo
+A-Mossy Meep - HP:0/1060 Shields:0
+B-Frost Fox - HP:783/1302 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Frost Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Agnea
+3.H'aanit
+4.Tressa
+5.Frost Fox
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para H'aanit
+1: Donate BP
+2: Rest
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+H'aanit no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+H'aanit usa Rest
+H'aanit recupera 331 de vida
+H'aanit recupera 50 SP
+H'aanit termina con HP:3928
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:3928/4447 SP:369/369 BP:0
+B-Agnea - HP:3803/4002 SP:504/504 BP:0
+C-Tressa - HP:3887/4891 SP:321/357 BP:2
+D-Therion - HP:3719/4447 SP:308/332 BP:2
+Equipo del enemigo
+A-Mossy Meep - HP:0/1060 Shields:0
+B-Frost Fox - HP:783/1302 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Frost Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Agnea
+3.H'aanit
+4.Tressa
+5.Frost Fox
+----------------------------------------
+Frost Fox usa Ice blast
+H'aanit recibe 278 de daño elemental
+Agnea se defiende
+Agnea recibe 100 de daño elemental
+Tressa recibe 248 de daño elemental
+Therion se defiende
+Therion recibe 152 de daño elemental
+H'aanit termina con HP:3650
+Agnea termina con HP:3703
+Tressa termina con HP:3639
+Therion termina con HP:3567
+----------------------------------------
+INICIA RONDA 14
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:3650/4447 SP:369/369 BP:0
+B-Agnea - HP:3703/4002 SP:504/504 BP:1
+C-Tressa - HP:3639/4891 SP:321/357 BP:2
+D-Therion - HP:3567/4447 SP:308/332 BP:3
+Equipo del enemigo
+A-Mossy Meep - HP:0/1060 Shields:0
+B-Frost Fox - HP:783/1302 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Agnea
+3.H'aanit
+4.Tressa
+5.Frost Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Agnea
+3.H'aanit
+4.Tressa
+5.Frost Fox
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:3650/4447 SP:369/369 BP:0
+B-Agnea - HP:3703/4002 SP:504/504 BP:1
+C-Tressa - HP:3639/4891 SP:321/357 BP:2
+D-Therion - HP:3567/4447 SP:308/332 BP:3
+Equipo del enemigo
+A-Mossy Meep - HP:0/1060 Shields:0
+B-Frost Fox - HP:783/1302 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.H'aanit
+3.Tressa
+4.Frost Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Agnea
+3.H'aanit
+4.Tressa
+5.Frost Fox
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:3650/4447 SP:369/369 BP:0
+B-Agnea - HP:3703/4002 SP:504/504 BP:1
+C-Tressa - HP:3639/4891 SP:321/357 BP:2
+D-Therion - HP:3567/4447 SP:308/332 BP:3
+Equipo del enemigo
+A-Mossy Meep - HP:0/1060 Shields:0
+B-Frost Fox - HP:783/1302 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Tressa
+3.Frost Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Agnea
+3.H'aanit
+4.Tressa
+5.Frost Fox
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para H'aanit
+1: Donate BP
+2: Rest
+3: Cancelar
+INPUT: 2
+----------------------------------------
+H'aanit usa Rest
+H'aanit recupera 255 de vida
+H'aanit recupera 25 SP
+H'aanit termina con HP:3905
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:3905/4447 SP:369/369 BP:0
+B-Agnea - HP:3703/4002 SP:504/504 BP:1
+C-Tressa - HP:3639/4891 SP:321/357 BP:2
+D-Therion - HP:3567/4447 SP:308/332 BP:3
+Equipo del enemigo
+A-Mossy Meep - HP:0/1060 Shields:0
+B-Frost Fox - HP:783/1302 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+2.Frost Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Agnea
+3.H'aanit
+4.Tressa
+5.Frost Fox
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Frost Fox - HP:783/1302 Shields:1
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Tressa no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Tressa ataca
+Frost Fox recibe 129 de daño de tipo Bow con debilidad
+Frost Fox entra en Breaking Point
+Frost Fox recibe 172 de daño de tipo Bow con debilidad
+Frost Fox termina con HP:482
+----------------------------------------
+INICIA RONDA 15
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:3905/4447 SP:369/369 BP:1
+B-Agnea - HP:3703/4002 SP:504/504 BP:2
+C-Tressa - HP:3639/4891 SP:321/357 BP:1
+D-Therion - HP:3567/4447 SP:308/332 BP:4
+Equipo del enemigo
+A-Mossy Meep - HP:0/1060 Shields:0
+B-Frost Fox - HP:482/1302 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Agnea
+3.H'aanit
+4.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Frost Fox
+2.Therion
+3.Agnea
+4.H'aanit
+5.Tressa
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:3905/4447 SP:369/369 BP:1
+B-Agnea - HP:3703/4002 SP:504/504 BP:2
+C-Tressa - HP:3639/4891 SP:321/357 BP:1
+D-Therion - HP:3567/4447 SP:308/332 BP:4
+Equipo del enemigo
+A-Mossy Meep - HP:0/1060 Shields:0
+B-Frost Fox - HP:482/1302 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.H'aanit
+3.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Frost Fox
+2.Therion
+3.Agnea
+4.H'aanit
+5.Tressa
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Agnea
+1: Frost Fox - HP:482/1302 Shields:0
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Agnea ataca
+Frost Fox recibe 0 de daño de tipo Dagger
+Frost Fox recibe 0 de daño de tipo Dagger
+Frost Fox termina con HP:482
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:3905/4447 SP:369/369 BP:1
+B-Agnea - HP:3703/4002 SP:504/504 BP:1
+C-Tressa - HP:3639/4891 SP:321/357 BP:1
+D-Therion - HP:3567/4447 SP:308/332 BP:4
+Equipo del enemigo
+A-Mossy Meep - HP:0/1060 Shields:0
+B-Frost Fox - HP:482/1302 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Frost Fox
+2.Therion
+3.Agnea
+4.H'aanit
+5.Tressa
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para H'aanit
+1: Donate BP
+2: Rest
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para H'aanit
+1: H'aanit - HP:3905/4447 SP:369/369 BP:1
+2: Agnea - HP:3703/4002 SP:504/504 BP:1
+3: Tressa - HP:3639/4891 SP:321/357 BP:1
+4: Therion - HP:3567/4447 SP:308/332 BP:4
+5: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+H'aanit usa Donate BP
+Tressa obtiene 2 BP
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:3905/4447 SP:366/369 BP:0
+B-Agnea - HP:3703/4002 SP:504/504 BP:1
+C-Tressa - HP:3639/4891 SP:321/357 BP:3
+D-Therion - HP:3567/4447 SP:308/332 BP:4
+Equipo del enemigo
+A-Mossy Meep - HP:0/1060 Shields:0
+B-Frost Fox - HP:482/1302 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Frost Fox
+2.Therion
+3.Agnea
+4.H'aanit
+5.Tressa
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Tressa
+1: Heal Wounds
+2: Abide
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: H'aanit - HP:3905/4447 SP:366/369 BP:0
+2: Agnea - HP:3703/4002 SP:504/504 BP:1
+3: Tressa - HP:3639/4891 SP:321/357 BP:3
+4: Therion - HP:3567/4447 SP:308/332 BP:4
+5: Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Tressa usa Abide
+Therion tendrá Increased Physical Attack durante 8 rondas
+----------------------------------------
+INICIA RONDA 16
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:3905/4447 SP:366/369 BP:0
+B-Agnea - HP:3703/4002 SP:504/504 BP:1
+C-Tressa - HP:3639/4891 SP:317/357 BP:0
+D-Therion - HP:3567/4447 SP:308/332 BP:5
+Equipo del enemigo
+A-Mossy Meep - HP:0/1060 Shields:0
+B-Frost Fox - HP:482/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Frost Fox
+2.Therion
+3.Agnea
+4.H'aanit
+5.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Agnea
+3.H'aanit
+4.Tressa
+5.Frost Fox
+----------------------------------------
+Frost Fox usa Ice blast
+H'aanit recibe 278 de daño elemental
+Agnea recibe 201 de daño elemental
+Tressa recibe 248 de daño elemental
+Therion recibe 305 de daño elemental
+H'aanit termina con HP:3627
+Agnea termina con HP:3502
+Tressa termina con HP:3391
+Therion termina con HP:3262
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:3627/4447 SP:366/369 BP:0
+B-Agnea - HP:3502/4002 SP:504/504 BP:1
+C-Tressa - HP:3391/4891 SP:317/357 BP:0
+D-Therion - HP:3262/4447 SP:308/332 BP:5
+Equipo del enemigo
+A-Mossy Meep - HP:0/1060 Shields:0
+B-Frost Fox - HP:482/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Agnea
+3.H'aanit
+4.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Agnea
+3.H'aanit
+4.Tressa
+5.Frost Fox
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Therion
+1: Armor Corrosive
+2: Abide
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Therion
+1: H'aanit - HP:3627/4447 SP:366/369 BP:0
+2: Agnea - HP:3502/4002 SP:504/504 BP:1
+3: Tressa - HP:3391/4891 SP:317/357 BP:0
+4: Therion - HP:3262/4447 SP:308/332 BP:5
+5: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Therion usa Abide
+H'aanit tendrá Increased Physical Attack durante 4 rondas
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:3627/4447 SP:366/369 BP:0
+B-Agnea - HP:3502/4002 SP:504/504 BP:1
+C-Tressa - HP:3391/4891 SP:317/357 BP:0
+D-Therion - HP:3262/4447 SP:304/332 BP:4
+Equipo del enemigo
+A-Mossy Meep - HP:0/1060 Shields:0
+B-Frost Fox - HP:482/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.H'aanit
+3.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Agnea
+3.H'aanit
+4.Tressa
+5.Frost Fox
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Agnea
+1: Moon's Reflection
+2: Peacock Strut
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Agnea
+1: H'aanit - HP:3627/4447 SP:366/369 BP:0
+2: Agnea - HP:3502/4002 SP:504/504 BP:1
+3: Tressa - HP:3391/4891 SP:317/357 BP:0
+4: Therion - HP:3262/4447 SP:304/332 BP:4
+5: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Agnea usa Moon's Reflection
+H'aanit reflejará los próximos 2 ataques físicos
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:3627/4447 SP:366/369 BP:0
+B-Agnea - HP:3502/4002 SP:474/504 BP:0
+C-Tressa - HP:3391/4891 SP:317/357 BP:0
+D-Therion - HP:3262/4447 SP:304/332 BP:4
+Equipo del enemigo
+A-Mossy Meep - HP:0/1060 Shields:0
+B-Frost Fox - HP:482/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Agnea
+3.H'aanit
+4.Tressa
+5.Frost Fox
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para H'aanit
+1: Frost Fox - HP:482/1302 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+H'aanit ataca
+Frost Fox recibe 275 de daño de tipo Bow con debilidad
+Frost Fox termina con HP:207
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:3627/4447 SP:366/369 BP:0
+B-Agnea - HP:3502/4002 SP:474/504 BP:0
+C-Tressa - HP:3391/4891 SP:317/357 BP:0
+D-Therion - HP:3262/4447 SP:304/332 BP:4
+Equipo del enemigo
+A-Mossy Meep - HP:0/1060 Shields:0
+B-Frost Fox - HP:207/1302 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Agnea
+3.H'aanit
+4.Tressa
+5.Frost Fox
+----------------------------------------
+Turno de Tressa
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Tressa
+1: Frost Fox - HP:207/1302 Shields:1
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Tressa ataca
+Frost Fox recibe 129 de daño de tipo Bow con debilidad
+Frost Fox entra en Breaking Point
+Frost Fox termina con HP:78
+----------------------------------------
+INICIA RONDA 17
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:3627/4447 SP:366/369 BP:1
+B-Agnea - HP:3502/4002 SP:499/504 BP:0
+C-Tressa - HP:3391/4891 SP:317/357 BP:1
+D-Therion - HP:3262/4447 SP:304/332 BP:4
+Equipo del enemigo
+A-Mossy Meep - HP:0/1060 Shields:0
+B-Frost Fox - HP:78/1302 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Agnea
+3.H'aanit
+4.Tressa
+----------------------------------------
+Turnos de la siguiente ronda
+1.Frost Fox
+2.Therion
+3.Agnea
+4.H'aanit
+5.Tressa
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Therion
+1: Frost Fox - HP:78/1302 Shields:0
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Therion ataca
+Frost Fox recibe 392 de daño de tipo Dagger
+Frost Fox recibe 392 de daño de tipo Dagger
+Frost Fox recibe 392 de daño de tipo Dagger
+Frost Fox recibe 392 de daño de tipo Dagger
+Frost Fox termina con HP:0
+----------------------------------------
+Gana equipo del jugador

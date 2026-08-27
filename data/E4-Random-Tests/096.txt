@@ -1,0 +1,486 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+INPUT: 95
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:1
+B-Z'aanta - HP:3222/3222 SP:371/371 BP:1
+Equipo del enemigo
+A-Cultured Cait - HP:600/600 Shields:4
+B-Ice Remnant - HP:2779/2779 Shields:3
+C-Forest Ratkin I - HP:1348/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Cultured Cait
+2.Z'aanta
+3.Olberic
+4.Ice Remnant
+5.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cultured Cait
+2.Z'aanta
+3.Olberic
+4.Ice Remnant
+5.Forest Ratkin I
+----------------------------------------
+Cultured Cait usa Attack
+Olberic recibe 0 de daño físico
+Olberic termina con HP:5781
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:1
+B-Z'aanta - HP:3222/3222 SP:371/371 BP:1
+Equipo del enemigo
+A-Cultured Cait - HP:600/600 Shields:4
+B-Ice Remnant - HP:2779/2779 Shields:3
+C-Forest Ratkin I - HP:1348/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Olberic
+3.Ice Remnant
+4.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cultured Cait
+2.Z'aanta
+3.Olberic
+4.Ice Remnant
+5.Forest Ratkin I
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:1
+B-Z'aanta - HP:3222/3222 SP:371/371 BP:1
+Equipo del enemigo
+A-Cultured Cait - HP:600/600 Shields:4
+B-Ice Remnant - HP:2779/2779 Shields:3
+C-Forest Ratkin I - HP:1348/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Ice Remnant
+3.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Cultured Cait
+3.Olberic
+4.Ice Remnant
+5.Forest Ratkin I
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Transfer Rune
+2: Glacies Claudere
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Olberic - HP:5781/5781 SP:291/291 BP:1
+2: Z'aanta - HP:3222/3222 SP:371/371 BP:1
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic usa Transfer Rune
+Olberic modificará sus targets durante 3 rondas
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:266/291 BP:1
+B-Z'aanta - HP:3222/3222 SP:371/371 BP:1
+Equipo del enemigo
+A-Cultured Cait - HP:600/600 Shields:4
+B-Ice Remnant - HP:2779/2779 Shields:3
+C-Forest Ratkin I - HP:1348/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ice Remnant
+2.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Cultured Cait
+3.Olberic
+4.Ice Remnant
+5.Forest Ratkin I
+----------------------------------------
+Ice Remnant usa Double Bite
+Z'aanta se defiende
+Z'aanta recibe 18 de daño físico
+Z'aanta recibe 18 de daño físico
+Z'aanta termina con HP:3186
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:266/291 BP:1
+B-Z'aanta - HP:3186/3222 SP:371/371 BP:1
+Equipo del enemigo
+A-Cultured Cait - HP:600/600 Shields:4
+B-Ice Remnant - HP:2779/2779 Shields:3
+C-Forest Ratkin I - HP:1348/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Cultured Cait
+3.Olberic
+4.Ice Remnant
+5.Forest Ratkin I
+----------------------------------------
+Forest Ratkin I usa Stab
+Z'aanta se defiende
+Z'aanta recibe 0 de daño físico
+Z'aanta termina con HP:3186
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:266/291 BP:2
+B-Z'aanta - HP:3186/3222 SP:371/371 BP:2
+Equipo del enemigo
+A-Cultured Cait - HP:600/600 Shields:4
+B-Ice Remnant - HP:2779/2779 Shields:3
+C-Forest Ratkin I - HP:1348/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Cultured Cait
+3.Olberic
+4.Ice Remnant
+5.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cultured Cait
+2.Z'aanta
+3.Olberic
+4.Ice Remnant
+5.Forest Ratkin I
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Z'aanta
+1: Vivify
+2: Moon's Reflection
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Z'aanta
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:266/291 BP:2
+B-Z'aanta - HP:3186/3222 SP:371/371 BP:2
+Equipo del enemigo
+A-Cultured Cait - HP:600/600 Shields:4
+B-Ice Remnant - HP:2779/2779 Shields:3
+C-Forest Ratkin I - HP:1348/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Cultured Cait
+2.Olberic
+3.Ice Remnant
+4.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Cultured Cait
+3.Olberic
+4.Ice Remnant
+5.Forest Ratkin I
+----------------------------------------
+Cultured Cait usa Attack
+Olberic recibe 0 de daño físico
+Olberic termina con HP:5781
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:266/291 BP:2
+B-Z'aanta - HP:3186/3222 SP:371/371 BP:2
+Equipo del enemigo
+A-Cultured Cait - HP:600/600 Shields:4
+B-Ice Remnant - HP:2779/2779 Shields:3
+C-Forest Ratkin I - HP:1348/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Ice Remnant
+3.Forest Ratkin I
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Cultured Cait
+3.Olberic
+4.Ice Remnant
+5.Forest Ratkin I
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Transfer Rune
+2: Glacies Claudere
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Olberic usa Glacies Claudere
+Cultured Cait recibe 270 de daño de tipo Ice
+Cultured Cait recibe 270 de daño de tipo Ice
+Cultured Cait recibe 270 de daño de tipo Ice
+Ice Remnant recibe 491 de daño de tipo Ice
+Ice Remnant recibe 491 de daño de tipo Ice
+Ice Remnant recibe 491 de daño de tipo Ice
+Forest Ratkin I recibe 511 de daño de tipo Ice
+Forest Ratkin I recibe 511 de daño de tipo Ice
+Forest Ratkin I recibe 511 de daño de tipo Ice
+Cultured Cait termina con HP:0
+Ice Remnant termina con HP:1306
+Forest Ratkin I termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:230/291 BP:1
+B-Z'aanta - HP:3186/3222 SP:371/371 BP:2
+Equipo del enemigo
+A-Cultured Cait - HP:0/600 Shields:4
+B-Ice Remnant - HP:1306/2779 Shields:3
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ice Remnant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Olberic
+3.Ice Remnant
+----------------------------------------
+Ice Remnant usa Double Bite
+Z'aanta se defiende
+Z'aanta recibe 0 de daño físico
+Z'aanta recibe 0 de daño físico
+Z'aanta termina con HP:3186
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:230/291 BP:1
+B-Z'aanta - HP:3186/3222 SP:371/371 BP:3
+Equipo del enemigo
+A-Cultured Cait - HP:0/600 Shields:4
+B-Ice Remnant - HP:1306/2779 Shields:3
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Olberic
+3.Ice Remnant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Olberic
+3.Ice Remnant
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Z'aanta
+1: Vivify
+2: Moon's Reflection
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Z'aanta
+1: Olberic - HP:5781/5781 SP:230/291 BP:1
+2: Z'aanta - HP:3186/3222 SP:371/371 BP:3
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Z'aanta usa Moon's Reflection
+Olberic reflejará los próximos 2 ataques físicos
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:230/291 BP:1
+B-Z'aanta - HP:3186/3222 SP:341/371 BP:2
+Equipo del enemigo
+A-Cultured Cait - HP:0/600 Shields:4
+B-Ice Remnant - HP:1306/2779 Shields:3
+C-Forest Ratkin I - HP:0/1348 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Ice Remnant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Olberic
+3.Ice Remnant
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Ice Remnant - HP:1306/2779 Shields:3
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Olberic ataca
+Ice Remnant recibe 808 de daño de tipo Sword con debilidad
+Ice Remnant recibe 808 de daño de tipo Sword con debilidad
+Ice Remnant termina con HP:0
+----------------------------------------
+Gana equipo del jugador

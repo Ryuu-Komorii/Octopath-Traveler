@@ -1,0 +1,530 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+INPUT: 12
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:1
+Equipo del enemigo
+A-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Behemoth
+2.Olberic
+----------------------------------------
+Behemoth usa Stampede
+Olberic recibe 642 de daño físico
+Olberic termina con HP:5139
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5139/5781 SP:291/291 BP:1
+Equipo del enemigo
+A-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Behemoth
+2.Olberic
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5139/5781 SP:291/291 BP:2
+Equipo del enemigo
+A-Behemoth - HP:12690/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Behemoth
+2.Olberic
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Behemoth - HP:12690/12690 Shields:8
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Behemoth recibe 114 de daño de tipo Sword
+Behemoth termina con HP:12576
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5139/5781 SP:291/291 BP:2
+Equipo del enemigo
+A-Behemoth - HP:12576/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Behemoth
+2.Olberic
+----------------------------------------
+Behemoth usa Stampede
+Olberic recibe 642 de daño físico
+Olberic termina con HP:4497
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4497/5781 SP:291/291 BP:3
+Equipo del enemigo
+A-Behemoth - HP:12576/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Behemoth
+2.Olberic
+----------------------------------------
+Behemoth usa Stampede
+Olberic recibe 642 de daño físico
+Olberic termina con HP:3855
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:3855/5781 SP:291/291 BP:3
+Equipo del enemigo
+A-Behemoth - HP:12576/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Behemoth
+2.Olberic
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Brand's Thunder
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Behemoth - HP:12576/12690 Shields:8
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Olberic usa Brand's Thunder
+Behemoth recibe 3882 de daño de tipo Sword
+Behemoth termina con HP:8694
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:3855/5781 SP:261/291 BP:0
+Equipo del enemigo
+A-Behemoth - HP:8694/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Behemoth
+2.Olberic
+----------------------------------------
+Behemoth usa Stampede
+Olberic recibe 642 de daño físico
+Olberic termina con HP:3213
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:3213/5781 SP:261/291 BP:0
+Equipo del enemigo
+A-Behemoth - HP:8694/12690 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Behemoth
+2.Olberic
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Behemoth - HP:8694/12690 Shields:8
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Olberic ataca
+Behemoth recibe 171 de daño de tipo Spear con debilidad
+Behemoth termina con HP:8523
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:3213/5781 SP:261/291 BP:1
+Equipo del enemigo
+A-Behemoth - HP:8523/12690 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Behemoth
+2.Olberic
+----------------------------------------
+Behemoth usa Stampede
+Olberic recibe 642 de daño físico
+Olberic termina con HP:2571
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:2571/5781 SP:261/291 BP:1
+Equipo del enemigo
+A-Behemoth - HP:8523/12690 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Behemoth
+2.Olberic
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Behemoth - HP:8523/12690 Shields:7
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Behemoth recibe 171 de daño de tipo Spear con debilidad
+Behemoth termina con HP:8352
+----------------------------------------
+INICIA RONDA 6
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:2571/5781 SP:261/291 BP:2
+Equipo del enemigo
+A-Behemoth - HP:8352/12690 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Behemoth
+2.Olberic
+----------------------------------------
+Behemoth usa Stampede
+Olberic recibe 642 de daño físico
+Olberic termina con HP:1929
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:1929/5781 SP:261/291 BP:2
+Equipo del enemigo
+A-Behemoth - HP:8352/12690 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Behemoth
+2.Olberic
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Behemoth - HP:8352/12690 Shields:6
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Behemoth recibe 171 de daño de tipo Spear con debilidad
+Behemoth termina con HP:8181
+----------------------------------------
+INICIA RONDA 7
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:1929/5781 SP:261/291 BP:3
+Equipo del enemigo
+A-Behemoth - HP:8181/12690 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Behemoth
+2.Olberic
+----------------------------------------
+Behemoth usa Stampede
+Olberic recibe 642 de daño físico
+Olberic termina con HP:1287
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:1287/5781 SP:261/291 BP:3
+Equipo del enemigo
+A-Behemoth - HP:8181/12690 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Behemoth
+2.Olberic
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Brand's Thunder
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Behemoth - HP:8181/12690 Shields:5
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Olberic usa Brand's Thunder
+Behemoth recibe 3882 de daño de tipo Sword
+Behemoth termina con HP:4299
+----------------------------------------
+INICIA RONDA 8
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:1287/5781 SP:231/291 BP:0
+Equipo del enemigo
+A-Behemoth - HP:4299/12690 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Behemoth
+2.Olberic
+----------------------------------------
+Behemoth usa Stampede
+Olberic recibe 642 de daño físico
+Olberic termina con HP:645
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:645/5781 SP:231/291 BP:0
+Equipo del enemigo
+A-Behemoth - HP:4299/12690 Shields:5
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Behemoth
+2.Olberic
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Behemoth - HP:4299/12690 Shields:5
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Olberic ataca
+Behemoth recibe 171 de daño de tipo Spear con debilidad
+Behemoth termina con HP:4128
+----------------------------------------
+INICIA RONDA 9
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:645/5781 SP:231/291 BP:1
+Equipo del enemigo
+A-Behemoth - HP:4128/12690 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Behemoth
+2.Olberic
+----------------------------------------
+Behemoth usa Stampede
+Olberic recibe 642 de daño físico
+Olberic termina con HP:3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:3/5781 SP:231/291 BP:1
+Equipo del enemigo
+A-Behemoth - HP:4128/12690 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Behemoth
+2.Olberic
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Behemoth - HP:4128/12690 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Behemoth recibe 171 de daño de tipo Spear con debilidad
+Behemoth termina con HP:3957
+----------------------------------------
+INICIA RONDA 10
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:3/5781 SP:231/291 BP:2
+Equipo del enemigo
+A-Behemoth - HP:3957/12690 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Behemoth
+2.Olberic
+----------------------------------------
+Behemoth usa Stampede
+Olberic recibe 642 de daño físico
+Olberic termina con HP:0
+----------------------------------------
+Gana equipo del enemigo

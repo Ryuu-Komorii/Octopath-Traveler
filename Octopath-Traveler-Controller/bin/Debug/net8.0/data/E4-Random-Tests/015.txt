@@ -1,0 +1,6334 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+INPUT: 14
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:317/317 BP:1
+B-Osvald - HP:3557/3557 SP:541/541 BP:2
+C-Z'aanta - HP:3222/3222 SP:371/371 BP:1
+D-Agnea - HP:4002/4002 SP:504/504 BP:1
+Equipo del enemigo
+A-Light Elemental - HP:1880/1880 Shields:4
+B-Ice Elemental - HP:2160/2160 Shields:4
+C-Armor Eater - HP:1594/1594 Shields:4
+D-Lord of the Flies - HP:5590/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Z'aanta
+3.Hikari
+4.Osvald
+5.Lord of the Flies
+6.Ice Elemental
+7.Light Elemental
+8.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Z'aanta
+3.Hikari
+4.Osvald
+5.Lord of the Flies
+6.Ice Elemental
+7.Light Elemental
+8.Armor Eater
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Agnea
+1: Revive
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Agnea no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Agnea no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Agnea usa Revive
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:317/317 BP:1
+B-Osvald - HP:3557/3557 SP:541/541 BP:2
+C-Z'aanta - HP:3222/3222 SP:371/371 BP:1
+D-Agnea - HP:4002/4002 SP:454/504 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1880/1880 Shields:4
+B-Ice Elemental - HP:2160/2160 Shields:4
+C-Armor Eater - HP:1594/1594 Shields:4
+D-Lord of the Flies - HP:5590/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Hikari
+3.Osvald
+4.Lord of the Flies
+5.Ice Elemental
+6.Light Elemental
+7.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Z'aanta
+3.Hikari
+4.Osvald
+5.Lord of the Flies
+6.Ice Elemental
+7.Light Elemental
+8.Armor Eater
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Z'aanta
+1: Incite
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Z'aanta no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Z'aanta usa Incite
+Z'aanta protegerá de ataques durante 3 rondas
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:317/317 BP:1
+B-Osvald - HP:3557/3557 SP:541/541 BP:2
+C-Z'aanta - HP:3222/3222 SP:367/371 BP:1
+D-Agnea - HP:4002/4002 SP:454/504 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1880/1880 Shields:4
+B-Ice Elemental - HP:2160/2160 Shields:4
+C-Armor Eater - HP:1594/1594 Shields:4
+D-Lord of the Flies - HP:5590/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Osvald
+3.Lord of the Flies
+4.Ice Elemental
+5.Light Elemental
+6.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Z'aanta
+3.Hikari
+4.Osvald
+5.Lord of the Flies
+6.Ice Elemental
+7.Light Elemental
+8.Armor Eater
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:317/317 BP:1
+B-Osvald - HP:3557/3557 SP:541/541 BP:2
+C-Z'aanta - HP:3222/3222 SP:367/371 BP:1
+D-Agnea - HP:4002/4002 SP:454/504 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1880/1880 Shields:4
+B-Ice Elemental - HP:2160/2160 Shields:4
+C-Armor Eater - HP:1594/1594 Shields:4
+D-Lord of the Flies - HP:5590/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Lord of the Flies
+3.Ice Elemental
+4.Light Elemental
+5.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Agnea
+3.Z'aanta
+4.Osvald
+5.Lord of the Flies
+6.Ice Elemental
+7.Light Elemental
+8.Armor Eater
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Osvald
+1: Light Elemental - HP:1880/1880 Shields:4
+2: Ice Elemental - HP:2160/2160 Shields:4
+3: Armor Eater - HP:1594/1594 Shields:4
+4: Lord of the Flies - HP:5590/5590 Shields:3
+5: Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Osvald ataca
+Lord of the Flies recibe 0 de daño de tipo Stave
+Lord of the Flies recibe 0 de daño de tipo Stave
+Lord of the Flies recibe 0 de daño de tipo Stave
+Lord of the Flies termina con HP:5590
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:317/317 BP:1
+B-Osvald - HP:3557/3557 SP:541/541 BP:0
+C-Z'aanta - HP:3222/3222 SP:367/371 BP:1
+D-Agnea - HP:4002/4002 SP:454/504 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1880/1880 Shields:4
+B-Ice Elemental - HP:2160/2160 Shields:4
+C-Armor Eater - HP:1594/1594 Shields:4
+D-Lord of the Flies - HP:5590/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+2.Ice Elemental
+3.Light Elemental
+4.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Agnea
+3.Z'aanta
+4.Osvald
+5.Lord of the Flies
+6.Ice Elemental
+7.Light Elemental
+8.Armor Eater
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Z'aanta recibe 352 de daño físico
+Z'aanta termina con HP:2870
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:317/317 BP:1
+B-Osvald - HP:3557/3557 SP:541/541 BP:0
+C-Z'aanta - HP:2870/3222 SP:367/371 BP:1
+D-Agnea - HP:4002/4002 SP:454/504 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1880/1880 Shields:4
+B-Ice Elemental - HP:2160/2160 Shields:4
+C-Armor Eater - HP:1594/1594 Shields:4
+D-Lord of the Flies - HP:5590/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+2.Light Elemental
+3.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Agnea
+3.Z'aanta
+4.Osvald
+5.Lord of the Flies
+6.Ice Elemental
+7.Light Elemental
+8.Armor Eater
+----------------------------------------
+Ice Elemental usa Iceshot
+Z'aanta recibe 242 de daño elemental
+Z'aanta termina con HP:2628
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:317/317 BP:1
+B-Osvald - HP:3557/3557 SP:541/541 BP:0
+C-Z'aanta - HP:2628/3222 SP:367/371 BP:1
+D-Agnea - HP:4002/4002 SP:454/504 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1880/1880 Shields:4
+B-Ice Elemental - HP:2160/2160 Shields:4
+C-Armor Eater - HP:1594/1594 Shields:4
+D-Lord of the Flies - HP:5590/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Light Elemental
+2.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Agnea
+3.Z'aanta
+4.Osvald
+5.Lord of the Flies
+6.Ice Elemental
+7.Light Elemental
+8.Armor Eater
+----------------------------------------
+Light Elemental usa Lightshot
+Z'aanta recibe 144 de daño elemental
+Z'aanta termina con HP:2484
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:317/317 BP:1
+B-Osvald - HP:3557/3557 SP:541/541 BP:0
+C-Z'aanta - HP:2484/3222 SP:367/371 BP:1
+D-Agnea - HP:4002/4002 SP:454/504 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1880/1880 Shields:4
+B-Ice Elemental - HP:2160/2160 Shields:4
+C-Armor Eater - HP:1594/1594 Shields:4
+D-Lord of the Flies - HP:5590/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Agnea
+3.Z'aanta
+4.Osvald
+5.Lord of the Flies
+6.Ice Elemental
+7.Light Elemental
+8.Armor Eater
+----------------------------------------
+Armor Eater usa Consume Armor
+Z'aanta tendrá Decreased Physical Defense durante 2 rondas
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:317/317 BP:2
+B-Osvald - HP:3557/3557 SP:541/541 BP:0
+C-Z'aanta - HP:2484/3222 SP:367/371 BP:2
+D-Agnea - HP:4002/4002 SP:454/504 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1880/1880 Shields:4
+B-Ice Elemental - HP:2160/2160 Shields:4
+C-Armor Eater - HP:1594/1594 Shields:4
+D-Lord of the Flies - HP:5590/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Agnea
+3.Z'aanta
+4.Osvald
+5.Lord of the Flies
+6.Ice Elemental
+7.Light Elemental
+8.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Z'aanta
+3.Hikari
+4.Osvald
+5.Lord of the Flies
+6.Ice Elemental
+7.Light Elemental
+8.Armor Eater
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Peacock Strut
+2: Tonitrus Canere
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Hikari - HP:5781/5781 SP:317/317 BP:2
+2: Osvald - HP:3557/3557 SP:541/541 BP:0
+3: Z'aanta - HP:2484/3222 SP:367/371 BP:2
+4: Agnea - HP:4002/4002 SP:454/504 BP:0
+5: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Hikari no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Hikari usa Peacock Strut
+Hikari tendrá Increased Elemental Attack durante 6 rondas
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:313/317 BP:0
+B-Osvald - HP:3557/3557 SP:541/541 BP:0
+C-Z'aanta - HP:2484/3222 SP:367/371 BP:2
+D-Agnea - HP:4002/4002 SP:454/504 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1880/1880 Shields:4
+B-Ice Elemental - HP:2160/2160 Shields:4
+C-Armor Eater - HP:1594/1594 Shields:4
+D-Lord of the Flies - HP:5590/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Z'aanta
+3.Osvald
+4.Lord of the Flies
+5.Ice Elemental
+6.Light Elemental
+7.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Z'aanta
+3.Hikari
+4.Osvald
+5.Lord of the Flies
+6.Ice Elemental
+7.Light Elemental
+8.Armor Eater
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Agnea
+1: Revive
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Agnea usa Revive
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:313/317 BP:0
+B-Osvald - HP:3557/3557 SP:541/541 BP:0
+C-Z'aanta - HP:2484/3222 SP:367/371 BP:2
+D-Agnea - HP:4002/4002 SP:404/504 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1880/1880 Shields:4
+B-Ice Elemental - HP:2160/2160 Shields:4
+C-Armor Eater - HP:1594/1594 Shields:4
+D-Lord of the Flies - HP:5590/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Osvald
+3.Lord of the Flies
+4.Ice Elemental
+5.Light Elemental
+6.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Z'aanta
+3.Hikari
+4.Osvald
+5.Lord of the Flies
+6.Ice Elemental
+7.Light Elemental
+8.Armor Eater
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:313/317 BP:0
+B-Osvald - HP:3557/3557 SP:541/541 BP:0
+C-Z'aanta - HP:2484/3222 SP:367/371 BP:2
+D-Agnea - HP:4002/4002 SP:404/504 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1880/1880 Shields:4
+B-Ice Elemental - HP:2160/2160 Shields:4
+C-Armor Eater - HP:1594/1594 Shields:4
+D-Lord of the Flies - HP:5590/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Lord of the Flies
+3.Ice Elemental
+4.Light Elemental
+5.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Agnea
+3.Hikari
+4.Osvald
+5.Lord of the Flies
+6.Ice Elemental
+7.Light Elemental
+8.Armor Eater
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Osvald
+1: Reflective Veil
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Osvald
+1: Hikari - HP:5781/5781 SP:313/317 BP:0
+2: Osvald - HP:3557/3557 SP:541/541 BP:0
+3: Z'aanta - HP:2484/3222 SP:367/371 BP:2
+4: Agnea - HP:4002/4002 SP:404/504 BP:0
+5: Cancelar
+INPUT: 1
+----------------------------------------
+Osvald usa Reflective Veil
+Hikari reflejará los próximos 1 ataques elementales
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:313/317 BP:0
+B-Osvald - HP:3557/3557 SP:519/541 BP:0
+C-Z'aanta - HP:2484/3222 SP:367/371 BP:2
+D-Agnea - HP:4002/4002 SP:404/504 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1880/1880 Shields:4
+B-Ice Elemental - HP:2160/2160 Shields:4
+C-Armor Eater - HP:1594/1594 Shields:4
+D-Lord of the Flies - HP:5590/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+2.Ice Elemental
+3.Light Elemental
+4.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Agnea
+3.Hikari
+4.Osvald
+5.Lord of the Flies
+6.Ice Elemental
+7.Light Elemental
+8.Armor Eater
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Z'aanta se defiende
+Z'aanta recibe 264 de daño físico
+Z'aanta termina con HP:2220
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:313/317 BP:0
+B-Osvald - HP:3557/3557 SP:519/541 BP:0
+C-Z'aanta - HP:2220/3222 SP:367/371 BP:2
+D-Agnea - HP:4002/4002 SP:404/504 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1880/1880 Shields:4
+B-Ice Elemental - HP:2160/2160 Shields:4
+C-Armor Eater - HP:1594/1594 Shields:4
+D-Lord of the Flies - HP:5590/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+2.Light Elemental
+3.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Agnea
+3.Hikari
+4.Osvald
+5.Lord of the Flies
+6.Ice Elemental
+7.Light Elemental
+8.Armor Eater
+----------------------------------------
+Ice Elemental usa Iceshot
+Z'aanta se defiende
+Z'aanta recibe 121 de daño elemental
+Z'aanta termina con HP:2099
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:313/317 BP:0
+B-Osvald - HP:3557/3557 SP:519/541 BP:0
+C-Z'aanta - HP:2099/3222 SP:367/371 BP:2
+D-Agnea - HP:4002/4002 SP:404/504 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1880/1880 Shields:4
+B-Ice Elemental - HP:2160/2160 Shields:4
+C-Armor Eater - HP:1594/1594 Shields:4
+D-Lord of the Flies - HP:5590/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Light Elemental
+2.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Agnea
+3.Hikari
+4.Osvald
+5.Lord of the Flies
+6.Ice Elemental
+7.Light Elemental
+8.Armor Eater
+----------------------------------------
+Light Elemental usa Lightshot
+Z'aanta se defiende
+Z'aanta recibe 72 de daño elemental
+Z'aanta termina con HP:2027
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:313/317 BP:0
+B-Osvald - HP:3557/3557 SP:519/541 BP:0
+C-Z'aanta - HP:2027/3222 SP:367/371 BP:2
+D-Agnea - HP:4002/4002 SP:404/504 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1880/1880 Shields:4
+B-Ice Elemental - HP:2160/2160 Shields:4
+C-Armor Eater - HP:1594/1594 Shields:4
+D-Lord of the Flies - HP:5590/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Agnea
+3.Hikari
+4.Osvald
+5.Lord of the Flies
+6.Ice Elemental
+7.Light Elemental
+8.Armor Eater
+----------------------------------------
+Armor Eater usa Consume Armor
+Z'aanta tendrá Decreased Physical Defense durante 2 rondas
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:313/317 BP:0
+B-Osvald - HP:3557/3557 SP:519/541 BP:1
+C-Z'aanta - HP:2027/3222 SP:367/371 BP:3
+D-Agnea - HP:4002/4002 SP:404/504 BP:1
+Equipo del enemigo
+A-Light Elemental - HP:1880/1880 Shields:4
+B-Ice Elemental - HP:2160/2160 Shields:4
+C-Armor Eater - HP:1594/1594 Shields:4
+D-Lord of the Flies - HP:5590/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Agnea
+3.Hikari
+4.Osvald
+5.Lord of the Flies
+6.Ice Elemental
+7.Light Elemental
+8.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Z'aanta
+3.Hikari
+4.Osvald
+5.Lord of the Flies
+6.Ice Elemental
+7.Light Elemental
+8.Armor Eater
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:313/317 BP:0
+B-Osvald - HP:3557/3557 SP:519/541 BP:1
+C-Z'aanta - HP:2027/3222 SP:367/371 BP:3
+D-Agnea - HP:4002/4002 SP:404/504 BP:1
+Equipo del enemigo
+A-Light Elemental - HP:1880/1880 Shields:4
+B-Ice Elemental - HP:2160/2160 Shields:4
+C-Armor Eater - HP:1594/1594 Shields:4
+D-Lord of the Flies - HP:5590/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Hikari
+3.Osvald
+4.Lord of the Flies
+5.Ice Elemental
+6.Light Elemental
+7.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Agnea
+3.Hikari
+4.Osvald
+5.Lord of the Flies
+6.Ice Elemental
+7.Light Elemental
+8.Armor Eater
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Agnea
+1: Revive
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Agnea usa Revive
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:313/317 BP:0
+B-Osvald - HP:3557/3557 SP:519/541 BP:1
+C-Z'aanta - HP:2027/3222 SP:367/371 BP:3
+D-Agnea - HP:4002/4002 SP:354/504 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:1880/1880 Shields:4
+B-Ice Elemental - HP:2160/2160 Shields:4
+C-Armor Eater - HP:1594/1594 Shields:4
+D-Lord of the Flies - HP:5590/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Osvald
+3.Lord of the Flies
+4.Ice Elemental
+5.Light Elemental
+6.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Agnea
+3.Hikari
+4.Osvald
+5.Lord of the Flies
+6.Ice Elemental
+7.Light Elemental
+8.Armor Eater
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Peacock Strut
+2: Tonitrus Canere
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Hikari usa Tonitrus Canere
+Light Elemental recibe 381 de daño de tipo Lightning
+Light Elemental recibe 381 de daño de tipo Lightning
+Light Elemental recibe 381 de daño de tipo Lightning
+Ice Elemental recibe 439 de daño de tipo Lightning con debilidad
+Ice Elemental recibe 439 de daño de tipo Lightning con debilidad
+Ice Elemental recibe 439 de daño de tipo Lightning con debilidad
+Armor Eater recibe 217 de daño de tipo Lightning
+Armor Eater recibe 217 de daño de tipo Lightning
+Armor Eater recibe 217 de daño de tipo Lightning
+Lord of the Flies recibe 0 de daño de tipo Lightning
+Lord of the Flies recibe 0 de daño de tipo Lightning
+Lord of the Flies recibe 0 de daño de tipo Lightning
+Light Elemental termina con HP:737
+Ice Elemental termina con HP:843
+Armor Eater termina con HP:943
+Lord of the Flies termina con HP:5590
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:277/317 BP:0
+B-Osvald - HP:3557/3557 SP:519/541 BP:1
+C-Z'aanta - HP:2027/3222 SP:367/371 BP:3
+D-Agnea - HP:4002/4002 SP:354/504 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:737/1880 Shields:4
+B-Ice Elemental - HP:843/2160 Shields:1
+C-Armor Eater - HP:943/1594 Shields:4
+D-Lord of the Flies - HP:5590/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Lord of the Flies
+3.Ice Elemental
+4.Light Elemental
+5.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Agnea
+3.Hikari
+4.Osvald
+5.Lord of the Flies
+6.Ice Elemental
+7.Light Elemental
+8.Armor Eater
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Osvald
+1: Reflective Veil
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Osvald
+1: Hikari - HP:5781/5781 SP:277/317 BP:0
+2: Osvald - HP:3557/3557 SP:519/541 BP:1
+3: Z'aanta - HP:2027/3222 SP:367/371 BP:3
+4: Agnea - HP:4002/4002 SP:354/504 BP:0
+5: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Osvald usa Reflective Veil
+Z'aanta reflejará los próximos 1 ataques elementales
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:277/317 BP:0
+B-Osvald - HP:3557/3557 SP:497/541 BP:1
+C-Z'aanta - HP:2027/3222 SP:367/371 BP:3
+D-Agnea - HP:4002/4002 SP:354/504 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:737/1880 Shields:4
+B-Ice Elemental - HP:843/2160 Shields:1
+C-Armor Eater - HP:943/1594 Shields:4
+D-Lord of the Flies - HP:5590/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+2.Ice Elemental
+3.Light Elemental
+4.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Agnea
+3.Hikari
+4.Osvald
+5.Lord of the Flies
+6.Ice Elemental
+7.Light Elemental
+8.Armor Eater
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Z'aanta se defiende
+Z'aanta recibe 264 de daño físico
+Z'aanta termina con HP:1763
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:277/317 BP:0
+B-Osvald - HP:3557/3557 SP:497/541 BP:1
+C-Z'aanta - HP:1763/3222 SP:367/371 BP:3
+D-Agnea - HP:4002/4002 SP:354/504 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:737/1880 Shields:4
+B-Ice Elemental - HP:843/2160 Shields:1
+C-Armor Eater - HP:943/1594 Shields:4
+D-Lord of the Flies - HP:5590/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+2.Light Elemental
+3.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Agnea
+3.Hikari
+4.Osvald
+5.Lord of the Flies
+6.Ice Elemental
+7.Light Elemental
+8.Armor Eater
+----------------------------------------
+Ice Elemental usa Iceshot
+Z'aanta se defiende
+Z'aanta refleja el daño
+Ice Elemental recibe 121 de daño
+Ice Elemental termina con HP:722
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:277/317 BP:0
+B-Osvald - HP:3557/3557 SP:497/541 BP:1
+C-Z'aanta - HP:1763/3222 SP:367/371 BP:3
+D-Agnea - HP:4002/4002 SP:354/504 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:737/1880 Shields:4
+B-Ice Elemental - HP:722/2160 Shields:1
+C-Armor Eater - HP:943/1594 Shields:4
+D-Lord of the Flies - HP:5590/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Light Elemental
+2.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Agnea
+3.Hikari
+4.Osvald
+5.Lord of the Flies
+6.Ice Elemental
+7.Light Elemental
+8.Armor Eater
+----------------------------------------
+Light Elemental usa Lightshot
+Z'aanta se defiende
+Z'aanta recibe 72 de daño elemental
+Z'aanta termina con HP:1691
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:277/317 BP:0
+B-Osvald - HP:3557/3557 SP:497/541 BP:1
+C-Z'aanta - HP:1691/3222 SP:367/371 BP:3
+D-Agnea - HP:4002/4002 SP:354/504 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:737/1880 Shields:4
+B-Ice Elemental - HP:722/2160 Shields:1
+C-Armor Eater - HP:943/1594 Shields:4
+D-Lord of the Flies - HP:5590/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Agnea
+3.Hikari
+4.Osvald
+5.Lord of the Flies
+6.Ice Elemental
+7.Light Elemental
+8.Armor Eater
+----------------------------------------
+Armor Eater usa Consume Armor
+Z'aanta tendrá Decreased Physical Defense durante 2 rondas
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:277/317 BP:1
+B-Osvald - HP:3557/3557 SP:497/541 BP:2
+C-Z'aanta - HP:1691/3222 SP:367/371 BP:4
+D-Agnea - HP:4002/4002 SP:354/504 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:737/1880 Shields:4
+B-Ice Elemental - HP:722/2160 Shields:1
+C-Armor Eater - HP:943/1594 Shields:4
+D-Lord of the Flies - HP:5590/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Agnea
+3.Hikari
+4.Osvald
+5.Lord of the Flies
+6.Ice Elemental
+7.Light Elemental
+8.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Z'aanta
+3.Hikari
+4.Osvald
+5.Lord of the Flies
+6.Ice Elemental
+7.Light Elemental
+8.Armor Eater
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Z'aanta
+1: Incite
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Z'aanta usa Incite
+Z'aanta protegerá de ataques durante 5 rondas
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:277/317 BP:1
+B-Osvald - HP:3557/3557 SP:497/541 BP:2
+C-Z'aanta - HP:1691/3222 SP:363/371 BP:3
+D-Agnea - HP:4002/4002 SP:354/504 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:737/1880 Shields:4
+B-Ice Elemental - HP:722/2160 Shields:1
+C-Armor Eater - HP:943/1594 Shields:4
+D-Lord of the Flies - HP:5590/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Hikari
+3.Osvald
+4.Lord of the Flies
+5.Ice Elemental
+6.Light Elemental
+7.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Z'aanta
+3.Hikari
+4.Osvald
+5.Lord of the Flies
+6.Ice Elemental
+7.Light Elemental
+8.Armor Eater
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Agnea
+1: Revive
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Agnea usa Revive
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:277/317 BP:1
+B-Osvald - HP:3557/3557 SP:497/541 BP:2
+C-Z'aanta - HP:1691/3222 SP:363/371 BP:3
+D-Agnea - HP:4002/4002 SP:304/504 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:737/1880 Shields:4
+B-Ice Elemental - HP:722/2160 Shields:1
+C-Armor Eater - HP:943/1594 Shields:4
+D-Lord of the Flies - HP:5590/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Osvald
+3.Lord of the Flies
+4.Ice Elemental
+5.Light Elemental
+6.Armor Eater
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Z'aanta
+3.Hikari
+4.Osvald
+5.Lord of the Flies
+6.Ice Elemental
+7.Light Elemental
+8.Armor Eater
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Peacock Strut
+2: Tonitrus Canere
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Hikari no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Hikari no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Hikari usa Tonitrus Canere
+Light Elemental recibe 936 de daño de tipo Lightning
+Light Elemental recibe 936 de daño de tipo Lightning
+Light Elemental recibe 936 de daño de tipo Lightning
+Ice Elemental recibe 1271 de daño de tipo Lightning con debilidad
+Ice Elemental entra en Breaking Point
+Ice Elemental recibe 1695 de daño de tipo Lightning con debilidad
+Ice Elemental recibe 1695 de daño de tipo Lightning con debilidad
+Armor Eater recibe 772 de daño de tipo Lightning
+Armor Eater recibe 772 de daño de tipo Lightning
+Armor Eater recibe 772 de daño de tipo Lightning
+Lord of the Flies recibe 538 de daño de tipo Lightning
+Lord of the Flies recibe 538 de daño de tipo Lightning
+Lord of the Flies recibe 538 de daño de tipo Lightning
+Light Elemental termina con HP:0
+Ice Elemental termina con HP:0
+Armor Eater termina con HP:0
+Lord of the Flies termina con HP:3976
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:241/317 BP:0
+B-Osvald - HP:3557/3557 SP:497/541 BP:2
+C-Z'aanta - HP:1691/3222 SP:363/371 BP:3
+D-Agnea - HP:4002/4002 SP:304/504 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:0/1880 Shields:4
+B-Ice Elemental - HP:0/2160 Shields:0
+C-Armor Eater - HP:0/1594 Shields:4
+D-Lord of the Flies - HP:3976/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Z'aanta
+3.Hikari
+4.Osvald
+5.Lord of the Flies
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Osvald
+1: Reflective Veil
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Osvald
+1: Hikari - HP:5781/5781 SP:241/317 BP:0
+2: Osvald - HP:3557/3557 SP:497/541 BP:2
+3: Z'aanta - HP:1691/3222 SP:363/371 BP:3
+4: Agnea - HP:4002/4002 SP:304/504 BP:0
+5: Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Osvald usa Reflective Veil
+Agnea reflejará los próximos 3 ataques elementales
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:241/317 BP:0
+B-Osvald - HP:3557/3557 SP:475/541 BP:0
+C-Z'aanta - HP:1691/3222 SP:363/371 BP:3
+D-Agnea - HP:4002/4002 SP:304/504 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:0/1880 Shields:4
+B-Ice Elemental - HP:0/2160 Shields:0
+C-Armor Eater - HP:0/1594 Shields:4
+D-Lord of the Flies - HP:3976/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Z'aanta
+3.Hikari
+4.Osvald
+5.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Z'aanta recibe 529 de daño físico
+Z'aanta termina con HP:1162
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:241/317 BP:0
+B-Osvald - HP:3557/3557 SP:475/541 BP:0
+C-Z'aanta - HP:1162/3222 SP:363/371 BP:3
+D-Agnea - HP:4002/4002 SP:304/504 BP:1
+Equipo del enemigo
+A-Light Elemental - HP:0/1880 Shields:4
+B-Ice Elemental - HP:0/2160 Shields:0
+C-Armor Eater - HP:0/1594 Shields:4
+D-Lord of the Flies - HP:3976/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Z'aanta
+3.Hikari
+4.Osvald
+5.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Z'aanta
+3.Hikari
+4.Osvald
+5.Lord of the Flies
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:241/317 BP:0
+B-Osvald - HP:3557/3557 SP:475/541 BP:0
+C-Z'aanta - HP:1162/3222 SP:363/371 BP:3
+D-Agnea - HP:4002/4002 SP:304/504 BP:1
+Equipo del enemigo
+A-Light Elemental - HP:0/1880 Shields:4
+B-Ice Elemental - HP:0/2160 Shields:0
+C-Armor Eater - HP:0/1594 Shields:4
+D-Lord of the Flies - HP:3976/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Hikari
+3.Osvald
+4.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Z'aanta
+3.Hikari
+4.Osvald
+5.Lord of the Flies
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Z'aanta
+1: Lord of the Flies - HP:3976/5590 Shields:3
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Z'aanta ataca
+Lord of the Flies recibe 0 de daño de tipo Bow con debilidad
+Lord of the Flies recibe 0 de daño de tipo Bow con debilidad
+Lord of the Flies recibe 0 de daño de tipo Bow con debilidad
+Lord of the Flies recibe 0 de daño de tipo Bow con debilidad
+Lord of the Flies termina con HP:3976
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:241/317 BP:0
+B-Osvald - HP:3557/3557 SP:475/541 BP:0
+C-Z'aanta - HP:1162/3222 SP:363/371 BP:0
+D-Agnea - HP:4002/4002 SP:304/504 BP:1
+Equipo del enemigo
+A-Light Elemental - HP:0/1880 Shields:4
+B-Ice Elemental - HP:0/2160 Shields:0
+C-Armor Eater - HP:0/1594 Shields:4
+D-Lord of the Flies - HP:3976/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Osvald
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Z'aanta
+3.Hikari
+4.Osvald
+5.Lord of the Flies
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Peacock Strut
+2: Tonitrus Canere
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Hikari usa Tonitrus Canere
+Lord of the Flies recibe 0 de daño de tipo Lightning
+Lord of the Flies recibe 0 de daño de tipo Lightning
+Lord of the Flies recibe 0 de daño de tipo Lightning
+Lord of the Flies termina con HP:3976
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:205/317 BP:0
+B-Osvald - HP:3557/3557 SP:475/541 BP:0
+C-Z'aanta - HP:1162/3222 SP:363/371 BP:0
+D-Agnea - HP:4002/4002 SP:304/504 BP:1
+Equipo del enemigo
+A-Light Elemental - HP:0/1880 Shields:4
+B-Ice Elemental - HP:0/2160 Shields:0
+C-Armor Eater - HP:0/1594 Shields:4
+D-Lord of the Flies - HP:3976/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Z'aanta
+3.Hikari
+4.Osvald
+5.Lord of the Flies
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Osvald
+1: Lord of the Flies - HP:3976/5590 Shields:3
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Osvald ataca
+Lord of the Flies recibe 0 de daño de tipo Stave
+Lord of the Flies termina con HP:3976
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:205/317 BP:0
+B-Osvald - HP:3557/3557 SP:475/541 BP:0
+C-Z'aanta - HP:1162/3222 SP:363/371 BP:0
+D-Agnea - HP:4002/4002 SP:304/504 BP:1
+Equipo del enemigo
+A-Light Elemental - HP:0/1880 Shields:4
+B-Ice Elemental - HP:0/2160 Shields:0
+C-Armor Eater - HP:0/1594 Shields:4
+D-Lord of the Flies - HP:3976/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Z'aanta
+3.Hikari
+4.Osvald
+5.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Z'aanta recibe 529 de daño físico
+Z'aanta termina con HP:633
+----------------------------------------
+INICIA RONDA 6
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:205/317 BP:1
+B-Osvald - HP:3557/3557 SP:475/541 BP:1
+C-Z'aanta - HP:633/3222 SP:363/371 BP:0
+D-Agnea - HP:4002/4002 SP:304/504 BP:2
+Equipo del enemigo
+A-Light Elemental - HP:0/1880 Shields:4
+B-Ice Elemental - HP:0/2160 Shields:0
+C-Armor Eater - HP:0/1594 Shields:4
+D-Lord of the Flies - HP:3976/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Z'aanta
+3.Hikari
+4.Osvald
+5.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Z'aanta
+3.Hikari
+4.Osvald
+5.Lord of the Flies
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Agnea
+1: Revive
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Agnea usa Revive
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:205/317 BP:1
+B-Osvald - HP:3557/3557 SP:475/541 BP:1
+C-Z'aanta - HP:633/3222 SP:363/371 BP:0
+D-Agnea - HP:4002/4002 SP:254/504 BP:2
+Equipo del enemigo
+A-Light Elemental - HP:0/1880 Shields:4
+B-Ice Elemental - HP:0/2160 Shields:0
+C-Armor Eater - HP:0/1594 Shields:4
+D-Lord of the Flies - HP:3976/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Hikari
+3.Osvald
+4.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Z'aanta
+3.Hikari
+4.Osvald
+5.Lord of the Flies
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:205/317 BP:1
+B-Osvald - HP:3557/3557 SP:475/541 BP:1
+C-Z'aanta - HP:633/3222 SP:363/371 BP:0
+D-Agnea - HP:4002/4002 SP:254/504 BP:2
+Equipo del enemigo
+A-Light Elemental - HP:0/1880 Shields:4
+B-Ice Elemental - HP:0/2160 Shields:0
+C-Armor Eater - HP:0/1594 Shields:4
+D-Lord of the Flies - HP:3976/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Osvald
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Agnea
+3.Hikari
+4.Osvald
+5.Lord of the Flies
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Peacock Strut
+2: Tonitrus Canere
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Hikari - HP:5781/5781 SP:205/317 BP:1
+2: Osvald - HP:3557/3557 SP:475/541 BP:1
+3: Z'aanta - HP:633/3222 SP:363/371 BP:0
+4: Agnea - HP:4002/4002 SP:254/504 BP:2
+5: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Hikari no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Hikari no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Hikari no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Hikari no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari usa Peacock Strut
+Z'aanta tendrá Increased Elemental Attack durante 2 rondas
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:201/317 BP:1
+B-Osvald - HP:3557/3557 SP:475/541 BP:1
+C-Z'aanta - HP:633/3222 SP:363/371 BP:0
+D-Agnea - HP:4002/4002 SP:254/504 BP:2
+Equipo del enemigo
+A-Light Elemental - HP:0/1880 Shields:4
+B-Ice Elemental - HP:0/2160 Shields:0
+C-Armor Eater - HP:0/1594 Shields:4
+D-Lord of the Flies - HP:3976/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Agnea
+3.Hikari
+4.Osvald
+5.Lord of the Flies
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Osvald
+1: Reflective Veil
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Osvald
+1: Hikari - HP:5781/5781 SP:201/317 BP:1
+2: Osvald - HP:3557/3557 SP:475/541 BP:1
+3: Z'aanta - HP:633/3222 SP:363/371 BP:0
+4: Agnea - HP:4002/4002 SP:254/504 BP:2
+5: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Osvald no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Osvald usa Reflective Veil
+Z'aanta reflejará los próximos 1 ataques elementales
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:201/317 BP:1
+B-Osvald - HP:3557/3557 SP:453/541 BP:1
+C-Z'aanta - HP:633/3222 SP:363/371 BP:0
+D-Agnea - HP:4002/4002 SP:254/504 BP:2
+Equipo del enemigo
+A-Light Elemental - HP:0/1880 Shields:4
+B-Ice Elemental - HP:0/2160 Shields:0
+C-Armor Eater - HP:0/1594 Shields:4
+D-Lord of the Flies - HP:3976/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Agnea
+3.Hikari
+4.Osvald
+5.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Z'aanta se defiende
+Z'aanta recibe 264 de daño físico
+Z'aanta termina con HP:369
+----------------------------------------
+INICIA RONDA 7
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:201/317 BP:2
+B-Osvald - HP:3557/3557 SP:453/541 BP:2
+C-Z'aanta - HP:369/3222 SP:363/371 BP:1
+D-Agnea - HP:4002/4002 SP:254/504 BP:3
+Equipo del enemigo
+A-Light Elemental - HP:0/1880 Shields:4
+B-Ice Elemental - HP:0/2160 Shields:0
+C-Armor Eater - HP:0/1594 Shields:4
+D-Lord of the Flies - HP:3976/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Agnea
+3.Hikari
+4.Osvald
+5.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Z'aanta
+3.Hikari
+4.Osvald
+5.Lord of the Flies
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Z'aanta
+1: Incite
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Z'aanta usa Incite
+Z'aanta protegerá de ataques durante 5 rondas
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:201/317 BP:2
+B-Osvald - HP:3557/3557 SP:453/541 BP:2
+C-Z'aanta - HP:369/3222 SP:359/371 BP:0
+D-Agnea - HP:4002/4002 SP:254/504 BP:3
+Equipo del enemigo
+A-Light Elemental - HP:0/1880 Shields:4
+B-Ice Elemental - HP:0/2160 Shields:0
+C-Armor Eater - HP:0/1594 Shields:4
+D-Lord of the Flies - HP:3976/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Hikari
+3.Osvald
+4.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Z'aanta
+3.Hikari
+4.Osvald
+5.Lord of the Flies
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Agnea
+1: Lord of the Flies - HP:3976/5590 Shields:3
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Agnea ataca
+Lord of the Flies recibe 0 de daño de tipo Dagger
+Lord of the Flies recibe 0 de daño de tipo Dagger
+Lord of the Flies recibe 0 de daño de tipo Dagger
+Lord of the Flies termina con HP:3976
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:201/317 BP:2
+B-Osvald - HP:3557/3557 SP:453/541 BP:2
+C-Z'aanta - HP:369/3222 SP:359/371 BP:0
+D-Agnea - HP:4002/4002 SP:254/504 BP:1
+Equipo del enemigo
+A-Light Elemental - HP:0/1880 Shields:4
+B-Ice Elemental - HP:0/2160 Shields:0
+C-Armor Eater - HP:0/1594 Shields:4
+D-Lord of the Flies - HP:3976/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Osvald
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Z'aanta
+3.Hikari
+4.Osvald
+5.Lord of the Flies
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Peacock Strut
+2: Tonitrus Canere
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Hikari - HP:5781/5781 SP:201/317 BP:2
+2: Osvald - HP:3557/3557 SP:453/541 BP:2
+3: Z'aanta - HP:369/3222 SP:359/371 BP:0
+4: Agnea - HP:4002/4002 SP:254/504 BP:1
+5: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari usa Peacock Strut
+Z'aanta tendrá Increased Elemental Attack durante 2 rondas
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:197/317 BP:2
+B-Osvald - HP:3557/3557 SP:453/541 BP:2
+C-Z'aanta - HP:369/3222 SP:359/371 BP:0
+D-Agnea - HP:4002/4002 SP:254/504 BP:1
+Equipo del enemigo
+A-Light Elemental - HP:0/1880 Shields:4
+B-Ice Elemental - HP:0/2160 Shields:0
+C-Armor Eater - HP:0/1594 Shields:4
+D-Lord of the Flies - HP:3976/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Z'aanta
+3.Hikari
+4.Osvald
+5.Lord of the Flies
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Osvald
+1: Reflective Veil
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Osvald
+1: Hikari - HP:5781/5781 SP:197/317 BP:2
+2: Osvald - HP:3557/3557 SP:453/541 BP:2
+3: Z'aanta - HP:369/3222 SP:359/371 BP:0
+4: Agnea - HP:4002/4002 SP:254/504 BP:1
+5: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Osvald usa Reflective Veil
+Osvald reflejará los próximos 2 ataques elementales
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:197/317 BP:2
+B-Osvald - HP:3557/3557 SP:431/541 BP:1
+C-Z'aanta - HP:369/3222 SP:359/371 BP:0
+D-Agnea - HP:4002/4002 SP:254/504 BP:1
+Equipo del enemigo
+A-Light Elemental - HP:0/1880 Shields:4
+B-Ice Elemental - HP:0/2160 Shields:0
+C-Armor Eater - HP:0/1594 Shields:4
+D-Lord of the Flies - HP:3976/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Z'aanta
+3.Hikari
+4.Osvald
+5.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Z'aanta recibe 352 de daño físico
+Z'aanta termina con HP:17
+----------------------------------------
+INICIA RONDA 8
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:197/317 BP:3
+B-Osvald - HP:3557/3557 SP:431/541 BP:1
+C-Z'aanta - HP:17/3222 SP:359/371 BP:0
+D-Agnea - HP:4002/4002 SP:254/504 BP:1
+Equipo del enemigo
+A-Light Elemental - HP:0/1880 Shields:4
+B-Ice Elemental - HP:0/2160 Shields:0
+C-Armor Eater - HP:0/1594 Shields:4
+D-Lord of the Flies - HP:3976/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Z'aanta
+3.Hikari
+4.Osvald
+5.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Z'aanta
+3.Hikari
+4.Osvald
+5.Lord of the Flies
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Agnea
+1: Lord of the Flies - HP:3976/5590 Shields:3
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Agnea ataca
+Lord of the Flies recibe 0 de daño de tipo Dagger
+Lord of the Flies recibe 0 de daño de tipo Dagger
+Lord of the Flies termina con HP:3976
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:197/317 BP:3
+B-Osvald - HP:3557/3557 SP:431/541 BP:1
+C-Z'aanta - HP:17/3222 SP:359/371 BP:0
+D-Agnea - HP:4002/4002 SP:254/504 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:0/1880 Shields:4
+B-Ice Elemental - HP:0/2160 Shields:0
+C-Armor Eater - HP:0/1594 Shields:4
+D-Lord of the Flies - HP:3976/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Hikari
+3.Osvald
+4.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Z'aanta
+3.Hikari
+4.Osvald
+5.Lord of the Flies
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Z'aanta
+1: Incite
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Z'aanta usa Incite
+Z'aanta protegerá de ataques durante 3 rondas
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:197/317 BP:3
+B-Osvald - HP:3557/3557 SP:431/541 BP:1
+C-Z'aanta - HP:17/3222 SP:355/371 BP:0
+D-Agnea - HP:4002/4002 SP:254/504 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:0/1880 Shields:4
+B-Ice Elemental - HP:0/2160 Shields:0
+C-Armor Eater - HP:0/1594 Shields:4
+D-Lord of the Flies - HP:3976/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Osvald
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Z'aanta
+3.Hikari
+4.Osvald
+5.Lord of the Flies
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Lord of the Flies - HP:3976/5590 Shields:3
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Hikari ataca
+Lord of the Flies recibe 66 de daño de tipo Sword
+Lord of the Flies recibe 66 de daño de tipo Sword
+Lord of the Flies recibe 66 de daño de tipo Sword
+Lord of the Flies termina con HP:3778
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:197/317 BP:1
+B-Osvald - HP:3557/3557 SP:431/541 BP:1
+C-Z'aanta - HP:17/3222 SP:355/371 BP:0
+D-Agnea - HP:4002/4002 SP:254/504 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:0/1880 Shields:4
+B-Ice Elemental - HP:0/2160 Shields:0
+C-Armor Eater - HP:0/1594 Shields:4
+D-Lord of the Flies - HP:3778/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Z'aanta
+3.Hikari
+4.Osvald
+5.Lord of the Flies
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Osvald
+1: Reflective Veil
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Osvald
+1: Hikari - HP:5781/5781 SP:197/317 BP:1
+2: Osvald - HP:3557/3557 SP:431/541 BP:1
+3: Z'aanta - HP:17/3222 SP:355/371 BP:0
+4: Agnea - HP:4002/4002 SP:254/504 BP:0
+5: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Osvald no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Osvald no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Osvald no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Osvald usa Reflective Veil
+Z'aanta reflejará los próximos 1 ataques elementales
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:197/317 BP:1
+B-Osvald - HP:3557/3557 SP:409/541 BP:1
+C-Z'aanta - HP:17/3222 SP:355/371 BP:0
+D-Agnea - HP:4002/4002 SP:254/504 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:0/1880 Shields:4
+B-Ice Elemental - HP:0/2160 Shields:0
+C-Armor Eater - HP:0/1594 Shields:4
+D-Lord of the Flies - HP:3778/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Z'aanta
+3.Hikari
+4.Osvald
+5.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Z'aanta recibe 352 de daño físico
+Z'aanta termina con HP:0
+----------------------------------------
+INICIA RONDA 9
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:197/317 BP:1
+B-Osvald - HP:3557/3557 SP:409/541 BP:2
+C-Z'aanta - HP:0/3222 SP:355/371 BP:0
+D-Agnea - HP:4002/4002 SP:254/504 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:0/1880 Shields:4
+B-Ice Elemental - HP:0/2160 Shields:0
+C-Armor Eater - HP:0/1594 Shields:4
+D-Lord of the Flies - HP:3778/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Hikari
+3.Osvald
+4.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Hikari
+3.Osvald
+4.Lord of the Flies
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Agnea
+1: Revive
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Agnea usa Revive
+Z'aanta revive
+Z'aanta termina con HP:1
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:197/317 BP:1
+B-Osvald - HP:3557/3557 SP:409/541 BP:2
+C-Z'aanta - HP:1/3222 SP:355/371 BP:0
+D-Agnea - HP:4002/4002 SP:204/504 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:0/1880 Shields:4
+B-Ice Elemental - HP:0/2160 Shields:0
+C-Armor Eater - HP:0/1594 Shields:4
+D-Lord of the Flies - HP:3778/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Osvald
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Z'aanta
+3.Hikari
+4.Osvald
+5.Lord of the Flies
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:197/317 BP:1
+B-Osvald - HP:3557/3557 SP:409/541 BP:2
+C-Z'aanta - HP:1/3222 SP:355/371 BP:0
+D-Agnea - HP:4002/4002 SP:204/504 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:0/1880 Shields:4
+B-Ice Elemental - HP:0/2160 Shields:0
+C-Armor Eater - HP:0/1594 Shields:4
+D-Lord of the Flies - HP:3778/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Agnea
+3.Z'aanta
+4.Osvald
+5.Lord of the Flies
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:197/317 BP:1
+B-Osvald - HP:3557/3557 SP:409/541 BP:2
+C-Z'aanta - HP:1/3222 SP:355/371 BP:0
+D-Agnea - HP:4002/4002 SP:204/504 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:0/1880 Shields:4
+B-Ice Elemental - HP:0/2160 Shields:0
+C-Armor Eater - HP:0/1594 Shields:4
+D-Lord of the Flies - HP:3778/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Osvald
+3.Agnea
+4.Z'aanta
+5.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Z'aanta recibe 352 de daño físico
+Z'aanta termina con HP:0
+----------------------------------------
+INICIA RONDA 10
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:197/317 BP:2
+B-Osvald - HP:3557/3557 SP:409/541 BP:3
+C-Z'aanta - HP:0/3222 SP:355/371 BP:0
+D-Agnea - HP:4002/4002 SP:204/504 BP:1
+Equipo del enemigo
+A-Light Elemental - HP:0/1880 Shields:4
+B-Ice Elemental - HP:0/2160 Shields:0
+C-Armor Eater - HP:0/1594 Shields:4
+D-Lord of the Flies - HP:3778/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Osvald
+3.Agnea
+4.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Hikari
+3.Osvald
+4.Lord of the Flies
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:197/317 BP:2
+B-Osvald - HP:3557/3557 SP:409/541 BP:3
+C-Z'aanta - HP:0/3222 SP:355/371 BP:0
+D-Agnea - HP:4002/4002 SP:204/504 BP:1
+Equipo del enemigo
+A-Light Elemental - HP:0/1880 Shields:4
+B-Ice Elemental - HP:0/2160 Shields:0
+C-Armor Eater - HP:0/1594 Shields:4
+D-Lord of the Flies - HP:3778/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Agnea
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Agnea
+3.Osvald
+4.Lord of the Flies
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Osvald
+1: Lord of the Flies - HP:3778/5590 Shields:3
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Osvald ataca
+Lord of the Flies recibe 0 de daño de tipo Stave
+Lord of the Flies termina con HP:3778
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:197/317 BP:2
+B-Osvald - HP:3557/3557 SP:409/541 BP:3
+C-Z'aanta - HP:0/3222 SP:355/371 BP:0
+D-Agnea - HP:4002/4002 SP:204/504 BP:1
+Equipo del enemigo
+A-Light Elemental - HP:0/1880 Shields:4
+B-Ice Elemental - HP:0/2160 Shields:0
+C-Armor Eater - HP:0/1594 Shields:4
+D-Lord of the Flies - HP:3778/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Agnea
+3.Osvald
+4.Lord of the Flies
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Agnea
+1: Revive
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Agnea no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Agnea usa Revive
+Z'aanta revive
+Z'aanta termina con HP:1
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:197/317 BP:2
+B-Osvald - HP:3557/3557 SP:409/541 BP:3
+C-Z'aanta - HP:1/3222 SP:355/371 BP:0
+D-Agnea - HP:4002/4002 SP:154/504 BP:1
+Equipo del enemigo
+A-Light Elemental - HP:0/1880 Shields:4
+B-Ice Elemental - HP:0/2160 Shields:0
+C-Armor Eater - HP:0/1594 Shields:4
+D-Lord of the Flies - HP:3778/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Agnea
+3.Z'aanta
+4.Osvald
+5.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Z'aanta recibe 352 de daño físico
+Z'aanta termina con HP:0
+----------------------------------------
+INICIA RONDA 11
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:197/317 BP:3
+B-Osvald - HP:3557/3557 SP:409/541 BP:4
+C-Z'aanta - HP:0/3222 SP:355/371 BP:0
+D-Agnea - HP:4002/4002 SP:154/504 BP:2
+Equipo del enemigo
+A-Light Elemental - HP:0/1880 Shields:4
+B-Ice Elemental - HP:0/2160 Shields:0
+C-Armor Eater - HP:0/1594 Shields:4
+D-Lord of the Flies - HP:3778/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Agnea
+3.Osvald
+4.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Hikari
+3.Osvald
+4.Lord of the Flies
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Lord of the Flies - HP:3778/5590 Shields:3
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Hikari ataca
+Lord of the Flies recibe 66 de daño de tipo Sword
+Lord of the Flies recibe 66 de daño de tipo Sword
+Lord of the Flies recibe 66 de daño de tipo Sword
+Lord of the Flies recibe 66 de daño de tipo Sword
+Lord of the Flies termina con HP:3514
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:197/317 BP:0
+B-Osvald - HP:3557/3557 SP:409/541 BP:4
+C-Z'aanta - HP:0/3222 SP:355/371 BP:0
+D-Agnea - HP:4002/4002 SP:154/504 BP:2
+Equipo del enemigo
+A-Light Elemental - HP:0/1880 Shields:4
+B-Ice Elemental - HP:0/2160 Shields:0
+C-Armor Eater - HP:0/1594 Shields:4
+D-Lord of the Flies - HP:3514/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Osvald
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Hikari
+3.Osvald
+4.Lord of the Flies
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:197/317 BP:0
+B-Osvald - HP:3557/3557 SP:409/541 BP:4
+C-Z'aanta - HP:0/3222 SP:355/371 BP:0
+D-Agnea - HP:4002/4002 SP:154/504 BP:2
+Equipo del enemigo
+A-Light Elemental - HP:0/1880 Shields:4
+B-Ice Elemental - HP:0/2160 Shields:0
+C-Armor Eater - HP:0/1594 Shields:4
+D-Lord of the Flies - HP:3514/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Hikari
+3.Osvald
+4.Lord of the Flies
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Osvald
+1: Reflective Veil
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Osvald
+1: Hikari - HP:5781/5781 SP:197/317 BP:0
+2: Osvald - HP:3557/3557 SP:409/541 BP:4
+3: Agnea - HP:4002/4002 SP:154/504 BP:2
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Osvald usa Reflective Veil
+Agnea reflejará los próximos 2 ataques elementales
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:197/317 BP:0
+B-Osvald - HP:3557/3557 SP:387/541 BP:3
+C-Z'aanta - HP:0/3222 SP:355/371 BP:0
+D-Agnea - HP:4002/4002 SP:154/504 BP:2
+Equipo del enemigo
+A-Light Elemental - HP:0/1880 Shields:4
+B-Ice Elemental - HP:0/2160 Shields:0
+C-Armor Eater - HP:0/1594 Shields:4
+D-Lord of the Flies - HP:3514/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Hikari
+3.Osvald
+4.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Osvald recibe 269 de daño físico
+Osvald termina con HP:3288
+----------------------------------------
+INICIA RONDA 12
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:197/317 BP:0
+B-Osvald - HP:3288/3557 SP:387/541 BP:3
+C-Z'aanta - HP:0/3222 SP:355/371 BP:0
+D-Agnea - HP:4002/4002 SP:154/504 BP:3
+Equipo del enemigo
+A-Light Elemental - HP:0/1880 Shields:4
+B-Ice Elemental - HP:0/2160 Shields:0
+C-Armor Eater - HP:0/1594 Shields:4
+D-Lord of the Flies - HP:3514/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Hikari
+3.Osvald
+4.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Hikari
+3.Osvald
+4.Lord of the Flies
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Agnea
+1: Lord of the Flies - HP:3514/5590 Shields:3
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Agnea ataca
+Lord of the Flies recibe 0 de daño de tipo Dagger
+Lord of the Flies recibe 0 de daño de tipo Dagger
+Lord of the Flies termina con HP:3514
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:197/317 BP:0
+B-Osvald - HP:3288/3557 SP:387/541 BP:3
+C-Z'aanta - HP:0/3222 SP:355/371 BP:0
+D-Agnea - HP:4002/4002 SP:154/504 BP:2
+Equipo del enemigo
+A-Light Elemental - HP:0/1880 Shields:4
+B-Ice Elemental - HP:0/2160 Shields:0
+C-Armor Eater - HP:0/1594 Shields:4
+D-Lord of the Flies - HP:3514/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Osvald
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Hikari
+3.Osvald
+4.Lord of the Flies
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Peacock Strut
+2: Tonitrus Canere
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Hikari - HP:5781/5781 SP:197/317 BP:0
+2: Osvald - HP:3288/3557 SP:387/541 BP:3
+3: Agnea - HP:4002/4002 SP:154/504 BP:2
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Hikari usa Peacock Strut
+Hikari tendrá Increased Elemental Attack durante 2 rondas
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:193/317 BP:0
+B-Osvald - HP:3288/3557 SP:387/541 BP:3
+C-Z'aanta - HP:0/3222 SP:355/371 BP:0
+D-Agnea - HP:4002/4002 SP:154/504 BP:2
+Equipo del enemigo
+A-Light Elemental - HP:0/1880 Shields:4
+B-Ice Elemental - HP:0/2160 Shields:0
+C-Armor Eater - HP:0/1594 Shields:4
+D-Lord of the Flies - HP:3514/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Hikari
+3.Osvald
+4.Lord of the Flies
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Osvald
+1: Lord of the Flies - HP:3514/5590 Shields:3
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Osvald ataca
+Lord of the Flies recibe 0 de daño de tipo Stave
+Lord of the Flies recibe 0 de daño de tipo Stave
+Lord of the Flies recibe 0 de daño de tipo Stave
+Lord of the Flies termina con HP:3514
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:193/317 BP:0
+B-Osvald - HP:3288/3557 SP:387/541 BP:1
+C-Z'aanta - HP:0/3222 SP:355/371 BP:0
+D-Agnea - HP:4002/4002 SP:154/504 BP:2
+Equipo del enemigo
+A-Light Elemental - HP:0/1880 Shields:4
+B-Ice Elemental - HP:0/2160 Shields:0
+C-Armor Eater - HP:0/1594 Shields:4
+D-Lord of the Flies - HP:3514/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Hikari
+3.Osvald
+4.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Osvald recibe 269 de daño físico
+Osvald termina con HP:3019
+----------------------------------------
+INICIA RONDA 13
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:193/317 BP:1
+B-Osvald - HP:3019/3557 SP:387/541 BP:1
+C-Z'aanta - HP:0/3222 SP:355/371 BP:0
+D-Agnea - HP:4002/4002 SP:154/504 BP:2
+Equipo del enemigo
+A-Light Elemental - HP:0/1880 Shields:4
+B-Ice Elemental - HP:0/2160 Shields:0
+C-Armor Eater - HP:0/1594 Shields:4
+D-Lord of the Flies - HP:3514/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Hikari
+3.Osvald
+4.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Hikari
+3.Osvald
+4.Lord of the Flies
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Agnea
+1: Lord of the Flies - HP:3514/5590 Shields:3
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Agnea ataca
+Lord of the Flies recibe 0 de daño de tipo Dagger
+Lord of the Flies recibe 0 de daño de tipo Dagger
+Lord of the Flies recibe 0 de daño de tipo Dagger
+Lord of the Flies termina con HP:3514
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:193/317 BP:1
+B-Osvald - HP:3019/3557 SP:387/541 BP:1
+C-Z'aanta - HP:0/3222 SP:355/371 BP:0
+D-Agnea - HP:4002/4002 SP:154/504 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:0/1880 Shields:4
+B-Ice Elemental - HP:0/2160 Shields:0
+C-Armor Eater - HP:0/1594 Shields:4
+D-Lord of the Flies - HP:3514/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Osvald
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Hikari
+3.Osvald
+4.Lord of the Flies
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:193/317 BP:1
+B-Osvald - HP:3019/3557 SP:387/541 BP:1
+C-Z'aanta - HP:0/3222 SP:355/371 BP:0
+D-Agnea - HP:4002/4002 SP:154/504 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:0/1880 Shields:4
+B-Ice Elemental - HP:0/2160 Shields:0
+C-Armor Eater - HP:0/1594 Shields:4
+D-Lord of the Flies - HP:3514/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Agnea
+3.Osvald
+4.Lord of the Flies
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Osvald
+1: Reflective Veil
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Osvald
+1: Hikari - HP:5781/5781 SP:193/317 BP:1
+2: Osvald - HP:3019/3557 SP:387/541 BP:1
+3: Agnea - HP:4002/4002 SP:154/504 BP:0
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Osvald no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Osvald no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Osvald usa Reflective Veil
+Agnea reflejará los próximos 1 ataques elementales
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:193/317 BP:1
+B-Osvald - HP:3019/3557 SP:365/541 BP:1
+C-Z'aanta - HP:0/3222 SP:355/371 BP:0
+D-Agnea - HP:4002/4002 SP:154/504 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:0/1880 Shields:4
+B-Ice Elemental - HP:0/2160 Shields:0
+C-Armor Eater - HP:0/1594 Shields:4
+D-Lord of the Flies - HP:3514/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Agnea
+3.Osvald
+4.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Osvald recibe 269 de daño físico
+Osvald termina con HP:2750
+----------------------------------------
+INICIA RONDA 14
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:193/317 BP:2
+B-Osvald - HP:2750/3557 SP:365/541 BP:2
+C-Z'aanta - HP:0/3222 SP:355/371 BP:0
+D-Agnea - HP:4002/4002 SP:154/504 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:0/1880 Shields:4
+B-Ice Elemental - HP:0/2160 Shields:0
+C-Armor Eater - HP:0/1594 Shields:4
+D-Lord of the Flies - HP:3514/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Agnea
+3.Osvald
+4.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Hikari
+3.Osvald
+4.Lord of the Flies
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Peacock Strut
+2: Tonitrus Canere
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari usa Tonitrus Canere
+Lord of the Flies recibe 0 de daño de tipo Lightning
+Lord of the Flies recibe 0 de daño de tipo Lightning
+Lord of the Flies recibe 0 de daño de tipo Lightning
+Lord of the Flies termina con HP:3514
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:157/317 BP:2
+B-Osvald - HP:2750/3557 SP:365/541 BP:2
+C-Z'aanta - HP:0/3222 SP:355/371 BP:0
+D-Agnea - HP:4002/4002 SP:154/504 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:0/1880 Shields:4
+B-Ice Elemental - HP:0/2160 Shields:0
+C-Armor Eater - HP:0/1594 Shields:4
+D-Lord of the Flies - HP:3514/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Osvald
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Hikari
+3.Osvald
+4.Lord of the Flies
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Agnea
+1: Revive
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Agnea usa Revive
+Z'aanta revive
+Z'aanta termina con HP:1
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:157/317 BP:2
+B-Osvald - HP:2750/3557 SP:365/541 BP:2
+C-Z'aanta - HP:1/3222 SP:355/371 BP:0
+D-Agnea - HP:4002/4002 SP:104/504 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:0/1880 Shields:4
+B-Ice Elemental - HP:0/2160 Shields:0
+C-Armor Eater - HP:0/1594 Shields:4
+D-Lord of the Flies - HP:3514/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Z'aanta
+3.Hikari
+4.Osvald
+5.Lord of the Flies
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Osvald
+1: Reflective Veil
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Osvald
+1: Hikari - HP:5781/5781 SP:157/317 BP:2
+2: Osvald - HP:2750/3557 SP:365/541 BP:2
+3: Z'aanta - HP:1/3222 SP:355/371 BP:0
+4: Agnea - HP:4002/4002 SP:104/504 BP:0
+5: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Osvald usa Reflective Veil
+Osvald reflejará los próximos 3 ataques elementales
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:157/317 BP:2
+B-Osvald - HP:2750/3557 SP:343/541 BP:0
+C-Z'aanta - HP:1/3222 SP:355/371 BP:0
+D-Agnea - HP:4002/4002 SP:104/504 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:0/1880 Shields:4
+B-Ice Elemental - HP:0/2160 Shields:0
+C-Armor Eater - HP:0/1594 Shields:4
+D-Lord of the Flies - HP:3514/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Z'aanta
+3.Hikari
+4.Osvald
+5.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Z'aanta recibe 352 de daño físico
+Z'aanta termina con HP:0
+----------------------------------------
+INICIA RONDA 15
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:157/317 BP:3
+B-Osvald - HP:2750/3557 SP:343/541 BP:0
+C-Z'aanta - HP:0/3222 SP:355/371 BP:0
+D-Agnea - HP:4002/4002 SP:104/504 BP:1
+Equipo del enemigo
+A-Light Elemental - HP:0/1880 Shields:4
+B-Ice Elemental - HP:0/2160 Shields:0
+C-Armor Eater - HP:0/1594 Shields:4
+D-Lord of the Flies - HP:3514/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Hikari
+3.Osvald
+4.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Hikari
+3.Osvald
+4.Lord of the Flies
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Agnea
+1: Revive
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Agnea usa Revive
+Z'aanta revive
+Z'aanta recupera 464 de vida
+Z'aanta termina con HP:465
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:157/317 BP:3
+B-Osvald - HP:2750/3557 SP:343/541 BP:0
+C-Z'aanta - HP:465/3222 SP:355/371 BP:0
+D-Agnea - HP:4002/4002 SP:54/504 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:0/1880 Shields:4
+B-Ice Elemental - HP:0/2160 Shields:0
+C-Armor Eater - HP:0/1594 Shields:4
+D-Lord of the Flies - HP:3514/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Osvald
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Z'aanta
+3.Hikari
+4.Osvald
+5.Lord of the Flies
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Lord of the Flies - HP:3514/5590 Shields:3
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Hikari ataca
+Lord of the Flies recibe 66 de daño de tipo Sword
+Lord of the Flies recibe 66 de daño de tipo Sword
+Lord of the Flies recibe 66 de daño de tipo Sword
+Lord of the Flies recibe 66 de daño de tipo Sword
+Lord of the Flies termina con HP:3250
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:157/317 BP:0
+B-Osvald - HP:2750/3557 SP:343/541 BP:0
+C-Z'aanta - HP:465/3222 SP:355/371 BP:0
+D-Agnea - HP:4002/4002 SP:54/504 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:0/1880 Shields:4
+B-Ice Elemental - HP:0/2160 Shields:0
+C-Armor Eater - HP:0/1594 Shields:4
+D-Lord of the Flies - HP:3250/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Z'aanta
+3.Hikari
+4.Osvald
+5.Lord of the Flies
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Osvald
+1: Lord of the Flies - HP:3250/5590 Shields:3
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Osvald ataca
+Lord of the Flies recibe 0 de daño de tipo Stave
+Lord of the Flies termina con HP:3250
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:157/317 BP:0
+B-Osvald - HP:2750/3557 SP:343/541 BP:0
+C-Z'aanta - HP:465/3222 SP:355/371 BP:0
+D-Agnea - HP:4002/4002 SP:54/504 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:0/1880 Shields:4
+B-Ice Elemental - HP:0/2160 Shields:0
+C-Armor Eater - HP:0/1594 Shields:4
+D-Lord of the Flies - HP:3250/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Z'aanta
+3.Hikari
+4.Osvald
+5.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Z'aanta recibe 352 de daño físico
+Z'aanta termina con HP:113
+----------------------------------------
+INICIA RONDA 16
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:157/317 BP:0
+B-Osvald - HP:2750/3557 SP:343/541 BP:1
+C-Z'aanta - HP:113/3222 SP:355/371 BP:1
+D-Agnea - HP:4002/4002 SP:54/504 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:0/1880 Shields:4
+B-Ice Elemental - HP:0/2160 Shields:0
+C-Armor Eater - HP:0/1594 Shields:4
+D-Lord of the Flies - HP:3250/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Z'aanta
+3.Hikari
+4.Osvald
+5.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Z'aanta
+3.Hikari
+4.Osvald
+5.Lord of the Flies
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Agnea
+1: Revive
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Agnea usa Revive
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:157/317 BP:0
+B-Osvald - HP:2750/3557 SP:343/541 BP:1
+C-Z'aanta - HP:113/3222 SP:355/371 BP:1
+D-Agnea - HP:4002/4002 SP:4/504 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:0/1880 Shields:4
+B-Ice Elemental - HP:0/2160 Shields:0
+C-Armor Eater - HP:0/1594 Shields:4
+D-Lord of the Flies - HP:3250/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Hikari
+3.Osvald
+4.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Z'aanta
+3.Hikari
+4.Osvald
+5.Lord of the Flies
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Z'aanta
+1: Incite
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Z'aanta no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Z'aanta usa Incite
+Z'aanta protegerá de ataques durante 3 rondas
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:157/317 BP:0
+B-Osvald - HP:2750/3557 SP:343/541 BP:1
+C-Z'aanta - HP:113/3222 SP:351/371 BP:1
+D-Agnea - HP:4002/4002 SP:4/504 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:0/1880 Shields:4
+B-Ice Elemental - HP:0/2160 Shields:0
+C-Armor Eater - HP:0/1594 Shields:4
+D-Lord of the Flies - HP:3250/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Osvald
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Z'aanta
+3.Hikari
+4.Osvald
+5.Lord of the Flies
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:157/317 BP:0
+B-Osvald - HP:2750/3557 SP:343/541 BP:1
+C-Z'aanta - HP:113/3222 SP:351/371 BP:1
+D-Agnea - HP:4002/4002 SP:4/504 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:0/1880 Shields:4
+B-Ice Elemental - HP:0/2160 Shields:0
+C-Armor Eater - HP:0/1594 Shields:4
+D-Lord of the Flies - HP:3250/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Agnea
+3.Z'aanta
+4.Osvald
+5.Lord of the Flies
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Osvald
+1: Lord of the Flies - HP:3250/5590 Shields:3
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Osvald no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Osvald no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Osvald ataca
+Lord of the Flies recibe 0 de daño de tipo Stave
+Lord of the Flies recibe 0 de daño de tipo Stave
+Lord of the Flies termina con HP:3250
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:157/317 BP:0
+B-Osvald - HP:2750/3557 SP:343/541 BP:0
+C-Z'aanta - HP:113/3222 SP:351/371 BP:1
+D-Agnea - HP:4002/4002 SP:4/504 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:0/1880 Shields:4
+B-Ice Elemental - HP:0/2160 Shields:0
+C-Armor Eater - HP:0/1594 Shields:4
+D-Lord of the Flies - HP:3250/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Agnea
+3.Z'aanta
+4.Osvald
+5.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Z'aanta recibe 352 de daño físico
+Z'aanta termina con HP:0
+----------------------------------------
+INICIA RONDA 17
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:157/317 BP:1
+B-Osvald - HP:2750/3557 SP:343/541 BP:0
+C-Z'aanta - HP:0/3222 SP:351/371 BP:1
+D-Agnea - HP:4002/4002 SP:4/504 BP:1
+Equipo del enemigo
+A-Light Elemental - HP:0/1880 Shields:4
+B-Ice Elemental - HP:0/2160 Shields:0
+C-Armor Eater - HP:0/1594 Shields:4
+D-Lord of the Flies - HP:3250/5590 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Agnea
+3.Osvald
+4.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Hikari
+3.Osvald
+4.Lord of the Flies
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Lord of the Flies - HP:3250/5590 Shields:3
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Hikari no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Hikari no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Hikari no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Hikari no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari ataca
+Lord of the Flies recibe 99 de daño de tipo Spear con debilidad
+Lord of the Flies termina con HP:3151
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:157/317 BP:1
+B-Osvald - HP:2750/3557 SP:343/541 BP:0
+C-Z'aanta - HP:0/3222 SP:351/371 BP:1
+D-Agnea - HP:4002/4002 SP:4/504 BP:1
+Equipo del enemigo
+A-Light Elemental - HP:0/1880 Shields:4
+B-Ice Elemental - HP:0/2160 Shields:0
+C-Armor Eater - HP:0/1594 Shields:4
+D-Lord of the Flies - HP:3151/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Osvald
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Hikari
+3.Osvald
+4.Lord of the Flies
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Agnea
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:157/317 BP:1
+B-Osvald - HP:2750/3557 SP:343/541 BP:0
+C-Z'aanta - HP:0/3222 SP:351/371 BP:1
+D-Agnea - HP:4002/4002 SP:4/504 BP:1
+Equipo del enemigo
+A-Light Elemental - HP:0/1880 Shields:4
+B-Ice Elemental - HP:0/2160 Shields:0
+C-Armor Eater - HP:0/1594 Shields:4
+D-Lord of the Flies - HP:3151/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Hikari
+3.Osvald
+4.Lord of the Flies
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Osvald
+1: Reflective Veil
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Osvald
+1: Hikari - HP:5781/5781 SP:157/317 BP:1
+2: Osvald - HP:2750/3557 SP:343/541 BP:0
+3: Agnea - HP:4002/4002 SP:4/504 BP:1
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Osvald usa Reflective Veil
+Hikari reflejará los próximos 1 ataques elementales
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:157/317 BP:1
+B-Osvald - HP:2750/3557 SP:321/541 BP:0
+C-Z'aanta - HP:0/3222 SP:351/371 BP:1
+D-Agnea - HP:4002/4002 SP:4/504 BP:1
+Equipo del enemigo
+A-Light Elemental - HP:0/1880 Shields:4
+B-Ice Elemental - HP:0/2160 Shields:0
+C-Armor Eater - HP:0/1594 Shields:4
+D-Lord of the Flies - HP:3151/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Hikari
+3.Osvald
+4.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Osvald recibe 269 de daño físico
+Osvald termina con HP:2481
+----------------------------------------
+INICIA RONDA 18
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:157/317 BP:2
+B-Osvald - HP:2481/3557 SP:321/541 BP:1
+C-Z'aanta - HP:0/3222 SP:351/371 BP:1
+D-Agnea - HP:4002/4002 SP:4/504 BP:2
+Equipo del enemigo
+A-Light Elemental - HP:0/1880 Shields:4
+B-Ice Elemental - HP:0/2160 Shields:0
+C-Armor Eater - HP:0/1594 Shields:4
+D-Lord of the Flies - HP:3151/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Hikari
+3.Osvald
+4.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Hikari
+3.Osvald
+4.Lord of the Flies
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Agnea
+1: Lord of the Flies - HP:3151/5590 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Agnea ataca
+Lord of the Flies recibe 0 de daño de tipo Dagger
+Lord of the Flies recibe 0 de daño de tipo Dagger
+Lord of the Flies termina con HP:3151
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:157/317 BP:2
+B-Osvald - HP:2481/3557 SP:321/541 BP:1
+C-Z'aanta - HP:0/3222 SP:351/371 BP:1
+D-Agnea - HP:4002/4002 SP:4/504 BP:1
+Equipo del enemigo
+A-Light Elemental - HP:0/1880 Shields:4
+B-Ice Elemental - HP:0/2160 Shields:0
+C-Armor Eater - HP:0/1594 Shields:4
+D-Lord of the Flies - HP:3151/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Osvald
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Hikari
+3.Osvald
+4.Lord of the Flies
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Peacock Strut
+2: Tonitrus Canere
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Hikari - HP:5781/5781 SP:157/317 BP:2
+2: Osvald - HP:2481/3557 SP:321/541 BP:1
+3: Agnea - HP:4002/4002 SP:4/504 BP:1
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Hikari usa Peacock Strut
+Hikari tendrá Increased Elemental Attack durante 6 rondas
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:153/317 BP:0
+B-Osvald - HP:2481/3557 SP:321/541 BP:1
+C-Z'aanta - HP:0/3222 SP:351/371 BP:1
+D-Agnea - HP:4002/4002 SP:4/504 BP:1
+Equipo del enemigo
+A-Light Elemental - HP:0/1880 Shields:4
+B-Ice Elemental - HP:0/2160 Shields:0
+C-Armor Eater - HP:0/1594 Shields:4
+D-Lord of the Flies - HP:3151/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Hikari
+3.Osvald
+4.Lord of the Flies
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Osvald
+1: Lord of the Flies - HP:3151/5590 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Osvald ataca
+Lord of the Flies recibe 0 de daño de tipo Stave
+Lord of the Flies recibe 0 de daño de tipo Stave
+Lord of the Flies termina con HP:3151
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:153/317 BP:0
+B-Osvald - HP:2481/3557 SP:321/541 BP:0
+C-Z'aanta - HP:0/3222 SP:351/371 BP:1
+D-Agnea - HP:4002/4002 SP:4/504 BP:1
+Equipo del enemigo
+A-Light Elemental - HP:0/1880 Shields:4
+B-Ice Elemental - HP:0/2160 Shields:0
+C-Armor Eater - HP:0/1594 Shields:4
+D-Lord of the Flies - HP:3151/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Hikari
+3.Osvald
+4.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Osvald recibe 269 de daño físico
+Osvald termina con HP:2212
+----------------------------------------
+INICIA RONDA 19
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:153/317 BP:0
+B-Osvald - HP:2212/3557 SP:321/541 BP:0
+C-Z'aanta - HP:0/3222 SP:351/371 BP:1
+D-Agnea - HP:4002/4002 SP:4/504 BP:1
+Equipo del enemigo
+A-Light Elemental - HP:0/1880 Shields:4
+B-Ice Elemental - HP:0/2160 Shields:0
+C-Armor Eater - HP:0/1594 Shields:4
+D-Lord of the Flies - HP:3151/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Hikari
+3.Osvald
+4.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Hikari
+3.Osvald
+4.Lord of the Flies
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Agnea
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Agnea
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Agnea
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Agnea
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Agnea
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Agnea
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Agnea
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Agnea
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Agnea
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Agnea
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:153/317 BP:0
+B-Osvald - HP:2212/3557 SP:321/541 BP:0
+C-Z'aanta - HP:0/3222 SP:351/371 BP:1
+D-Agnea - HP:4002/4002 SP:4/504 BP:1
+Equipo del enemigo
+A-Light Elemental - HP:0/1880 Shields:4
+B-Ice Elemental - HP:0/2160 Shields:0
+C-Armor Eater - HP:0/1594 Shields:4
+D-Lord of the Flies - HP:3151/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Osvald
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Hikari
+3.Osvald
+4.Lord of the Flies
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:153/317 BP:0
+B-Osvald - HP:2212/3557 SP:321/541 BP:0
+C-Z'aanta - HP:0/3222 SP:351/371 BP:1
+D-Agnea - HP:4002/4002 SP:4/504 BP:1
+Equipo del enemigo
+A-Light Elemental - HP:0/1880 Shields:4
+B-Ice Elemental - HP:0/2160 Shields:0
+C-Armor Eater - HP:0/1594 Shields:4
+D-Lord of the Flies - HP:3151/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Hikari
+3.Osvald
+4.Lord of the Flies
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Osvald
+1: Lord of the Flies - HP:3151/5590 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Osvald ataca
+Lord of the Flies recibe 0 de daño de tipo Stave
+Lord of the Flies termina con HP:3151
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:153/317 BP:0
+B-Osvald - HP:2212/3557 SP:321/541 BP:0
+C-Z'aanta - HP:0/3222 SP:351/371 BP:1
+D-Agnea - HP:4002/4002 SP:4/504 BP:1
+Equipo del enemigo
+A-Light Elemental - HP:0/1880 Shields:4
+B-Ice Elemental - HP:0/2160 Shields:0
+C-Armor Eater - HP:0/1594 Shields:4
+D-Lord of the Flies - HP:3151/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Hikari
+3.Osvald
+4.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Osvald recibe 269 de daño físico
+Osvald termina con HP:1943
+----------------------------------------
+INICIA RONDA 20
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:153/317 BP:1
+B-Osvald - HP:1943/3557 SP:321/541 BP:1
+C-Z'aanta - HP:0/3222 SP:351/371 BP:1
+D-Agnea - HP:4002/4002 SP:4/504 BP:2
+Equipo del enemigo
+A-Light Elemental - HP:0/1880 Shields:4
+B-Ice Elemental - HP:0/2160 Shields:0
+C-Armor Eater - HP:0/1594 Shields:4
+D-Lord of the Flies - HP:3151/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Hikari
+3.Osvald
+4.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Hikari
+3.Osvald
+4.Lord of the Flies
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Agnea
+1: Lord of the Flies - HP:3151/5590 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Agnea ataca
+Lord of the Flies recibe 0 de daño de tipo Dagger
+Lord of the Flies termina con HP:3151
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:153/317 BP:1
+B-Osvald - HP:1943/3557 SP:321/541 BP:1
+C-Z'aanta - HP:0/3222 SP:351/371 BP:1
+D-Agnea - HP:4002/4002 SP:4/504 BP:2
+Equipo del enemigo
+A-Light Elemental - HP:0/1880 Shields:4
+B-Ice Elemental - HP:0/2160 Shields:0
+C-Armor Eater - HP:0/1594 Shields:4
+D-Lord of the Flies - HP:3151/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Osvald
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Hikari
+3.Osvald
+4.Lord of the Flies
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:153/317 BP:1
+B-Osvald - HP:1943/3557 SP:321/541 BP:1
+C-Z'aanta - HP:0/3222 SP:351/371 BP:1
+D-Agnea - HP:4002/4002 SP:4/504 BP:2
+Equipo del enemigo
+A-Light Elemental - HP:0/1880 Shields:4
+B-Ice Elemental - HP:0/2160 Shields:0
+C-Armor Eater - HP:0/1594 Shields:4
+D-Lord of the Flies - HP:3151/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Agnea
+3.Osvald
+4.Lord of the Flies
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:153/317 BP:1
+B-Osvald - HP:1943/3557 SP:321/541 BP:1
+C-Z'aanta - HP:0/3222 SP:351/371 BP:1
+D-Agnea - HP:4002/4002 SP:4/504 BP:2
+Equipo del enemigo
+A-Light Elemental - HP:0/1880 Shields:4
+B-Ice Elemental - HP:0/2160 Shields:0
+C-Armor Eater - HP:0/1594 Shields:4
+D-Lord of the Flies - HP:3151/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Osvald
+3.Agnea
+4.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Osvald se defiende
+Osvald recibe 134 de daño físico
+Osvald termina con HP:1809
+----------------------------------------
+INICIA RONDA 21
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:153/317 BP:2
+B-Osvald - HP:1809/3557 SP:321/541 BP:2
+C-Z'aanta - HP:0/3222 SP:351/371 BP:1
+D-Agnea - HP:4002/4002 SP:4/504 BP:3
+Equipo del enemigo
+A-Light Elemental - HP:0/1880 Shields:4
+B-Ice Elemental - HP:0/2160 Shields:0
+C-Armor Eater - HP:0/1594 Shields:4
+D-Lord of the Flies - HP:3151/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Osvald
+3.Agnea
+4.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Hikari
+3.Osvald
+4.Lord of the Flies
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:153/317 BP:2
+B-Osvald - HP:1809/3557 SP:321/541 BP:2
+C-Z'aanta - HP:0/3222 SP:351/371 BP:1
+D-Agnea - HP:4002/4002 SP:4/504 BP:3
+Equipo del enemigo
+A-Light Elemental - HP:0/1880 Shields:4
+B-Ice Elemental - HP:0/2160 Shields:0
+C-Armor Eater - HP:0/1594 Shields:4
+D-Lord of the Flies - HP:3151/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Agnea
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Agnea
+3.Osvald
+4.Lord of the Flies
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Osvald
+1: Reflective Veil
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Osvald
+1: Hikari - HP:5781/5781 SP:153/317 BP:2
+2: Osvald - HP:1809/3557 SP:321/541 BP:2
+3: Agnea - HP:4002/4002 SP:4/504 BP:3
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Osvald usa Reflective Veil
+Osvald reflejará los próximos 1 ataques elementales
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:153/317 BP:2
+B-Osvald - HP:1809/3557 SP:299/541 BP:2
+C-Z'aanta - HP:0/3222 SP:351/371 BP:1
+D-Agnea - HP:4002/4002 SP:4/504 BP:3
+Equipo del enemigo
+A-Light Elemental - HP:0/1880 Shields:4
+B-Ice Elemental - HP:0/2160 Shields:0
+C-Armor Eater - HP:0/1594 Shields:4
+D-Lord of the Flies - HP:3151/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Agnea
+3.Osvald
+4.Lord of the Flies
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:153/317 BP:2
+B-Osvald - HP:1809/3557 SP:299/541 BP:2
+C-Z'aanta - HP:0/3222 SP:351/371 BP:1
+D-Agnea - HP:4002/4002 SP:4/504 BP:3
+Equipo del enemigo
+A-Light Elemental - HP:0/1880 Shields:4
+B-Ice Elemental - HP:0/2160 Shields:0
+C-Armor Eater - HP:0/1594 Shields:4
+D-Lord of the Flies - HP:3151/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Hikari
+3.Osvald
+4.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Osvald recibe 269 de daño físico
+Osvald termina con HP:1540
+----------------------------------------
+INICIA RONDA 22
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:153/317 BP:3
+B-Osvald - HP:1540/3557 SP:299/541 BP:3
+C-Z'aanta - HP:0/3222 SP:351/371 BP:1
+D-Agnea - HP:4002/4002 SP:4/504 BP:4
+Equipo del enemigo
+A-Light Elemental - HP:0/1880 Shields:4
+B-Ice Elemental - HP:0/2160 Shields:0
+C-Armor Eater - HP:0/1594 Shields:4
+D-Lord of the Flies - HP:3151/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Hikari
+3.Osvald
+4.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Hikari
+3.Osvald
+4.Lord of the Flies
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:153/317 BP:3
+B-Osvald - HP:1540/3557 SP:299/541 BP:3
+C-Z'aanta - HP:0/3222 SP:351/371 BP:1
+D-Agnea - HP:4002/4002 SP:4/504 BP:4
+Equipo del enemigo
+A-Light Elemental - HP:0/1880 Shields:4
+B-Ice Elemental - HP:0/2160 Shields:0
+C-Armor Eater - HP:0/1594 Shields:4
+D-Lord of the Flies - HP:3151/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Osvald
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Hikari
+3.Osvald
+4.Lord of the Flies
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Peacock Strut
+2: Tonitrus Canere
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Hikari - HP:5781/5781 SP:153/317 BP:3
+2: Osvald - HP:1540/3557 SP:299/541 BP:3
+3: Agnea - HP:4002/4002 SP:4/504 BP:4
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari usa Peacock Strut
+Osvald tendrá Increased Elemental Attack durante 2 rondas
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:149/317 BP:3
+B-Osvald - HP:1540/3557 SP:299/541 BP:3
+C-Z'aanta - HP:0/3222 SP:351/371 BP:1
+D-Agnea - HP:4002/4002 SP:4/504 BP:4
+Equipo del enemigo
+A-Light Elemental - HP:0/1880 Shields:4
+B-Ice Elemental - HP:0/2160 Shields:0
+C-Armor Eater - HP:0/1594 Shields:4
+D-Lord of the Flies - HP:3151/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Hikari
+3.Osvald
+4.Lord of the Flies
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Osvald
+1: Reflective Veil
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Osvald
+1: Hikari - HP:5781/5781 SP:149/317 BP:3
+2: Osvald - HP:1540/3557 SP:299/541 BP:3
+3: Agnea - HP:4002/4002 SP:4/504 BP:4
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Osvald usa Reflective Veil
+Hikari reflejará los próximos 4 ataques elementales
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:149/317 BP:3
+B-Osvald - HP:1540/3557 SP:277/541 BP:0
+C-Z'aanta - HP:0/3222 SP:351/371 BP:1
+D-Agnea - HP:4002/4002 SP:4/504 BP:4
+Equipo del enemigo
+A-Light Elemental - HP:0/1880 Shields:4
+B-Ice Elemental - HP:0/2160 Shields:0
+C-Armor Eater - HP:0/1594 Shields:4
+D-Lord of the Flies - HP:3151/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Hikari
+3.Osvald
+4.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Osvald recibe 269 de daño físico
+Osvald termina con HP:1271
+----------------------------------------
+INICIA RONDA 23
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:149/317 BP:4
+B-Osvald - HP:1271/3557 SP:277/541 BP:0
+C-Z'aanta - HP:0/3222 SP:351/371 BP:1
+D-Agnea - HP:4002/4002 SP:4/504 BP:5
+Equipo del enemigo
+A-Light Elemental - HP:0/1880 Shields:4
+B-Ice Elemental - HP:0/2160 Shields:0
+C-Armor Eater - HP:0/1594 Shields:4
+D-Lord of the Flies - HP:3151/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Hikari
+3.Osvald
+4.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Hikari
+3.Osvald
+4.Lord of the Flies
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Agnea
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Agnea
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Agnea
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Agnea
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Agnea
+1: Lord of the Flies - HP:3151/5590 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Agnea ataca
+Lord of the Flies recibe 0 de daño de tipo Dagger
+Lord of the Flies recibe 0 de daño de tipo Dagger
+Lord of the Flies termina con HP:3151
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:149/317 BP:4
+B-Osvald - HP:1271/3557 SP:277/541 BP:0
+C-Z'aanta - HP:0/3222 SP:351/371 BP:1
+D-Agnea - HP:4002/4002 SP:4/504 BP:4
+Equipo del enemigo
+A-Light Elemental - HP:0/1880 Shields:4
+B-Ice Elemental - HP:0/2160 Shields:0
+C-Armor Eater - HP:0/1594 Shields:4
+D-Lord of the Flies - HP:3151/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Osvald
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Hikari
+3.Osvald
+4.Lord of the Flies
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Peacock Strut
+2: Tonitrus Canere
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Hikari - HP:5781/5781 SP:149/317 BP:4
+2: Osvald - HP:1271/3557 SP:277/541 BP:0
+3: Agnea - HP:4002/4002 SP:4/504 BP:4
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Hikari usa Peacock Strut
+Agnea tendrá Increased Elemental Attack durante 8 rondas
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:145/317 BP:1
+B-Osvald - HP:1271/3557 SP:277/541 BP:0
+C-Z'aanta - HP:0/3222 SP:351/371 BP:1
+D-Agnea - HP:4002/4002 SP:4/504 BP:4
+Equipo del enemigo
+A-Light Elemental - HP:0/1880 Shields:4
+B-Ice Elemental - HP:0/2160 Shields:0
+C-Armor Eater - HP:0/1594 Shields:4
+D-Lord of the Flies - HP:3151/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Hikari
+3.Osvald
+4.Lord of the Flies
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Osvald
+1: Reflective Veil
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Osvald
+1: Hikari - HP:5781/5781 SP:145/317 BP:1
+2: Osvald - HP:1271/3557 SP:277/541 BP:0
+3: Agnea - HP:4002/4002 SP:4/504 BP:4
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Osvald usa Reflective Veil
+Agnea reflejará los próximos 1 ataques elementales
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:145/317 BP:1
+B-Osvald - HP:1271/3557 SP:255/541 BP:0
+C-Z'aanta - HP:0/3222 SP:351/371 BP:1
+D-Agnea - HP:4002/4002 SP:4/504 BP:4
+Equipo del enemigo
+A-Light Elemental - HP:0/1880 Shields:4
+B-Ice Elemental - HP:0/2160 Shields:0
+C-Armor Eater - HP:0/1594 Shields:4
+D-Lord of the Flies - HP:3151/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Hikari
+3.Osvald
+4.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Osvald recibe 269 de daño físico
+Osvald termina con HP:1002
+----------------------------------------
+INICIA RONDA 24
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:145/317 BP:1
+B-Osvald - HP:1002/3557 SP:255/541 BP:1
+C-Z'aanta - HP:0/3222 SP:351/371 BP:1
+D-Agnea - HP:4002/4002 SP:4/504 BP:4
+Equipo del enemigo
+A-Light Elemental - HP:0/1880 Shields:4
+B-Ice Elemental - HP:0/2160 Shields:0
+C-Armor Eater - HP:0/1594 Shields:4
+D-Lord of the Flies - HP:3151/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Hikari
+3.Osvald
+4.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Hikari
+3.Osvald
+4.Lord of the Flies
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Agnea
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Agnea
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Agnea
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Agnea
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Agnea
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Agnea
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Agnea
+1: Lord of the Flies - HP:3151/5590 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Agnea ataca
+Lord of the Flies recibe 0 de daño de tipo Dagger
+Lord of the Flies recibe 0 de daño de tipo Dagger
+Lord of the Flies recibe 0 de daño de tipo Dagger
+Lord of the Flies termina con HP:3151
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:145/317 BP:1
+B-Osvald - HP:1002/3557 SP:255/541 BP:1
+C-Z'aanta - HP:0/3222 SP:351/371 BP:1
+D-Agnea - HP:4002/4002 SP:4/504 BP:2
+Equipo del enemigo
+A-Light Elemental - HP:0/1880 Shields:4
+B-Ice Elemental - HP:0/2160 Shields:0
+C-Armor Eater - HP:0/1594 Shields:4
+D-Lord of the Flies - HP:3151/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Osvald
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Hikari
+3.Osvald
+4.Lord of the Flies
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Peacock Strut
+2: Tonitrus Canere
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Hikari - HP:5781/5781 SP:145/317 BP:1
+2: Osvald - HP:1002/3557 SP:255/541 BP:1
+3: Agnea - HP:4002/4002 SP:4/504 BP:2
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Hikari no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Hikari no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Hikari no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Hikari usa Peacock Strut
+Agnea tendrá Increased Elemental Attack durante 4 rondas
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:141/317 BP:0
+B-Osvald - HP:1002/3557 SP:255/541 BP:1
+C-Z'aanta - HP:0/3222 SP:351/371 BP:1
+D-Agnea - HP:4002/4002 SP:4/504 BP:2
+Equipo del enemigo
+A-Light Elemental - HP:0/1880 Shields:4
+B-Ice Elemental - HP:0/2160 Shields:0
+C-Armor Eater - HP:0/1594 Shields:4
+D-Lord of the Flies - HP:3151/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Hikari
+3.Osvald
+4.Lord of the Flies
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Osvald
+1: Reflective Veil
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Osvald
+1: Hikari - HP:5781/5781 SP:141/317 BP:0
+2: Osvald - HP:1002/3557 SP:255/541 BP:1
+3: Agnea - HP:4002/4002 SP:4/504 BP:2
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Osvald usa Reflective Veil
+Agnea reflejará los próximos 2 ataques elementales
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:141/317 BP:0
+B-Osvald - HP:1002/3557 SP:233/541 BP:0
+C-Z'aanta - HP:0/3222 SP:351/371 BP:1
+D-Agnea - HP:4002/4002 SP:4/504 BP:2
+Equipo del enemigo
+A-Light Elemental - HP:0/1880 Shields:4
+B-Ice Elemental - HP:0/2160 Shields:0
+C-Armor Eater - HP:0/1594 Shields:4
+D-Lord of the Flies - HP:3151/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Hikari
+3.Osvald
+4.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Osvald recibe 269 de daño físico
+Osvald termina con HP:733
+----------------------------------------
+INICIA RONDA 25
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:141/317 BP:0
+B-Osvald - HP:733/3557 SP:233/541 BP:0
+C-Z'aanta - HP:0/3222 SP:351/371 BP:1
+D-Agnea - HP:4002/4002 SP:4/504 BP:2
+Equipo del enemigo
+A-Light Elemental - HP:0/1880 Shields:4
+B-Ice Elemental - HP:0/2160 Shields:0
+C-Armor Eater - HP:0/1594 Shields:4
+D-Lord of the Flies - HP:3151/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Hikari
+3.Osvald
+4.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Hikari
+3.Osvald
+4.Lord of the Flies
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Agnea
+1: Lord of the Flies - HP:3151/5590 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Agnea ataca
+Lord of the Flies recibe 0 de daño de tipo Dagger
+Lord of the Flies recibe 0 de daño de tipo Dagger
+Lord of the Flies recibe 0 de daño de tipo Dagger
+Lord of the Flies termina con HP:3151
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:141/317 BP:0
+B-Osvald - HP:733/3557 SP:233/541 BP:0
+C-Z'aanta - HP:0/3222 SP:351/371 BP:1
+D-Agnea - HP:4002/4002 SP:4/504 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:0/1880 Shields:4
+B-Ice Elemental - HP:0/2160 Shields:0
+C-Armor Eater - HP:0/1594 Shields:4
+D-Lord of the Flies - HP:3151/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Osvald
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Hikari
+3.Osvald
+4.Lord of the Flies
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:141/317 BP:0
+B-Osvald - HP:733/3557 SP:233/541 BP:0
+C-Z'aanta - HP:0/3222 SP:351/371 BP:1
+D-Agnea - HP:4002/4002 SP:4/504 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:0/1880 Shields:4
+B-Ice Elemental - HP:0/2160 Shields:0
+C-Armor Eater - HP:0/1594 Shields:4
+D-Lord of the Flies - HP:3151/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Agnea
+3.Osvald
+4.Lord of the Flies
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Osvald
+1: Reflective Veil
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Osvald
+1: Hikari - HP:5781/5781 SP:141/317 BP:0
+2: Osvald - HP:733/3557 SP:233/541 BP:0
+3: Agnea - HP:4002/4002 SP:4/504 BP:0
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Osvald usa Reflective Veil
+Osvald reflejará los próximos 1 ataques elementales
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:141/317 BP:0
+B-Osvald - HP:733/3557 SP:211/541 BP:0
+C-Z'aanta - HP:0/3222 SP:351/371 BP:1
+D-Agnea - HP:4002/4002 SP:4/504 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:0/1880 Shields:4
+B-Ice Elemental - HP:0/2160 Shields:0
+C-Armor Eater - HP:0/1594 Shields:4
+D-Lord of the Flies - HP:3151/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Agnea
+3.Osvald
+4.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Osvald recibe 269 de daño físico
+Osvald termina con HP:464
+----------------------------------------
+INICIA RONDA 26
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:141/317 BP:1
+B-Osvald - HP:464/3557 SP:211/541 BP:1
+C-Z'aanta - HP:0/3222 SP:351/371 BP:1
+D-Agnea - HP:4002/4002 SP:4/504 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:0/1880 Shields:4
+B-Ice Elemental - HP:0/2160 Shields:0
+C-Armor Eater - HP:0/1594 Shields:4
+D-Lord of the Flies - HP:3151/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Agnea
+3.Osvald
+4.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Hikari
+3.Osvald
+4.Lord of the Flies
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Peacock Strut
+2: Tonitrus Canere
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Hikari - HP:5781/5781 SP:141/317 BP:1
+2: Osvald - HP:464/3557 SP:211/541 BP:1
+3: Agnea - HP:4002/4002 SP:4/504 BP:0
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari usa Peacock Strut
+Osvald tendrá Increased Elemental Attack durante 2 rondas
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:137/317 BP:1
+B-Osvald - HP:464/3557 SP:211/541 BP:1
+C-Z'aanta - HP:0/3222 SP:351/371 BP:1
+D-Agnea - HP:4002/4002 SP:4/504 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:0/1880 Shields:4
+B-Ice Elemental - HP:0/2160 Shields:0
+C-Armor Eater - HP:0/1594 Shields:4
+D-Lord of the Flies - HP:3151/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Osvald
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Hikari
+3.Osvald
+4.Lord of the Flies
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Agnea
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Agnea
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Agnea
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Agnea
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Agnea
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Agnea
+1: Lord of the Flies - HP:3151/5590 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Agnea ataca
+Lord of the Flies recibe 0 de daño de tipo Dagger
+Lord of the Flies termina con HP:3151
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:137/317 BP:1
+B-Osvald - HP:464/3557 SP:211/541 BP:1
+C-Z'aanta - HP:0/3222 SP:351/371 BP:1
+D-Agnea - HP:4002/4002 SP:4/504 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:0/1880 Shields:4
+B-Ice Elemental - HP:0/2160 Shields:0
+C-Armor Eater - HP:0/1594 Shields:4
+D-Lord of the Flies - HP:3151/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Hikari
+3.Osvald
+4.Lord of the Flies
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:137/317 BP:1
+B-Osvald - HP:464/3557 SP:211/541 BP:1
+C-Z'aanta - HP:0/3222 SP:351/371 BP:1
+D-Agnea - HP:4002/4002 SP:4/504 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:0/1880 Shields:4
+B-Ice Elemental - HP:0/2160 Shields:0
+C-Armor Eater - HP:0/1594 Shields:4
+D-Lord of the Flies - HP:3151/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Osvald
+2.Agnea
+3.Hikari
+4.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Osvald se defiende
+Osvald recibe 134 de daño físico
+Osvald termina con HP:330
+----------------------------------------
+INICIA RONDA 27
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:137/317 BP:2
+B-Osvald - HP:330/3557 SP:211/541 BP:2
+C-Z'aanta - HP:0/3222 SP:351/371 BP:1
+D-Agnea - HP:4002/4002 SP:4/504 BP:1
+Equipo del enemigo
+A-Light Elemental - HP:0/1880 Shields:4
+B-Ice Elemental - HP:0/2160 Shields:0
+C-Armor Eater - HP:0/1594 Shields:4
+D-Lord of the Flies - HP:3151/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Agnea
+3.Hikari
+4.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Hikari
+3.Osvald
+4.Lord of the Flies
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Osvald
+1: Reflective Veil
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Osvald
+1: Hikari - HP:5781/5781 SP:137/317 BP:2
+2: Osvald - HP:330/3557 SP:211/541 BP:2
+3: Agnea - HP:4002/4002 SP:4/504 BP:1
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Osvald usa Reflective Veil
+Agnea reflejará los próximos 2 ataques elementales
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:137/317 BP:2
+B-Osvald - HP:330/3557 SP:189/541 BP:1
+C-Z'aanta - HP:0/3222 SP:351/371 BP:1
+D-Agnea - HP:4002/4002 SP:4/504 BP:1
+Equipo del enemigo
+A-Light Elemental - HP:0/1880 Shields:4
+B-Ice Elemental - HP:0/2160 Shields:0
+C-Armor Eater - HP:0/1594 Shields:4
+D-Lord of the Flies - HP:3151/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Hikari
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Hikari
+3.Osvald
+4.Lord of the Flies
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Agnea
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Agnea
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Agnea
+1: Lord of the Flies - HP:3151/5590 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Agnea no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Agnea no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Agnea no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Agnea ataca
+Lord of the Flies recibe 0 de daño de tipo Dagger
+Lord of the Flies termina con HP:3151
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:137/317 BP:2
+B-Osvald - HP:330/3557 SP:189/541 BP:1
+C-Z'aanta - HP:0/3222 SP:351/371 BP:1
+D-Agnea - HP:4002/4002 SP:4/504 BP:1
+Equipo del enemigo
+A-Light Elemental - HP:0/1880 Shields:4
+B-Ice Elemental - HP:0/2160 Shields:0
+C-Armor Eater - HP:0/1594 Shields:4
+D-Lord of the Flies - HP:3151/5590 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Hikari
+3.Osvald
+4.Lord of the Flies
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Lord of the Flies - HP:3151/5590 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari ataca
+Lord of the Flies recibe 99 de daño de tipo Spear con debilidad
+Lord of the Flies termina con HP:3052
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:137/317 BP:2
+B-Osvald - HP:330/3557 SP:189/541 BP:1
+C-Z'aanta - HP:0/3222 SP:351/371 BP:1
+D-Agnea - HP:4002/4002 SP:4/504 BP:1
+Equipo del enemigo
+A-Light Elemental - HP:0/1880 Shields:4
+B-Ice Elemental - HP:0/2160 Shields:0
+C-Armor Eater - HP:0/1594 Shields:4
+D-Lord of the Flies - HP:3052/5590 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Hikari
+3.Osvald
+4.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Osvald recibe 269 de daño físico
+Osvald termina con HP:61
+----------------------------------------
+INICIA RONDA 28
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:137/317 BP:3
+B-Osvald - HP:61/3557 SP:189/541 BP:1
+C-Z'aanta - HP:0/3222 SP:351/371 BP:1
+D-Agnea - HP:4002/4002 SP:4/504 BP:2
+Equipo del enemigo
+A-Light Elemental - HP:0/1880 Shields:4
+B-Ice Elemental - HP:0/2160 Shields:0
+C-Armor Eater - HP:0/1594 Shields:4
+D-Lord of the Flies - HP:3052/5590 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Hikari
+3.Osvald
+4.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Hikari
+3.Osvald
+4.Lord of the Flies
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Agnea
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Agnea
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Agnea
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:137/317 BP:3
+B-Osvald - HP:61/3557 SP:189/541 BP:1
+C-Z'aanta - HP:0/3222 SP:351/371 BP:1
+D-Agnea - HP:4002/4002 SP:4/504 BP:2
+Equipo del enemigo
+A-Light Elemental - HP:0/1880 Shields:4
+B-Ice Elemental - HP:0/2160 Shields:0
+C-Armor Eater - HP:0/1594 Shields:4
+D-Lord of the Flies - HP:3052/5590 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Osvald
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Hikari
+3.Osvald
+4.Lord of the Flies
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Lord of the Flies - HP:3052/5590 Shields:1
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Hikari ataca
+Lord of the Flies recibe 66 de daño de tipo Sword
+Lord of the Flies recibe 66 de daño de tipo Sword
+Lord of the Flies recibe 66 de daño de tipo Sword
+Lord of the Flies recibe 66 de daño de tipo Sword
+Lord of the Flies termina con HP:2788
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:137/317 BP:0
+B-Osvald - HP:61/3557 SP:189/541 BP:1
+C-Z'aanta - HP:0/3222 SP:351/371 BP:1
+D-Agnea - HP:4002/4002 SP:4/504 BP:2
+Equipo del enemigo
+A-Light Elemental - HP:0/1880 Shields:4
+B-Ice Elemental - HP:0/2160 Shields:0
+C-Armor Eater - HP:0/1594 Shields:4
+D-Lord of the Flies - HP:2788/5590 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Hikari
+3.Osvald
+4.Lord of the Flies
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Osvald
+1: Reflective Veil
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Osvald
+1: Hikari - HP:5781/5781 SP:137/317 BP:0
+2: Osvald - HP:61/3557 SP:189/541 BP:1
+3: Agnea - HP:4002/4002 SP:4/504 BP:2
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Osvald no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Osvald usa Reflective Veil
+Hikari reflejará los próximos 1 ataques elementales
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:137/317 BP:0
+B-Osvald - HP:61/3557 SP:167/541 BP:1
+C-Z'aanta - HP:0/3222 SP:351/371 BP:1
+D-Agnea - HP:4002/4002 SP:4/504 BP:2
+Equipo del enemigo
+A-Light Elemental - HP:0/1880 Shields:4
+B-Ice Elemental - HP:0/2160 Shields:0
+C-Armor Eater - HP:0/1594 Shields:4
+D-Lord of the Flies - HP:2788/5590 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Hikari
+3.Osvald
+4.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Osvald recibe 269 de daño físico
+Osvald termina con HP:0
+----------------------------------------
+INICIA RONDA 29
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:137/317 BP:0
+B-Osvald - HP:0/3557 SP:167/541 BP:1
+C-Z'aanta - HP:0/3222 SP:351/371 BP:1
+D-Agnea - HP:4002/4002 SP:4/504 BP:3
+Equipo del enemigo
+A-Light Elemental - HP:0/1880 Shields:4
+B-Ice Elemental - HP:0/2160 Shields:0
+C-Armor Eater - HP:0/1594 Shields:4
+D-Lord of the Flies - HP:2788/5590 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Hikari
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Hikari
+3.Lord of the Flies
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:137/317 BP:0
+B-Osvald - HP:0/3557 SP:167/541 BP:1
+C-Z'aanta - HP:0/3222 SP:351/371 BP:1
+D-Agnea - HP:4002/4002 SP:4/504 BP:3
+Equipo del enemigo
+A-Light Elemental - HP:0/1880 Shields:4
+B-Ice Elemental - HP:0/2160 Shields:0
+C-Armor Eater - HP:0/1594 Shields:4
+D-Lord of the Flies - HP:2788/5590 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Hikari
+3.Lord of the Flies
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:137/317 BP:0
+B-Osvald - HP:0/3557 SP:167/541 BP:1
+C-Z'aanta - HP:0/3222 SP:351/371 BP:1
+D-Agnea - HP:4002/4002 SP:4/504 BP:3
+Equipo del enemigo
+A-Light Elemental - HP:0/1880 Shields:4
+B-Ice Elemental - HP:0/2160 Shields:0
+C-Armor Eater - HP:0/1594 Shields:4
+D-Lord of the Flies - HP:2788/5590 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Hikari
+3.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Agnea se defiende
+Agnea recibe 180 de daño físico
+Agnea termina con HP:3822
+----------------------------------------
+INICIA RONDA 30
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:137/317 BP:1
+B-Osvald - HP:0/3557 SP:167/541 BP:1
+C-Z'aanta - HP:0/3222 SP:351/371 BP:1
+D-Agnea - HP:3822/4002 SP:4/504 BP:4
+Equipo del enemigo
+A-Light Elemental - HP:0/1880 Shields:4
+B-Ice Elemental - HP:0/2160 Shields:0
+C-Armor Eater - HP:0/1594 Shields:4
+D-Lord of the Flies - HP:2788/5590 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Hikari
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Hikari
+3.Lord of the Flies
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:137/317 BP:1
+B-Osvald - HP:0/3557 SP:167/541 BP:1
+C-Z'aanta - HP:0/3222 SP:351/371 BP:1
+D-Agnea - HP:3822/4002 SP:4/504 BP:4
+Equipo del enemigo
+A-Light Elemental - HP:0/1880 Shields:4
+B-Ice Elemental - HP:0/2160 Shields:0
+C-Armor Eater - HP:0/1594 Shields:4
+D-Lord of the Flies - HP:2788/5590 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Hikari
+3.Lord of the Flies
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Peacock Strut
+2: Tonitrus Canere
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Hikari usa Tonitrus Canere
+Lord of the Flies recibe 359 de daño de tipo Lightning
+Lord of the Flies recibe 359 de daño de tipo Lightning
+Lord of the Flies recibe 359 de daño de tipo Lightning
+Lord of the Flies termina con HP:1711
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:101/317 BP:0
+B-Osvald - HP:0/3557 SP:167/541 BP:1
+C-Z'aanta - HP:0/3222 SP:351/371 BP:1
+D-Agnea - HP:3822/4002 SP:4/504 BP:4
+Equipo del enemigo
+A-Light Elemental - HP:0/1880 Shields:4
+B-Ice Elemental - HP:0/2160 Shields:0
+C-Armor Eater - HP:0/1594 Shields:4
+D-Lord of the Flies - HP:1711/5590 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Hikari
+3.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Agnea se defiende
+Agnea recibe 180 de daño físico
+Agnea termina con HP:3642
+----------------------------------------
+INICIA RONDA 31
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:101/317 BP:0
+B-Osvald - HP:0/3557 SP:167/541 BP:1
+C-Z'aanta - HP:0/3222 SP:351/371 BP:1
+D-Agnea - HP:3642/4002 SP:4/504 BP:5
+Equipo del enemigo
+A-Light Elemental - HP:0/1880 Shields:4
+B-Ice Elemental - HP:0/2160 Shields:0
+C-Armor Eater - HP:0/1594 Shields:4
+D-Lord of the Flies - HP:1711/5590 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Hikari
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Hikari
+3.Lord of the Flies
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Agnea
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Agnea
+1: Lord of the Flies - HP:1711/5590 Shields:1
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Agnea ataca
+Lord of the Flies recibe 0 de daño de tipo Dagger
+Lord of the Flies termina con HP:1711
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:101/317 BP:0
+B-Osvald - HP:0/3557 SP:167/541 BP:1
+C-Z'aanta - HP:0/3222 SP:351/371 BP:1
+D-Agnea - HP:3642/4002 SP:4/504 BP:5
+Equipo del enemigo
+A-Light Elemental - HP:0/1880 Shields:4
+B-Ice Elemental - HP:0/2160 Shields:0
+C-Armor Eater - HP:0/1594 Shields:4
+D-Lord of the Flies - HP:1711/5590 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Hikari
+3.Lord of the Flies
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Peacock Strut
+2: Tonitrus Canere
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Hikari - HP:5781/5781 SP:101/317 BP:0
+2: Agnea - HP:3642/4002 SP:4/504 BP:5
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Hikari usa Peacock Strut
+Hikari tendrá Increased Elemental Attack durante 2 rondas
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:97/317 BP:0
+B-Osvald - HP:0/3557 SP:167/541 BP:1
+C-Z'aanta - HP:0/3222 SP:351/371 BP:1
+D-Agnea - HP:3642/4002 SP:4/504 BP:5
+Equipo del enemigo
+A-Light Elemental - HP:0/1880 Shields:4
+B-Ice Elemental - HP:0/2160 Shields:0
+C-Armor Eater - HP:0/1594 Shields:4
+D-Lord of the Flies - HP:1711/5590 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Hikari
+3.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Agnea recibe 360 de daño físico
+Agnea termina con HP:3282
+----------------------------------------
+INICIA RONDA 32
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:97/317 BP:1
+B-Osvald - HP:0/3557 SP:167/541 BP:1
+C-Z'aanta - HP:0/3222 SP:351/371 BP:1
+D-Agnea - HP:3282/4002 SP:4/504 BP:5
+Equipo del enemigo
+A-Light Elemental - HP:0/1880 Shields:4
+B-Ice Elemental - HP:0/2160 Shields:0
+C-Armor Eater - HP:0/1594 Shields:4
+D-Lord of the Flies - HP:1711/5590 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Hikari
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Hikari
+3.Lord of the Flies
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Agnea
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Agnea
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Agnea
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Agnea
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Agnea
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Agnea
+1: Lord of the Flies - HP:1711/5590 Shields:1
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Agnea ataca
+Lord of the Flies recibe 0 de daño de tipo Dagger
+Lord of the Flies recibe 0 de daño de tipo Dagger
+Lord of the Flies recibe 0 de daño de tipo Dagger
+Lord of the Flies termina con HP:1711
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:97/317 BP:1
+B-Osvald - HP:0/3557 SP:167/541 BP:1
+C-Z'aanta - HP:0/3222 SP:351/371 BP:1
+D-Agnea - HP:3282/4002 SP:4/504 BP:3
+Equipo del enemigo
+A-Light Elemental - HP:0/1880 Shields:4
+B-Ice Elemental - HP:0/2160 Shields:0
+C-Armor Eater - HP:0/1594 Shields:4
+D-Lord of the Flies - HP:1711/5590 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Hikari
+3.Lord of the Flies
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Peacock Strut
+2: Tonitrus Canere
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Hikari usa Tonitrus Canere
+Lord of the Flies recibe 538 de daño de tipo Lightning
+Lord of the Flies recibe 538 de daño de tipo Lightning
+Lord of the Flies recibe 538 de daño de tipo Lightning
+Lord of the Flies termina con HP:97
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:61/317 BP:0
+B-Osvald - HP:0/3557 SP:167/541 BP:1
+C-Z'aanta - HP:0/3222 SP:351/371 BP:1
+D-Agnea - HP:3282/4002 SP:4/504 BP:3
+Equipo del enemigo
+A-Light Elemental - HP:0/1880 Shields:4
+B-Ice Elemental - HP:0/2160 Shields:0
+C-Armor Eater - HP:0/1594 Shields:4
+D-Lord of the Flies - HP:97/5590 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Hikari
+3.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Agnea recibe 360 de daño físico
+Agnea termina con HP:2922
+----------------------------------------
+INICIA RONDA 33
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:61/317 BP:0
+B-Osvald - HP:0/3557 SP:167/541 BP:1
+C-Z'aanta - HP:0/3222 SP:351/371 BP:1
+D-Agnea - HP:2922/4002 SP:4/504 BP:3
+Equipo del enemigo
+A-Light Elemental - HP:0/1880 Shields:4
+B-Ice Elemental - HP:0/2160 Shields:0
+C-Armor Eater - HP:0/1594 Shields:4
+D-Lord of the Flies - HP:97/5590 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Hikari
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Hikari
+3.Lord of the Flies
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Agnea
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Agnea
+1: Lord of the Flies - HP:97/5590 Shields:1
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Agnea ataca
+Lord of the Flies recibe 0 de daño de tipo Dagger
+Lord of the Flies recibe 0 de daño de tipo Dagger
+Lord of the Flies termina con HP:97
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:61/317 BP:0
+B-Osvald - HP:0/3557 SP:167/541 BP:1
+C-Z'aanta - HP:0/3222 SP:351/371 BP:1
+D-Agnea - HP:2922/4002 SP:4/504 BP:2
+Equipo del enemigo
+A-Light Elemental - HP:0/1880 Shields:4
+B-Ice Elemental - HP:0/2160 Shields:0
+C-Armor Eater - HP:0/1594 Shields:4
+D-Lord of the Flies - HP:97/5590 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Hikari
+3.Lord of the Flies
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Lord of the Flies - HP:97/5590 Shields:1
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Hikari ataca
+Lord of the Flies recibe 66 de daño de tipo Sword
+Lord of the Flies termina con HP:31
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:61/317 BP:0
+B-Osvald - HP:0/3557 SP:167/541 BP:1
+C-Z'aanta - HP:0/3222 SP:351/371 BP:1
+D-Agnea - HP:2922/4002 SP:4/504 BP:2
+Equipo del enemigo
+A-Light Elemental - HP:0/1880 Shields:4
+B-Ice Elemental - HP:0/2160 Shields:0
+C-Armor Eater - HP:0/1594 Shields:4
+D-Lord of the Flies - HP:31/5590 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Hikari
+3.Lord of the Flies
+----------------------------------------
+Lord of the Flies usa Befuddling claw
+Agnea recibe 360 de daño físico
+Agnea termina con HP:2562
+----------------------------------------
+INICIA RONDA 34
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:61/317 BP:1
+B-Osvald - HP:0/3557 SP:167/541 BP:1
+C-Z'aanta - HP:0/3222 SP:351/371 BP:1
+D-Agnea - HP:2562/4002 SP:4/504 BP:2
+Equipo del enemigo
+A-Light Elemental - HP:0/1880 Shields:4
+B-Ice Elemental - HP:0/2160 Shields:0
+C-Armor Eater - HP:0/1594 Shields:4
+D-Lord of the Flies - HP:31/5590 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Agnea
+2.Hikari
+3.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Hikari
+3.Lord of the Flies
+----------------------------------------
+Turno de Agnea
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Agnea
+1: Lord of the Flies - HP:31/5590 Shields:1
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Agnea ataca
+Lord of the Flies recibe 0 de daño de tipo Dagger
+Lord of the Flies recibe 0 de daño de tipo Dagger
+Lord of the Flies recibe 0 de daño de tipo Dagger
+Lord of the Flies termina con HP:31
+----------------------------------------
+Equipo del jugador
+A-Hikari - HP:5781/5781 SP:61/317 BP:1
+B-Osvald - HP:0/3557 SP:167/541 BP:1
+C-Z'aanta - HP:0/3222 SP:351/371 BP:1
+D-Agnea - HP:2562/4002 SP:4/504 BP:0
+Equipo del enemigo
+A-Light Elemental - HP:0/1880 Shields:4
+B-Ice Elemental - HP:0/2160 Shields:0
+C-Armor Eater - HP:0/1594 Shields:4
+D-Lord of the Flies - HP:31/5590 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Lord of the Flies
+----------------------------------------
+Turnos de la siguiente ronda
+1.Agnea
+2.Hikari
+3.Lord of the Flies
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Lord of the Flies - HP:31/5590 Shields:1
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Hikari no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari ataca
+Lord of the Flies recibe 66 de daño de tipo Sword
+Lord of the Flies termina con HP:0
+----------------------------------------
+Gana equipo del jugador

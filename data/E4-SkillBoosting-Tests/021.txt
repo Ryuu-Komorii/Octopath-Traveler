@@ -1,0 +1,586 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+INPUT: 20
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:1
+B-Cyrus - HP:3557/3557 SP:582/582 BP:1
+Equipo del enemigo
+A-Devourer of Dreams - HP:7500/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Cyrus
+3.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Cyrus
+3.Devourer of Dreams
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Devourer of Dreams - HP:7500/7500 Shields:10
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia ataca
+Devourer of Dreams recibe 0 de daño de tipo Stave
+Devourer of Dreams termina con HP:7500
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:1
+B-Cyrus - HP:3557/3557 SP:582/582 BP:1
+Equipo del enemigo
+A-Devourer of Dreams - HP:7500/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Cyrus
+3.Devourer of Dreams
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Blizzard
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus usa Blizzard
+Devourer of Dreams recibe 446 de daño de tipo Ice
+Devourer of Dreams recibe 446 de daño de tipo Ice
+Devourer of Dreams termina con HP:6608
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:1
+B-Cyrus - HP:3557/3557 SP:560/582 BP:1
+Equipo del enemigo
+A-Devourer of Dreams - HP:6608/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Cyrus
+3.Devourer of Dreams
+----------------------------------------
+Devourer of Dreams usa Vortal Claw
+Ophilia recibe 2001 de daño
+Cyrus recibe 1779 de daño
+Ophilia termina con HP:2001
+Cyrus termina con HP:1778
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:2001/4002 SP:470/470 BP:2
+B-Cyrus - HP:1778/3557 SP:560/582 BP:2
+Equipo del enemigo
+A-Devourer of Dreams - HP:6608/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Cyrus
+3.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Cyrus
+3.Devourer of Dreams
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ophilia
+1: Transfusion
+2: Heal More
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Ophilia - HP:2001/4002 SP:470/470 BP:2
+2: Cyrus - HP:1778/3557 SP:560/582 BP:2
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Ophilia usa Transfusion
+Cyrus recupera 1400 de vida
+Ophilia pierde 1000 HP
+Cyrus termina con HP:3178
+Ophilia termina con HP:1001
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:1001/4002 SP:452/470 BP:0
+B-Cyrus - HP:3178/3557 SP:560/582 BP:2
+Equipo del enemigo
+A-Devourer of Dreams - HP:6608/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Cyrus
+3.Devourer of Dreams
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Blizzard
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus usa Blizzard
+Devourer of Dreams recibe 446 de daño de tipo Ice
+Devourer of Dreams recibe 446 de daño de tipo Ice
+Devourer of Dreams termina con HP:5716
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:1001/4002 SP:452/470 BP:0
+B-Cyrus - HP:3178/3557 SP:538/582 BP:2
+Equipo del enemigo
+A-Devourer of Dreams - HP:5716/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Cyrus
+3.Devourer of Dreams
+----------------------------------------
+Devourer of Dreams usa Vortal Claw
+Ophilia recibe 501 de daño
+Cyrus recibe 1589 de daño
+Ophilia termina con HP:500
+Cyrus termina con HP:1589
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:500/4002 SP:452/470 BP:0
+B-Cyrus - HP:1589/3557 SP:538/582 BP:3
+Equipo del enemigo
+A-Devourer of Dreams - HP:5716/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Cyrus
+3.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Cyrus
+3.Devourer of Dreams
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ophilia
+1: Transfusion
+2: Heal More
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Ophilia usa Heal More
+Cyrus recupera 798 de vida
+Ophilia recupera 798 de vida
+Cyrus termina con HP:2387
+Ophilia termina con HP:1298
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:1298/4002 SP:427/470 BP:0
+B-Cyrus - HP:2387/3557 SP:538/582 BP:3
+Equipo del enemigo
+A-Devourer of Dreams - HP:5716/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Cyrus
+3.Devourer of Dreams
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Blizzard
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus usa Blizzard
+Devourer of Dreams recibe 446 de daño de tipo Ice
+Devourer of Dreams recibe 446 de daño de tipo Ice
+Devourer of Dreams termina con HP:4824
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:1298/4002 SP:427/470 BP:0
+B-Cyrus - HP:2387/3557 SP:516/582 BP:3
+Equipo del enemigo
+A-Devourer of Dreams - HP:4824/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Cyrus
+3.Devourer of Dreams
+----------------------------------------
+Devourer of Dreams usa Vortal Claw
+Ophilia recibe 649 de daño
+Cyrus recibe 1194 de daño
+Ophilia termina con HP:649
+Cyrus termina con HP:1193
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:649/4002 SP:427/470 BP:1
+B-Cyrus - HP:1193/3557 SP:516/582 BP:4
+Equipo del enemigo
+A-Devourer of Dreams - HP:4824/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Cyrus
+3.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Cyrus
+3.Devourer of Dreams
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ophilia
+1: Transfusion
+2: Heal More
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia usa Heal More
+Cyrus recupera 798 de vida
+Ophilia recupera 798 de vida
+Cyrus termina con HP:1991
+Ophilia termina con HP:1447
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:1447/4002 SP:402/470 BP:1
+B-Cyrus - HP:1991/3557 SP:516/582 BP:4
+Equipo del enemigo
+A-Devourer of Dreams - HP:4824/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Cyrus
+3.Devourer of Dreams
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: Devourer of Dreams - HP:4824/7500 Shields:10
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus ataca
+Devourer of Dreams recibe 0 de daño de tipo Stave
+Devourer of Dreams termina con HP:4824
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:1447/4002 SP:402/470 BP:1
+B-Cyrus - HP:1991/3557 SP:516/582 BP:4
+Equipo del enemigo
+A-Devourer of Dreams - HP:4824/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Cyrus
+3.Devourer of Dreams
+----------------------------------------
+Devourer of Dreams usa Vortal Claw
+Ophilia recibe 724 de daño
+Cyrus recibe 996 de daño
+Ophilia termina con HP:723
+Cyrus termina con HP:995
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:723/4002 SP:402/470 BP:2
+B-Cyrus - HP:995/3557 SP:516/582 BP:5
+Equipo del enemigo
+A-Devourer of Dreams - HP:4824/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Cyrus
+3.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Cyrus
+3.Devourer of Dreams
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ophilia
+1: Transfusion
+2: Heal More
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia usa Heal More
+Cyrus recupera 798 de vida
+Ophilia recupera 798 de vida
+Cyrus termina con HP:1793
+Ophilia termina con HP:1521
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:1521/4002 SP:377/470 BP:2
+B-Cyrus - HP:1793/3557 SP:516/582 BP:5
+Equipo del enemigo
+A-Devourer of Dreams - HP:4824/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Cyrus
+3.Devourer of Dreams
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Cyrus
+1: Devourer of Dreams - HP:4824/7500 Shields:10
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Cyrus ataca
+Devourer of Dreams recibe 0 de daño de tipo Stave
+Devourer of Dreams termina con HP:4824
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:1521/4002 SP:377/470 BP:2
+B-Cyrus - HP:1793/3557 SP:516/582 BP:5
+Equipo del enemigo
+A-Devourer of Dreams - HP:4824/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Cyrus
+3.Devourer of Dreams
+----------------------------------------
+Devourer of Dreams usa Vortal Claw
+Ophilia recibe 761 de daño
+Cyrus recibe 897 de daño
+Ophilia termina con HP:760
+Cyrus termina con HP:896
+----------------------------------------
+INICIA RONDA 6
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:760/4002 SP:377/470 BP:3
+B-Cyrus - HP:896/3557 SP:516/582 BP:5
+Equipo del enemigo
+A-Devourer of Dreams - HP:4824/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Cyrus
+3.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Cyrus
+3.Devourer of Dreams
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ophilia
+1: Transfusion
+2: Heal More
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Ophilia - HP:760/4002 SP:377/470 BP:3
+2: Cyrus - HP:896/3557 SP:516/582 BP:5
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Ophilia usa Transfusion
+Cyrus recupera 608 de vida
+Ophilia pierde 380 HP
+Cyrus termina con HP:1504
+Ophilia termina con HP:380
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:380/4002 SP:359/470 BP:0
+B-Cyrus - HP:1504/3557 SP:516/582 BP:5
+Equipo del enemigo
+A-Devourer of Dreams - HP:4824/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Cyrus
+3.Devourer of Dreams
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 4
+----------------------------------------
+El equipo de viajeros ha huido!
+----------------------------------------
+Gana equipo del enemigo

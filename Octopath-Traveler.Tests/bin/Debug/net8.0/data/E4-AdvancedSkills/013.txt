@@ -1,0 +1,6 @@
+Player Team
+Tressa (Reflective Veil)
+Castti (Reflective Veil)
+Enemy Team
+Ice Wisp
+Light Wisp

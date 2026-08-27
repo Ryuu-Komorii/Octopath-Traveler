@@ -1,0 +1,409 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+INPUT: 7
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:4447/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Meep - HP:1016/1016 Shields:2
+B-Mossy Meep - HP:1060/1060 Shields:3
+C-Mattias? - HP:5780/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Mattias?
+3.Meep
+4.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Mattias?
+3.Meep
+4.Mossy Meep
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Therion
+1: Meep - HP:1016/1016 Shields:2
+2: Mossy Meep - HP:1060/1060 Shields:3
+3: Mattias? - HP:5780/5780 Shields:4
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Therion ataca
+Mattias? recibe 0 de daño de tipo Dagger
+Mattias? termina con HP:5780
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:4447/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Meep - HP:1016/1016 Shields:2
+B-Mossy Meep - HP:1060/1060 Shields:3
+C-Mattias? - HP:5780/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+2.Meep
+3.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Mattias?
+3.Meep
+4.Mossy Meep
+----------------------------------------
+Mattias? usa Black Gale
+Therion recibe 717 de daño elemental
+Therion termina con HP:3730
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:3730/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Meep - HP:1016/1016 Shields:2
+B-Mossy Meep - HP:1060/1060 Shields:3
+C-Mattias? - HP:5780/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Meep
+2.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Mattias?
+3.Meep
+4.Mossy Meep
+----------------------------------------
+Meep usa Attack
+Therion recibe 263 de daño físico
+Therion termina con HP:3467
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:3467/4447 SP:332/332 BP:1
+Equipo del enemigo
+A-Meep - HP:1016/1016 Shields:2
+B-Mossy Meep - HP:1060/1060 Shields:3
+C-Mattias? - HP:5780/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Mattias?
+3.Meep
+4.Mossy Meep
+----------------------------------------
+Mossy Meep usa Attack
+Therion recibe 280 de daño físico
+Therion termina con HP:3187
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:3187/4447 SP:332/332 BP:2
+Equipo del enemigo
+A-Meep - HP:1016/1016 Shields:2
+B-Mossy Meep - HP:1060/1060 Shields:3
+C-Mattias? - HP:5780/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Mattias?
+3.Meep
+4.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Mattias?
+3.Meep
+4.Mossy Meep
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Therion
+1: Meep - HP:1016/1016 Shields:2
+2: Mossy Meep - HP:1060/1060 Shields:3
+3: Mattias? - HP:5780/5780 Shields:4
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Therion ataca
+Mossy Meep recibe 31 de daño de tipo Dagger
+Mossy Meep termina con HP:1029
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:3187/4447 SP:332/332 BP:2
+Equipo del enemigo
+A-Meep - HP:1016/1016 Shields:2
+B-Mossy Meep - HP:1029/1060 Shields:3
+C-Mattias? - HP:5780/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+2.Meep
+3.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Mattias?
+3.Meep
+4.Mossy Meep
+----------------------------------------
+Mattias? usa Black Gale
+Therion recibe 717 de daño elemental
+Therion termina con HP:2470
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:2470/4447 SP:332/332 BP:2
+Equipo del enemigo
+A-Meep - HP:1016/1016 Shields:2
+B-Mossy Meep - HP:1029/1060 Shields:3
+C-Mattias? - HP:5780/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Meep
+2.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Mattias?
+3.Meep
+4.Mossy Meep
+----------------------------------------
+Meep usa Attack
+Therion recibe 263 de daño físico
+Therion termina con HP:2207
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:2207/4447 SP:332/332 BP:2
+Equipo del enemigo
+A-Meep - HP:1016/1016 Shields:2
+B-Mossy Meep - HP:1029/1060 Shields:3
+C-Mattias? - HP:5780/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Mattias?
+3.Meep
+4.Mossy Meep
+----------------------------------------
+Mossy Meep usa Attack
+Therion recibe 280 de daño físico
+Therion termina con HP:1927
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:1927/4447 SP:332/332 BP:3
+Equipo del enemigo
+A-Meep - HP:1016/1016 Shields:2
+B-Mossy Meep - HP:1029/1060 Shields:3
+C-Mattias? - HP:5780/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Mattias?
+3.Meep
+4.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Mattias?
+3.Meep
+4.Mossy Meep
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Therion
+1: Meep - HP:1016/1016 Shields:2
+2: Mossy Meep - HP:1029/1060 Shields:3
+3: Mattias? - HP:5780/5780 Shields:4
+4: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Therion ataca
+Meep recibe 59 de daño de tipo Dagger
+Meep termina con HP:957
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:1927/4447 SP:332/332 BP:3
+Equipo del enemigo
+A-Meep - HP:957/1016 Shields:2
+B-Mossy Meep - HP:1029/1060 Shields:3
+C-Mattias? - HP:5780/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+2.Meep
+3.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Mattias?
+3.Meep
+4.Mossy Meep
+----------------------------------------
+Mattias? usa Black Gale
+Therion recibe 717 de daño elemental
+Therion termina con HP:1210
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:1210/4447 SP:332/332 BP:3
+Equipo del enemigo
+A-Meep - HP:957/1016 Shields:2
+B-Mossy Meep - HP:1029/1060 Shields:3
+C-Mattias? - HP:5780/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Meep
+2.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Mattias?
+3.Meep
+4.Mossy Meep
+----------------------------------------
+Meep usa Attack
+Therion recibe 263 de daño físico
+Therion termina con HP:947
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:947/4447 SP:332/332 BP:3
+Equipo del enemigo
+A-Meep - HP:957/1016 Shields:2
+B-Mossy Meep - HP:1029/1060 Shields:3
+C-Mattias? - HP:5780/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Mattias?
+3.Meep
+4.Mossy Meep
+----------------------------------------
+Mossy Meep usa Attack
+Therion recibe 280 de daño físico
+Therion termina con HP:667
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:667/4447 SP:332/332 BP:4
+Equipo del enemigo
+A-Meep - HP:957/1016 Shields:2
+B-Mossy Meep - HP:1029/1060 Shields:3
+C-Mattias? - HP:5780/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Mattias?
+3.Meep
+4.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Mattias?
+3.Meep
+4.Mossy Meep
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Therion
+1: Aeber's Reckoning
+2: Heal More
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Therion usa Aeber's Reckoning
+Meep recibe 1880 de daño de tipo Dagger
+Mossy Meep recibe 1820 de daño de tipo Dagger
+Mattias? recibe 1723 de daño de tipo Dagger
+Meep termina con HP:0
+Mossy Meep termina con HP:0
+Mattias? termina con HP:4057
+----------------------------------------
+Equipo del jugador
+A-Therion - HP:667/4447 SP:302/332 BP:1
+Equipo del enemigo
+A-Meep - HP:0/1016 Shields:2
+B-Mossy Meep - HP:0/1060 Shields:3
+C-Mattias? - HP:4057/5780 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Mattias?
+----------------------------------------
+Mattias? usa Black Gale
+Therion recibe 717 de daño elemental
+Therion termina con HP:0
+----------------------------------------
+Gana equipo del enemigo

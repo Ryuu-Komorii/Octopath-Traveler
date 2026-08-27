@@ -1,0 +1,332 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+INPUT: 7
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:3222/3222 SP:371/371 BP:1
+Equipo del enemigo
+A-Devourer of Dreams - HP:7500/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Devourer of Dreams
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Z'aanta
+1: Devourer of Dreams - HP:7500/7500 Shields:10
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Z'aanta ataca
+Devourer of Dreams recibe 116 de daño de tipo Axe
+Devourer of Dreams termina con HP:7384
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:3222/3222 SP:371/371 BP:1
+Equipo del enemigo
+A-Devourer of Dreams - HP:7384/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Devourer of Dreams
+----------------------------------------
+Devourer of Dreams usa Vortal Claw
+Z'aanta recibe 1611 de daño
+Z'aanta termina con HP:1611
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:1611/3222 SP:371/371 BP:2
+Equipo del enemigo
+A-Devourer of Dreams - HP:7384/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Devourer of Dreams
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Z'aanta
+1: Devourer of Dreams - HP:7384/7500 Shields:10
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Z'aanta ataca
+Devourer of Dreams recibe 116 de daño de tipo Axe
+Devourer of Dreams termina con HP:7268
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:1611/3222 SP:371/371 BP:2
+Equipo del enemigo
+A-Devourer of Dreams - HP:7268/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Devourer of Dreams
+----------------------------------------
+Devourer of Dreams usa Vortal Claw
+Z'aanta recibe 806 de daño
+Z'aanta termina con HP:805
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:805/3222 SP:371/371 BP:3
+Equipo del enemigo
+A-Devourer of Dreams - HP:7268/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Devourer of Dreams
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Z'aanta
+1: Devourer of Dreams - HP:7268/7500 Shields:10
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Z'aanta ataca
+Devourer of Dreams recibe 632 de daño de tipo Axe
+Devourer of Dreams termina con HP:6636
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:805/3222 SP:371/371 BP:3
+Equipo del enemigo
+A-Devourer of Dreams - HP:6636/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Devourer of Dreams
+----------------------------------------
+Devourer of Dreams usa Vortal Claw
+Z'aanta recibe 403 de daño
+Z'aanta termina con HP:402
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:402/3222 SP:371/371 BP:4
+Equipo del enemigo
+A-Devourer of Dreams - HP:6636/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Devourer of Dreams
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Z'aanta
+1: Devourer of Dreams - HP:6636/7500 Shields:10
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Z'aanta ataca
+Devourer of Dreams recibe 632 de daño de tipo Axe
+Devourer of Dreams termina con HP:6004
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:402/3222 SP:371/371 BP:4
+Equipo del enemigo
+A-Devourer of Dreams - HP:6004/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Devourer of Dreams
+----------------------------------------
+Devourer of Dreams usa Vortal Claw
+Z'aanta recibe 201 de daño
+Z'aanta termina con HP:201
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:201/3222 SP:371/371 BP:5
+Equipo del enemigo
+A-Devourer of Dreams - HP:6004/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Devourer of Dreams
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Z'aanta
+1: Fair Fight
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Z'aanta
+1: Devourer of Dreams - HP:6004/7500 Shields:10
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Z'aanta usa Fair Fight
+Devourer of Dreams recibe 5803 de daño
+Devourer of Dreams termina con HP:201
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:201/3222 SP:331/371 BP:2
+Equipo del enemigo
+A-Devourer of Dreams - HP:201/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Devourer of Dreams
+----------------------------------------
+Devourer of Dreams usa Vortal Claw
+Z'aanta recibe 101 de daño
+Z'aanta termina con HP:100
+----------------------------------------
+INICIA RONDA 6
+----------------------------------------
+Equipo del jugador
+A-Z'aanta - HP:100/3222 SP:331/371 BP:2
+Equipo del enemigo
+A-Devourer of Dreams - HP:201/7500 Shields:10
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Devourer of Dreams
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Devourer of Dreams
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Z'aanta
+1: Devourer of Dreams - HP:201/7500 Shields:10
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Z'aanta ataca
+Devourer of Dreams recibe 632 de daño de tipo Bow
+Devourer of Dreams termina con HP:0
+----------------------------------------
+Gana equipo del jugador

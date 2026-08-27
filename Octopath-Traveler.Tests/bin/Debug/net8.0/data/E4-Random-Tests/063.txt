@@ -1,0 +1,1046 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+INPUT: 62
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Osvald - HP:4057/4057 SP:541/541 BP:1
+B-Partitio - HP:4891/4891 SP:314/314 BP:1
+Equipo del enemigo
+A-Mad Ratkin - HP:1233/1233 Shields:1
+B-Devourer of Dreams - HP:7500/7500 Shields:10
+C-Withered Wanderweed - HP:2314/2314 Shields:1
+D-Blood Remnant - HP:2779/2779 Shields:3
+E-Forest Fox - HP:1380/1380 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Mad Ratkin
+2.Partitio
+3.Osvald
+4.Withered Wanderweed
+5.Devourer of Dreams
+6.Blood Remnant
+7.Forest Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Mad Ratkin
+2.Partitio
+3.Osvald
+4.Withered Wanderweed
+5.Devourer of Dreams
+6.Blood Remnant
+7.Forest Fox
+----------------------------------------
+Mad Ratkin usa Stab
+Osvald recibe 288 de daño físico
+Osvald termina con HP:3769
+----------------------------------------
+Equipo del jugador
+A-Osvald - HP:3769/4057 SP:541/541 BP:1
+B-Partitio - HP:4891/4891 SP:314/314 BP:1
+Equipo del enemigo
+A-Mad Ratkin - HP:1233/1233 Shields:1
+B-Devourer of Dreams - HP:7500/7500 Shields:10
+C-Withered Wanderweed - HP:2314/2314 Shields:1
+D-Blood Remnant - HP:2779/2779 Shields:3
+E-Forest Fox - HP:1380/1380 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+2.Osvald
+3.Withered Wanderweed
+4.Devourer of Dreams
+5.Blood Remnant
+6.Forest Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Mad Ratkin
+2.Partitio
+3.Osvald
+4.Withered Wanderweed
+5.Devourer of Dreams
+6.Blood Remnant
+7.Forest Fox
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Partitio
+1: Mad Ratkin - HP:1233/1233 Shields:1
+2: Devourer of Dreams - HP:7500/7500 Shields:10
+3: Withered Wanderweed - HP:2314/2314 Shields:1
+4: Blood Remnant - HP:2779/2779 Shields:3
+5: Forest Fox - HP:1380/1380 Shields:2
+6: Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Partitio ataca
+Blood Remnant recibe 749 de daño de tipo Spear con debilidad
+Blood Remnant termina con HP:2030
+----------------------------------------
+Equipo del jugador
+A-Osvald - HP:3769/4057 SP:541/541 BP:1
+B-Partitio - HP:4891/4891 SP:314/314 BP:1
+Equipo del enemigo
+A-Mad Ratkin - HP:1233/1233 Shields:1
+B-Devourer of Dreams - HP:7500/7500 Shields:10
+C-Withered Wanderweed - HP:2314/2314 Shields:1
+D-Blood Remnant - HP:2030/2779 Shields:2
+E-Forest Fox - HP:1380/1380 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Withered Wanderweed
+3.Devourer of Dreams
+4.Blood Remnant
+5.Forest Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Mad Ratkin
+2.Partitio
+3.Osvald
+4.Withered Wanderweed
+5.Devourer of Dreams
+6.Blood Remnant
+7.Forest Fox
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Osvald
+1: Revive
+2: Reflective Veil
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Osvald no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Osvald no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Osvald no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Osvald no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Osvald no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Osvald usa Revive
+----------------------------------------
+Equipo del jugador
+A-Osvald - HP:3769/4057 SP:491/541 BP:1
+B-Partitio - HP:4891/4891 SP:314/314 BP:1
+Equipo del enemigo
+A-Mad Ratkin - HP:1233/1233 Shields:1
+B-Devourer of Dreams - HP:7500/7500 Shields:10
+C-Withered Wanderweed - HP:2314/2314 Shields:1
+D-Blood Remnant - HP:2030/2779 Shields:2
+E-Forest Fox - HP:1380/1380 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Withered Wanderweed
+2.Devourer of Dreams
+3.Blood Remnant
+4.Forest Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Mad Ratkin
+2.Partitio
+3.Osvald
+4.Withered Wanderweed
+5.Devourer of Dreams
+6.Blood Remnant
+7.Forest Fox
+----------------------------------------
+Withered Wanderweed usa Attack
+Partitio recibe 41 de daño físico
+Partitio termina con HP:4850
+----------------------------------------
+Equipo del jugador
+A-Osvald - HP:3769/4057 SP:491/541 BP:1
+B-Partitio - HP:4850/4891 SP:314/314 BP:1
+Equipo del enemigo
+A-Mad Ratkin - HP:1233/1233 Shields:1
+B-Devourer of Dreams - HP:7500/7500 Shields:10
+C-Withered Wanderweed - HP:2314/2314 Shields:1
+D-Blood Remnant - HP:2030/2779 Shields:2
+E-Forest Fox - HP:1380/1380 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Dreams
+2.Blood Remnant
+3.Forest Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Mad Ratkin
+2.Partitio
+3.Osvald
+4.Withered Wanderweed
+5.Devourer of Dreams
+6.Blood Remnant
+7.Forest Fox
+----------------------------------------
+Devourer of Dreams usa Vortal Claw
+Osvald recibe 1885 de daño
+Partitio recibe 2425 de daño
+Osvald termina con HP:1884
+Partitio termina con HP:2425
+----------------------------------------
+Equipo del jugador
+A-Osvald - HP:1884/4057 SP:491/541 BP:1
+B-Partitio - HP:2425/4891 SP:314/314 BP:1
+Equipo del enemigo
+A-Mad Ratkin - HP:1233/1233 Shields:1
+B-Devourer of Dreams - HP:7500/7500 Shields:10
+C-Withered Wanderweed - HP:2314/2314 Shields:1
+D-Blood Remnant - HP:2030/2779 Shields:2
+E-Forest Fox - HP:1380/1380 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Blood Remnant
+2.Forest Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Mad Ratkin
+2.Partitio
+3.Osvald
+4.Withered Wanderweed
+5.Devourer of Dreams
+6.Blood Remnant
+7.Forest Fox
+----------------------------------------
+Blood Remnant usa Double Bite
+Osvald recibe 0 de daño físico
+Osvald recibe 0 de daño físico
+Osvald termina con HP:1884
+----------------------------------------
+Equipo del jugador
+A-Osvald - HP:1884/4057 SP:491/541 BP:1
+B-Partitio - HP:2425/4891 SP:314/314 BP:1
+Equipo del enemigo
+A-Mad Ratkin - HP:1233/1233 Shields:1
+B-Devourer of Dreams - HP:7500/7500 Shields:10
+C-Withered Wanderweed - HP:2314/2314 Shields:1
+D-Blood Remnant - HP:2030/2779 Shields:2
+E-Forest Fox - HP:1380/1380 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Forest Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Mad Ratkin
+2.Partitio
+3.Osvald
+4.Withered Wanderweed
+5.Devourer of Dreams
+6.Blood Remnant
+7.Forest Fox
+----------------------------------------
+Forest Fox usa Double Bite
+Osvald recibe 163 de daño físico
+Osvald recibe 163 de daño físico
+Osvald termina con HP:1558
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Osvald - HP:1558/4057 SP:491/541 BP:2
+B-Partitio - HP:2425/4891 SP:314/314 BP:2
+Equipo del enemigo
+A-Mad Ratkin - HP:1233/1233 Shields:1
+B-Devourer of Dreams - HP:7500/7500 Shields:10
+C-Withered Wanderweed - HP:2314/2314 Shields:1
+D-Blood Remnant - HP:2030/2779 Shields:2
+E-Forest Fox - HP:1380/1380 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Mad Ratkin
+2.Partitio
+3.Osvald
+4.Withered Wanderweed
+5.Devourer of Dreams
+6.Blood Remnant
+7.Forest Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Mad Ratkin
+2.Partitio
+3.Osvald
+4.Withered Wanderweed
+5.Devourer of Dreams
+6.Blood Remnant
+7.Forest Fox
+----------------------------------------
+Mad Ratkin usa Stab
+Osvald recibe 288 de daño físico
+Osvald termina con HP:1270
+----------------------------------------
+Equipo del jugador
+A-Osvald - HP:1270/4057 SP:491/541 BP:2
+B-Partitio - HP:2425/4891 SP:314/314 BP:2
+Equipo del enemigo
+A-Mad Ratkin - HP:1233/1233 Shields:1
+B-Devourer of Dreams - HP:7500/7500 Shields:10
+C-Withered Wanderweed - HP:2314/2314 Shields:1
+D-Blood Remnant - HP:2030/2779 Shields:2
+E-Forest Fox - HP:1380/1380 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+2.Osvald
+3.Withered Wanderweed
+4.Devourer of Dreams
+5.Blood Remnant
+6.Forest Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Mad Ratkin
+2.Partitio
+3.Osvald
+4.Withered Wanderweed
+5.Devourer of Dreams
+6.Blood Remnant
+7.Forest Fox
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Partitio
+1: Mad Ratkin - HP:1233/1233 Shields:1
+2: Devourer of Dreams - HP:7500/7500 Shields:10
+3: Withered Wanderweed - HP:2314/2314 Shields:1
+4: Blood Remnant - HP:2030/2779 Shields:2
+5: Forest Fox - HP:1380/1380 Shields:2
+6: Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Partitio ataca
+Blood Remnant recibe 749 de daño de tipo Spear con debilidad
+Blood Remnant recibe 749 de daño de tipo Spear con debilidad
+Blood Remnant entra en Breaking Point
+Blood Remnant recibe 999 de daño de tipo Spear con debilidad
+Blood Remnant termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Osvald - HP:1270/4057 SP:491/541 BP:2
+B-Partitio - HP:2425/4891 SP:314/314 BP:0
+Equipo del enemigo
+A-Mad Ratkin - HP:1233/1233 Shields:1
+B-Devourer of Dreams - HP:7500/7500 Shields:10
+C-Withered Wanderweed - HP:2314/2314 Shields:1
+D-Blood Remnant - HP:0/2779 Shields:0
+E-Forest Fox - HP:1380/1380 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Withered Wanderweed
+3.Devourer of Dreams
+4.Forest Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Mad Ratkin
+2.Partitio
+3.Osvald
+4.Withered Wanderweed
+5.Devourer of Dreams
+6.Forest Fox
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Osvald
+1: Revive
+2: Reflective Veil
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Osvald
+1: Osvald - HP:1270/4057 SP:491/541 BP:2
+2: Partitio - HP:2425/4891 SP:314/314 BP:0
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Osvald usa Reflective Veil
+Partitio reflejará los próximos 1 ataques elementales
+----------------------------------------
+Equipo del jugador
+A-Osvald - HP:1270/4057 SP:469/541 BP:2
+B-Partitio - HP:2425/4891 SP:314/314 BP:0
+Equipo del enemigo
+A-Mad Ratkin - HP:1233/1233 Shields:1
+B-Devourer of Dreams - HP:7500/7500 Shields:10
+C-Withered Wanderweed - HP:2314/2314 Shields:1
+D-Blood Remnant - HP:0/2779 Shields:0
+E-Forest Fox - HP:1380/1380 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Withered Wanderweed
+2.Devourer of Dreams
+3.Forest Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Mad Ratkin
+2.Partitio
+3.Osvald
+4.Withered Wanderweed
+5.Devourer of Dreams
+6.Forest Fox
+----------------------------------------
+Withered Wanderweed usa Attack
+Partitio recibe 41 de daño físico
+Partitio termina con HP:2384
+----------------------------------------
+Equipo del jugador
+A-Osvald - HP:1270/4057 SP:469/541 BP:2
+B-Partitio - HP:2384/4891 SP:314/314 BP:0
+Equipo del enemigo
+A-Mad Ratkin - HP:1233/1233 Shields:1
+B-Devourer of Dreams - HP:7500/7500 Shields:10
+C-Withered Wanderweed - HP:2314/2314 Shields:1
+D-Blood Remnant - HP:0/2779 Shields:0
+E-Forest Fox - HP:1380/1380 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Dreams
+2.Forest Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Mad Ratkin
+2.Partitio
+3.Osvald
+4.Withered Wanderweed
+5.Devourer of Dreams
+6.Forest Fox
+----------------------------------------
+Devourer of Dreams usa Vortal Claw
+Osvald recibe 635 de daño
+Partitio recibe 1192 de daño
+Osvald termina con HP:635
+Partitio termina con HP:1192
+----------------------------------------
+Equipo del jugador
+A-Osvald - HP:635/4057 SP:469/541 BP:2
+B-Partitio - HP:1192/4891 SP:314/314 BP:0
+Equipo del enemigo
+A-Mad Ratkin - HP:1233/1233 Shields:1
+B-Devourer of Dreams - HP:7500/7500 Shields:10
+C-Withered Wanderweed - HP:2314/2314 Shields:1
+D-Blood Remnant - HP:0/2779 Shields:0
+E-Forest Fox - HP:1380/1380 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Forest Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Mad Ratkin
+2.Partitio
+3.Osvald
+4.Withered Wanderweed
+5.Devourer of Dreams
+6.Forest Fox
+----------------------------------------
+Forest Fox usa Double Bite
+Osvald recibe 163 de daño físico
+Osvald recibe 163 de daño físico
+Osvald termina con HP:309
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Osvald - HP:309/4057 SP:469/541 BP:3
+B-Partitio - HP:1192/4891 SP:314/314 BP:0
+Equipo del enemigo
+A-Mad Ratkin - HP:1233/1233 Shields:1
+B-Devourer of Dreams - HP:7500/7500 Shields:10
+C-Withered Wanderweed - HP:2314/2314 Shields:1
+D-Blood Remnant - HP:0/2779 Shields:0
+E-Forest Fox - HP:1380/1380 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Mad Ratkin
+2.Partitio
+3.Osvald
+4.Withered Wanderweed
+5.Devourer of Dreams
+6.Forest Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Mad Ratkin
+2.Partitio
+3.Osvald
+4.Withered Wanderweed
+5.Devourer of Dreams
+6.Forest Fox
+----------------------------------------
+Mad Ratkin usa Stab
+Osvald recibe 288 de daño físico
+Osvald termina con HP:21
+----------------------------------------
+Equipo del jugador
+A-Osvald - HP:21/4057 SP:469/541 BP:3
+B-Partitio - HP:1192/4891 SP:314/314 BP:0
+Equipo del enemigo
+A-Mad Ratkin - HP:1233/1233 Shields:1
+B-Devourer of Dreams - HP:7500/7500 Shields:10
+C-Withered Wanderweed - HP:2314/2314 Shields:1
+D-Blood Remnant - HP:0/2779 Shields:0
+E-Forest Fox - HP:1380/1380 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+2.Osvald
+3.Withered Wanderweed
+4.Devourer of Dreams
+5.Forest Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Mad Ratkin
+2.Partitio
+3.Osvald
+4.Withered Wanderweed
+5.Devourer of Dreams
+6.Forest Fox
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Partitio
+1: Heal Wounds
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Partitio usa Heal Wounds
+Osvald recupera 427 de vida
+Partitio recupera 427 de vida
+Osvald termina con HP:448
+Partitio termina con HP:1619
+----------------------------------------
+Equipo del jugador
+A-Osvald - HP:448/4057 SP:469/541 BP:3
+B-Partitio - HP:1619/4891 SP:308/314 BP:0
+Equipo del enemigo
+A-Mad Ratkin - HP:1233/1233 Shields:1
+B-Devourer of Dreams - HP:7500/7500 Shields:10
+C-Withered Wanderweed - HP:2314/2314 Shields:1
+D-Blood Remnant - HP:0/2779 Shields:0
+E-Forest Fox - HP:1380/1380 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Osvald
+2.Withered Wanderweed
+3.Devourer of Dreams
+4.Forest Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Mad Ratkin
+2.Partitio
+3.Osvald
+4.Withered Wanderweed
+5.Devourer of Dreams
+6.Forest Fox
+----------------------------------------
+Turno de Osvald
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Osvald
+1: Revive
+2: Reflective Veil
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Osvald usa Revive
+----------------------------------------
+Equipo del jugador
+A-Osvald - HP:448/4057 SP:419/541 BP:2
+B-Partitio - HP:1619/4891 SP:308/314 BP:0
+Equipo del enemigo
+A-Mad Ratkin - HP:1233/1233 Shields:1
+B-Devourer of Dreams - HP:7500/7500 Shields:10
+C-Withered Wanderweed - HP:2314/2314 Shields:1
+D-Blood Remnant - HP:0/2779 Shields:0
+E-Forest Fox - HP:1380/1380 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Withered Wanderweed
+2.Devourer of Dreams
+3.Forest Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Mad Ratkin
+2.Partitio
+3.Osvald
+4.Withered Wanderweed
+5.Devourer of Dreams
+6.Forest Fox
+----------------------------------------
+Withered Wanderweed usa Attack
+Partitio recibe 41 de daño físico
+Partitio termina con HP:1578
+----------------------------------------
+Equipo del jugador
+A-Osvald - HP:448/4057 SP:419/541 BP:2
+B-Partitio - HP:1578/4891 SP:308/314 BP:0
+Equipo del enemigo
+A-Mad Ratkin - HP:1233/1233 Shields:1
+B-Devourer of Dreams - HP:7500/7500 Shields:10
+C-Withered Wanderweed - HP:2314/2314 Shields:1
+D-Blood Remnant - HP:0/2779 Shields:0
+E-Forest Fox - HP:1380/1380 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Dreams
+2.Forest Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Mad Ratkin
+2.Partitio
+3.Osvald
+4.Withered Wanderweed
+5.Devourer of Dreams
+6.Forest Fox
+----------------------------------------
+Devourer of Dreams usa Vortal Claw
+Osvald recibe 224 de daño
+Partitio recibe 789 de daño
+Osvald termina con HP:224
+Partitio termina con HP:789
+----------------------------------------
+Equipo del jugador
+A-Osvald - HP:224/4057 SP:419/541 BP:2
+B-Partitio - HP:789/4891 SP:308/314 BP:0
+Equipo del enemigo
+A-Mad Ratkin - HP:1233/1233 Shields:1
+B-Devourer of Dreams - HP:7500/7500 Shields:10
+C-Withered Wanderweed - HP:2314/2314 Shields:1
+D-Blood Remnant - HP:0/2779 Shields:0
+E-Forest Fox - HP:1380/1380 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Forest Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Mad Ratkin
+2.Partitio
+3.Osvald
+4.Withered Wanderweed
+5.Devourer of Dreams
+6.Forest Fox
+----------------------------------------
+Forest Fox usa Double Bite
+Osvald recibe 163 de daño físico
+Osvald recibe 163 de daño físico
+Osvald termina con HP:0
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Osvald - HP:0/4057 SP:419/541 BP:2
+B-Partitio - HP:789/4891 SP:308/314 BP:1
+Equipo del enemigo
+A-Mad Ratkin - HP:1233/1233 Shields:1
+B-Devourer of Dreams - HP:7500/7500 Shields:10
+C-Withered Wanderweed - HP:2314/2314 Shields:1
+D-Blood Remnant - HP:0/2779 Shields:0
+E-Forest Fox - HP:1380/1380 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Mad Ratkin
+2.Partitio
+3.Withered Wanderweed
+4.Devourer of Dreams
+5.Forest Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Mad Ratkin
+2.Partitio
+3.Withered Wanderweed
+4.Devourer of Dreams
+5.Forest Fox
+----------------------------------------
+Mad Ratkin usa Stab
+Partitio recibe 184 de daño físico
+Partitio termina con HP:605
+----------------------------------------
+Equipo del jugador
+A-Osvald - HP:0/4057 SP:419/541 BP:2
+B-Partitio - HP:605/4891 SP:308/314 BP:1
+Equipo del enemigo
+A-Mad Ratkin - HP:1233/1233 Shields:1
+B-Devourer of Dreams - HP:7500/7500 Shields:10
+C-Withered Wanderweed - HP:2314/2314 Shields:1
+D-Blood Remnant - HP:0/2779 Shields:0
+E-Forest Fox - HP:1380/1380 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+2.Withered Wanderweed
+3.Devourer of Dreams
+4.Forest Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Mad Ratkin
+2.Partitio
+3.Withered Wanderweed
+4.Devourer of Dreams
+5.Forest Fox
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Osvald - HP:0/4057 SP:419/541 BP:2
+B-Partitio - HP:605/4891 SP:308/314 BP:1
+Equipo del enemigo
+A-Mad Ratkin - HP:1233/1233 Shields:1
+B-Devourer of Dreams - HP:7500/7500 Shields:10
+C-Withered Wanderweed - HP:2314/2314 Shields:1
+D-Blood Remnant - HP:0/2779 Shields:0
+E-Forest Fox - HP:1380/1380 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Withered Wanderweed
+2.Devourer of Dreams
+3.Forest Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Partitio
+2.Mad Ratkin
+3.Withered Wanderweed
+4.Devourer of Dreams
+5.Forest Fox
+----------------------------------------
+Withered Wanderweed usa Attack
+Partitio se defiende
+Partitio recibe 20 de daño físico
+Partitio termina con HP:585
+----------------------------------------
+Equipo del jugador
+A-Osvald - HP:0/4057 SP:419/541 BP:2
+B-Partitio - HP:585/4891 SP:308/314 BP:1
+Equipo del enemigo
+A-Mad Ratkin - HP:1233/1233 Shields:1
+B-Devourer of Dreams - HP:7500/7500 Shields:10
+C-Withered Wanderweed - HP:2314/2314 Shields:1
+D-Blood Remnant - HP:0/2779 Shields:0
+E-Forest Fox - HP:1380/1380 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Dreams
+2.Forest Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Partitio
+2.Mad Ratkin
+3.Withered Wanderweed
+4.Devourer of Dreams
+5.Forest Fox
+----------------------------------------
+Devourer of Dreams usa Vortal Claw
+Partitio recibe 293 de daño
+Partitio termina con HP:292
+----------------------------------------
+Equipo del jugador
+A-Osvald - HP:0/4057 SP:419/541 BP:2
+B-Partitio - HP:292/4891 SP:308/314 BP:1
+Equipo del enemigo
+A-Mad Ratkin - HP:1233/1233 Shields:1
+B-Devourer of Dreams - HP:7500/7500 Shields:10
+C-Withered Wanderweed - HP:2314/2314 Shields:1
+D-Blood Remnant - HP:0/2779 Shields:0
+E-Forest Fox - HP:1380/1380 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Forest Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Partitio
+2.Mad Ratkin
+3.Withered Wanderweed
+4.Devourer of Dreams
+5.Forest Fox
+----------------------------------------
+Forest Fox usa Double Bite
+Partitio se defiende
+Partitio recibe 50 de daño físico
+Partitio recibe 50 de daño físico
+Partitio termina con HP:192
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Osvald - HP:0/4057 SP:419/541 BP:2
+B-Partitio - HP:192/4891 SP:308/314 BP:2
+Equipo del enemigo
+A-Mad Ratkin - HP:1233/1233 Shields:1
+B-Devourer of Dreams - HP:7500/7500 Shields:10
+C-Withered Wanderweed - HP:2314/2314 Shields:1
+D-Blood Remnant - HP:0/2779 Shields:0
+E-Forest Fox - HP:1380/1380 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Partitio
+2.Mad Ratkin
+3.Withered Wanderweed
+4.Devourer of Dreams
+5.Forest Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Mad Ratkin
+2.Partitio
+3.Withered Wanderweed
+4.Devourer of Dreams
+5.Forest Fox
+----------------------------------------
+Turno de Partitio
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Spear
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Partitio
+1: Mad Ratkin - HP:1233/1233 Shields:1
+2: Devourer of Dreams - HP:7500/7500 Shields:10
+3: Withered Wanderweed - HP:2314/2314 Shields:1
+4: Forest Fox - HP:1380/1380 Shields:2
+5: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Partitio ataca
+Mad Ratkin recibe 244 de daño de tipo Bow
+Mad Ratkin recibe 244 de daño de tipo Bow
+Mad Ratkin recibe 244 de daño de tipo Bow
+Mad Ratkin recibe 244 de daño de tipo Bow
+Mad Ratkin termina con HP:257
+----------------------------------------
+Equipo del jugador
+A-Osvald - HP:0/4057 SP:419/541 BP:2
+B-Partitio - HP:192/4891 SP:308/314 BP:0
+Equipo del enemigo
+A-Mad Ratkin - HP:257/1233 Shields:1
+B-Devourer of Dreams - HP:7500/7500 Shields:10
+C-Withered Wanderweed - HP:2314/2314 Shields:1
+D-Blood Remnant - HP:0/2779 Shields:0
+E-Forest Fox - HP:1380/1380 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Mad Ratkin
+2.Withered Wanderweed
+3.Devourer of Dreams
+4.Forest Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Mad Ratkin
+2.Partitio
+3.Withered Wanderweed
+4.Devourer of Dreams
+5.Forest Fox
+----------------------------------------
+Mad Ratkin usa Stab
+Partitio recibe 184 de daño físico
+Partitio termina con HP:8
+----------------------------------------
+Equipo del jugador
+A-Osvald - HP:0/4057 SP:419/541 BP:2
+B-Partitio - HP:8/4891 SP:308/314 BP:0
+Equipo del enemigo
+A-Mad Ratkin - HP:257/1233 Shields:1
+B-Devourer of Dreams - HP:7500/7500 Shields:10
+C-Withered Wanderweed - HP:2314/2314 Shields:1
+D-Blood Remnant - HP:0/2779 Shields:0
+E-Forest Fox - HP:1380/1380 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Withered Wanderweed
+2.Devourer of Dreams
+3.Forest Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Mad Ratkin
+2.Partitio
+3.Withered Wanderweed
+4.Devourer of Dreams
+5.Forest Fox
+----------------------------------------
+Withered Wanderweed usa Attack
+Partitio recibe 41 de daño físico
+Partitio termina con HP:0
+----------------------------------------
+Gana equipo del enemigo

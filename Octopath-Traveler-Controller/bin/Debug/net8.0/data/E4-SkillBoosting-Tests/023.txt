@@ -1,0 +1,280 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+INPUT: 22
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:3557/3557 SP:582/582 BP:1
+Equipo del enemigo
+A-Meep - HP:1016/1016 Shields:2
+B-Mattias? - HP:5780/5780 Shields:4
+C-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Mattias?
+3.Meep
+4.Frost Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Mattias?
+3.Meep
+4.Frost Fox
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:3557/3557 SP:582/582 BP:1
+Equipo del enemigo
+A-Meep - HP:1016/1016 Shields:2
+B-Mattias? - HP:5780/5780 Shields:4
+C-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+2.Meep
+3.Frost Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Mattias?
+3.Meep
+4.Frost Fox
+----------------------------------------
+Mattias? usa Black Gale
+Cyrus se defiende
+Cyrus recibe 307 de daño elemental
+Cyrus termina con HP:3250
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:3250/3557 SP:582/582 BP:1
+Equipo del enemigo
+A-Meep - HP:1016/1016 Shields:2
+B-Mattias? - HP:5780/5780 Shields:4
+C-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Meep
+2.Frost Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Mattias?
+3.Meep
+4.Frost Fox
+----------------------------------------
+Meep usa Attack
+Cyrus se defiende
+Cyrus recibe 118 de daño físico
+Cyrus termina con HP:3132
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:3132/3557 SP:582/582 BP:1
+Equipo del enemigo
+A-Meep - HP:1016/1016 Shields:2
+B-Mattias? - HP:5780/5780 Shields:4
+C-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Frost Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Mattias?
+3.Meep
+4.Frost Fox
+----------------------------------------
+Frost Fox usa Ice blast
+Cyrus se defiende
+Cyrus recibe 101 de daño elemental
+Cyrus termina con HP:3031
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:3031/3557 SP:582/582 BP:2
+Equipo del enemigo
+A-Meep - HP:1016/1016 Shields:2
+B-Mattias? - HP:5780/5780 Shields:4
+C-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Mattias?
+3.Meep
+4.Frost Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Mattias?
+3.Meep
+4.Frost Fox
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:3031/3557 SP:582/582 BP:2
+Equipo del enemigo
+A-Meep - HP:1016/1016 Shields:2
+B-Mattias? - HP:5780/5780 Shields:4
+C-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+2.Meep
+3.Frost Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Mattias?
+3.Meep
+4.Frost Fox
+----------------------------------------
+Mattias? usa Black Gale
+Cyrus se defiende
+Cyrus recibe 307 de daño elemental
+Cyrus termina con HP:2724
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:2724/3557 SP:582/582 BP:2
+Equipo del enemigo
+A-Meep - HP:1016/1016 Shields:2
+B-Mattias? - HP:5780/5780 Shields:4
+C-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Meep
+2.Frost Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Mattias?
+3.Meep
+4.Frost Fox
+----------------------------------------
+Meep usa Attack
+Cyrus se defiende
+Cyrus recibe 118 de daño físico
+Cyrus termina con HP:2606
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:2606/3557 SP:582/582 BP:2
+Equipo del enemigo
+A-Meep - HP:1016/1016 Shields:2
+B-Mattias? - HP:5780/5780 Shields:4
+C-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Frost Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Mattias?
+3.Meep
+4.Frost Fox
+----------------------------------------
+Frost Fox usa Ice blast
+Cyrus se defiende
+Cyrus recibe 101 de daño elemental
+Cyrus termina con HP:2505
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:2505/3557 SP:582/582 BP:3
+Equipo del enemigo
+A-Meep - HP:1016/1016 Shields:2
+B-Mattias? - HP:5780/5780 Shields:4
+C-Frost Fox - HP:1302/1302 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Cyrus
+2.Mattias?
+3.Meep
+4.Frost Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Mattias?
+3.Meep
+4.Frost Fox
+----------------------------------------
+Turno de Cyrus
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Cyrus
+1: Combustion
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Cyrus usa Combustion
+Meep recibe 3686 de daño de tipo Fire
+Mattias? recibe 3321 de daño de tipo Fire
+Frost Fox recibe 5435 de daño de tipo Fire con debilidad
+Cyrus pierde 2004 HP
+Meep termina con HP:0
+Mattias? termina con HP:2459
+Frost Fox termina con HP:0
+Cyrus termina con HP:501
+----------------------------------------
+Equipo del jugador
+A-Cyrus - HP:501/3557 SP:546/582 BP:0
+Equipo del enemigo
+A-Meep - HP:0/1016 Shields:2
+B-Mattias? - HP:2459/5780 Shields:4
+C-Frost Fox - HP:0/1302 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Mattias?
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cyrus
+2.Mattias?
+----------------------------------------
+Mattias? usa Black Gale
+Cyrus recibe 615 de daño elemental
+Cyrus termina con HP:0
+----------------------------------------
+Gana equipo del enemigo

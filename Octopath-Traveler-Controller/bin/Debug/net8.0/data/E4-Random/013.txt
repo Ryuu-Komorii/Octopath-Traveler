@@ -1,0 +1,8 @@
+Player Team
+Osvald (Heal More, Mole Dance, Double Edge) [Elemental Augmentation]
+Therion (Transfer Rune, Rest) [Hale and Hearty, Inspiration]
+Heatcore (Armor Corrosive, Combustion) [Boost Start,  Divine Aura, Stat Swap]
+Enemy Team
+Dark Elemental
+Blood Remnant
+Ice Remnant

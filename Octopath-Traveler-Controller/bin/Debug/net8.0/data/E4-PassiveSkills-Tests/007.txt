@@ -1,0 +1,3048 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+INPUT: 6
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:1
+B-Alfyn - HP:5336/5336 SP:383/383 BP:1
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:1
+B-Alfyn - HP:5336/5336 SP:383/383 BP:1
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Ice Elemental
+3.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:1
+B-Alfyn - HP:5336/5336 SP:383/383 BP:1
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+2.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Alfyn se defiende
+Alfyn recibe 118 de daño elemental
+Alfyn termina con HP:5218
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:1
+B-Alfyn - HP:5218/5336 SP:383/383 BP:1
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Dark Elemental usa Shadowshot
+Alfyn se defiende
+Alfyn recibe 126 de daño elemental
+Alfyn termina con HP:5092
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:2
+B-Alfyn - HP:5092/5336 SP:383/383 BP:2
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:2
+B-Alfyn - HP:5092/5336 SP:383/383 BP:2
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Ice Elemental
+3.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:2
+B-Alfyn - HP:5092/5336 SP:383/383 BP:2
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+2.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Alfyn se defiende
+Alfyn recibe 118 de daño elemental
+Alfyn termina con HP:4974
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:2
+B-Alfyn - HP:4974/5336 SP:383/383 BP:2
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Dark Elemental usa Shadowshot
+Alfyn se defiende
+Alfyn recibe 126 de daño elemental
+Alfyn termina con HP:4848
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:3
+B-Alfyn - HP:4848/5336 SP:383/383 BP:3
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:3
+B-Alfyn - HP:4848/5336 SP:383/383 BP:3
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Ice Elemental
+3.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:3
+B-Alfyn - HP:4848/5336 SP:383/383 BP:3
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+2.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Alfyn se defiende
+Alfyn recibe 118 de daño elemental
+Alfyn termina con HP:4730
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:3
+B-Alfyn - HP:4730/5336 SP:383/383 BP:3
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Dark Elemental usa Shadowshot
+Alfyn se defiende
+Alfyn recibe 126 de daño elemental
+Alfyn termina con HP:4604
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:4
+B-Alfyn - HP:4604/5336 SP:383/383 BP:4
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:4
+B-Alfyn - HP:4604/5336 SP:383/383 BP:4
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Ice Elemental
+3.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:4
+B-Alfyn - HP:4604/5336 SP:383/383 BP:4
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+2.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Alfyn se defiende
+Alfyn recibe 118 de daño elemental
+Alfyn termina con HP:4486
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:4
+B-Alfyn - HP:4486/5336 SP:383/383 BP:4
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Dark Elemental usa Shadowshot
+Alfyn se defiende
+Alfyn recibe 126 de daño elemental
+Alfyn termina con HP:4360
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:5
+B-Alfyn - HP:4360/5336 SP:383/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:5
+B-Alfyn - HP:4360/5336 SP:383/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Ice Elemental
+3.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:5
+B-Alfyn - HP:4360/5336 SP:383/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+2.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Alfyn se defiende
+Alfyn recibe 118 de daño elemental
+Alfyn termina con HP:4242
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:5
+B-Alfyn - HP:4242/5336 SP:383/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Dark Elemental usa Shadowshot
+Alfyn se defiende
+Alfyn recibe 126 de daño elemental
+Alfyn termina con HP:4116
+----------------------------------------
+INICIA RONDA 6
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:5
+B-Alfyn - HP:4116/5336 SP:383/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:5
+B-Alfyn - HP:4116/5336 SP:383/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Ice Elemental
+3.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:5
+B-Alfyn - HP:4116/5336 SP:383/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+2.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Alfyn se defiende
+Alfyn recibe 118 de daño elemental
+Alfyn termina con HP:3998
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:5
+B-Alfyn - HP:3998/5336 SP:383/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Dark Elemental usa Shadowshot
+Alfyn se defiende
+Alfyn recibe 126 de daño elemental
+Alfyn termina con HP:3872
+----------------------------------------
+INICIA RONDA 7
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:5
+B-Alfyn - HP:3872/5336 SP:383/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:5
+B-Alfyn - HP:3872/5336 SP:383/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Ice Elemental
+3.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:5
+B-Alfyn - HP:3872/5336 SP:383/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+2.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Alfyn se defiende
+Alfyn recibe 118 de daño elemental
+Alfyn termina con HP:3754
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:5
+B-Alfyn - HP:3754/5336 SP:383/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Dark Elemental usa Shadowshot
+Alfyn se defiende
+Alfyn recibe 126 de daño elemental
+Alfyn termina con HP:3628
+----------------------------------------
+INICIA RONDA 8
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:5
+B-Alfyn - HP:3628/5336 SP:383/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:5
+B-Alfyn - HP:3628/5336 SP:383/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Ice Elemental
+3.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:5
+B-Alfyn - HP:3628/5336 SP:383/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+2.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Alfyn se defiende
+Alfyn recibe 118 de daño elemental
+Alfyn termina con HP:3510
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:5
+B-Alfyn - HP:3510/5336 SP:383/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Dark Elemental usa Shadowshot
+Alfyn se defiende
+Alfyn recibe 126 de daño elemental
+Alfyn termina con HP:3384
+----------------------------------------
+INICIA RONDA 9
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:5
+B-Alfyn - HP:3384/5336 SP:383/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:5
+B-Alfyn - HP:3384/5336 SP:383/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Ice Elemental
+3.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:5
+B-Alfyn - HP:3384/5336 SP:383/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+2.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Alfyn se defiende
+Alfyn recibe 118 de daño elemental
+Alfyn termina con HP:3266
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:5
+B-Alfyn - HP:3266/5336 SP:383/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Dark Elemental usa Shadowshot
+Alfyn se defiende
+Alfyn recibe 126 de daño elemental
+Alfyn termina con HP:3140
+----------------------------------------
+INICIA RONDA 10
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:5
+B-Alfyn - HP:3140/5336 SP:383/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:5
+B-Alfyn - HP:3140/5336 SP:383/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Ice Elemental
+3.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:5
+B-Alfyn - HP:3140/5336 SP:383/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+2.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Alfyn se defiende
+Alfyn recibe 118 de daño elemental
+Alfyn termina con HP:3022
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:5
+B-Alfyn - HP:3022/5336 SP:383/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Dark Elemental usa Shadowshot
+Alfyn se defiende
+Alfyn recibe 126 de daño elemental
+Alfyn termina con HP:2896
+----------------------------------------
+INICIA RONDA 11
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:5
+B-Alfyn - HP:2896/5336 SP:383/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:5
+B-Alfyn - HP:2896/5336 SP:383/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Ice Elemental
+3.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:5
+B-Alfyn - HP:2896/5336 SP:383/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+2.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Alfyn se defiende
+Alfyn recibe 118 de daño elemental
+Alfyn termina con HP:2778
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:5
+B-Alfyn - HP:2778/5336 SP:383/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Dark Elemental usa Shadowshot
+Alfyn se defiende
+Alfyn recibe 126 de daño elemental
+Alfyn termina con HP:2652
+----------------------------------------
+INICIA RONDA 12
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:5
+B-Alfyn - HP:2652/5336 SP:383/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:5
+B-Alfyn - HP:2652/5336 SP:383/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Ice Elemental
+3.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:5
+B-Alfyn - HP:2652/5336 SP:383/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+2.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Alfyn se defiende
+Alfyn recibe 118 de daño elemental
+Alfyn termina con HP:2534
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:5
+B-Alfyn - HP:2534/5336 SP:383/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Dark Elemental usa Shadowshot
+Alfyn se defiende
+Alfyn recibe 126 de daño elemental
+Alfyn termina con HP:2408
+----------------------------------------
+INICIA RONDA 13
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:5
+B-Alfyn - HP:2408/5336 SP:383/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:5
+B-Alfyn - HP:2408/5336 SP:383/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Ice Elemental
+3.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:5
+B-Alfyn - HP:2408/5336 SP:383/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+2.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Alfyn se defiende
+Alfyn recibe 118 de daño elemental
+Alfyn termina con HP:2290
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:5
+B-Alfyn - HP:2290/5336 SP:383/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Dark Elemental usa Shadowshot
+Alfyn se defiende
+Alfyn recibe 126 de daño elemental
+Alfyn termina con HP:2164
+----------------------------------------
+INICIA RONDA 14
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:5
+B-Alfyn - HP:2164/5336 SP:383/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:5
+B-Alfyn - HP:2164/5336 SP:383/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Ice Elemental
+3.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:5
+B-Alfyn - HP:2164/5336 SP:383/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+2.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Alfyn se defiende
+Alfyn recibe 118 de daño elemental
+Alfyn termina con HP:2046
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:5
+B-Alfyn - HP:2046/5336 SP:383/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Dark Elemental usa Shadowshot
+Alfyn se defiende
+Alfyn recibe 126 de daño elemental
+Alfyn termina con HP:1920
+----------------------------------------
+INICIA RONDA 15
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:5
+B-Alfyn - HP:1920/5336 SP:383/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:5
+B-Alfyn - HP:1920/5336 SP:383/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Ice Elemental
+3.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:5
+B-Alfyn - HP:1920/5336 SP:383/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+2.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Alfyn se defiende
+Alfyn recibe 118 de daño elemental
+Alfyn termina con HP:1802
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:5
+B-Alfyn - HP:1802/5336 SP:383/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Dark Elemental usa Shadowshot
+Alfyn se defiende
+Alfyn recibe 126 de daño elemental
+Alfyn termina con HP:1676
+----------------------------------------
+INICIA RONDA 16
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:5
+B-Alfyn - HP:1676/5336 SP:383/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:5
+B-Alfyn - HP:1676/5336 SP:383/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Ice Elemental
+3.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:5
+B-Alfyn - HP:1676/5336 SP:383/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+2.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Alfyn se defiende
+Alfyn recibe 118 de daño elemental
+Alfyn termina con HP:1558
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:5
+B-Alfyn - HP:1558/5336 SP:383/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Dark Elemental usa Shadowshot
+Olberic se defiende
+Olberic recibe 109 de daño elemental
+Olberic termina con HP:5672
+----------------------------------------
+INICIA RONDA 17
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5672/5781 SP:291/291 BP:5
+B-Alfyn - HP:1558/5336 SP:383/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5672/5781 SP:291/291 BP:5
+B-Alfyn - HP:1558/5336 SP:383/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Ice Elemental
+3.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5672/5781 SP:291/291 BP:5
+B-Alfyn - HP:1558/5336 SP:383/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+2.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Olberic se defiende
+Olberic recibe 102 de daño elemental
+Olberic termina con HP:5570
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5570/5781 SP:291/291 BP:5
+B-Alfyn - HP:1558/5336 SP:383/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Dark Elemental usa Shadowshot
+Olberic se defiende
+Olberic recibe 109 de daño elemental
+Olberic termina con HP:5461
+----------------------------------------
+INICIA RONDA 18
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5461/5781 SP:291/291 BP:5
+B-Alfyn - HP:1558/5336 SP:383/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5461/5781 SP:291/291 BP:5
+B-Alfyn - HP:1558/5336 SP:383/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Ice Elemental
+3.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5461/5781 SP:291/291 BP:5
+B-Alfyn - HP:1558/5336 SP:383/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+2.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Olberic se defiende
+Olberic recibe 102 de daño elemental
+Olberic termina con HP:5359
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5359/5781 SP:291/291 BP:5
+B-Alfyn - HP:1558/5336 SP:383/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Dark Elemental usa Shadowshot
+Olberic se defiende
+Olberic recibe 109 de daño elemental
+Olberic termina con HP:5250
+----------------------------------------
+INICIA RONDA 19
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5250/5781 SP:291/291 BP:5
+B-Alfyn - HP:1558/5336 SP:383/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5250/5781 SP:291/291 BP:5
+B-Alfyn - HP:1558/5336 SP:383/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Ice Elemental
+3.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5250/5781 SP:291/291 BP:5
+B-Alfyn - HP:1558/5336 SP:383/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+2.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Olberic se defiende
+Olberic recibe 102 de daño elemental
+Olberic termina con HP:5148
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5148/5781 SP:291/291 BP:5
+B-Alfyn - HP:1558/5336 SP:383/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Dark Elemental usa Shadowshot
+Olberic se defiende
+Olberic recibe 109 de daño elemental
+Olberic termina con HP:5039
+----------------------------------------
+INICIA RONDA 20
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5039/5781 SP:291/291 BP:5
+B-Alfyn - HP:1558/5336 SP:383/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5039/5781 SP:291/291 BP:5
+B-Alfyn - HP:1558/5336 SP:383/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Ice Elemental
+3.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5039/5781 SP:291/291 BP:5
+B-Alfyn - HP:1558/5336 SP:383/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+2.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Olberic se defiende
+Olberic recibe 102 de daño elemental
+Olberic termina con HP:4937
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4937/5781 SP:291/291 BP:5
+B-Alfyn - HP:1558/5336 SP:383/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Dark Elemental usa Shadowshot
+Olberic se defiende
+Olberic recibe 109 de daño elemental
+Olberic termina con HP:4828
+----------------------------------------
+INICIA RONDA 21
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4828/5781 SP:291/291 BP:5
+B-Alfyn - HP:1558/5336 SP:383/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4828/5781 SP:291/291 BP:5
+B-Alfyn - HP:1558/5336 SP:383/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Ice Elemental
+3.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4828/5781 SP:291/291 BP:5
+B-Alfyn - HP:1558/5336 SP:383/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+2.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Olberic se defiende
+Olberic recibe 102 de daño elemental
+Olberic termina con HP:4726
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4726/5781 SP:291/291 BP:5
+B-Alfyn - HP:1558/5336 SP:383/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Dark Elemental usa Shadowshot
+Olberic se defiende
+Olberic recibe 109 de daño elemental
+Olberic termina con HP:4617
+----------------------------------------
+INICIA RONDA 22
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4617/5781 SP:291/291 BP:5
+B-Alfyn - HP:1558/5336 SP:383/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4617/5781 SP:291/291 BP:5
+B-Alfyn - HP:1558/5336 SP:383/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Ice Elemental
+3.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4617/5781 SP:291/291 BP:5
+B-Alfyn - HP:1558/5336 SP:383/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+2.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Olberic se defiende
+Olberic recibe 102 de daño elemental
+Olberic termina con HP:4515
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4515/5781 SP:291/291 BP:5
+B-Alfyn - HP:1558/5336 SP:383/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Dark Elemental usa Shadowshot
+Olberic se defiende
+Olberic recibe 109 de daño elemental
+Olberic termina con HP:4406
+----------------------------------------
+INICIA RONDA 23
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4406/5781 SP:291/291 BP:5
+B-Alfyn - HP:1558/5336 SP:383/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4406/5781 SP:291/291 BP:5
+B-Alfyn - HP:1558/5336 SP:383/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Ice Elemental
+3.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4406/5781 SP:291/291 BP:5
+B-Alfyn - HP:1558/5336 SP:383/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+2.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Olberic se defiende
+Olberic recibe 102 de daño elemental
+Olberic termina con HP:4304
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4304/5781 SP:291/291 BP:5
+B-Alfyn - HP:1558/5336 SP:383/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Dark Elemental usa Shadowshot
+Olberic se defiende
+Olberic recibe 109 de daño elemental
+Olberic termina con HP:4195
+----------------------------------------
+INICIA RONDA 24
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4195/5781 SP:291/291 BP:5
+B-Alfyn - HP:1558/5336 SP:383/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4195/5781 SP:291/291 BP:5
+B-Alfyn - HP:1558/5336 SP:383/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Ice Elemental
+3.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4195/5781 SP:291/291 BP:5
+B-Alfyn - HP:1558/5336 SP:383/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+2.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Olberic se defiende
+Olberic recibe 102 de daño elemental
+Olberic termina con HP:4093
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4093/5781 SP:291/291 BP:5
+B-Alfyn - HP:1558/5336 SP:383/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Dark Elemental usa Shadowshot
+Olberic se defiende
+Olberic recibe 109 de daño elemental
+Olberic termina con HP:3984
+----------------------------------------
+INICIA RONDA 25
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:3984/5781 SP:291/291 BP:5
+B-Alfyn - HP:1558/5336 SP:383/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:3984/5781 SP:291/291 BP:5
+B-Alfyn - HP:1558/5336 SP:383/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Ice Elemental
+3.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:3984/5781 SP:291/291 BP:5
+B-Alfyn - HP:1558/5336 SP:383/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+2.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Olberic se defiende
+Olberic recibe 102 de daño elemental
+Olberic termina con HP:3882
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:3882/5781 SP:291/291 BP:5
+B-Alfyn - HP:1558/5336 SP:383/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Dark Elemental usa Shadowshot
+Olberic se defiende
+Olberic recibe 109 de daño elemental
+Olberic termina con HP:3773
+----------------------------------------
+INICIA RONDA 26
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:3773/5781 SP:291/291 BP:5
+B-Alfyn - HP:1558/5336 SP:383/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:3773/5781 SP:291/291 BP:5
+B-Alfyn - HP:1558/5336 SP:383/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Ice Elemental
+3.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:3773/5781 SP:291/291 BP:5
+B-Alfyn - HP:1558/5336 SP:383/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+2.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Olberic se defiende
+Olberic recibe 102 de daño elemental
+Olberic termina con HP:3671
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:3671/5781 SP:291/291 BP:5
+B-Alfyn - HP:1558/5336 SP:383/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Dark Elemental usa Shadowshot
+Olberic se defiende
+Olberic recibe 109 de daño elemental
+Olberic termina con HP:3562
+----------------------------------------
+INICIA RONDA 27
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:3562/5781 SP:291/291 BP:5
+B-Alfyn - HP:1558/5336 SP:383/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:3562/5781 SP:291/291 BP:5
+B-Alfyn - HP:1558/5336 SP:383/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Ice Elemental
+3.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:3562/5781 SP:291/291 BP:5
+B-Alfyn - HP:1558/5336 SP:383/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+2.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Olberic se defiende
+Olberic recibe 102 de daño elemental
+Olberic termina con HP:3460
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:3460/5781 SP:291/291 BP:5
+B-Alfyn - HP:1558/5336 SP:383/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Dark Elemental usa Shadowshot
+Olberic se defiende
+Olberic recibe 109 de daño elemental
+Olberic termina con HP:3351
+----------------------------------------
+INICIA RONDA 28
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:3351/5781 SP:291/291 BP:5
+B-Alfyn - HP:1558/5336 SP:383/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:3351/5781 SP:291/291 BP:5
+B-Alfyn - HP:1558/5336 SP:383/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Ice Elemental
+3.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:3351/5781 SP:291/291 BP:5
+B-Alfyn - HP:1558/5336 SP:383/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+2.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Olberic se defiende
+Olberic recibe 102 de daño elemental
+Olberic termina con HP:3249
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:3249/5781 SP:291/291 BP:5
+B-Alfyn - HP:1558/5336 SP:383/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Dark Elemental usa Shadowshot
+Olberic se defiende
+Olberic recibe 109 de daño elemental
+Olberic termina con HP:3140
+----------------------------------------
+INICIA RONDA 29
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:3140/5781 SP:291/291 BP:5
+B-Alfyn - HP:1558/5336 SP:383/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:3140/5781 SP:291/291 BP:5
+B-Alfyn - HP:1558/5336 SP:383/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Ice Elemental
+3.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:3140/5781 SP:291/291 BP:5
+B-Alfyn - HP:1558/5336 SP:383/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+2.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Olberic se defiende
+Olberic recibe 102 de daño elemental
+Olberic termina con HP:3038
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:3038/5781 SP:291/291 BP:5
+B-Alfyn - HP:1558/5336 SP:383/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Dark Elemental usa Shadowshot
+Olberic se defiende
+Olberic recibe 109 de daño elemental
+Olberic termina con HP:2929
+----------------------------------------
+INICIA RONDA 30
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:2929/5781 SP:291/291 BP:5
+B-Alfyn - HP:1558/5336 SP:383/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:2929/5781 SP:291/291 BP:5
+B-Alfyn - HP:1558/5336 SP:383/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Ice Elemental
+3.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:2929/5781 SP:291/291 BP:5
+B-Alfyn - HP:1558/5336 SP:383/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+2.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Olberic se defiende
+Olberic recibe 102 de daño elemental
+Olberic termina con HP:2827
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:2827/5781 SP:291/291 BP:5
+B-Alfyn - HP:1558/5336 SP:383/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Dark Elemental usa Shadowshot
+Olberic se defiende
+Olberic recibe 109 de daño elemental
+Olberic termina con HP:2718
+----------------------------------------
+INICIA RONDA 31
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:2718/5781 SP:291/291 BP:5
+B-Alfyn - HP:1558/5336 SP:383/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:2718/5781 SP:291/291 BP:5
+B-Alfyn - HP:1558/5336 SP:383/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Ice Elemental
+3.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:2718/5781 SP:291/291 BP:5
+B-Alfyn - HP:1558/5336 SP:383/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Ice Elemental
+2.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Ice Elemental usa Iceshot
+Olberic se defiende
+Olberic recibe 102 de daño elemental
+Olberic termina con HP:2616
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:2616/5781 SP:291/291 BP:5
+B-Alfyn - HP:1558/5336 SP:383/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Dark Elemental usa Shadowshot
+Olberic se defiende
+Olberic recibe 109 de daño elemental
+Olberic termina con HP:2507
+----------------------------------------
+INICIA RONDA 32
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:2507/5781 SP:291/291 BP:5
+B-Alfyn - HP:1558/5336 SP:383/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Turno de Alfyn
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:2507/5781 SP:291/291 BP:5
+B-Alfyn - HP:1558/5336 SP:383/383 BP:5
+Equipo del enemigo
+A-Ice Elemental - HP:2160/2160 Shields:4
+B-Dark Elemental - HP:1822/1822 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Ice Elemental
+3.Dark Elemental
+----------------------------------------
+Turnos de la siguiente ronda
+1.Alfyn
+2.Olberic
+3.Ice Elemental
+4.Dark Elemental
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 4
+----------------------------------------
+El equipo de viajeros ha huido!
+----------------------------------------
+Gana equipo del enemigo

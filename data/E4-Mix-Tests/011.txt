@@ -1,0 +1,81 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+INPUT: 10
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:2822/2822 SP:342/342 BP:1
+Equipo del enemigo
+A-Devourer of Men - HP:7500/7500 Shields:8
+B-Meep - HP:1016/1016 Shields:2
+C-Wolf - HP:1577/1577 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Heatcore
+2.Wolf
+3.Meep
+4.Devourer of Men
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Wolf
+3.Meep
+4.Devourer of Men
+----------------------------------------
+Turno de Heatcore
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Heatcore
+1: Combustion
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Heatcore usa Combustion
+Devourer of Men recibe 2433 de daño de tipo Fire con debilidad
+Meep recibe 1661 de daño de tipo Fire
+Wolf recibe 2448 de daño de tipo Fire con debilidad
+Heatcore pierde 2257 HP
+Devourer of Men termina con HP:5067
+Meep termina con HP:0
+Wolf termina con HP:0
+Heatcore termina con HP:565
+----------------------------------------
+Equipo del jugador
+A-Heatcore - HP:565/2822 SP:306/342 BP:0
+Equipo del enemigo
+A-Devourer of Men - HP:5067/7500 Shields:7
+B-Meep - HP:0/1016 Shields:2
+C-Wolf - HP:0/1577 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Devourer of Men
+----------------------------------------
+Turnos de la siguiente ronda
+1.Heatcore
+2.Devourer of Men
+----------------------------------------
+Devourer of Men usa Shadow Magic
+Heatcore recibe 407 de daño elemental
+Heatcore recibe 407 de daño elemental
+Heatcore termina con HP:0
+----------------------------------------
+Gana equipo del enemigo

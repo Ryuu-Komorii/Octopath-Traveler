@@ -1,0 +1,2855 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+INPUT: 23
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:426/426 BP:1
+B-Therion - HP:4447/4447 SP:332/332 BP:1
+C-Z'aanta - HP:3222/3222 SP:371/371 BP:1
+D-Hikari - HP:5781/5781 SP:317/317 BP:1
+Equipo del enemigo
+A-Dreadwolf - HP:7530/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Z'aanta
+3.Dreadwolf
+4.Castti
+5.Hikari
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Z'aanta
+3.Dreadwolf
+4.Castti
+5.Hikari
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Therion
+1: Lux Congerere
+2: Share SP
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Therion
+1: Castti - HP:5336/5336 SP:426/426 BP:1
+2: Therion - HP:4447/4447 SP:332/332 BP:1
+3: Z'aanta - HP:3222/3222 SP:371/371 BP:1
+4: Hikari - HP:5781/5781 SP:317/317 BP:1
+5: Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Therion usa Share SP
+Hikari recupera 166 SP
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:426/426 BP:1
+B-Therion - HP:4447/4447 SP:166/332 BP:1
+C-Z'aanta - HP:3222/3222 SP:371/371 BP:1
+D-Hikari - HP:5781/5781 SP:317/317 BP:1
+Equipo del enemigo
+A-Dreadwolf - HP:7530/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Dreadwolf
+3.Castti
+4.Hikari
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Z'aanta
+3.Dreadwolf
+4.Castti
+5.Hikari
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Z'aanta
+1: Dreadwolf - HP:7530/7530 Shields:9
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Z'aanta ataca
+Dreadwolf recibe 52 de daño de tipo Bow
+Dreadwolf recibe 52 de daño de tipo Bow
+Dreadwolf termina con HP:7426
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:426/426 BP:1
+B-Therion - HP:4447/4447 SP:166/332 BP:1
+C-Z'aanta - HP:3222/3222 SP:371/371 BP:0
+D-Hikari - HP:5781/5781 SP:317/317 BP:1
+Equipo del enemigo
+A-Dreadwolf - HP:7426/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Castti
+3.Hikari
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Z'aanta
+3.Dreadwolf
+4.Castti
+5.Hikari
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Z'aanta recibe 804 de daño físico
+Z'aanta termina con HP:2418
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:426/426 BP:1
+B-Therion - HP:4447/4447 SP:166/332 BP:1
+C-Z'aanta - HP:2418/3222 SP:371/371 BP:0
+D-Hikari - HP:5781/5781 SP:317/317 BP:1
+Equipo del enemigo
+A-Dreadwolf - HP:7426/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Hikari
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Z'aanta
+3.Dreadwolf
+4.Castti
+5.Hikari
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Share SP
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Castti - HP:5336/5336 SP:426/426 BP:1
+2: Therion - HP:4447/4447 SP:166/332 BP:1
+3: Z'aanta - HP:2418/3222 SP:371/371 BP:0
+4: Hikari - HP:5781/5781 SP:317/317 BP:1
+5: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti usa Share SP
+Z'aanta recupera 213 SP
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:213/426 BP:1
+B-Therion - HP:4447/4447 SP:166/332 BP:1
+C-Z'aanta - HP:2418/3222 SP:371/371 BP:0
+D-Hikari - HP:5781/5781 SP:317/317 BP:1
+Equipo del enemigo
+A-Dreadwolf - HP:7426/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Z'aanta
+3.Dreadwolf
+4.Castti
+5.Hikari
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Reflective Veil
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Castti - HP:5336/5336 SP:213/426 BP:1
+2: Therion - HP:4447/4447 SP:166/332 BP:1
+3: Z'aanta - HP:2418/3222 SP:371/371 BP:0
+4: Hikari - HP:5781/5781 SP:317/317 BP:1
+5: Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Hikari no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Hikari no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari usa Reflective Veil
+Hikari reflejará los próximos 1 ataques elementales
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:213/426 BP:2
+B-Therion - HP:4447/4447 SP:166/332 BP:2
+C-Z'aanta - HP:2418/3222 SP:371/371 BP:0
+D-Hikari - HP:5781/5781 SP:295/317 BP:2
+Equipo del enemigo
+A-Dreadwolf - HP:7426/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Z'aanta
+3.Dreadwolf
+4.Castti
+5.Hikari
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Z'aanta
+3.Dreadwolf
+4.Castti
+5.Hikari
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:213/426 BP:2
+B-Therion - HP:4447/4447 SP:166/332 BP:2
+C-Z'aanta - HP:2418/3222 SP:371/371 BP:0
+D-Hikari - HP:5781/5781 SP:295/317 BP:2
+Equipo del enemigo
+A-Dreadwolf - HP:7426/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Dreadwolf
+3.Castti
+4.Hikari
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Z'aanta
+3.Dreadwolf
+4.Castti
+5.Hikari
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Z'aanta
+1: Vivify
+2: Sidestep
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Z'aanta
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Z'aanta
+1: Dreadwolf - HP:7426/7530 Shields:9
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Z'aanta ataca
+Dreadwolf recibe 52 de daño de tipo Bow
+Dreadwolf termina con HP:7374
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:213/426 BP:2
+B-Therion - HP:4447/4447 SP:166/332 BP:2
+C-Z'aanta - HP:2418/3222 SP:371/371 BP:0
+D-Hikari - HP:5781/5781 SP:295/317 BP:2
+Equipo del enemigo
+A-Dreadwolf - HP:7374/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Castti
+3.Hikari
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Z'aanta
+3.Dreadwolf
+4.Castti
+5.Hikari
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Z'aanta recibe 804 de daño físico
+Z'aanta termina con HP:1614
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:213/426 BP:2
+B-Therion - HP:4447/4447 SP:166/332 BP:2
+C-Z'aanta - HP:1614/3222 SP:371/371 BP:0
+D-Hikari - HP:5781/5781 SP:295/317 BP:2
+Equipo del enemigo
+A-Dreadwolf - HP:7374/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Hikari
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Z'aanta
+3.Dreadwolf
+4.Castti
+5.Hikari
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:213/426 BP:2
+B-Therion - HP:4447/4447 SP:166/332 BP:2
+C-Z'aanta - HP:1614/3222 SP:371/371 BP:0
+D-Hikari - HP:5781/5781 SP:295/317 BP:2
+Equipo del enemigo
+A-Dreadwolf - HP:7374/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Castti
+3.Z'aanta
+4.Dreadwolf
+5.Hikari
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Reflective Veil
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Castti - HP:5336/5336 SP:213/426 BP:2
+2: Therion - HP:4447/4447 SP:166/332 BP:2
+3: Z'aanta - HP:1614/3222 SP:371/371 BP:0
+4: Hikari - HP:5781/5781 SP:295/317 BP:2
+5: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari usa Reflective Veil
+Z'aanta reflejará los próximos 1 ataques elementales
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:213/426 BP:3
+B-Therion - HP:4447/4447 SP:166/332 BP:3
+C-Z'aanta - HP:1614/3222 SP:371/371 BP:1
+D-Hikari - HP:5781/5781 SP:273/317 BP:3
+Equipo del enemigo
+A-Dreadwolf - HP:7374/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Castti
+3.Z'aanta
+4.Dreadwolf
+5.Hikari
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Z'aanta
+3.Dreadwolf
+4.Castti
+5.Hikari
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:213/426 BP:3
+B-Therion - HP:4447/4447 SP:166/332 BP:3
+C-Z'aanta - HP:1614/3222 SP:371/371 BP:1
+D-Hikari - HP:5781/5781 SP:273/317 BP:3
+Equipo del enemigo
+A-Dreadwolf - HP:7374/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Z'aanta
+3.Dreadwolf
+4.Hikari
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Z'aanta
+3.Dreadwolf
+4.Castti
+5.Hikari
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Share SP
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Castti - HP:5336/5336 SP:213/426 BP:3
+2: Therion - HP:4447/4447 SP:166/332 BP:3
+3: Z'aanta - HP:1614/3222 SP:371/371 BP:1
+4: Hikari - HP:5781/5781 SP:273/317 BP:3
+5: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Castti usa Share SP
+Therion recupera 169 SP
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:107/426 BP:1
+B-Therion - HP:4447/4447 SP:332/332 BP:3
+C-Z'aanta - HP:1614/3222 SP:371/371 BP:1
+D-Hikari - HP:5781/5781 SP:273/317 BP:3
+Equipo del enemigo
+A-Dreadwolf - HP:7374/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Dreadwolf
+3.Hikari
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Z'aanta
+3.Dreadwolf
+4.Castti
+5.Hikari
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Z'aanta
+1: Vivify
+2: Sidestep
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Z'aanta no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Z'aanta no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Z'aanta usa Sidestep
+Z'aanta esquivará los próximos 1 ataques físicos
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:107/426 BP:1
+B-Therion - HP:4447/4447 SP:332/332 BP:3
+C-Z'aanta - HP:1614/3222 SP:361/371 BP:1
+D-Hikari - HP:5781/5781 SP:273/317 BP:3
+Equipo del enemigo
+A-Dreadwolf - HP:7374/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Hikari
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Z'aanta
+3.Dreadwolf
+4.Castti
+5.Hikari
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Z'aanta ha esquivado el ataque
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:107/426 BP:1
+B-Therion - HP:4447/4447 SP:332/332 BP:3
+C-Z'aanta - HP:1614/3222 SP:361/371 BP:1
+D-Hikari - HP:5781/5781 SP:273/317 BP:3
+Equipo del enemigo
+A-Dreadwolf - HP:7374/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Z'aanta
+3.Dreadwolf
+4.Castti
+5.Hikari
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Reflective Veil
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Castti - HP:5336/5336 SP:107/426 BP:1
+2: Therion - HP:4447/4447 SP:332/332 BP:3
+3: Z'aanta - HP:1614/3222 SP:361/371 BP:1
+4: Hikari - HP:5781/5781 SP:273/317 BP:3
+5: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Hikari usa Reflective Veil
+Z'aanta reflejará los próximos 2 ataques elementales
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:107/426 BP:1
+B-Therion - HP:4447/4447 SP:332/332 BP:4
+C-Z'aanta - HP:1614/3222 SP:361/371 BP:2
+D-Hikari - HP:5781/5781 SP:251/317 BP:2
+Equipo del enemigo
+A-Dreadwolf - HP:7374/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Z'aanta
+3.Dreadwolf
+4.Castti
+5.Hikari
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Z'aanta
+3.Dreadwolf
+4.Castti
+5.Hikari
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:107/426 BP:1
+B-Therion - HP:4447/4447 SP:332/332 BP:4
+C-Z'aanta - HP:1614/3222 SP:361/371 BP:2
+D-Hikari - HP:5781/5781 SP:251/317 BP:2
+Equipo del enemigo
+A-Dreadwolf - HP:7374/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Dreadwolf
+3.Castti
+4.Hikari
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Z'aanta
+3.Dreadwolf
+4.Castti
+5.Hikari
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:107/426 BP:1
+B-Therion - HP:4447/4447 SP:332/332 BP:4
+C-Z'aanta - HP:1614/3222 SP:361/371 BP:2
+D-Hikari - HP:5781/5781 SP:251/317 BP:2
+Equipo del enemigo
+A-Dreadwolf - HP:7374/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Castti
+3.Hikari
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Z'aanta
+3.Dreadwolf
+4.Castti
+5.Hikari
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Z'aanta se defiende
+Z'aanta recibe 402 de daño físico
+Z'aanta termina con HP:1212
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:107/426 BP:1
+B-Therion - HP:4447/4447 SP:332/332 BP:4
+C-Z'aanta - HP:1212/3222 SP:361/371 BP:2
+D-Hikari - HP:5781/5781 SP:251/317 BP:2
+Equipo del enemigo
+A-Dreadwolf - HP:7374/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Hikari
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Z'aanta
+3.Dreadwolf
+4.Castti
+5.Hikari
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Dreadwolf - HP:7374/7530 Shields:9
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti ataca
+Dreadwolf recibe 45 de daño de tipo Axe con debilidad
+Dreadwolf termina con HP:7329
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:107/426 BP:1
+B-Therion - HP:4447/4447 SP:332/332 BP:4
+C-Z'aanta - HP:1212/3222 SP:361/371 BP:2
+D-Hikari - HP:5781/5781 SP:251/317 BP:2
+Equipo del enemigo
+A-Dreadwolf - HP:7329/7530 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Z'aanta
+3.Dreadwolf
+4.Castti
+5.Hikari
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Dreadwolf - HP:7329/7530 Shields:8
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari ataca
+Dreadwolf recibe 130 de daño de tipo Spear con debilidad
+Dreadwolf termina con HP:7199
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:107/426 BP:2
+B-Therion - HP:4447/4447 SP:332/332 BP:5
+C-Z'aanta - HP:1212/3222 SP:361/371 BP:3
+D-Hikari - HP:5781/5781 SP:251/317 BP:3
+Equipo del enemigo
+A-Dreadwolf - HP:7199/7530 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Z'aanta
+3.Dreadwolf
+4.Castti
+5.Hikari
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Z'aanta
+3.Dreadwolf
+4.Castti
+5.Hikari
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Therion
+1: Lux Congerere
+2: Share SP
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Therion
+1: Castti - HP:5336/5336 SP:107/426 BP:2
+2: Therion - HP:4447/4447 SP:332/332 BP:5
+3: Z'aanta - HP:1212/3222 SP:361/371 BP:3
+4: Hikari - HP:5781/5781 SP:251/317 BP:3
+5: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Therion usa Share SP
+Castti recupera 315 SP
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:422/426 BP:2
+B-Therion - HP:4447/4447 SP:166/332 BP:2
+C-Z'aanta - HP:1212/3222 SP:361/371 BP:3
+D-Hikari - HP:5781/5781 SP:251/317 BP:3
+Equipo del enemigo
+A-Dreadwolf - HP:7199/7530 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Dreadwolf
+3.Castti
+4.Hikari
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Z'aanta
+3.Dreadwolf
+4.Castti
+5.Hikari
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:422/426 BP:2
+B-Therion - HP:4447/4447 SP:166/332 BP:2
+C-Z'aanta - HP:1212/3222 SP:361/371 BP:3
+D-Hikari - HP:5781/5781 SP:251/317 BP:3
+Equipo del enemigo
+A-Dreadwolf - HP:7199/7530 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Castti
+3.Hikari
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Therion
+3.Dreadwolf
+4.Castti
+5.Hikari
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Z'aanta se defiende
+Z'aanta recibe 402 de daño físico
+Z'aanta termina con HP:810
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:422/426 BP:2
+B-Therion - HP:4447/4447 SP:166/332 BP:2
+C-Z'aanta - HP:810/3222 SP:361/371 BP:3
+D-Hikari - HP:5781/5781 SP:251/317 BP:3
+Equipo del enemigo
+A-Dreadwolf - HP:7199/7530 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Hikari
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Therion
+3.Dreadwolf
+4.Castti
+5.Hikari
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:422/426 BP:2
+B-Therion - HP:4447/4447 SP:166/332 BP:2
+C-Z'aanta - HP:810/3222 SP:361/371 BP:3
+D-Hikari - HP:5781/5781 SP:251/317 BP:3
+Equipo del enemigo
+A-Dreadwolf - HP:7199/7530 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Castti
+3.Therion
+4.Dreadwolf
+5.Hikari
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+INICIA RONDA 6
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:422/426 BP:3
+B-Therion - HP:4447/4447 SP:166/332 BP:2
+C-Z'aanta - HP:810/3222 SP:361/371 BP:4
+D-Hikari - HP:5781/5781 SP:251/317 BP:4
+Equipo del enemigo
+A-Dreadwolf - HP:7199/7530 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Castti
+3.Hikari
+4.Therion
+5.Dreadwolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Z'aanta
+3.Dreadwolf
+4.Castti
+5.Hikari
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Z'aanta
+1: Vivify
+2: Sidestep
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Z'aanta usa Sidestep
+Z'aanta esquivará los próximos 4 ataques físicos
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:422/426 BP:3
+B-Therion - HP:4447/4447 SP:166/332 BP:2
+C-Z'aanta - HP:810/3222 SP:351/371 BP:1
+D-Hikari - HP:5781/5781 SP:251/317 BP:4
+Equipo del enemigo
+A-Dreadwolf - HP:7199/7530 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Hikari
+3.Therion
+4.Dreadwolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Z'aanta
+3.Dreadwolf
+4.Castti
+5.Hikari
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Share SP
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Castti - HP:5336/5336 SP:422/426 BP:3
+2: Therion - HP:4447/4447 SP:166/332 BP:2
+3: Z'aanta - HP:810/3222 SP:351/371 BP:1
+4: Hikari - HP:5781/5781 SP:251/317 BP:4
+5: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Castti usa Share SP
+Z'aanta recupera 274 SP
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:211/426 BP:2
+B-Therion - HP:4447/4447 SP:166/332 BP:2
+C-Z'aanta - HP:810/3222 SP:371/371 BP:1
+D-Hikari - HP:5781/5781 SP:251/317 BP:4
+Equipo del enemigo
+A-Dreadwolf - HP:7199/7530 Shields:7
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Therion
+3.Dreadwolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Z'aanta
+3.Dreadwolf
+4.Castti
+5.Hikari
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Dreadwolf - HP:7199/7530 Shields:7
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Hikari ataca
+Dreadwolf recibe 130 de daño de tipo Spear con debilidad
+Dreadwolf recibe 130 de daño de tipo Spear con debilidad
+Dreadwolf recibe 130 de daño de tipo Spear con debilidad
+Dreadwolf recibe 130 de daño de tipo Spear con debilidad
+Dreadwolf termina con HP:6679
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:211/426 BP:2
+B-Therion - HP:4447/4447 SP:166/332 BP:2
+C-Z'aanta - HP:810/3222 SP:371/371 BP:1
+D-Hikari - HP:5781/5781 SP:251/317 BP:1
+Equipo del enemigo
+A-Dreadwolf - HP:6679/7530 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Dreadwolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Z'aanta
+3.Dreadwolf
+4.Castti
+5.Hikari
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Therion
+1: Dreadwolf - HP:6679/7530 Shields:3
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Therion no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Therion ataca
+Dreadwolf recibe 27 de daño de tipo Dagger
+Dreadwolf recibe 27 de daño de tipo Dagger
+Dreadwolf recibe 27 de daño de tipo Dagger
+Dreadwolf termina con HP:6598
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:211/426 BP:2
+B-Therion - HP:4447/4447 SP:166/332 BP:0
+C-Z'aanta - HP:810/3222 SP:371/371 BP:1
+D-Hikari - HP:5781/5781 SP:251/317 BP:1
+Equipo del enemigo
+A-Dreadwolf - HP:6598/7530 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Z'aanta
+3.Dreadwolf
+4.Castti
+5.Hikari
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Z'aanta ha esquivado el ataque
+----------------------------------------
+INICIA RONDA 7
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:211/426 BP:2
+B-Therion - HP:4447/4447 SP:166/332 BP:0
+C-Z'aanta - HP:810/3222 SP:371/371 BP:1
+D-Hikari - HP:5781/5781 SP:251/317 BP:1
+Equipo del enemigo
+A-Dreadwolf - HP:6598/7530 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Z'aanta
+3.Dreadwolf
+4.Castti
+5.Hikari
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Z'aanta
+3.Dreadwolf
+4.Castti
+5.Hikari
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Therion
+1: Lux Congerere
+2: Share SP
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Therion
+1: Castti - HP:5336/5336 SP:211/426 BP:2
+2: Therion - HP:4447/4447 SP:166/332 BP:0
+3: Z'aanta - HP:810/3222 SP:371/371 BP:1
+4: Hikari - HP:5781/5781 SP:251/317 BP:1
+5: Cancelar
+INPUT: 3
+----------------------------------------
+Therion usa Share SP
+Z'aanta recupera 83 SP
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:211/426 BP:2
+B-Therion - HP:4447/4447 SP:83/332 BP:0
+C-Z'aanta - HP:810/3222 SP:371/371 BP:1
+D-Hikari - HP:5781/5781 SP:251/317 BP:1
+Equipo del enemigo
+A-Dreadwolf - HP:6598/7530 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Dreadwolf
+3.Castti
+4.Hikari
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Z'aanta
+3.Dreadwolf
+4.Castti
+5.Hikari
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Z'aanta
+1: Vivify
+2: Sidestep
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Z'aanta usa Sidestep
+Z'aanta esquivará los próximos 1 ataques físicos
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:211/426 BP:2
+B-Therion - HP:4447/4447 SP:83/332 BP:0
+C-Z'aanta - HP:810/3222 SP:361/371 BP:1
+D-Hikari - HP:5781/5781 SP:251/317 BP:1
+Equipo del enemigo
+A-Dreadwolf - HP:6598/7530 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Castti
+3.Hikari
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Z'aanta
+3.Dreadwolf
+4.Castti
+5.Hikari
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Z'aanta ha esquivado el ataque
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:211/426 BP:2
+B-Therion - HP:4447/4447 SP:83/332 BP:0
+C-Z'aanta - HP:810/3222 SP:361/371 BP:1
+D-Hikari - HP:5781/5781 SP:251/317 BP:1
+Equipo del enemigo
+A-Dreadwolf - HP:6598/7530 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Hikari
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Z'aanta
+3.Dreadwolf
+4.Castti
+5.Hikari
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:211/426 BP:2
+B-Therion - HP:4447/4447 SP:83/332 BP:0
+C-Z'aanta - HP:810/3222 SP:361/371 BP:1
+D-Hikari - HP:5781/5781 SP:251/317 BP:1
+Equipo del enemigo
+A-Dreadwolf - HP:6598/7530 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+----------------------------------------
+Turnos de la siguiente ronda
+1.Castti
+2.Therion
+3.Z'aanta
+4.Dreadwolf
+5.Hikari
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+INICIA RONDA 8
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:211/426 BP:3
+B-Therion - HP:4447/4447 SP:83/332 BP:1
+C-Z'aanta - HP:810/3222 SP:361/371 BP:2
+D-Hikari - HP:5781/5781 SP:251/317 BP:2
+Equipo del enemigo
+A-Dreadwolf - HP:6598/7530 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Hikari
+3.Therion
+4.Z'aanta
+5.Dreadwolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Z'aanta
+3.Dreadwolf
+4.Castti
+5.Hikari
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Share SP
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Castti - HP:5336/5336 SP:211/426 BP:3
+2: Therion - HP:4447/4447 SP:83/332 BP:1
+3: Z'aanta - HP:810/3222 SP:361/371 BP:2
+4: Hikari - HP:5781/5781 SP:251/317 BP:2
+5: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Castti usa Share SP
+Therion recupera 168 SP
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:106/426 BP:1
+B-Therion - HP:4447/4447 SP:251/332 BP:1
+C-Z'aanta - HP:810/3222 SP:361/371 BP:2
+D-Hikari - HP:5781/5781 SP:251/317 BP:2
+Equipo del enemigo
+A-Dreadwolf - HP:6598/7530 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Therion
+3.Z'aanta
+4.Dreadwolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Z'aanta
+3.Dreadwolf
+4.Castti
+5.Hikari
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Reflective Veil
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Castti - HP:5336/5336 SP:106/426 BP:1
+2: Therion - HP:4447/4447 SP:251/332 BP:1
+3: Z'aanta - HP:810/3222 SP:361/371 BP:2
+4: Hikari - HP:5781/5781 SP:251/317 BP:2
+5: Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Hikari usa Reflective Veil
+Hikari reflejará los próximos 3 ataques elementales
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:106/426 BP:1
+B-Therion - HP:4447/4447 SP:251/332 BP:1
+C-Z'aanta - HP:810/3222 SP:361/371 BP:2
+D-Hikari - HP:5781/5781 SP:229/317 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:6598/7530 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Z'aanta
+3.Dreadwolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Z'aanta
+3.Dreadwolf
+4.Castti
+5.Hikari
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Therion
+1: Dreadwolf - HP:6598/7530 Shields:3
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Therion ataca
+Dreadwolf recibe 27 de daño de tipo Sword
+Dreadwolf termina con HP:6571
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:106/426 BP:1
+B-Therion - HP:4447/4447 SP:251/332 BP:1
+C-Z'aanta - HP:810/3222 SP:361/371 BP:2
+D-Hikari - HP:5781/5781 SP:229/317 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:6571/7530 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Dreadwolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Z'aanta
+3.Dreadwolf
+4.Castti
+5.Hikari
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:106/426 BP:1
+B-Therion - HP:4447/4447 SP:251/332 BP:1
+C-Z'aanta - HP:810/3222 SP:361/371 BP:2
+D-Hikari - HP:5781/5781 SP:229/317 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:6571/7530 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Therion
+3.Dreadwolf
+4.Castti
+5.Hikari
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Z'aanta se defiende
+Z'aanta ha esquivado el ataque
+----------------------------------------
+INICIA RONDA 9
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:106/426 BP:1
+B-Therion - HP:4447/4447 SP:251/332 BP:2
+C-Z'aanta - HP:810/3222 SP:361/371 BP:3
+D-Hikari - HP:5781/5781 SP:229/317 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:6571/7530 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Therion
+3.Dreadwolf
+4.Castti
+5.Hikari
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Z'aanta
+3.Dreadwolf
+4.Castti
+5.Hikari
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Z'aanta
+1: Dreadwolf - HP:6571/7530 Shields:3
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Z'aanta ataca
+Dreadwolf recibe 78 de daño de tipo Axe con debilidad
+Dreadwolf termina con HP:6493
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:106/426 BP:1
+B-Therion - HP:4447/4447 SP:251/332 BP:2
+C-Z'aanta - HP:810/3222 SP:361/371 BP:3
+D-Hikari - HP:5781/5781 SP:229/317 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:6493/7530 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Dreadwolf
+3.Castti
+4.Hikari
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Z'aanta
+3.Dreadwolf
+4.Castti
+5.Hikari
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:106/426 BP:1
+B-Therion - HP:4447/4447 SP:251/332 BP:2
+C-Z'aanta - HP:810/3222 SP:361/371 BP:3
+D-Hikari - HP:5781/5781 SP:229/317 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:6493/7530 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Castti
+3.Hikari
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Z'aanta
+3.Dreadwolf
+4.Castti
+5.Hikari
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Z'aanta ha esquivado el ataque
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:106/426 BP:1
+B-Therion - HP:4447/4447 SP:251/332 BP:2
+C-Z'aanta - HP:810/3222 SP:361/371 BP:3
+D-Hikari - HP:5781/5781 SP:229/317 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:6493/7530 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Hikari
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Z'aanta
+3.Dreadwolf
+4.Castti
+5.Hikari
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:106/426 BP:1
+B-Therion - HP:4447/4447 SP:251/332 BP:2
+C-Z'aanta - HP:810/3222 SP:361/371 BP:3
+D-Hikari - HP:5781/5781 SP:229/317 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:6493/7530 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Castti
+3.Z'aanta
+4.Dreadwolf
+5.Hikari
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Dreadwolf - HP:6493/7530 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Hikari ataca
+Dreadwolf recibe 130 de daño de tipo Spear con debilidad
+Dreadwolf termina con HP:6363
+----------------------------------------
+INICIA RONDA 10
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:106/426 BP:2
+B-Therion - HP:4447/4447 SP:251/332 BP:3
+C-Z'aanta - HP:810/3222 SP:361/371 BP:4
+D-Hikari - HP:5781/5781 SP:229/317 BP:1
+Equipo del enemigo
+A-Dreadwolf - HP:6363/7530 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Castti
+3.Z'aanta
+4.Dreadwolf
+5.Hikari
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Z'aanta
+3.Dreadwolf
+4.Castti
+5.Hikari
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Therion
+1: Lux Congerere
+2: Share SP
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Therion usa Lux Congerere
+Dreadwolf recibe 840 de daño de tipo Light
+Dreadwolf recibe 840 de daño de tipo Light
+Dreadwolf recibe 840 de daño de tipo Light
+Dreadwolf termina con HP:3843
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:106/426 BP:2
+B-Therion - HP:4447/4447 SP:215/332 BP:1
+C-Z'aanta - HP:810/3222 SP:361/371 BP:4
+D-Hikari - HP:5781/5781 SP:229/317 BP:1
+Equipo del enemigo
+A-Dreadwolf - HP:3843/7530 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Z'aanta
+3.Dreadwolf
+4.Hikari
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Z'aanta
+3.Dreadwolf
+4.Castti
+5.Hikari
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Dreadwolf - HP:3843/7530 Shields:1
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Castti ataca
+Dreadwolf recibe 45 de daño de tipo Axe con debilidad
+Dreadwolf entra en Breaking Point
+Dreadwolf recibe 60 de daño de tipo Axe con debilidad
+Dreadwolf recibe 60 de daño de tipo Axe con debilidad
+Dreadwolf termina con HP:3678
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:106/426 BP:0
+B-Therion - HP:4447/4447 SP:215/332 BP:1
+C-Z'aanta - HP:810/3222 SP:361/371 BP:4
+D-Hikari - HP:5781/5781 SP:229/317 BP:1
+Equipo del enemigo
+A-Dreadwolf - HP:3678/7530 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Hikari
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Z'aanta
+3.Castti
+4.Hikari
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Z'aanta
+1: Vivify
+2: Sidestep
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Z'aanta
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:106/426 BP:0
+B-Therion - HP:4447/4447 SP:215/332 BP:1
+C-Z'aanta - HP:810/3222 SP:361/371 BP:4
+D-Hikari - HP:5781/5781 SP:229/317 BP:1
+Equipo del enemigo
+A-Dreadwolf - HP:3678/7530 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+----------------------------------------
+Turnos de la siguiente ronda
+1.Z'aanta
+2.Therion
+3.Castti
+4.Hikari
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Dreadwolf - HP:3678/7530 Shields:0
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Hikari ataca
+Dreadwolf recibe 174 de daño de tipo Spear con debilidad
+Dreadwolf recibe 174 de daño de tipo Spear con debilidad
+Dreadwolf termina con HP:3330
+----------------------------------------
+INICIA RONDA 11
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:106/426 BP:0
+B-Therion - HP:4447/4447 SP:215/332 BP:1
+C-Z'aanta - HP:810/3222 SP:361/371 BP:5
+D-Hikari - HP:5781/5781 SP:229/317 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:3330/7530 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Therion
+3.Castti
+4.Hikari
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Therion
+3.Z'aanta
+4.Castti
+5.Hikari
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Z'aanta
+1: Vivify
+2: Sidestep
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Z'aanta usa Sidestep
+Z'aanta esquivará los próximos 1 ataques físicos
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:106/426 BP:0
+B-Therion - HP:4447/4447 SP:215/332 BP:1
+C-Z'aanta - HP:810/3222 SP:351/371 BP:5
+D-Hikari - HP:5781/5781 SP:229/317 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:3330/7530 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Castti
+3.Hikari
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Therion
+3.Z'aanta
+4.Castti
+5.Hikari
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Therion
+1: Dreadwolf - HP:3330/7530 Shields:0
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Therion no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Therion ataca
+Dreadwolf recibe 41 de daño de tipo Sword
+Dreadwolf termina con HP:3289
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:106/426 BP:0
+B-Therion - HP:4447/4447 SP:215/332 BP:1
+C-Z'aanta - HP:810/3222 SP:351/371 BP:5
+D-Hikari - HP:5781/5781 SP:229/317 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:3289/7530 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Hikari
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Therion
+3.Z'aanta
+4.Castti
+5.Hikari
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Share SP
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Castti - HP:5336/5336 SP:106/426 BP:0
+2: Therion - HP:4447/4447 SP:215/332 BP:1
+3: Z'aanta - HP:810/3222 SP:351/371 BP:5
+4: Hikari - HP:5781/5781 SP:229/317 BP:0
+5: Cancelar
+INPUT: 1
+----------------------------------------
+Castti usa Share SP
+Castti recupera 53 SP
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:106/426 BP:0
+B-Therion - HP:4447/4447 SP:215/332 BP:1
+C-Z'aanta - HP:810/3222 SP:351/371 BP:5
+D-Hikari - HP:5781/5781 SP:229/317 BP:0
+Equipo del enemigo
+A-Dreadwolf - HP:3289/7530 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+----------------------------------------
+Turnos de la siguiente ronda
+1.Dreadwolf
+2.Therion
+3.Z'aanta
+4.Castti
+5.Hikari
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Dreadwolf - HP:3289/7530 Shields:0
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Hikari ataca
+Dreadwolf recibe 174 de daño de tipo Spear con debilidad
+Dreadwolf termina con HP:3115
+----------------------------------------
+INICIA RONDA 12
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:106/426 BP:1
+B-Therion - HP:4447/4447 SP:215/332 BP:2
+C-Z'aanta - HP:810/3222 SP:351/371 BP:5
+D-Hikari - HP:5781/5781 SP:229/317 BP:1
+Equipo del enemigo
+A-Dreadwolf - HP:3115/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Therion
+3.Z'aanta
+4.Castti
+5.Hikari
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Z'aanta
+3.Dreadwolf
+4.Castti
+5.Hikari
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Z'aanta ha esquivado el ataque
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:106/426 BP:1
+B-Therion - HP:4447/4447 SP:215/332 BP:2
+C-Z'aanta - HP:810/3222 SP:351/371 BP:5
+D-Hikari - HP:5781/5781 SP:229/317 BP:1
+Equipo del enemigo
+A-Dreadwolf - HP:3115/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Z'aanta
+3.Castti
+4.Hikari
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Z'aanta
+3.Dreadwolf
+4.Castti
+5.Hikari
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Therion
+1: Lux Congerere
+2: Share SP
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Therion
+1: Castti - HP:5336/5336 SP:106/426 BP:1
+2: Therion - HP:4447/4447 SP:215/332 BP:2
+3: Z'aanta - HP:810/3222 SP:351/371 BP:5
+4: Hikari - HP:5781/5781 SP:229/317 BP:1
+5: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Therion usa Share SP
+Therion recupera 107 SP
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:106/426 BP:1
+B-Therion - HP:4447/4447 SP:215/332 BP:2
+C-Z'aanta - HP:810/3222 SP:351/371 BP:5
+D-Hikari - HP:5781/5781 SP:229/317 BP:1
+Equipo del enemigo
+A-Dreadwolf - HP:3115/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Castti
+3.Hikari
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Z'aanta
+3.Dreadwolf
+4.Castti
+5.Hikari
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Z'aanta
+1: Dreadwolf - HP:3115/7530 Shields:9
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Z'aanta ataca
+Dreadwolf recibe 52 de daño de tipo Bow
+Dreadwolf recibe 52 de daño de tipo Bow
+Dreadwolf recibe 52 de daño de tipo Bow
+Dreadwolf recibe 52 de daño de tipo Bow
+Dreadwolf termina con HP:2907
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:106/426 BP:1
+B-Therion - HP:4447/4447 SP:215/332 BP:2
+C-Z'aanta - HP:810/3222 SP:351/371 BP:2
+D-Hikari - HP:5781/5781 SP:229/317 BP:1
+Equipo del enemigo
+A-Dreadwolf - HP:2907/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Hikari
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Z'aanta
+3.Dreadwolf
+4.Castti
+5.Hikari
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Share SP
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Castti - HP:5336/5336 SP:106/426 BP:1
+2: Therion - HP:4447/4447 SP:215/332 BP:2
+3: Z'aanta - HP:810/3222 SP:351/371 BP:2
+4: Hikari - HP:5781/5781 SP:229/317 BP:1
+5: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Castti usa Share SP
+Castti recupera 53 SP
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:106/426 BP:1
+B-Therion - HP:4447/4447 SP:215/332 BP:2
+C-Z'aanta - HP:810/3222 SP:351/371 BP:2
+D-Hikari - HP:5781/5781 SP:229/317 BP:1
+Equipo del enemigo
+A-Dreadwolf - HP:2907/7530 Shields:9
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Z'aanta
+3.Dreadwolf
+4.Castti
+5.Hikari
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Dreadwolf - HP:2907/7530 Shields:9
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari ataca
+Dreadwolf recibe 130 de daño de tipo Spear con debilidad
+Dreadwolf termina con HP:2777
+----------------------------------------
+INICIA RONDA 13
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:106/426 BP:2
+B-Therion - HP:4447/4447 SP:215/332 BP:3
+C-Z'aanta - HP:810/3222 SP:351/371 BP:2
+D-Hikari - HP:5781/5781 SP:229/317 BP:2
+Equipo del enemigo
+A-Dreadwolf - HP:2777/7530 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Z'aanta
+3.Dreadwolf
+4.Castti
+5.Hikari
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Z'aanta
+3.Dreadwolf
+4.Castti
+5.Hikari
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Therion
+1: Dreadwolf - HP:2777/7530 Shields:8
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Therion ataca
+Dreadwolf recibe 27 de daño de tipo Dagger
+Dreadwolf recibe 27 de daño de tipo Dagger
+Dreadwolf termina con HP:2723
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:106/426 BP:2
+B-Therion - HP:4447/4447 SP:215/332 BP:2
+C-Z'aanta - HP:810/3222 SP:351/371 BP:2
+D-Hikari - HP:5781/5781 SP:229/317 BP:2
+Equipo del enemigo
+A-Dreadwolf - HP:2723/7530 Shields:8
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Dreadwolf
+3.Castti
+4.Hikari
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Z'aanta
+3.Dreadwolf
+4.Castti
+5.Hikari
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Z'aanta
+1: Vivify
+2: Sidestep
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Z'aanta
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Z'aanta
+1: Vivify
+2: Sidestep
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Z'aanta
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Z'aanta
+1: Vivify
+2: Sidestep
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Z'aanta
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Z'aanta
+1: Dreadwolf - HP:2723/7530 Shields:8
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Z'aanta ataca
+Dreadwolf recibe 78 de daño de tipo Axe con debilidad
+Dreadwolf recibe 78 de daño de tipo Axe con debilidad
+Dreadwolf termina con HP:2567
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:106/426 BP:2
+B-Therion - HP:4447/4447 SP:215/332 BP:2
+C-Z'aanta - HP:810/3222 SP:351/371 BP:1
+D-Hikari - HP:5781/5781 SP:229/317 BP:2
+Equipo del enemigo
+A-Dreadwolf - HP:2567/7530 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Castti
+3.Hikari
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Z'aanta
+3.Dreadwolf
+4.Castti
+5.Hikari
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Z'aanta ha esquivado el ataque
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:106/426 BP:2
+B-Therion - HP:4447/4447 SP:215/332 BP:2
+C-Z'aanta - HP:810/3222 SP:351/371 BP:1
+D-Hikari - HP:5781/5781 SP:229/317 BP:2
+Equipo del enemigo
+A-Dreadwolf - HP:2567/7530 Shields:6
+----------------------------------------
+Turnos de la ronda
+1.Castti
+2.Hikari
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Z'aanta
+3.Dreadwolf
+4.Castti
+5.Hikari
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Dreadwolf - HP:2567/7530 Shields:6
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Castti no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Castti no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Castti no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Castti ataca
+Dreadwolf recibe 45 de daño de tipo Axe con debilidad
+Dreadwolf recibe 45 de daño de tipo Axe con debilidad
+Dreadwolf termina con HP:2477
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:106/426 BP:1
+B-Therion - HP:4447/4447 SP:215/332 BP:2
+C-Z'aanta - HP:810/3222 SP:351/371 BP:1
+D-Hikari - HP:5781/5781 SP:229/317 BP:2
+Equipo del enemigo
+A-Dreadwolf - HP:2477/7530 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Z'aanta
+3.Dreadwolf
+4.Castti
+5.Hikari
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+INICIA RONDA 14
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:106/426 BP:1
+B-Therion - HP:4447/4447 SP:215/332 BP:2
+C-Z'aanta - HP:810/3222 SP:351/371 BP:1
+D-Hikari - HP:5781/5781 SP:229/317 BP:3
+Equipo del enemigo
+A-Dreadwolf - HP:2477/7530 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Therion
+3.Z'aanta
+4.Dreadwolf
+5.Castti
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Z'aanta
+3.Dreadwolf
+4.Castti
+5.Hikari
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:106/426 BP:1
+B-Therion - HP:4447/4447 SP:215/332 BP:2
+C-Z'aanta - HP:810/3222 SP:351/371 BP:1
+D-Hikari - HP:5781/5781 SP:229/317 BP:3
+Equipo del enemigo
+A-Dreadwolf - HP:2477/7530 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Z'aanta
+3.Dreadwolf
+4.Castti
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Therion
+3.Z'aanta
+4.Dreadwolf
+5.Castti
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Therion
+1: Lux Congerere
+2: Share SP
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Therion usa Lux Congerere
+Dreadwolf recibe 0 de daño de tipo Light
+Dreadwolf recibe 0 de daño de tipo Light
+Dreadwolf recibe 0 de daño de tipo Light
+Dreadwolf termina con HP:2477
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:106/426 BP:1
+B-Therion - HP:4447/4447 SP:179/332 BP:2
+C-Z'aanta - HP:810/3222 SP:351/371 BP:1
+D-Hikari - HP:5781/5781 SP:229/317 BP:3
+Equipo del enemigo
+A-Dreadwolf - HP:2477/7530 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Z'aanta
+2.Dreadwolf
+3.Castti
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Therion
+3.Z'aanta
+4.Dreadwolf
+5.Castti
+----------------------------------------
+Turno de Z'aanta
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Z'aanta
+1: Dreadwolf - HP:2477/7530 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Z'aanta ataca
+Dreadwolf recibe 52 de daño de tipo Bow
+Dreadwolf recibe 52 de daño de tipo Bow
+Dreadwolf termina con HP:2373
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:106/426 BP:1
+B-Therion - HP:4447/4447 SP:179/332 BP:2
+C-Z'aanta - HP:810/3222 SP:351/371 BP:0
+D-Hikari - HP:5781/5781 SP:229/317 BP:3
+Equipo del enemigo
+A-Dreadwolf - HP:2373/7530 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Dreadwolf
+2.Castti
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Therion
+3.Z'aanta
+4.Dreadwolf
+5.Castti
+----------------------------------------
+Dreadwolf usa Vorpal Fang
+Z'aanta recibe 804 de daño físico
+Z'aanta termina con HP:6
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:106/426 BP:1
+B-Therion - HP:4447/4447 SP:179/332 BP:2
+C-Z'aanta - HP:6/3222 SP:351/371 BP:0
+D-Hikari - HP:5781/5781 SP:229/317 BP:3
+Equipo del enemigo
+A-Dreadwolf - HP:2373/7530 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Castti
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Therion
+3.Z'aanta
+4.Dreadwolf
+5.Castti
+----------------------------------------
+Turno de Castti
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Castti
+1: Share SP
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Castti
+1: Castti - HP:5336/5336 SP:106/426 BP:1
+2: Therion - HP:4447/4447 SP:179/332 BP:2
+3: Z'aanta - HP:6/3222 SP:351/371 BP:0
+4: Hikari - HP:5781/5781 SP:229/317 BP:3
+5: Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Castti usa Share SP
+Hikari recupera 68 SP
+----------------------------------------
+INICIA RONDA 15
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:53/426 BP:0
+B-Therion - HP:4447/4447 SP:179/332 BP:3
+C-Z'aanta - HP:6/3222 SP:351/371 BP:0
+D-Hikari - HP:5781/5781 SP:297/317 BP:4
+Equipo del enemigo
+A-Dreadwolf - HP:2373/7530 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Therion
+3.Z'aanta
+4.Dreadwolf
+5.Castti
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Z'aanta
+3.Dreadwolf
+4.Castti
+5.Hikari
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Reflective Veil
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Castti - HP:5336/5336 SP:53/426 BP:0
+2: Therion - HP:4447/4447 SP:179/332 BP:3
+3: Z'aanta - HP:6/3222 SP:351/371 BP:0
+4: Hikari - HP:5781/5781 SP:297/317 BP:4
+5: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Hikari usa Reflective Veil
+Therion reflejará los próximos 2 ataques elementales
+----------------------------------------
+Equipo del jugador
+A-Castti - HP:5336/5336 SP:53/426 BP:0
+B-Therion - HP:4447/4447 SP:179/332 BP:3
+C-Z'aanta - HP:6/3222 SP:351/371 BP:0
+D-Hikari - HP:5781/5781 SP:275/317 BP:3
+Equipo del enemigo
+A-Dreadwolf - HP:2373/7530 Shields:4
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Z'aanta
+3.Dreadwolf
+4.Castti
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Z'aanta
+3.Dreadwolf
+4.Castti
+5.Hikari
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Therion
+1: Lux Congerere
+2: Share SP
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Therion usa Lux Congerere
+Dreadwolf recibe 1273 de daño de tipo Light
+Dreadwolf recibe 1273 de daño de tipo Light
+Dreadwolf recibe 1273 de daño de tipo Light
+Dreadwolf termina con HP:0
+----------------------------------------
+Gana equipo del jugador

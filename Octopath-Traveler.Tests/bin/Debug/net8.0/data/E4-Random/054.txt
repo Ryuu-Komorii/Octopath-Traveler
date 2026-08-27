@@ -1,0 +1,10 @@
+Player Team
+Temenos (Mole Dance, First Aid) [Stat Swap, Augmented Elements, Boost Start]
+Castti (Mole Dance) [Cover, Heightened Healing, Fleefoot]
+Primrose (Mole Dance) [Second Wind, SP Saver, BP Eater]
+Ophilia (Panther Dance) [Augmented Elements, Summon Strength, Hang Tough]
+Enemy Team
+Light Remnant
+Horned Fly
+Army Ant
+Accursed Armor

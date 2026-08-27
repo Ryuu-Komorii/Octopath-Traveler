@@ -1,0 +1,3529 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+INPUT: 91
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:4447/4447 SP:369/369 BP:1
+B-Therion - HP:4447/4447 SP:332/332 BP:1
+C-Ophilia - HP:4002/4002 SP:470/470 BP:1
+D-Hikari - HP:5781/5781 SP:317/317 BP:1
+Equipo del enemigo
+A-Behemoth - HP:12690/12690 Shields:8
+B-Dark Remnant - HP:2779/2779 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.H'aanit
+3.Ophilia
+4.Hikari
+5.Behemoth
+6.Dark Remnant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.H'aanit
+3.Ophilia
+4.Hikari
+5.Behemoth
+6.Dark Remnant
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:4447/4447 SP:369/369 BP:1
+B-Therion - HP:4447/4447 SP:332/332 BP:1
+C-Ophilia - HP:4002/4002 SP:470/470 BP:1
+D-Hikari - HP:5781/5781 SP:317/317 BP:1
+Equipo del enemigo
+A-Behemoth - HP:12690/12690 Shields:8
+B-Dark Remnant - HP:2779/2779 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Ophilia
+3.Hikari
+4.Behemoth
+5.Dark Remnant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.H'aanit
+3.Ophilia
+4.Hikari
+5.Behemoth
+6.Dark Remnant
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para H'aanit
+1: Share SP
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para H'aanit
+1: H'aanit - HP:4447/4447 SP:369/369 BP:1
+2: Therion - HP:4447/4447 SP:332/332 BP:1
+3: Ophilia - HP:4002/4002 SP:470/470 BP:1
+4: Hikari - HP:5781/5781 SP:317/317 BP:1
+5: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+H'aanit usa Share SP
+Therion recupera 184 SP
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:4447/4447 SP:185/369 BP:1
+B-Therion - HP:4447/4447 SP:332/332 BP:1
+C-Ophilia - HP:4002/4002 SP:470/470 BP:1
+D-Hikari - HP:5781/5781 SP:317/317 BP:1
+Equipo del enemigo
+A-Behemoth - HP:12690/12690 Shields:8
+B-Dark Remnant - HP:2779/2779 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Hikari
+3.Behemoth
+4.Dark Remnant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.H'aanit
+3.Ophilia
+4.Hikari
+5.Behemoth
+6.Dark Remnant
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ophilia
+1: Armor Corrosive
+2: First Aid
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Behemoth - HP:12690/12690 Shields:8
+2: Dark Remnant - HP:2779/2779 Shields:3
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia usa Armor Corrosive
+Dark Remnant tendrá Decreased Physical Defense durante 2 rondas
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:4447/4447 SP:185/369 BP:1
+B-Therion - HP:4447/4447 SP:332/332 BP:1
+C-Ophilia - HP:4002/4002 SP:466/470 BP:1
+D-Hikari - HP:5781/5781 SP:317/317 BP:1
+Equipo del enemigo
+A-Behemoth - HP:12690/12690 Shields:8
+B-Dark Remnant - HP:2779/2779 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Behemoth
+3.Dark Remnant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.H'aanit
+3.Ophilia
+4.Hikari
+5.Behemoth
+6.Dark Remnant
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Reflective Veil
+2: Sidestep
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: H'aanit - HP:4447/4447 SP:185/369 BP:1
+2: Therion - HP:4447/4447 SP:332/332 BP:1
+3: Ophilia - HP:4002/4002 SP:466/470 BP:1
+4: Hikari - HP:5781/5781 SP:317/317 BP:1
+5: Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Hikari no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Hikari no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Hikari no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Hikari no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Hikari usa Reflective Veil
+Hikari reflejará los próximos 2 ataques elementales
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:4447/4447 SP:185/369 BP:1
+B-Therion - HP:4447/4447 SP:332/332 BP:1
+C-Ophilia - HP:4002/4002 SP:466/470 BP:1
+D-Hikari - HP:5781/5781 SP:295/317 BP:0
+Equipo del enemigo
+A-Behemoth - HP:12690/12690 Shields:8
+B-Dark Remnant - HP:2779/2779 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Dark Remnant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.H'aanit
+3.Ophilia
+4.Hikari
+5.Behemoth
+6.Dark Remnant
+----------------------------------------
+Behemoth usa Stampede
+H'aanit recibe 789 de daño físico
+Therion se defiende
+Therion recibe 382 de daño físico
+Ophilia recibe 728 de daño físico
+Hikari recibe 642 de daño físico
+H'aanit termina con HP:3658
+Therion termina con HP:4065
+Ophilia termina con HP:3274
+Hikari termina con HP:5139
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:3658/4447 SP:185/369 BP:1
+B-Therion - HP:4065/4447 SP:332/332 BP:1
+C-Ophilia - HP:3274/4002 SP:466/470 BP:1
+D-Hikari - HP:5139/5781 SP:295/317 BP:0
+Equipo del enemigo
+A-Behemoth - HP:12690/12690 Shields:8
+B-Dark Remnant - HP:2779/2779 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Dark Remnant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.H'aanit
+3.Ophilia
+4.Hikari
+5.Behemoth
+6.Dark Remnant
+----------------------------------------
+Dark Remnant usa Double Bite
+H'aanit recibe 44 de daño físico
+H'aanit recibe 44 de daño físico
+H'aanit termina con HP:3570
+----------------------------------------
+Ophilia obtiene un turno adicional
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:3570/4447 SP:185/369 BP:1
+B-Therion - HP:4065/4447 SP:332/332 BP:1
+C-Ophilia - HP:3274/4002 SP:466/470 BP:1
+D-Hikari - HP:5139/5781 SP:295/317 BP:0
+Equipo del enemigo
+A-Behemoth - HP:12690/12690 Shields:8
+B-Dark Remnant - HP:2779/2779 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.H'aanit
+3.Ophilia
+4.Hikari
+5.Behemoth
+6.Dark Remnant
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ophilia
+1: Armor Corrosive
+2: First Aid
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Behemoth - HP:12690/12690 Shields:8
+2: Dark Remnant - HP:2779/2779 Shields:3
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia usa Armor Corrosive
+Behemoth tendrá Decreased Physical Defense durante 2 rondas
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:3570/4447 SP:185/369 BP:2
+B-Therion - HP:4065/4447 SP:332/332 BP:2
+C-Ophilia - HP:3274/4002 SP:462/470 BP:2
+D-Hikari - HP:5139/5781 SP:295/317 BP:0
+Equipo del enemigo
+A-Behemoth - HP:12690/12690 Shields:8
+B-Dark Remnant - HP:2779/2779 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.H'aanit
+3.Ophilia
+4.Hikari
+5.Behemoth
+6.Dark Remnant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.H'aanit
+3.Ophilia
+4.Hikari
+5.Behemoth
+6.Dark Remnant
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Therion
+1: Behemoth - HP:12690/12690 Shields:8
+2: Dark Remnant - HP:2779/2779 Shields:3
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Therion ataca
+Dark Remnant recibe 644 de daño de tipo Sword con debilidad
+Dark Remnant recibe 644 de daño de tipo Sword con debilidad
+Dark Remnant recibe 644 de daño de tipo Sword con debilidad
+Dark Remnant entra en Breaking Point
+Dark Remnant termina con HP:847
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:3570/4447 SP:185/369 BP:2
+B-Therion - HP:4065/4447 SP:332/332 BP:0
+C-Ophilia - HP:3274/4002 SP:462/470 BP:2
+D-Hikari - HP:5139/5781 SP:295/317 BP:0
+Equipo del enemigo
+A-Behemoth - HP:12690/12690 Shields:8
+B-Dark Remnant - HP:847/2779 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Ophilia
+3.Hikari
+4.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.H'aanit
+3.Ophilia
+4.Hikari
+5.Behemoth
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para H'aanit
+1: Behemoth - HP:12690/12690 Shields:8
+2: Dark Remnant - HP:847/2779 Shields:0
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+H'aanit ataca
+Behemoth recibe 122 de daño de tipo Bow con debilidad
+Behemoth recibe 122 de daño de tipo Bow con debilidad
+Behemoth termina con HP:12446
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:3570/4447 SP:185/369 BP:1
+B-Therion - HP:4065/4447 SP:332/332 BP:0
+C-Ophilia - HP:3274/4002 SP:462/470 BP:2
+D-Hikari - HP:5139/5781 SP:295/317 BP:0
+Equipo del enemigo
+A-Behemoth - HP:12446/12690 Shields:6
+B-Dark Remnant - HP:847/2779 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Hikari
+3.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.H'aanit
+3.Ophilia
+4.Hikari
+5.Behemoth
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Behemoth - HP:12446/12690 Shields:6
+2: Dark Remnant - HP:847/2779 Shields:0
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Ophilia ataca
+Dark Remnant recibe 272 de daño de tipo Stave
+Dark Remnant recibe 272 de daño de tipo Stave
+Dark Remnant termina con HP:303
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:3570/4447 SP:185/369 BP:1
+B-Therion - HP:4065/4447 SP:332/332 BP:0
+C-Ophilia - HP:3274/4002 SP:462/470 BP:1
+D-Hikari - HP:5139/5781 SP:295/317 BP:0
+Equipo del enemigo
+A-Behemoth - HP:12446/12690 Shields:6
+B-Dark Remnant - HP:303/2779 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.H'aanit
+3.Ophilia
+4.Hikari
+5.Behemoth
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Behemoth - HP:12446/12690 Shields:6
+2: Dark Remnant - HP:303/2779 Shields:0
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Hikari ataca
+Dark Remnant recibe 1142 de daño de tipo Spear con debilidad
+Dark Remnant termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:3570/4447 SP:185/369 BP:1
+B-Therion - HP:4065/4447 SP:332/332 BP:0
+C-Ophilia - HP:3274/4002 SP:462/470 BP:1
+D-Hikari - HP:5139/5781 SP:295/317 BP:0
+Equipo del enemigo
+A-Behemoth - HP:12446/12690 Shields:6
+B-Dark Remnant - HP:0/2779 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.H'aanit
+3.Ophilia
+4.Hikari
+5.Behemoth
+----------------------------------------
+Behemoth usa Stampede
+H'aanit recibe 789 de daño físico
+Therion recibe 765 de daño físico
+Ophilia recibe 728 de daño físico
+Hikari recibe 642 de daño físico
+H'aanit termina con HP:2781
+Therion termina con HP:3300
+Ophilia termina con HP:2546
+Hikari termina con HP:4497
+----------------------------------------
+Ophilia obtiene un turno adicional
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:2781/4447 SP:185/369 BP:1
+B-Therion - HP:3300/4447 SP:332/332 BP:0
+C-Ophilia - HP:2546/4002 SP:462/470 BP:1
+D-Hikari - HP:4497/5781 SP:295/317 BP:0
+Equipo del enemigo
+A-Behemoth - HP:12446/12690 Shields:6
+B-Dark Remnant - HP:0/2779 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.H'aanit
+3.Ophilia
+4.Hikari
+5.Behemoth
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Behemoth - HP:12446/12690 Shields:6
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia ataca
+Behemoth recibe 0 de daño de tipo Stave
+Behemoth termina con HP:12446
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:2781/4447 SP:185/369 BP:1
+B-Therion - HP:3300/4447 SP:332/332 BP:0
+C-Ophilia - HP:2546/4002 SP:462/470 BP:1
+D-Hikari - HP:4497/5781 SP:295/317 BP:1
+Equipo del enemigo
+A-Behemoth - HP:12446/12690 Shields:6
+B-Dark Remnant - HP:0/2779 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.H'aanit
+3.Ophilia
+4.Hikari
+5.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.H'aanit
+3.Ophilia
+4.Hikari
+5.Behemoth
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Therion
+1: Transfusion
+2: Shackle Foe
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Therion
+1: Behemoth - HP:12446/12690 Shields:6
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Therion usa Shackle Foe
+Behemoth tendrá Decreased Physical Attack durante 2 rondas
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:2781/4447 SP:185/369 BP:1
+B-Therion - HP:3300/4447 SP:328/332 BP:0
+C-Ophilia - HP:2546/4002 SP:462/470 BP:1
+D-Hikari - HP:4497/5781 SP:295/317 BP:1
+Equipo del enemigo
+A-Behemoth - HP:12446/12690 Shields:6
+B-Dark Remnant - HP:0/2779 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Ophilia
+3.Hikari
+4.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.H'aanit
+3.Ophilia
+4.Hikari
+5.Behemoth
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para H'aanit
+1: Behemoth - HP:12446/12690 Shields:6
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+H'aanit ataca
+Behemoth recibe 81 de daño de tipo Bow con debilidad
+Behemoth termina con HP:12365
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:2781/4447 SP:185/369 BP:1
+B-Therion - HP:3300/4447 SP:328/332 BP:0
+C-Ophilia - HP:2546/4002 SP:462/470 BP:1
+D-Hikari - HP:4497/5781 SP:295/317 BP:1
+Equipo del enemigo
+A-Behemoth - HP:12365/12690 Shields:5
+B-Dark Remnant - HP:0/2779 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Hikari
+3.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.H'aanit
+3.Ophilia
+4.Hikari
+5.Behemoth
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Behemoth - HP:12365/12690 Shields:5
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Ophilia no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia ataca
+Behemoth recibe 0 de daño de tipo Stave
+Behemoth termina con HP:12365
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:2781/4447 SP:185/369 BP:1
+B-Therion - HP:3300/4447 SP:328/332 BP:0
+C-Ophilia - HP:2546/4002 SP:462/470 BP:1
+D-Hikari - HP:4497/5781 SP:295/317 BP:1
+Equipo del enemigo
+A-Behemoth - HP:12365/12690 Shields:5
+B-Dark Remnant - HP:0/2779 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.H'aanit
+3.Ophilia
+4.Hikari
+5.Behemoth
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:2781/4447 SP:185/369 BP:1
+B-Therion - HP:3300/4447 SP:328/332 BP:0
+C-Ophilia - HP:2546/4002 SP:462/470 BP:1
+D-Hikari - HP:4497/5781 SP:295/317 BP:1
+Equipo del enemigo
+A-Behemoth - HP:12365/12690 Shields:5
+B-Dark Remnant - HP:0/2779 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Therion
+3.H'aanit
+4.Ophilia
+5.Behemoth
+----------------------------------------
+Behemoth usa Stampede
+H'aanit recibe 526 de daño físico
+Therion recibe 510 de daño físico
+Ophilia recibe 485 de daño físico
+Hikari se defiende
+Hikari recibe 214 de daño físico
+H'aanit termina con HP:2255
+Therion termina con HP:2790
+Ophilia termina con HP:2061
+Hikari termina con HP:4283
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:2255/4447 SP:185/369 BP:2
+B-Therion - HP:2790/4447 SP:328/332 BP:1
+C-Ophilia - HP:2061/4002 SP:462/470 BP:2
+D-Hikari - HP:4283/5781 SP:295/317 BP:2
+Equipo del enemigo
+A-Behemoth - HP:12365/12690 Shields:5
+B-Dark Remnant - HP:0/2779 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Therion
+3.H'aanit
+4.Ophilia
+5.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.H'aanit
+3.Ophilia
+4.Hikari
+5.Behemoth
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Reflective Veil
+2: Sidestep
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Hikari usa Sidestep
+Hikari esquivará los próximos 3 ataques físicos
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:2255/4447 SP:185/369 BP:2
+B-Therion - HP:2790/4447 SP:328/332 BP:1
+C-Ophilia - HP:2061/4002 SP:462/470 BP:2
+D-Hikari - HP:4283/5781 SP:285/317 BP:0
+Equipo del enemigo
+A-Behemoth - HP:12365/12690 Shields:5
+B-Dark Remnant - HP:0/2779 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.H'aanit
+3.Ophilia
+4.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.H'aanit
+3.Ophilia
+4.Hikari
+5.Behemoth
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:2255/4447 SP:185/369 BP:2
+B-Therion - HP:2790/4447 SP:328/332 BP:1
+C-Ophilia - HP:2061/4002 SP:462/470 BP:2
+D-Hikari - HP:4283/5781 SP:285/317 BP:0
+Equipo del enemigo
+A-Behemoth - HP:12365/12690 Shields:5
+B-Dark Remnant - HP:0/2779 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Ophilia
+3.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.H'aanit
+3.Ophilia
+4.Hikari
+5.Behemoth
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para H'aanit
+1: Share SP
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para H'aanit
+1: H'aanit - HP:2255/4447 SP:185/369 BP:2
+2: Therion - HP:2790/4447 SP:328/332 BP:1
+3: Ophilia - HP:2061/4002 SP:462/470 BP:2
+4: Hikari - HP:4283/5781 SP:285/317 BP:0
+5: Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+H'aanit usa Share SP
+Hikari recupera 147 SP
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:2255/4447 SP:93/369 BP:0
+B-Therion - HP:2790/4447 SP:328/332 BP:1
+C-Ophilia - HP:2061/4002 SP:462/470 BP:2
+D-Hikari - HP:4283/5781 SP:317/317 BP:0
+Equipo del enemigo
+A-Behemoth - HP:12365/12690 Shields:5
+B-Dark Remnant - HP:0/2779 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.H'aanit
+3.Ophilia
+4.Hikari
+5.Behemoth
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:2255/4447 SP:93/369 BP:0
+B-Therion - HP:2790/4447 SP:328/332 BP:1
+C-Ophilia - HP:2061/4002 SP:462/470 BP:2
+D-Hikari - HP:4283/5781 SP:317/317 BP:0
+Equipo del enemigo
+A-Behemoth - HP:12365/12690 Shields:5
+B-Dark Remnant - HP:0/2779 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Ophilia
+3.H'aanit
+4.Hikari
+5.Behemoth
+----------------------------------------
+Behemoth usa Stampede
+H'aanit recibe 526 de daño físico
+Therion se defiende
+Therion recibe 255 de daño físico
+Ophilia se defiende
+Ophilia recibe 242 de daño físico
+Hikari ha esquivado el ataque
+H'aanit termina con HP:1729
+Therion termina con HP:2535
+Ophilia termina con HP:1819
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:1729/4447 SP:93/369 BP:0
+B-Therion - HP:2535/4447 SP:328/332 BP:2
+C-Ophilia - HP:1819/4002 SP:462/470 BP:3
+D-Hikari - HP:4283/5781 SP:317/317 BP:0
+Equipo del enemigo
+A-Behemoth - HP:12365/12690 Shields:5
+B-Dark Remnant - HP:0/2779 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Ophilia
+3.H'aanit
+4.Hikari
+5.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.H'aanit
+3.Ophilia
+4.Hikari
+5.Behemoth
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Therion
+1: Behemoth - HP:12365/12690 Shields:5
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Therion ataca
+Behemoth recibe 41 de daño de tipo Dagger
+Behemoth recibe 41 de daño de tipo Dagger
+Behemoth termina con HP:12283
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:1729/4447 SP:93/369 BP:0
+B-Therion - HP:2535/4447 SP:328/332 BP:1
+C-Ophilia - HP:1819/4002 SP:462/470 BP:3
+D-Hikari - HP:4283/5781 SP:317/317 BP:0
+Equipo del enemigo
+A-Behemoth - HP:12283/12690 Shields:5
+B-Dark Remnant - HP:0/2779 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.H'aanit
+3.Hikari
+4.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.H'aanit
+3.Ophilia
+4.Hikari
+5.Behemoth
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Behemoth - HP:12283/12690 Shields:5
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Ophilia ataca
+Behemoth recibe 0 de daño de tipo Stave
+Behemoth recibe 0 de daño de tipo Stave
+Behemoth termina con HP:12283
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:1729/4447 SP:93/369 BP:0
+B-Therion - HP:2535/4447 SP:328/332 BP:1
+C-Ophilia - HP:1819/4002 SP:462/470 BP:2
+D-Hikari - HP:4283/5781 SP:317/317 BP:0
+Equipo del enemigo
+A-Behemoth - HP:12283/12690 Shields:5
+B-Dark Remnant - HP:0/2779 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Hikari
+3.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.H'aanit
+3.Ophilia
+4.Hikari
+5.Behemoth
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para H'aanit
+1: Share SP
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para H'aanit
+1: H'aanit - HP:1729/4447 SP:93/369 BP:0
+2: Therion - HP:2535/4447 SP:328/332 BP:1
+3: Ophilia - HP:1819/4002 SP:462/470 BP:2
+4: Hikari - HP:4283/5781 SP:317/317 BP:0
+5: Cancelar
+INPUT: 2
+----------------------------------------
+H'aanit usa Share SP
+Therion recupera 46 SP
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:1729/4447 SP:47/369 BP:0
+B-Therion - HP:2535/4447 SP:332/332 BP:1
+C-Ophilia - HP:1819/4002 SP:462/470 BP:2
+D-Hikari - HP:4283/5781 SP:317/317 BP:0
+Equipo del enemigo
+A-Behemoth - HP:12283/12690 Shields:5
+B-Dark Remnant - HP:0/2779 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.H'aanit
+3.Ophilia
+4.Hikari
+5.Behemoth
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Behemoth - HP:12283/12690 Shields:5
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Hikari ataca
+Behemoth recibe 101 de daño de tipo Sword
+Behemoth termina con HP:12182
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:1729/4447 SP:47/369 BP:0
+B-Therion - HP:2535/4447 SP:332/332 BP:1
+C-Ophilia - HP:1819/4002 SP:462/470 BP:2
+D-Hikari - HP:4283/5781 SP:317/317 BP:0
+Equipo del enemigo
+A-Behemoth - HP:12182/12690 Shields:5
+B-Dark Remnant - HP:0/2779 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.H'aanit
+3.Ophilia
+4.Hikari
+5.Behemoth
+----------------------------------------
+Behemoth usa Stampede
+H'aanit recibe 789 de daño físico
+Therion recibe 765 de daño físico
+Ophilia recibe 728 de daño físico
+Hikari ha esquivado el ataque
+H'aanit termina con HP:940
+Therion termina con HP:1770
+Ophilia termina con HP:1091
+----------------------------------------
+INICIA RONDA 6
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:940/4447 SP:47/369 BP:1
+B-Therion - HP:1770/4447 SP:332/332 BP:1
+C-Ophilia - HP:1091/4002 SP:462/470 BP:2
+D-Hikari - HP:4283/5781 SP:317/317 BP:1
+Equipo del enemigo
+A-Behemoth - HP:12182/12690 Shields:5
+B-Dark Remnant - HP:0/2779 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.H'aanit
+3.Ophilia
+4.Hikari
+5.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.H'aanit
+3.Ophilia
+4.Hikari
+5.Behemoth
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Therion
+1: Transfusion
+2: Shackle Foe
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Therion
+1: Behemoth - HP:12182/12690 Shields:5
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Therion usa Shackle Foe
+Behemoth tendrá Decreased Physical Attack durante 2 rondas
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:940/4447 SP:47/369 BP:1
+B-Therion - HP:1770/4447 SP:328/332 BP:1
+C-Ophilia - HP:1091/4002 SP:462/470 BP:2
+D-Hikari - HP:4283/5781 SP:317/317 BP:1
+Equipo del enemigo
+A-Behemoth - HP:12182/12690 Shields:5
+B-Dark Remnant - HP:0/2779 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Ophilia
+3.Hikari
+4.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.H'aanit
+3.Ophilia
+4.Hikari
+5.Behemoth
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:940/4447 SP:47/369 BP:1
+B-Therion - HP:1770/4447 SP:328/332 BP:1
+C-Ophilia - HP:1091/4002 SP:462/470 BP:2
+D-Hikari - HP:4283/5781 SP:317/317 BP:1
+Equipo del enemigo
+A-Behemoth - HP:12182/12690 Shields:5
+B-Dark Remnant - HP:0/2779 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Hikari
+3.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Therion
+3.Ophilia
+4.Hikari
+5.Behemoth
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:940/4447 SP:47/369 BP:1
+B-Therion - HP:1770/4447 SP:328/332 BP:1
+C-Ophilia - HP:1091/4002 SP:462/470 BP:2
+D-Hikari - HP:4283/5781 SP:317/317 BP:1
+Equipo del enemigo
+A-Behemoth - HP:12182/12690 Shields:5
+B-Dark Remnant - HP:0/2779 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Ophilia
+3.Therion
+4.Hikari
+5.Behemoth
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Reflective Veil
+2: Sidestep
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: H'aanit - HP:940/4447 SP:47/369 BP:1
+2: Therion - HP:1770/4447 SP:328/332 BP:1
+3: Ophilia - HP:1091/4002 SP:462/470 BP:2
+4: Hikari - HP:4283/5781 SP:317/317 BP:1
+5: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Hikari no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Hikari no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Hikari no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari usa Reflective Veil
+H'aanit reflejará los próximos 1 ataques elementales
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:940/4447 SP:47/369 BP:1
+B-Therion - HP:1770/4447 SP:328/332 BP:1
+C-Ophilia - HP:1091/4002 SP:462/470 BP:2
+D-Hikari - HP:4283/5781 SP:295/317 BP:1
+Equipo del enemigo
+A-Behemoth - HP:12182/12690 Shields:5
+B-Dark Remnant - HP:0/2779 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.H'aanit
+2.Ophilia
+3.Therion
+4.Hikari
+5.Behemoth
+----------------------------------------
+Behemoth usa Stampede
+H'aanit se defiende
+H'aanit recibe 263 de daño físico
+Therion recibe 510 de daño físico
+Ophilia se defiende
+Ophilia recibe 242 de daño físico
+Hikari ha esquivado el ataque
+H'aanit termina con HP:677
+Therion termina con HP:1260
+Ophilia termina con HP:849
+----------------------------------------
+INICIA RONDA 7
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:677/4447 SP:47/369 BP:2
+B-Therion - HP:1260/4447 SP:328/332 BP:2
+C-Ophilia - HP:849/4002 SP:462/470 BP:3
+D-Hikari - HP:4283/5781 SP:295/317 BP:2
+Equipo del enemigo
+A-Behemoth - HP:12182/12690 Shields:5
+B-Dark Remnant - HP:0/2779 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Ophilia
+3.Therion
+4.Hikari
+5.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.H'aanit
+3.Ophilia
+4.Hikari
+5.Behemoth
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para H'aanit
+1: Share SP
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para H'aanit
+1: H'aanit - HP:677/4447 SP:47/369 BP:2
+2: Therion - HP:1260/4447 SP:328/332 BP:2
+3: Ophilia - HP:849/4002 SP:462/470 BP:3
+4: Hikari - HP:4283/5781 SP:295/317 BP:2
+5: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+H'aanit usa Share SP
+Therion recupera 36 SP
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:677/4447 SP:24/369 BP:0
+B-Therion - HP:1260/4447 SP:332/332 BP:2
+C-Ophilia - HP:849/4002 SP:462/470 BP:3
+D-Hikari - HP:4283/5781 SP:295/317 BP:2
+Equipo del enemigo
+A-Behemoth - HP:12182/12690 Shields:5
+B-Dark Remnant - HP:0/2779 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Therion
+3.Hikari
+4.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.H'aanit
+3.Ophilia
+4.Hikari
+5.Behemoth
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ophilia
+1: Armor Corrosive
+2: First Aid
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: H'aanit - HP:677/4447 SP:24/369 BP:0
+2: Therion - HP:1260/4447 SP:332/332 BP:2
+3: Ophilia - HP:849/4002 SP:462/470 BP:3
+4: Hikari - HP:4283/5781 SP:295/317 BP:2
+5: Cancelar
+INPUT: 3
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Ophilia usa First Aid
+Ophilia recupera 837 de vida
+Ophilia termina con HP:1686
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:677/4447 SP:24/369 BP:0
+B-Therion - HP:1260/4447 SP:332/332 BP:2
+C-Ophilia - HP:1686/4002 SP:458/470 BP:2
+D-Hikari - HP:4283/5781 SP:295/317 BP:2
+Equipo del enemigo
+A-Behemoth - HP:12182/12690 Shields:5
+B-Dark Remnant - HP:0/2779 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Hikari
+3.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.H'aanit
+3.Ophilia
+4.Hikari
+5.Behemoth
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:677/4447 SP:24/369 BP:0
+B-Therion - HP:1260/4447 SP:332/332 BP:2
+C-Ophilia - HP:1686/4002 SP:458/470 BP:2
+D-Hikari - HP:4283/5781 SP:295/317 BP:2
+Equipo del enemigo
+A-Behemoth - HP:12182/12690 Shields:5
+B-Dark Remnant - HP:0/2779 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.H'aanit
+3.Ophilia
+4.Hikari
+5.Behemoth
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Reflective Veil
+2: Sidestep
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: H'aanit - HP:677/4447 SP:24/369 BP:0
+2: Therion - HP:1260/4447 SP:332/332 BP:2
+3: Ophilia - HP:1686/4002 SP:458/470 BP:2
+4: Hikari - HP:4283/5781 SP:295/317 BP:2
+5: Cancelar
+INPUT: 4
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari usa Reflective Veil
+Hikari reflejará los próximos 1 ataques elementales
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:677/4447 SP:24/369 BP:0
+B-Therion - HP:1260/4447 SP:332/332 BP:2
+C-Ophilia - HP:1686/4002 SP:458/470 BP:2
+D-Hikari - HP:4283/5781 SP:273/317 BP:2
+Equipo del enemigo
+A-Behemoth - HP:12182/12690 Shields:5
+B-Dark Remnant - HP:0/2779 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.H'aanit
+3.Ophilia
+4.Hikari
+5.Behemoth
+----------------------------------------
+Behemoth usa Stampede
+H'aanit recibe 526 de daño físico
+Therion se defiende
+Therion recibe 255 de daño físico
+Ophilia recibe 485 de daño físico
+Hikari recibe 428 de daño físico
+H'aanit termina con HP:151
+Therion termina con HP:1005
+Ophilia termina con HP:1201
+Hikari termina con HP:3855
+----------------------------------------
+INICIA RONDA 8
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:151/4447 SP:24/369 BP:0
+B-Therion - HP:1005/4447 SP:332/332 BP:3
+C-Ophilia - HP:1201/4002 SP:458/470 BP:2
+D-Hikari - HP:3855/5781 SP:273/317 BP:3
+Equipo del enemigo
+A-Behemoth - HP:12182/12690 Shields:5
+B-Dark Remnant - HP:0/2779 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.H'aanit
+3.Ophilia
+4.Hikari
+5.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.H'aanit
+3.Ophilia
+4.Hikari
+5.Behemoth
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Dagger
+2: Sword
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Therion
+1: Behemoth - HP:12182/12690 Shields:5
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Therion ataca
+Behemoth recibe 41 de daño de tipo Dagger
+Behemoth recibe 41 de daño de tipo Dagger
+Behemoth termina con HP:12100
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:151/4447 SP:24/369 BP:0
+B-Therion - HP:1005/4447 SP:332/332 BP:2
+C-Ophilia - HP:1201/4002 SP:458/470 BP:2
+D-Hikari - HP:3855/5781 SP:273/317 BP:3
+Equipo del enemigo
+A-Behemoth - HP:12100/12690 Shields:5
+B-Dark Remnant - HP:0/2779 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.H'aanit
+2.Ophilia
+3.Hikari
+4.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.H'aanit
+3.Ophilia
+4.Hikari
+5.Behemoth
+----------------------------------------
+Turno de H'aanit
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Axe
+2: Bow
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para H'aanit
+1: Behemoth - HP:12100/12690 Shields:5
+2: Cancelar
+INPUT: 1
+----------------------------------------
+H'aanit ataca
+Behemoth recibe 81 de daño de tipo Axe con debilidad
+Behemoth termina con HP:12019
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:151/4447 SP:24/369 BP:0
+B-Therion - HP:1005/4447 SP:332/332 BP:2
+C-Ophilia - HP:1201/4002 SP:458/470 BP:2
+D-Hikari - HP:3855/5781 SP:273/317 BP:3
+Equipo del enemigo
+A-Behemoth - HP:12019/12690 Shields:4
+B-Dark Remnant - HP:0/2779 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Hikari
+3.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.H'aanit
+3.Ophilia
+4.Hikari
+5.Behemoth
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Stave
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Behemoth - HP:12019/12690 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Ophilia ataca
+Behemoth recibe 0 de daño de tipo Stave
+Behemoth termina con HP:12019
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:151/4447 SP:24/369 BP:0
+B-Therion - HP:1005/4447 SP:332/332 BP:2
+C-Ophilia - HP:1201/4002 SP:458/470 BP:2
+D-Hikari - HP:3855/5781 SP:273/317 BP:3
+Equipo del enemigo
+A-Behemoth - HP:12019/12690 Shields:4
+B-Dark Remnant - HP:0/2779 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.H'aanit
+3.Ophilia
+4.Hikari
+5.Behemoth
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Behemoth - HP:12019/12690 Shields:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari ataca
+Behemoth recibe 172 de daño de tipo Spear con debilidad
+Behemoth termina con HP:11847
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:151/4447 SP:24/369 BP:0
+B-Therion - HP:1005/4447 SP:332/332 BP:2
+C-Ophilia - HP:1201/4002 SP:458/470 BP:2
+D-Hikari - HP:3855/5781 SP:273/317 BP:3
+Equipo del enemigo
+A-Behemoth - HP:11847/12690 Shields:3
+B-Dark Remnant - HP:0/2779 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.H'aanit
+3.Ophilia
+4.Hikari
+5.Behemoth
+----------------------------------------
+Behemoth usa Stampede
+H'aanit recibe 789 de daño físico
+Therion recibe 765 de daño físico
+Ophilia recibe 728 de daño físico
+Hikari recibe 642 de daño físico
+H'aanit termina con HP:0
+Therion termina con HP:240
+Ophilia termina con HP:473
+Hikari termina con HP:3213
+----------------------------------------
+INICIA RONDA 9
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:0/4447 SP:24/369 BP:0
+B-Therion - HP:240/4447 SP:332/332 BP:2
+C-Ophilia - HP:473/4002 SP:458/470 BP:3
+D-Hikari - HP:3213/5781 SP:273/317 BP:4
+Equipo del enemigo
+A-Behemoth - HP:11847/12690 Shields:3
+B-Dark Remnant - HP:0/2779 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Therion
+2.Ophilia
+3.Hikari
+4.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Ophilia
+3.Hikari
+4.Behemoth
+----------------------------------------
+Turno de Therion
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Therion
+1: Transfusion
+2: Shackle Foe
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Therion
+1: Behemoth - HP:11847/12690 Shields:3
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Therion usa Shackle Foe
+Behemoth tendrá Decreased Physical Attack durante 2 rondas
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:0/4447 SP:24/369 BP:0
+B-Therion - HP:240/4447 SP:328/332 BP:2
+C-Ophilia - HP:473/4002 SP:458/470 BP:3
+D-Hikari - HP:3213/5781 SP:273/317 BP:4
+Equipo del enemigo
+A-Behemoth - HP:11847/12690 Shields:3
+B-Dark Remnant - HP:0/2779 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Hikari
+3.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Ophilia
+3.Hikari
+4.Behemoth
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ophilia
+1: Armor Corrosive
+2: First Aid
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Behemoth - HP:11847/12690 Shields:3
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Ophilia usa Armor Corrosive
+Behemoth tendrá Decreased Physical Defense durante 4 rondas
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:0/4447 SP:24/369 BP:0
+B-Therion - HP:240/4447 SP:328/332 BP:2
+C-Ophilia - HP:473/4002 SP:454/470 BP:2
+D-Hikari - HP:3213/5781 SP:273/317 BP:4
+Equipo del enemigo
+A-Behemoth - HP:11847/12690 Shields:3
+B-Dark Remnant - HP:0/2779 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Ophilia
+3.Hikari
+4.Behemoth
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Behemoth - HP:11847/12690 Shields:3
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari ataca
+Behemoth recibe 258 de daño de tipo Spear con debilidad
+Behemoth termina con HP:11589
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:0/4447 SP:24/369 BP:0
+B-Therion - HP:240/4447 SP:328/332 BP:2
+C-Ophilia - HP:473/4002 SP:454/470 BP:2
+D-Hikari - HP:3213/5781 SP:273/317 BP:4
+Equipo del enemigo
+A-Behemoth - HP:11589/12690 Shields:2
+B-Dark Remnant - HP:0/2779 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Therion
+2.Ophilia
+3.Hikari
+4.Behemoth
+----------------------------------------
+Behemoth usa Stampede
+Therion recibe 510 de daño físico
+Ophilia recibe 485 de daño físico
+Hikari recibe 428 de daño físico
+Therion termina con HP:0
+Ophilia termina con HP:0
+Hikari termina con HP:2785
+----------------------------------------
+INICIA RONDA 10
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:0/4447 SP:24/369 BP:0
+B-Therion - HP:0/4447 SP:328/332 BP:2
+C-Ophilia - HP:0/4002 SP:454/470 BP:2
+D-Hikari - HP:2785/5781 SP:273/317 BP:5
+Equipo del enemigo
+A-Behemoth - HP:11589/12690 Shields:2
+B-Dark Remnant - HP:0/2779 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Behemoth
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:0/4447 SP:24/369 BP:0
+B-Therion - HP:0/4447 SP:328/332 BP:2
+C-Ophilia - HP:0/4002 SP:454/470 BP:2
+D-Hikari - HP:2785/5781 SP:273/317 BP:5
+Equipo del enemigo
+A-Behemoth - HP:11589/12690 Shields:2
+B-Dark Remnant - HP:0/2779 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Behemoth
+----------------------------------------
+Behemoth usa Stampede
+Hikari se defiende
+Hikari recibe 214 de daño físico
+Hikari termina con HP:2571
+----------------------------------------
+INICIA RONDA 11
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:0/4447 SP:24/369 BP:0
+B-Therion - HP:0/4447 SP:328/332 BP:2
+C-Ophilia - HP:0/4002 SP:454/470 BP:2
+D-Hikari - HP:2571/5781 SP:273/317 BP:5
+Equipo del enemigo
+A-Behemoth - HP:11589/12690 Shields:2
+B-Dark Remnant - HP:0/2779 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Behemoth
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:0/4447 SP:24/369 BP:0
+B-Therion - HP:0/4447 SP:328/332 BP:2
+C-Ophilia - HP:0/4002 SP:454/470 BP:2
+D-Hikari - HP:2571/5781 SP:273/317 BP:5
+Equipo del enemigo
+A-Behemoth - HP:11589/12690 Shields:2
+B-Dark Remnant - HP:0/2779 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Behemoth
+----------------------------------------
+Behemoth usa Stampede
+Hikari se defiende
+Hikari recibe 321 de daño físico
+Hikari termina con HP:2250
+----------------------------------------
+INICIA RONDA 12
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:0/4447 SP:24/369 BP:0
+B-Therion - HP:0/4447 SP:328/332 BP:2
+C-Ophilia - HP:0/4002 SP:454/470 BP:2
+D-Hikari - HP:2250/5781 SP:273/317 BP:5
+Equipo del enemigo
+A-Behemoth - HP:11589/12690 Shields:2
+B-Dark Remnant - HP:0/2779 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Behemoth
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Behemoth - HP:11589/12690 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Hikari ataca
+Behemoth recibe 151 de daño de tipo Sword
+Behemoth recibe 151 de daño de tipo Sword
+Behemoth recibe 151 de daño de tipo Sword
+Behemoth recibe 151 de daño de tipo Sword
+Behemoth termina con HP:10985
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:0/4447 SP:24/369 BP:0
+B-Therion - HP:0/4447 SP:328/332 BP:2
+C-Ophilia - HP:0/4002 SP:454/470 BP:2
+D-Hikari - HP:2250/5781 SP:273/317 BP:2
+Equipo del enemigo
+A-Behemoth - HP:10985/12690 Shields:2
+B-Dark Remnant - HP:0/2779 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Behemoth
+----------------------------------------
+Behemoth usa Stampede
+Hikari recibe 642 de daño físico
+Hikari termina con HP:1608
+----------------------------------------
+INICIA RONDA 13
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:0/4447 SP:24/369 BP:0
+B-Therion - HP:0/4447 SP:328/332 BP:2
+C-Ophilia - HP:0/4002 SP:454/470 BP:2
+D-Hikari - HP:1608/5781 SP:273/317 BP:2
+Equipo del enemigo
+A-Behemoth - HP:10985/12690 Shields:2
+B-Dark Remnant - HP:0/2779 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Behemoth
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Reflective Veil
+2: Sidestep
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Hikari no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Hikari usa Sidestep
+Hikari esquivará los próximos 3 ataques físicos
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:0/4447 SP:24/369 BP:0
+B-Therion - HP:0/4447 SP:328/332 BP:2
+C-Ophilia - HP:0/4002 SP:454/470 BP:2
+D-Hikari - HP:1608/5781 SP:263/317 BP:0
+Equipo del enemigo
+A-Behemoth - HP:10985/12690 Shields:2
+B-Dark Remnant - HP:0/2779 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Behemoth
+----------------------------------------
+Behemoth usa Stampede
+Hikari ha esquivado el ataque
+----------------------------------------
+INICIA RONDA 14
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:0/4447 SP:24/369 BP:0
+B-Therion - HP:0/4447 SP:328/332 BP:2
+C-Ophilia - HP:0/4002 SP:454/470 BP:2
+D-Hikari - HP:1608/5781 SP:263/317 BP:0
+Equipo del enemigo
+A-Behemoth - HP:10985/12690 Shields:2
+B-Dark Remnant - HP:0/2779 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Behemoth
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Reflective Veil
+2: Sidestep
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Hikari usa Sidestep
+Hikari esquivará los próximos 1 ataques físicos
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:0/4447 SP:24/369 BP:0
+B-Therion - HP:0/4447 SP:328/332 BP:2
+C-Ophilia - HP:0/4002 SP:454/470 BP:2
+D-Hikari - HP:1608/5781 SP:253/317 BP:0
+Equipo del enemigo
+A-Behemoth - HP:10985/12690 Shields:2
+B-Dark Remnant - HP:0/2779 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Behemoth
+----------------------------------------
+Behemoth usa Stampede
+Hikari ha esquivado el ataque
+----------------------------------------
+INICIA RONDA 15
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:0/4447 SP:24/369 BP:0
+B-Therion - HP:0/4447 SP:328/332 BP:2
+C-Ophilia - HP:0/4002 SP:454/470 BP:2
+D-Hikari - HP:1608/5781 SP:253/317 BP:1
+Equipo del enemigo
+A-Behemoth - HP:10985/12690 Shields:2
+B-Dark Remnant - HP:0/2779 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Behemoth
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:0/4447 SP:24/369 BP:0
+B-Therion - HP:0/4447 SP:328/332 BP:2
+C-Ophilia - HP:0/4002 SP:454/470 BP:2
+D-Hikari - HP:1608/5781 SP:253/317 BP:1
+Equipo del enemigo
+A-Behemoth - HP:10985/12690 Shields:2
+B-Dark Remnant - HP:0/2779 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Behemoth
+----------------------------------------
+Behemoth usa Stampede
+Hikari se defiende
+Hikari ha esquivado el ataque
+----------------------------------------
+INICIA RONDA 16
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:0/4447 SP:24/369 BP:0
+B-Therion - HP:0/4447 SP:328/332 BP:2
+C-Ophilia - HP:0/4002 SP:454/470 BP:2
+D-Hikari - HP:1608/5781 SP:253/317 BP:2
+Equipo del enemigo
+A-Behemoth - HP:10985/12690 Shields:2
+B-Dark Remnant - HP:0/2779 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Behemoth
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:0/4447 SP:24/369 BP:0
+B-Therion - HP:0/4447 SP:328/332 BP:2
+C-Ophilia - HP:0/4002 SP:454/470 BP:2
+D-Hikari - HP:1608/5781 SP:253/317 BP:2
+Equipo del enemigo
+A-Behemoth - HP:10985/12690 Shields:2
+B-Dark Remnant - HP:0/2779 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Behemoth
+----------------------------------------
+Behemoth usa Stampede
+Hikari se defiende
+Hikari ha esquivado el ataque
+----------------------------------------
+INICIA RONDA 17
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:0/4447 SP:24/369 BP:0
+B-Therion - HP:0/4447 SP:328/332 BP:2
+C-Ophilia - HP:0/4002 SP:454/470 BP:2
+D-Hikari - HP:1608/5781 SP:253/317 BP:3
+Equipo del enemigo
+A-Behemoth - HP:10985/12690 Shields:2
+B-Dark Remnant - HP:0/2779 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Behemoth
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:0/4447 SP:24/369 BP:0
+B-Therion - HP:0/4447 SP:328/332 BP:2
+C-Ophilia - HP:0/4002 SP:454/470 BP:2
+D-Hikari - HP:1608/5781 SP:253/317 BP:3
+Equipo del enemigo
+A-Behemoth - HP:10985/12690 Shields:2
+B-Dark Remnant - HP:0/2779 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Behemoth
+----------------------------------------
+Behemoth usa Stampede
+Hikari se defiende
+Hikari recibe 321 de daño físico
+Hikari termina con HP:1287
+----------------------------------------
+INICIA RONDA 18
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:0/4447 SP:24/369 BP:0
+B-Therion - HP:0/4447 SP:328/332 BP:2
+C-Ophilia - HP:0/4002 SP:454/470 BP:2
+D-Hikari - HP:1287/5781 SP:253/317 BP:4
+Equipo del enemigo
+A-Behemoth - HP:10985/12690 Shields:2
+B-Dark Remnant - HP:0/2779 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Behemoth
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Behemoth - HP:10985/12690 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Hikari ataca
+Behemoth recibe 172 de daño de tipo Spear con debilidad
+Behemoth recibe 172 de daño de tipo Spear con debilidad
+Behemoth entra en Breaking Point
+Behemoth termina con HP:10641
+----------------------------------------
+INICIA RONDA 19
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:0/4447 SP:24/369 BP:0
+B-Therion - HP:0/4447 SP:328/332 BP:2
+C-Ophilia - HP:0/4002 SP:454/470 BP:2
+D-Hikari - HP:1287/5781 SP:253/317 BP:3
+Equipo del enemigo
+A-Behemoth - HP:10641/12690 Shields:0
+B-Dark Remnant - HP:0/2779 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+----------------------------------------
+Turnos de la siguiente ronda
+1.Behemoth
+2.Hikari
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Reflective Veil
+2: Sidestep
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Hikari usa Sidestep
+Hikari esquivará los próximos 2 ataques físicos
+----------------------------------------
+INICIA RONDA 20
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:0/4447 SP:24/369 BP:0
+B-Therion - HP:0/4447 SP:328/332 BP:2
+C-Ophilia - HP:0/4002 SP:454/470 BP:2
+D-Hikari - HP:1287/5781 SP:243/317 BP:2
+Equipo del enemigo
+A-Behemoth - HP:10641/12690 Shields:8
+B-Dark Remnant - HP:0/2779 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+2.Hikari
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Behemoth
+----------------------------------------
+Behemoth usa Stampede
+Hikari ha esquivado el ataque
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:0/4447 SP:24/369 BP:0
+B-Therion - HP:0/4447 SP:328/332 BP:2
+C-Ophilia - HP:0/4002 SP:454/470 BP:2
+D-Hikari - HP:1287/5781 SP:243/317 BP:2
+Equipo del enemigo
+A-Behemoth - HP:10641/12690 Shields:8
+B-Dark Remnant - HP:0/2779 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Behemoth
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Behemoth - HP:10641/12690 Shields:8
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Hikari ataca
+Behemoth recibe 172 de daño de tipo Spear con debilidad
+Behemoth recibe 172 de daño de tipo Spear con debilidad
+Behemoth recibe 172 de daño de tipo Spear con debilidad
+Behemoth termina con HP:10125
+----------------------------------------
+INICIA RONDA 21
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:0/4447 SP:24/369 BP:0
+B-Therion - HP:0/4447 SP:328/332 BP:2
+C-Ophilia - HP:0/4002 SP:454/470 BP:2
+D-Hikari - HP:1287/5781 SP:243/317 BP:0
+Equipo del enemigo
+A-Behemoth - HP:10125/12690 Shields:5
+B-Dark Remnant - HP:0/2779 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Behemoth
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Reflective Veil
+2: Sidestep
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Hikari - HP:1287/5781 SP:243/317 BP:0
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Hikari usa Reflective Veil
+Hikari reflejará los próximos 1 ataques elementales
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:0/4447 SP:24/369 BP:0
+B-Therion - HP:0/4447 SP:328/332 BP:2
+C-Ophilia - HP:0/4002 SP:454/470 BP:2
+D-Hikari - HP:1287/5781 SP:221/317 BP:0
+Equipo del enemigo
+A-Behemoth - HP:10125/12690 Shields:5
+B-Dark Remnant - HP:0/2779 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Behemoth
+----------------------------------------
+Behemoth usa Stampede
+Hikari ha esquivado el ataque
+----------------------------------------
+INICIA RONDA 22
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:0/4447 SP:24/369 BP:0
+B-Therion - HP:0/4447 SP:328/332 BP:2
+C-Ophilia - HP:0/4002 SP:454/470 BP:2
+D-Hikari - HP:1287/5781 SP:221/317 BP:1
+Equipo del enemigo
+A-Behemoth - HP:10125/12690 Shields:5
+B-Dark Remnant - HP:0/2779 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Behemoth
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Reflective Veil
+2: Sidestep
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Hikari no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Hikari usa Sidestep
+Hikari esquivará los próximos 2 ataques físicos
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:0/4447 SP:24/369 BP:0
+B-Therion - HP:0/4447 SP:328/332 BP:2
+C-Ophilia - HP:0/4002 SP:454/470 BP:2
+D-Hikari - HP:1287/5781 SP:211/317 BP:0
+Equipo del enemigo
+A-Behemoth - HP:10125/12690 Shields:5
+B-Dark Remnant - HP:0/2779 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Behemoth
+----------------------------------------
+Behemoth usa Stampede
+Hikari ha esquivado el ataque
+----------------------------------------
+INICIA RONDA 23
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:0/4447 SP:24/369 BP:0
+B-Therion - HP:0/4447 SP:328/332 BP:2
+C-Ophilia - HP:0/4002 SP:454/470 BP:2
+D-Hikari - HP:1287/5781 SP:211/317 BP:0
+Equipo del enemigo
+A-Behemoth - HP:10125/12690 Shields:5
+B-Dark Remnant - HP:0/2779 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Behemoth
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Behemoth - HP:10125/12690 Shields:5
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Hikari ataca
+Behemoth recibe 101 de daño de tipo Sword
+Behemoth termina con HP:10024
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:0/4447 SP:24/369 BP:0
+B-Therion - HP:0/4447 SP:328/332 BP:2
+C-Ophilia - HP:0/4002 SP:454/470 BP:2
+D-Hikari - HP:1287/5781 SP:211/317 BP:0
+Equipo del enemigo
+A-Behemoth - HP:10024/12690 Shields:5
+B-Dark Remnant - HP:0/2779 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Behemoth
+----------------------------------------
+Behemoth usa Stampede
+Hikari ha esquivado el ataque
+----------------------------------------
+INICIA RONDA 24
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:0/4447 SP:24/369 BP:0
+B-Therion - HP:0/4447 SP:328/332 BP:2
+C-Ophilia - HP:0/4002 SP:454/470 BP:2
+D-Hikari - HP:1287/5781 SP:211/317 BP:1
+Equipo del enemigo
+A-Behemoth - HP:10024/12690 Shields:5
+B-Dark Remnant - HP:0/2779 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Behemoth
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Reflective Veil
+2: Sidestep
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari usa Sidestep
+Hikari esquivará los próximos 1 ataques físicos
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:0/4447 SP:24/369 BP:0
+B-Therion - HP:0/4447 SP:328/332 BP:2
+C-Ophilia - HP:0/4002 SP:454/470 BP:2
+D-Hikari - HP:1287/5781 SP:201/317 BP:1
+Equipo del enemigo
+A-Behemoth - HP:10024/12690 Shields:5
+B-Dark Remnant - HP:0/2779 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Behemoth
+----------------------------------------
+Behemoth usa Stampede
+Hikari ha esquivado el ataque
+----------------------------------------
+INICIA RONDA 25
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:0/4447 SP:24/369 BP:0
+B-Therion - HP:0/4447 SP:328/332 BP:2
+C-Ophilia - HP:0/4002 SP:454/470 BP:2
+D-Hikari - HP:1287/5781 SP:201/317 BP:2
+Equipo del enemigo
+A-Behemoth - HP:10024/12690 Shields:5
+B-Dark Remnant - HP:0/2779 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Behemoth
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:0/4447 SP:24/369 BP:0
+B-Therion - HP:0/4447 SP:328/332 BP:2
+C-Ophilia - HP:0/4002 SP:454/470 BP:2
+D-Hikari - HP:1287/5781 SP:201/317 BP:2
+Equipo del enemigo
+A-Behemoth - HP:10024/12690 Shields:5
+B-Dark Remnant - HP:0/2779 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Behemoth
+----------------------------------------
+Behemoth usa Stampede
+Hikari se defiende
+Hikari recibe 321 de daño físico
+Hikari termina con HP:966
+----------------------------------------
+INICIA RONDA 26
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:0/4447 SP:24/369 BP:0
+B-Therion - HP:0/4447 SP:328/332 BP:2
+C-Ophilia - HP:0/4002 SP:454/470 BP:2
+D-Hikari - HP:966/5781 SP:201/317 BP:3
+Equipo del enemigo
+A-Behemoth - HP:10024/12690 Shields:5
+B-Dark Remnant - HP:0/2779 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Behemoth
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Reflective Veil
+2: Sidestep
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Hikari usa Sidestep
+Hikari esquivará los próximos 2 ataques físicos
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:0/4447 SP:24/369 BP:0
+B-Therion - HP:0/4447 SP:328/332 BP:2
+C-Ophilia - HP:0/4002 SP:454/470 BP:2
+D-Hikari - HP:966/5781 SP:191/317 BP:2
+Equipo del enemigo
+A-Behemoth - HP:10024/12690 Shields:5
+B-Dark Remnant - HP:0/2779 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Behemoth
+----------------------------------------
+Behemoth usa Stampede
+Hikari recibe 0 de daño físico
+Hikari termina con HP:966
+----------------------------------------
+INICIA RONDA 27
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:0/4447 SP:24/369 BP:0
+B-Therion - HP:0/4447 SP:328/332 BP:2
+C-Ophilia - HP:0/4002 SP:454/470 BP:2
+D-Hikari - HP:966/5781 SP:191/317 BP:2
+Equipo del enemigo
+A-Behemoth - HP:10024/12690 Shields:5
+B-Dark Remnant - HP:0/2779 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Behemoth
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Reflective Veil
+2: Sidestep
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Hikari usa Sidestep
+Hikari esquivará los próximos 3 ataques físicos
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:0/4447 SP:24/369 BP:0
+B-Therion - HP:0/4447 SP:328/332 BP:2
+C-Ophilia - HP:0/4002 SP:454/470 BP:2
+D-Hikari - HP:966/5781 SP:181/317 BP:0
+Equipo del enemigo
+A-Behemoth - HP:10024/12690 Shields:5
+B-Dark Remnant - HP:0/2779 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Behemoth
+----------------------------------------
+Behemoth usa Stampede
+Hikari recibe 0 de daño físico
+Hikari termina con HP:966
+----------------------------------------
+INICIA RONDA 28
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:0/4447 SP:24/369 BP:0
+B-Therion - HP:0/4447 SP:328/332 BP:2
+C-Ophilia - HP:0/4002 SP:454/470 BP:2
+D-Hikari - HP:966/5781 SP:181/317 BP:0
+Equipo del enemigo
+A-Behemoth - HP:10024/12690 Shields:5
+B-Dark Remnant - HP:0/2779 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Behemoth
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Behemoth - HP:10024/12690 Shields:5
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Hikari ataca
+Behemoth recibe 101 de daño de tipo Sword
+Behemoth termina con HP:9923
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:0/4447 SP:24/369 BP:0
+B-Therion - HP:0/4447 SP:328/332 BP:2
+C-Ophilia - HP:0/4002 SP:454/470 BP:2
+D-Hikari - HP:966/5781 SP:181/317 BP:0
+Equipo del enemigo
+A-Behemoth - HP:9923/12690 Shields:5
+B-Dark Remnant - HP:0/2779 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Behemoth
+----------------------------------------
+Behemoth usa Stampede
+Hikari ha esquivado el ataque
+----------------------------------------
+INICIA RONDA 29
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:0/4447 SP:24/369 BP:0
+B-Therion - HP:0/4447 SP:328/332 BP:2
+C-Ophilia - HP:0/4002 SP:454/470 BP:2
+D-Hikari - HP:966/5781 SP:181/317 BP:1
+Equipo del enemigo
+A-Behemoth - HP:9923/12690 Shields:5
+B-Dark Remnant - HP:0/2779 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Behemoth
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Reflective Veil
+2: Sidestep
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Hikari - HP:966/5781 SP:181/317 BP:1
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari usa Reflective Veil
+Hikari reflejará los próximos 1 ataques elementales
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:0/4447 SP:24/369 BP:0
+B-Therion - HP:0/4447 SP:328/332 BP:2
+C-Ophilia - HP:0/4002 SP:454/470 BP:2
+D-Hikari - HP:966/5781 SP:159/317 BP:1
+Equipo del enemigo
+A-Behemoth - HP:9923/12690 Shields:5
+B-Dark Remnant - HP:0/2779 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Behemoth
+----------------------------------------
+Behemoth usa Stampede
+Hikari ha esquivado el ataque
+----------------------------------------
+INICIA RONDA 30
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:0/4447 SP:24/369 BP:0
+B-Therion - HP:0/4447 SP:328/332 BP:2
+C-Ophilia - HP:0/4002 SP:454/470 BP:2
+D-Hikari - HP:966/5781 SP:159/317 BP:2
+Equipo del enemigo
+A-Behemoth - HP:9923/12690 Shields:5
+B-Dark Remnant - HP:0/2779 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Behemoth
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Reflective Veil
+2: Sidestep
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Hikari no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Hikari no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Hikari usa Sidestep
+Hikari esquivará los próximos 1 ataques físicos
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:0/4447 SP:24/369 BP:0
+B-Therion - HP:0/4447 SP:328/332 BP:2
+C-Ophilia - HP:0/4002 SP:454/470 BP:2
+D-Hikari - HP:966/5781 SP:149/317 BP:2
+Equipo del enemigo
+A-Behemoth - HP:9923/12690 Shields:5
+B-Dark Remnant - HP:0/2779 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Behemoth
+----------------------------------------
+Behemoth usa Stampede
+Hikari ha esquivado el ataque
+----------------------------------------
+INICIA RONDA 31
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:0/4447 SP:24/369 BP:0
+B-Therion - HP:0/4447 SP:328/332 BP:2
+C-Ophilia - HP:0/4002 SP:454/470 BP:2
+D-Hikari - HP:966/5781 SP:149/317 BP:3
+Equipo del enemigo
+A-Behemoth - HP:9923/12690 Shields:5
+B-Dark Remnant - HP:0/2779 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Behemoth
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:0/4447 SP:24/369 BP:0
+B-Therion - HP:0/4447 SP:328/332 BP:2
+C-Ophilia - HP:0/4002 SP:454/470 BP:2
+D-Hikari - HP:966/5781 SP:149/317 BP:3
+Equipo del enemigo
+A-Behemoth - HP:9923/12690 Shields:5
+B-Dark Remnant - HP:0/2779 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Behemoth
+----------------------------------------
+Behemoth usa Stampede
+Hikari se defiende
+Hikari ha esquivado el ataque
+----------------------------------------
+INICIA RONDA 32
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:0/4447 SP:24/369 BP:0
+B-Therion - HP:0/4447 SP:328/332 BP:2
+C-Ophilia - HP:0/4002 SP:454/470 BP:2
+D-Hikari - HP:966/5781 SP:149/317 BP:4
+Equipo del enemigo
+A-Behemoth - HP:9923/12690 Shields:5
+B-Dark Remnant - HP:0/2779 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Behemoth
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Reflective Veil
+2: Sidestep
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Hikari - HP:966/5781 SP:149/317 BP:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Hikari usa Reflective Veil
+Hikari reflejará los próximos 2 ataques elementales
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:0/4447 SP:24/369 BP:0
+B-Therion - HP:0/4447 SP:328/332 BP:2
+C-Ophilia - HP:0/4002 SP:454/470 BP:2
+D-Hikari - HP:966/5781 SP:127/317 BP:3
+Equipo del enemigo
+A-Behemoth - HP:9923/12690 Shields:5
+B-Dark Remnant - HP:0/2779 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Behemoth
+----------------------------------------
+Behemoth usa Stampede
+Hikari ha esquivado el ataque
+----------------------------------------
+INICIA RONDA 33
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:0/4447 SP:24/369 BP:0
+B-Therion - HP:0/4447 SP:328/332 BP:2
+C-Ophilia - HP:0/4002 SP:454/470 BP:2
+D-Hikari - HP:966/5781 SP:127/317 BP:3
+Equipo del enemigo
+A-Behemoth - HP:9923/12690 Shields:5
+B-Dark Remnant - HP:0/2779 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Behemoth
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Behemoth - HP:9923/12690 Shields:5
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Hikari ataca
+Behemoth recibe 172 de daño de tipo Spear con debilidad
+Behemoth recibe 172 de daño de tipo Spear con debilidad
+Behemoth termina con HP:9579
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:0/4447 SP:24/369 BP:0
+B-Therion - HP:0/4447 SP:328/332 BP:2
+C-Ophilia - HP:0/4002 SP:454/470 BP:2
+D-Hikari - HP:966/5781 SP:127/317 BP:2
+Equipo del enemigo
+A-Behemoth - HP:9579/12690 Shields:3
+B-Dark Remnant - HP:0/2779 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Behemoth
+----------------------------------------
+Behemoth usa Stampede
+Hikari ha esquivado el ataque
+----------------------------------------
+INICIA RONDA 34
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:0/4447 SP:24/369 BP:0
+B-Therion - HP:0/4447 SP:328/332 BP:2
+C-Ophilia - HP:0/4002 SP:454/470 BP:2
+D-Hikari - HP:966/5781 SP:127/317 BP:2
+Equipo del enemigo
+A-Behemoth - HP:9579/12690 Shields:3
+B-Dark Remnant - HP:0/2779 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Behemoth
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:0/4447 SP:24/369 BP:0
+B-Therion - HP:0/4447 SP:328/332 BP:2
+C-Ophilia - HP:0/4002 SP:454/470 BP:2
+D-Hikari - HP:966/5781 SP:127/317 BP:2
+Equipo del enemigo
+A-Behemoth - HP:9579/12690 Shields:3
+B-Dark Remnant - HP:0/2779 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Behemoth
+----------------------------------------
+Behemoth usa Stampede
+Hikari se defiende
+Hikari recibe 321 de daño físico
+Hikari termina con HP:645
+----------------------------------------
+INICIA RONDA 35
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:0/4447 SP:24/369 BP:0
+B-Therion - HP:0/4447 SP:328/332 BP:2
+C-Ophilia - HP:0/4002 SP:454/470 BP:2
+D-Hikari - HP:645/5781 SP:127/317 BP:3
+Equipo del enemigo
+A-Behemoth - HP:9579/12690 Shields:3
+B-Dark Remnant - HP:0/2779 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Behemoth
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Hikari
+1: Reflective Veil
+2: Sidestep
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Hikari
+1: Hikari - HP:645/5781 SP:127/317 BP:3
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Hikari usa Reflective Veil
+Hikari reflejará los próximos 4 ataques elementales
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:0/4447 SP:24/369 BP:0
+B-Therion - HP:0/4447 SP:328/332 BP:2
+C-Ophilia - HP:0/4002 SP:454/470 BP:2
+D-Hikari - HP:645/5781 SP:105/317 BP:0
+Equipo del enemigo
+A-Behemoth - HP:9579/12690 Shields:3
+B-Dark Remnant - HP:0/2779 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Behemoth
+----------------------------------------
+Behemoth usa Stampede
+Hikari recibe 642 de daño físico
+Hikari termina con HP:3
+----------------------------------------
+INICIA RONDA 36
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:0/4447 SP:24/369 BP:0
+B-Therion - HP:0/4447 SP:328/332 BP:2
+C-Ophilia - HP:0/4002 SP:454/470 BP:2
+D-Hikari - HP:3/5781 SP:105/317 BP:0
+Equipo del enemigo
+A-Behemoth - HP:9579/12690 Shields:3
+B-Dark Remnant - HP:0/2779 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Hikari
+2.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Behemoth
+----------------------------------------
+Turno de Hikari
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-H'aanit - HP:0/4447 SP:24/369 BP:0
+B-Therion - HP:0/4447 SP:328/332 BP:2
+C-Ophilia - HP:0/4002 SP:454/470 BP:2
+D-Hikari - HP:3/5781 SP:105/317 BP:0
+Equipo del enemigo
+A-Behemoth - HP:9579/12690 Shields:3
+B-Dark Remnant - HP:0/2779 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Behemoth
+----------------------------------------
+Turnos de la siguiente ronda
+1.Hikari
+2.Behemoth
+----------------------------------------
+Behemoth usa Stampede
+Hikari se defiende
+Hikari recibe 321 de daño físico
+Hikari termina con HP:0
+----------------------------------------
+Gana equipo del enemigo

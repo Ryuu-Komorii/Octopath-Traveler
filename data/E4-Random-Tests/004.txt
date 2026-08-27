@@ -1,0 +1,2885 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+24: 025.txt
+25: 026.txt
+26: 027.txt
+27: 028.txt
+28: 029.txt
+29: 030.txt
+30: 031.txt
+31: 032.txt
+32: 033.txt
+33: 034.txt
+34: 035.txt
+35: 036.txt
+36: 037.txt
+37: 038.txt
+38: 039.txt
+39: 040.txt
+40: 041.txt
+41: 042.txt
+42: 043.txt
+43: 044.txt
+44: 045.txt
+45: 046.txt
+46: 047.txt
+47: 048.txt
+48: 049.txt
+49: 050.txt
+50: 051.txt
+51: 052.txt
+52: 053.txt
+53: 054.txt
+54: 055.txt
+55: 056.txt
+56: 057.txt
+57: 058.txt
+58: 059.txt
+59: 060.txt
+60: 061.txt
+61: 062.txt
+62: 063.txt
+63: 064.txt
+64: 065.txt
+65: 066.txt
+66: 067.txt
+67: 068.txt
+68: 069.txt
+69: 070.txt
+70: 071.txt
+71: 072.txt
+72: 073.txt
+73: 074.txt
+74: 075.txt
+75: 076.txt
+76: 077.txt
+77: 078.txt
+78: 079.txt
+79: 080.txt
+80: 081.txt
+81: 082.txt
+82: 083.txt
+83: 084.txt
+84: 085.txt
+85: 086.txt
+86: 087.txt
+87: 088.txt
+88: 089.txt
+89: 090.txt
+90: 091.txt
+91: 092.txt
+92: 093.txt
+93: 094.txt
+94: 095.txt
+95: 096.txt
+96: 097.txt
+97: 098.txt
+98: 099.txt
+99: 100.txt
+INPUT: 3
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:1
+Equipo del enemigo
+A-Cait - HP:500/500 Shields:2
+B-Monarch - HP:6740/6740 Shields:8
+C-Red Fox - HP:1451/1451 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Cait
+2.Olberic
+3.Monarch
+4.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cait
+2.Olberic
+3.Monarch
+4.Red Fox
+----------------------------------------
+Cait usa Attack
+Olberic recibe 0 de daño físico
+Olberic termina con HP:5781
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:1
+Equipo del enemigo
+A-Cait - HP:500/500 Shields:2
+B-Monarch - HP:6740/6740 Shields:8
+C-Red Fox - HP:1451/1451 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Monarch
+3.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cait
+2.Olberic
+3.Monarch
+4.Red Fox
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Reflective Veil
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Olberic - HP:5781/5781 SP:291/291 BP:1
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Olberic no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Olberic usa Reflective Veil
+Olberic reflejará los próximos 2 ataques elementales
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:269/291 BP:0
+Equipo del enemigo
+A-Cait - HP:500/500 Shields:2
+B-Monarch - HP:6740/6740 Shields:8
+C-Red Fox - HP:1451/1451 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Monarch
+2.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cait
+2.Olberic
+3.Monarch
+4.Red Fox
+----------------------------------------
+Monarch usa Galestorm
+Olberic refleja el daño
+Monarch recibe 375 de daño
+Monarch termina con HP:6365
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:269/291 BP:0
+Equipo del enemigo
+A-Cait - HP:500/500 Shields:2
+B-Monarch - HP:6365/6740 Shields:8
+C-Red Fox - HP:1451/1451 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cait
+2.Olberic
+3.Monarch
+4.Red Fox
+----------------------------------------
+Red Fox usa Attack
+Olberic recibe 65 de daño físico
+Olberic termina con HP:5716
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5716/5781 SP:269/291 BP:0
+Equipo del enemigo
+A-Cait - HP:500/500 Shields:2
+B-Monarch - HP:6365/6740 Shields:8
+C-Red Fox - HP:1451/1451 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Cait
+2.Olberic
+3.Monarch
+4.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cait
+2.Olberic
+3.Monarch
+4.Red Fox
+----------------------------------------
+Cait usa Attack
+Olberic recibe 0 de daño físico
+Olberic termina con HP:5716
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5716/5781 SP:269/291 BP:0
+Equipo del enemigo
+A-Cait - HP:500/500 Shields:2
+B-Monarch - HP:6365/6740 Shields:8
+C-Red Fox - HP:1451/1451 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Monarch
+3.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cait
+2.Olberic
+3.Monarch
+4.Red Fox
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Reflective Veil
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Olberic - HP:5716/5781 SP:269/291 BP:0
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Olberic usa Reflective Veil
+Olberic reflejará los próximos 1 ataques elementales
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5716/5781 SP:247/291 BP:0
+Equipo del enemigo
+A-Cait - HP:500/500 Shields:2
+B-Monarch - HP:6365/6740 Shields:8
+C-Red Fox - HP:1451/1451 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Monarch
+2.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cait
+2.Olberic
+3.Monarch
+4.Red Fox
+----------------------------------------
+Monarch usa Galestorm
+Olberic refleja el daño
+Monarch recibe 375 de daño
+Monarch termina con HP:5990
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5716/5781 SP:247/291 BP:0
+Equipo del enemigo
+A-Cait - HP:500/500 Shields:2
+B-Monarch - HP:5990/6740 Shields:8
+C-Red Fox - HP:1451/1451 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cait
+2.Olberic
+3.Monarch
+4.Red Fox
+----------------------------------------
+Red Fox usa Attack
+Olberic recibe 65 de daño físico
+Olberic termina con HP:5651
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5651/5781 SP:247/291 BP:1
+Equipo del enemigo
+A-Cait - HP:500/500 Shields:2
+B-Monarch - HP:5990/6740 Shields:8
+C-Red Fox - HP:1451/1451 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Cait
+2.Olberic
+3.Monarch
+4.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cait
+2.Olberic
+3.Monarch
+4.Red Fox
+----------------------------------------
+Cait usa Attack
+Olberic recibe 0 de daño físico
+Olberic termina con HP:5651
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5651/5781 SP:247/291 BP:1
+Equipo del enemigo
+A-Cait - HP:500/500 Shields:2
+B-Monarch - HP:5990/6740 Shields:8
+C-Red Fox - HP:1451/1451 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Monarch
+3.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cait
+2.Olberic
+3.Monarch
+4.Red Fox
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5651/5781 SP:247/291 BP:1
+Equipo del enemigo
+A-Cait - HP:500/500 Shields:2
+B-Monarch - HP:5990/6740 Shields:8
+C-Red Fox - HP:1451/1451 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Monarch
+2.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Cait
+3.Monarch
+4.Red Fox
+----------------------------------------
+Monarch usa Galestorm
+Olberic se defiende
+Olberic refleja el daño
+Monarch recibe 187 de daño
+Monarch termina con HP:5803
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5651/5781 SP:247/291 BP:1
+Equipo del enemigo
+A-Cait - HP:500/500 Shields:2
+B-Monarch - HP:5803/6740 Shields:8
+C-Red Fox - HP:1451/1451 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Cait
+3.Monarch
+4.Red Fox
+----------------------------------------
+Red Fox usa Attack
+Olberic se defiende
+Olberic recibe 32 de daño físico
+Olberic termina con HP:5619
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5619/5781 SP:247/291 BP:2
+Equipo del enemigo
+A-Cait - HP:500/500 Shields:2
+B-Monarch - HP:5803/6740 Shields:8
+C-Red Fox - HP:1451/1451 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Cait
+3.Monarch
+4.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cait
+2.Olberic
+3.Monarch
+4.Red Fox
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5619/5781 SP:247/291 BP:2
+Equipo del enemigo
+A-Cait - HP:500/500 Shields:2
+B-Monarch - HP:5803/6740 Shields:8
+C-Red Fox - HP:1451/1451 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Cait
+2.Monarch
+3.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Cait
+3.Monarch
+4.Red Fox
+----------------------------------------
+Cait usa Attack
+Olberic se defiende
+Olberic recibe 0 de daño físico
+Olberic termina con HP:5619
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5619/5781 SP:247/291 BP:2
+Equipo del enemigo
+A-Cait - HP:500/500 Shields:2
+B-Monarch - HP:5803/6740 Shields:8
+C-Red Fox - HP:1451/1451 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Monarch
+2.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Cait
+3.Monarch
+4.Red Fox
+----------------------------------------
+Monarch usa Galestorm
+Olberic se defiende
+Olberic recibe 187 de daño elemental
+Olberic termina con HP:5432
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5432/5781 SP:247/291 BP:2
+Equipo del enemigo
+A-Cait - HP:500/500 Shields:2
+B-Monarch - HP:5803/6740 Shields:8
+C-Red Fox - HP:1451/1451 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Cait
+3.Monarch
+4.Red Fox
+----------------------------------------
+Red Fox usa Attack
+Olberic se defiende
+Olberic recibe 32 de daño físico
+Olberic termina con HP:5400
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5400/5781 SP:247/291 BP:3
+Equipo del enemigo
+A-Cait - HP:500/500 Shields:2
+B-Monarch - HP:5803/6740 Shields:8
+C-Red Fox - HP:1451/1451 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Cait
+3.Monarch
+4.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cait
+2.Olberic
+3.Monarch
+4.Red Fox
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Reflective Veil
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Olberic - HP:5400/5781 SP:247/291 BP:3
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic usa Reflective Veil
+Olberic reflejará los próximos 1 ataques elementales
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5400/5781 SP:225/291 BP:3
+Equipo del enemigo
+A-Cait - HP:500/500 Shields:2
+B-Monarch - HP:5803/6740 Shields:8
+C-Red Fox - HP:1451/1451 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Cait
+2.Monarch
+3.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cait
+2.Olberic
+3.Monarch
+4.Red Fox
+----------------------------------------
+Cait usa Attack
+Olberic recibe 0 de daño físico
+Olberic termina con HP:5400
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5400/5781 SP:225/291 BP:3
+Equipo del enemigo
+A-Cait - HP:500/500 Shields:2
+B-Monarch - HP:5803/6740 Shields:8
+C-Red Fox - HP:1451/1451 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Monarch
+2.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cait
+2.Olberic
+3.Monarch
+4.Red Fox
+----------------------------------------
+Monarch usa Galestorm
+Olberic refleja el daño
+Monarch recibe 375 de daño
+Monarch termina con HP:5428
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5400/5781 SP:225/291 BP:3
+Equipo del enemigo
+A-Cait - HP:500/500 Shields:2
+B-Monarch - HP:5428/6740 Shields:8
+C-Red Fox - HP:1451/1451 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cait
+2.Olberic
+3.Monarch
+4.Red Fox
+----------------------------------------
+Red Fox usa Attack
+Olberic recibe 65 de daño físico
+Olberic termina con HP:5335
+----------------------------------------
+INICIA RONDA 6
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5335/5781 SP:225/291 BP:4
+Equipo del enemigo
+A-Cait - HP:500/500 Shields:2
+B-Monarch - HP:5428/6740 Shields:8
+C-Red Fox - HP:1451/1451 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Cait
+2.Olberic
+3.Monarch
+4.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cait
+2.Olberic
+3.Monarch
+4.Red Fox
+----------------------------------------
+Cait usa Attack
+Olberic recibe 0 de daño físico
+Olberic termina con HP:5335
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5335/5781 SP:225/291 BP:4
+Equipo del enemigo
+A-Cait - HP:500/500 Shields:2
+B-Monarch - HP:5428/6740 Shields:8
+C-Red Fox - HP:1451/1451 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Monarch
+3.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cait
+2.Olberic
+3.Monarch
+4.Red Fox
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5335/5781 SP:225/291 BP:4
+Equipo del enemigo
+A-Cait - HP:500/500 Shields:2
+B-Monarch - HP:5428/6740 Shields:8
+C-Red Fox - HP:1451/1451 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Monarch
+2.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Cait
+3.Monarch
+4.Red Fox
+----------------------------------------
+Monarch usa Galestorm
+Olberic se defiende
+Olberic recibe 187 de daño elemental
+Olberic termina con HP:5148
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5148/5781 SP:225/291 BP:4
+Equipo del enemigo
+A-Cait - HP:500/500 Shields:2
+B-Monarch - HP:5428/6740 Shields:8
+C-Red Fox - HP:1451/1451 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Cait
+3.Monarch
+4.Red Fox
+----------------------------------------
+Red Fox usa Attack
+Olberic se defiende
+Olberic recibe 32 de daño físico
+Olberic termina con HP:5116
+----------------------------------------
+INICIA RONDA 7
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5116/5781 SP:225/291 BP:5
+Equipo del enemigo
+A-Cait - HP:500/500 Shields:2
+B-Monarch - HP:5428/6740 Shields:8
+C-Red Fox - HP:1451/1451 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Cait
+3.Monarch
+4.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cait
+2.Olberic
+3.Monarch
+4.Red Fox
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Reflective Veil
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Olberic - HP:5116/5781 SP:225/291 BP:5
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Olberic usa Reflective Veil
+Olberic reflejará los próximos 2 ataques elementales
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5116/5781 SP:203/291 BP:4
+Equipo del enemigo
+A-Cait - HP:500/500 Shields:2
+B-Monarch - HP:5428/6740 Shields:8
+C-Red Fox - HP:1451/1451 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Cait
+2.Monarch
+3.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cait
+2.Olberic
+3.Monarch
+4.Red Fox
+----------------------------------------
+Cait usa Attack
+Olberic recibe 0 de daño físico
+Olberic termina con HP:5116
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5116/5781 SP:203/291 BP:4
+Equipo del enemigo
+A-Cait - HP:500/500 Shields:2
+B-Monarch - HP:5428/6740 Shields:8
+C-Red Fox - HP:1451/1451 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Monarch
+2.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cait
+2.Olberic
+3.Monarch
+4.Red Fox
+----------------------------------------
+Monarch usa Galestorm
+Olberic refleja el daño
+Monarch recibe 375 de daño
+Monarch termina con HP:5053
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5116/5781 SP:203/291 BP:4
+Equipo del enemigo
+A-Cait - HP:500/500 Shields:2
+B-Monarch - HP:5053/6740 Shields:8
+C-Red Fox - HP:1451/1451 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cait
+2.Olberic
+3.Monarch
+4.Red Fox
+----------------------------------------
+Red Fox usa Attack
+Olberic recibe 65 de daño físico
+Olberic termina con HP:5051
+----------------------------------------
+INICIA RONDA 8
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5051/5781 SP:203/291 BP:4
+Equipo del enemigo
+A-Cait - HP:500/500 Shields:2
+B-Monarch - HP:5053/6740 Shields:8
+C-Red Fox - HP:1451/1451 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Cait
+2.Olberic
+3.Monarch
+4.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cait
+2.Olberic
+3.Monarch
+4.Red Fox
+----------------------------------------
+Cait usa Attack
+Olberic recibe 0 de daño físico
+Olberic termina con HP:5051
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5051/5781 SP:203/291 BP:4
+Equipo del enemigo
+A-Cait - HP:500/500 Shields:2
+B-Monarch - HP:5053/6740 Shields:8
+C-Red Fox - HP:1451/1451 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Monarch
+3.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cait
+2.Olberic
+3.Monarch
+4.Red Fox
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Reflective Veil
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Olberic - HP:5051/5781 SP:203/291 BP:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Olberic usa Reflective Veil
+Olberic reflejará los próximos 4 ataques elementales
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5051/5781 SP:181/291 BP:1
+Equipo del enemigo
+A-Cait - HP:500/500 Shields:2
+B-Monarch - HP:5053/6740 Shields:8
+C-Red Fox - HP:1451/1451 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Monarch
+2.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cait
+2.Olberic
+3.Monarch
+4.Red Fox
+----------------------------------------
+Monarch usa Galestorm
+Olberic refleja el daño
+Monarch recibe 375 de daño
+Monarch termina con HP:4678
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5051/5781 SP:181/291 BP:1
+Equipo del enemigo
+A-Cait - HP:500/500 Shields:2
+B-Monarch - HP:4678/6740 Shields:8
+C-Red Fox - HP:1451/1451 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cait
+2.Olberic
+3.Monarch
+4.Red Fox
+----------------------------------------
+Red Fox usa Attack
+Olberic recibe 65 de daño físico
+Olberic termina con HP:4986
+----------------------------------------
+INICIA RONDA 9
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4986/5781 SP:181/291 BP:1
+Equipo del enemigo
+A-Cait - HP:500/500 Shields:2
+B-Monarch - HP:4678/6740 Shields:8
+C-Red Fox - HP:1451/1451 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Cait
+2.Olberic
+3.Monarch
+4.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cait
+2.Olberic
+3.Monarch
+4.Red Fox
+----------------------------------------
+Cait usa Attack
+Olberic recibe 0 de daño físico
+Olberic termina con HP:4986
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4986/5781 SP:181/291 BP:1
+Equipo del enemigo
+A-Cait - HP:500/500 Shields:2
+B-Monarch - HP:4678/6740 Shields:8
+C-Red Fox - HP:1451/1451 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Monarch
+3.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cait
+2.Olberic
+3.Monarch
+4.Red Fox
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4986/5781 SP:181/291 BP:1
+Equipo del enemigo
+A-Cait - HP:500/500 Shields:2
+B-Monarch - HP:4678/6740 Shields:8
+C-Red Fox - HP:1451/1451 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Monarch
+2.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Cait
+3.Monarch
+4.Red Fox
+----------------------------------------
+Monarch usa Galestorm
+Olberic se defiende
+Olberic refleja el daño
+Monarch recibe 187 de daño
+Monarch termina con HP:4491
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4986/5781 SP:181/291 BP:1
+Equipo del enemigo
+A-Cait - HP:500/500 Shields:2
+B-Monarch - HP:4491/6740 Shields:8
+C-Red Fox - HP:1451/1451 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Cait
+3.Monarch
+4.Red Fox
+----------------------------------------
+Red Fox usa Attack
+Olberic se defiende
+Olberic recibe 32 de daño físico
+Olberic termina con HP:4954
+----------------------------------------
+INICIA RONDA 10
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4954/5781 SP:181/291 BP:2
+Equipo del enemigo
+A-Cait - HP:500/500 Shields:2
+B-Monarch - HP:4491/6740 Shields:8
+C-Red Fox - HP:1451/1451 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Cait
+3.Monarch
+4.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cait
+2.Olberic
+3.Monarch
+4.Red Fox
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Reflective Veil
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Olberic - HP:4954/5781 SP:181/291 BP:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Olberic no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Olberic usa Reflective Veil
+Olberic reflejará los próximos 3 ataques elementales
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4954/5781 SP:159/291 BP:0
+Equipo del enemigo
+A-Cait - HP:500/500 Shields:2
+B-Monarch - HP:4491/6740 Shields:8
+C-Red Fox - HP:1451/1451 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Cait
+2.Monarch
+3.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cait
+2.Olberic
+3.Monarch
+4.Red Fox
+----------------------------------------
+Cait usa Attack
+Olberic recibe 0 de daño físico
+Olberic termina con HP:4954
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4954/5781 SP:159/291 BP:0
+Equipo del enemigo
+A-Cait - HP:500/500 Shields:2
+B-Monarch - HP:4491/6740 Shields:8
+C-Red Fox - HP:1451/1451 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Monarch
+2.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cait
+2.Olberic
+3.Monarch
+4.Red Fox
+----------------------------------------
+Monarch usa Galestorm
+Olberic refleja el daño
+Monarch recibe 375 de daño
+Monarch termina con HP:4116
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4954/5781 SP:159/291 BP:0
+Equipo del enemigo
+A-Cait - HP:500/500 Shields:2
+B-Monarch - HP:4116/6740 Shields:8
+C-Red Fox - HP:1451/1451 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cait
+2.Olberic
+3.Monarch
+4.Red Fox
+----------------------------------------
+Red Fox usa Attack
+Olberic recibe 65 de daño físico
+Olberic termina con HP:4889
+----------------------------------------
+INICIA RONDA 11
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4889/5781 SP:159/291 BP:0
+Equipo del enemigo
+A-Cait - HP:500/500 Shields:2
+B-Monarch - HP:4116/6740 Shields:8
+C-Red Fox - HP:1451/1451 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Cait
+2.Olberic
+3.Monarch
+4.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cait
+2.Olberic
+3.Monarch
+4.Red Fox
+----------------------------------------
+Cait usa Attack
+Olberic recibe 0 de daño físico
+Olberic termina con HP:4889
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4889/5781 SP:159/291 BP:0
+Equipo del enemigo
+A-Cait - HP:500/500 Shields:2
+B-Monarch - HP:4116/6740 Shields:8
+C-Red Fox - HP:1451/1451 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Monarch
+3.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cait
+2.Olberic
+3.Monarch
+4.Red Fox
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Reflective Veil
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Olberic - HP:4889/5781 SP:159/291 BP:0
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Olberic usa Reflective Veil
+Olberic reflejará los próximos 1 ataques elementales
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4889/5781 SP:137/291 BP:0
+Equipo del enemigo
+A-Cait - HP:500/500 Shields:2
+B-Monarch - HP:4116/6740 Shields:8
+C-Red Fox - HP:1451/1451 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Monarch
+2.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cait
+2.Olberic
+3.Monarch
+4.Red Fox
+----------------------------------------
+Monarch usa Galestorm
+Olberic refleja el daño
+Monarch recibe 375 de daño
+Monarch termina con HP:3741
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4889/5781 SP:137/291 BP:0
+Equipo del enemigo
+A-Cait - HP:500/500 Shields:2
+B-Monarch - HP:3741/6740 Shields:8
+C-Red Fox - HP:1451/1451 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cait
+2.Olberic
+3.Monarch
+4.Red Fox
+----------------------------------------
+Red Fox usa Attack
+Olberic recibe 65 de daño físico
+Olberic termina con HP:4824
+----------------------------------------
+INICIA RONDA 12
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4824/5781 SP:137/291 BP:1
+Equipo del enemigo
+A-Cait - HP:500/500 Shields:2
+B-Monarch - HP:3741/6740 Shields:8
+C-Red Fox - HP:1451/1451 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Cait
+2.Olberic
+3.Monarch
+4.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cait
+2.Olberic
+3.Monarch
+4.Red Fox
+----------------------------------------
+Cait usa Attack
+Olberic recibe 0 de daño físico
+Olberic termina con HP:4824
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4824/5781 SP:137/291 BP:1
+Equipo del enemigo
+A-Cait - HP:500/500 Shields:2
+B-Monarch - HP:3741/6740 Shields:8
+C-Red Fox - HP:1451/1451 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Monarch
+3.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cait
+2.Olberic
+3.Monarch
+4.Red Fox
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Reflective Veil
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Olberic - HP:4824/5781 SP:137/291 BP:1
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Olberic no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic usa Reflective Veil
+Olberic reflejará los próximos 1 ataques elementales
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4824/5781 SP:115/291 BP:1
+Equipo del enemigo
+A-Cait - HP:500/500 Shields:2
+B-Monarch - HP:3741/6740 Shields:8
+C-Red Fox - HP:1451/1451 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Monarch
+2.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cait
+2.Olberic
+3.Monarch
+4.Red Fox
+----------------------------------------
+Monarch usa Galestorm
+Olberic refleja el daño
+Monarch recibe 375 de daño
+Monarch termina con HP:3366
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4824/5781 SP:115/291 BP:1
+Equipo del enemigo
+A-Cait - HP:500/500 Shields:2
+B-Monarch - HP:3366/6740 Shields:8
+C-Red Fox - HP:1451/1451 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cait
+2.Olberic
+3.Monarch
+4.Red Fox
+----------------------------------------
+Red Fox usa Attack
+Olberic recibe 65 de daño físico
+Olberic termina con HP:4759
+----------------------------------------
+INICIA RONDA 13
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4759/5781 SP:115/291 BP:2
+Equipo del enemigo
+A-Cait - HP:500/500 Shields:2
+B-Monarch - HP:3366/6740 Shields:8
+C-Red Fox - HP:1451/1451 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Cait
+2.Olberic
+3.Monarch
+4.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cait
+2.Olberic
+3.Monarch
+4.Red Fox
+----------------------------------------
+Cait usa Attack
+Olberic recibe 0 de daño físico
+Olberic termina con HP:4759
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4759/5781 SP:115/291 BP:2
+Equipo del enemigo
+A-Cait - HP:500/500 Shields:2
+B-Monarch - HP:3366/6740 Shields:8
+C-Red Fox - HP:1451/1451 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Monarch
+3.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cait
+2.Olberic
+3.Monarch
+4.Red Fox
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Reflective Veil
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Olberic - HP:4759/5781 SP:115/291 BP:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Olberic no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Olberic no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic usa Reflective Veil
+Olberic reflejará los próximos 1 ataques elementales
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4759/5781 SP:93/291 BP:2
+Equipo del enemigo
+A-Cait - HP:500/500 Shields:2
+B-Monarch - HP:3366/6740 Shields:8
+C-Red Fox - HP:1451/1451 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Monarch
+2.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cait
+2.Olberic
+3.Monarch
+4.Red Fox
+----------------------------------------
+Monarch usa Galestorm
+Olberic refleja el daño
+Monarch recibe 375 de daño
+Monarch termina con HP:2991
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4759/5781 SP:93/291 BP:2
+Equipo del enemigo
+A-Cait - HP:500/500 Shields:2
+B-Monarch - HP:2991/6740 Shields:8
+C-Red Fox - HP:1451/1451 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cait
+2.Olberic
+3.Monarch
+4.Red Fox
+----------------------------------------
+Red Fox usa Attack
+Olberic recibe 65 de daño físico
+Olberic termina con HP:4694
+----------------------------------------
+INICIA RONDA 14
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4694/5781 SP:93/291 BP:3
+Equipo del enemigo
+A-Cait - HP:500/500 Shields:2
+B-Monarch - HP:2991/6740 Shields:8
+C-Red Fox - HP:1451/1451 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Cait
+2.Olberic
+3.Monarch
+4.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cait
+2.Olberic
+3.Monarch
+4.Red Fox
+----------------------------------------
+Cait usa Attack
+Olberic recibe 0 de daño físico
+Olberic termina con HP:4694
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4694/5781 SP:93/291 BP:3
+Equipo del enemigo
+A-Cait - HP:500/500 Shields:2
+B-Monarch - HP:2991/6740 Shields:8
+C-Red Fox - HP:1451/1451 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Monarch
+3.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cait
+2.Olberic
+3.Monarch
+4.Red Fox
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Reflective Veil
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Olberic - HP:4694/5781 SP:93/291 BP:3
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Olberic usa Reflective Veil
+Olberic reflejará los próximos 3 ataques elementales
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4694/5781 SP:71/291 BP:1
+Equipo del enemigo
+A-Cait - HP:500/500 Shields:2
+B-Monarch - HP:2991/6740 Shields:8
+C-Red Fox - HP:1451/1451 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Monarch
+2.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cait
+2.Olberic
+3.Monarch
+4.Red Fox
+----------------------------------------
+Monarch usa Galestorm
+Olberic refleja el daño
+Monarch recibe 375 de daño
+Monarch termina con HP:2616
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4694/5781 SP:71/291 BP:1
+Equipo del enemigo
+A-Cait - HP:500/500 Shields:2
+B-Monarch - HP:2616/6740 Shields:8
+C-Red Fox - HP:1451/1451 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cait
+2.Olberic
+3.Monarch
+4.Red Fox
+----------------------------------------
+Red Fox usa Attack
+Olberic recibe 65 de daño físico
+Olberic termina con HP:4629
+----------------------------------------
+INICIA RONDA 15
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4629/5781 SP:71/291 BP:1
+Equipo del enemigo
+A-Cait - HP:500/500 Shields:2
+B-Monarch - HP:2616/6740 Shields:8
+C-Red Fox - HP:1451/1451 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Cait
+2.Olberic
+3.Monarch
+4.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cait
+2.Olberic
+3.Monarch
+4.Red Fox
+----------------------------------------
+Cait usa Attack
+Olberic recibe 0 de daño físico
+Olberic termina con HP:4629
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4629/5781 SP:71/291 BP:1
+Equipo del enemigo
+A-Cait - HP:500/500 Shields:2
+B-Monarch - HP:2616/6740 Shields:8
+C-Red Fox - HP:1451/1451 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Monarch
+3.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cait
+2.Olberic
+3.Monarch
+4.Red Fox
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Reflective Veil
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Olberic - HP:4629/5781 SP:71/291 BP:1
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic usa Reflective Veil
+Olberic reflejará los próximos 1 ataques elementales
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4629/5781 SP:49/291 BP:1
+Equipo del enemigo
+A-Cait - HP:500/500 Shields:2
+B-Monarch - HP:2616/6740 Shields:8
+C-Red Fox - HP:1451/1451 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Monarch
+2.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cait
+2.Olberic
+3.Monarch
+4.Red Fox
+----------------------------------------
+Monarch usa Galestorm
+Olberic refleja el daño
+Monarch recibe 375 de daño
+Monarch termina con HP:2241
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4629/5781 SP:49/291 BP:1
+Equipo del enemigo
+A-Cait - HP:500/500 Shields:2
+B-Monarch - HP:2241/6740 Shields:8
+C-Red Fox - HP:1451/1451 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cait
+2.Olberic
+3.Monarch
+4.Red Fox
+----------------------------------------
+Red Fox usa Attack
+Olberic recibe 65 de daño físico
+Olberic termina con HP:4564
+----------------------------------------
+INICIA RONDA 16
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4564/5781 SP:49/291 BP:2
+Equipo del enemigo
+A-Cait - HP:500/500 Shields:2
+B-Monarch - HP:2241/6740 Shields:8
+C-Red Fox - HP:1451/1451 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Cait
+2.Olberic
+3.Monarch
+4.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cait
+2.Olberic
+3.Monarch
+4.Red Fox
+----------------------------------------
+Cait usa Attack
+Olberic recibe 0 de daño físico
+Olberic termina con HP:4564
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4564/5781 SP:49/291 BP:2
+Equipo del enemigo
+A-Cait - HP:500/500 Shields:2
+B-Monarch - HP:2241/6740 Shields:8
+C-Red Fox - HP:1451/1451 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Monarch
+3.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cait
+2.Olberic
+3.Monarch
+4.Red Fox
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4564/5781 SP:49/291 BP:2
+Equipo del enemigo
+A-Cait - HP:500/500 Shields:2
+B-Monarch - HP:2241/6740 Shields:8
+C-Red Fox - HP:1451/1451 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Monarch
+2.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Cait
+3.Monarch
+4.Red Fox
+----------------------------------------
+Monarch usa Galestorm
+Olberic se defiende
+Olberic refleja el daño
+Monarch recibe 187 de daño
+Monarch termina con HP:2054
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4564/5781 SP:49/291 BP:2
+Equipo del enemigo
+A-Cait - HP:500/500 Shields:2
+B-Monarch - HP:2054/6740 Shields:8
+C-Red Fox - HP:1451/1451 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Cait
+3.Monarch
+4.Red Fox
+----------------------------------------
+Red Fox usa Attack
+Olberic se defiende
+Olberic recibe 32 de daño físico
+Olberic termina con HP:4532
+----------------------------------------
+INICIA RONDA 17
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4532/5781 SP:49/291 BP:3
+Equipo del enemigo
+A-Cait - HP:500/500 Shields:2
+B-Monarch - HP:2054/6740 Shields:8
+C-Red Fox - HP:1451/1451 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Cait
+3.Monarch
+4.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cait
+2.Olberic
+3.Monarch
+4.Red Fox
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Cait - HP:500/500 Shields:2
+2: Monarch - HP:2054/6740 Shields:8
+3: Red Fox - HP:1451/1451 Shields:3
+4: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Olberic ataca
+Monarch recibe 333 de daño de tipo Spear con debilidad
+Monarch recibe 333 de daño de tipo Spear con debilidad
+Monarch recibe 333 de daño de tipo Spear con debilidad
+Monarch recibe 333 de daño de tipo Spear con debilidad
+Monarch termina con HP:722
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4532/5781 SP:49/291 BP:0
+Equipo del enemigo
+A-Cait - HP:500/500 Shields:2
+B-Monarch - HP:722/6740 Shields:4
+C-Red Fox - HP:1451/1451 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Cait
+2.Monarch
+3.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cait
+2.Olberic
+3.Monarch
+4.Red Fox
+----------------------------------------
+Cait usa Attack
+Olberic recibe 0 de daño físico
+Olberic termina con HP:4532
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4532/5781 SP:49/291 BP:0
+Equipo del enemigo
+A-Cait - HP:500/500 Shields:2
+B-Monarch - HP:722/6740 Shields:4
+C-Red Fox - HP:1451/1451 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Monarch
+2.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cait
+2.Olberic
+3.Monarch
+4.Red Fox
+----------------------------------------
+Monarch usa Galestorm
+Olberic refleja el daño
+Monarch recibe 375 de daño
+Monarch termina con HP:347
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4532/5781 SP:49/291 BP:0
+Equipo del enemigo
+A-Cait - HP:500/500 Shields:2
+B-Monarch - HP:347/6740 Shields:4
+C-Red Fox - HP:1451/1451 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cait
+2.Olberic
+3.Monarch
+4.Red Fox
+----------------------------------------
+Red Fox usa Attack
+Olberic recibe 65 de daño físico
+Olberic termina con HP:4467
+----------------------------------------
+INICIA RONDA 18
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4467/5781 SP:49/291 BP:0
+Equipo del enemigo
+A-Cait - HP:500/500 Shields:2
+B-Monarch - HP:347/6740 Shields:4
+C-Red Fox - HP:1451/1451 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Cait
+2.Olberic
+3.Monarch
+4.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cait
+2.Olberic
+3.Monarch
+4.Red Fox
+----------------------------------------
+Cait usa Attack
+Olberic recibe 0 de daño físico
+Olberic termina con HP:4467
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4467/5781 SP:49/291 BP:0
+Equipo del enemigo
+A-Cait - HP:500/500 Shields:2
+B-Monarch - HP:347/6740 Shields:4
+C-Red Fox - HP:1451/1451 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Monarch
+3.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cait
+2.Olberic
+3.Monarch
+4.Red Fox
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Cait - HP:500/500 Shields:2
+2: Monarch - HP:347/6740 Shields:4
+3: Red Fox - HP:1451/1451 Shields:3
+4: Cancelar
+INPUT: 3
+----------------------------------------
+Olberic ataca
+Red Fox recibe 320 de daño de tipo Spear
+Red Fox termina con HP:1131
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4467/5781 SP:49/291 BP:0
+Equipo del enemigo
+A-Cait - HP:500/500 Shields:2
+B-Monarch - HP:347/6740 Shields:4
+C-Red Fox - HP:1131/1451 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Monarch
+2.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cait
+2.Olberic
+3.Monarch
+4.Red Fox
+----------------------------------------
+Monarch usa Galestorm
+Olberic refleja el daño
+Monarch recibe 375 de daño
+Monarch termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4467/5781 SP:49/291 BP:0
+Equipo del enemigo
+A-Cait - HP:500/500 Shields:2
+B-Monarch - HP:0/6740 Shields:4
+C-Red Fox - HP:1131/1451 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cait
+2.Olberic
+3.Red Fox
+----------------------------------------
+Red Fox usa Attack
+Olberic recibe 65 de daño físico
+Olberic termina con HP:4402
+----------------------------------------
+INICIA RONDA 19
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4402/5781 SP:49/291 BP:1
+Equipo del enemigo
+A-Cait - HP:500/500 Shields:2
+B-Monarch - HP:0/6740 Shields:4
+C-Red Fox - HP:1131/1451 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Cait
+2.Olberic
+3.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cait
+2.Olberic
+3.Red Fox
+----------------------------------------
+Cait usa Attack
+Olberic recibe 0 de daño físico
+Olberic termina con HP:4402
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4402/5781 SP:49/291 BP:1
+Equipo del enemigo
+A-Cait - HP:500/500 Shields:2
+B-Monarch - HP:0/6740 Shields:4
+C-Red Fox - HP:1131/1451 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cait
+2.Olberic
+3.Red Fox
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Reflective Veil
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Olberic - HP:4402/5781 SP:49/291 BP:1
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 2
+----------------------------------------
+Olberic no tiene 2 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic usa Reflective Veil
+Olberic reflejará los próximos 1 ataques elementales
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4402/5781 SP:27/291 BP:1
+Equipo del enemigo
+A-Cait - HP:500/500 Shields:2
+B-Monarch - HP:0/6740 Shields:4
+C-Red Fox - HP:1131/1451 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cait
+2.Olberic
+3.Red Fox
+----------------------------------------
+Red Fox usa Attack
+Olberic recibe 65 de daño físico
+Olberic termina con HP:4337
+----------------------------------------
+INICIA RONDA 20
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4337/5781 SP:27/291 BP:2
+Equipo del enemigo
+A-Cait - HP:500/500 Shields:2
+B-Monarch - HP:0/6740 Shields:4
+C-Red Fox - HP:1131/1451 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Cait
+2.Olberic
+3.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cait
+2.Olberic
+3.Red Fox
+----------------------------------------
+Cait usa Attack
+Olberic recibe 0 de daño físico
+Olberic termina con HP:4337
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4337/5781 SP:27/291 BP:2
+Equipo del enemigo
+A-Cait - HP:500/500 Shields:2
+B-Monarch - HP:0/6740 Shields:4
+C-Red Fox - HP:1131/1451 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cait
+2.Olberic
+3.Red Fox
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Cait - HP:500/500 Shields:2
+2: Red Fox - HP:1131/1451 Shields:3
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Olberic no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Olberic no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Olberic no tiene 3 BP para utilizar
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Olberic ataca
+Red Fox recibe 320 de daño de tipo Spear
+Red Fox recibe 320 de daño de tipo Spear
+Red Fox termina con HP:491
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4337/5781 SP:27/291 BP:1
+Equipo del enemigo
+A-Cait - HP:500/500 Shields:2
+B-Monarch - HP:0/6740 Shields:4
+C-Red Fox - HP:491/1451 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cait
+2.Olberic
+3.Red Fox
+----------------------------------------
+Red Fox usa Attack
+Olberic recibe 65 de daño físico
+Olberic termina con HP:4272
+----------------------------------------
+INICIA RONDA 21
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4272/5781 SP:27/291 BP:1
+Equipo del enemigo
+A-Cait - HP:500/500 Shields:2
+B-Monarch - HP:0/6740 Shields:4
+C-Red Fox - HP:491/1451 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Cait
+2.Olberic
+3.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cait
+2.Olberic
+3.Red Fox
+----------------------------------------
+Cait usa Attack
+Olberic recibe 0 de daño físico
+Olberic termina con HP:4272
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4272/5781 SP:27/291 BP:1
+Equipo del enemigo
+A-Cait - HP:500/500 Shields:2
+B-Monarch - HP:0/6740 Shields:4
+C-Red Fox - HP:491/1451 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cait
+2.Olberic
+3.Red Fox
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4272/5781 SP:27/291 BP:1
+Equipo del enemigo
+A-Cait - HP:500/500 Shields:2
+B-Monarch - HP:0/6740 Shields:4
+C-Red Fox - HP:491/1451 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Cait
+3.Red Fox
+----------------------------------------
+Red Fox usa Attack
+Olberic se defiende
+Olberic recibe 32 de daño físico
+Olberic termina con HP:4240
+----------------------------------------
+INICIA RONDA 22
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4240/5781 SP:27/291 BP:2
+Equipo del enemigo
+A-Cait - HP:500/500 Shields:2
+B-Monarch - HP:0/6740 Shields:4
+C-Red Fox - HP:491/1451 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Cait
+3.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cait
+2.Olberic
+3.Red Fox
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Reflective Veil
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Olberic - HP:4240/5781 SP:27/291 BP:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic usa Reflective Veil
+Olberic reflejará los próximos 1 ataques elementales
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4240/5781 SP:5/291 BP:2
+Equipo del enemigo
+A-Cait - HP:500/500 Shields:2
+B-Monarch - HP:0/6740 Shields:4
+C-Red Fox - HP:491/1451 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Cait
+2.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cait
+2.Olberic
+3.Red Fox
+----------------------------------------
+Cait usa Attack
+Olberic recibe 0 de daño físico
+Olberic termina con HP:4240
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4240/5781 SP:5/291 BP:2
+Equipo del enemigo
+A-Cait - HP:500/500 Shields:2
+B-Monarch - HP:0/6740 Shields:4
+C-Red Fox - HP:491/1451 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cait
+2.Olberic
+3.Red Fox
+----------------------------------------
+Red Fox usa Attack
+Olberic recibe 65 de daño físico
+Olberic termina con HP:4175
+----------------------------------------
+INICIA RONDA 23
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4175/5781 SP:5/291 BP:3
+Equipo del enemigo
+A-Cait - HP:500/500 Shields:2
+B-Monarch - HP:0/6740 Shields:4
+C-Red Fox - HP:491/1451 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Cait
+2.Olberic
+3.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cait
+2.Olberic
+3.Red Fox
+----------------------------------------
+Cait usa Attack
+Olberic recibe 0 de daño físico
+Olberic termina con HP:4175
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4175/5781 SP:5/291 BP:3
+Equipo del enemigo
+A-Cait - HP:500/500 Shields:2
+B-Monarch - HP:0/6740 Shields:4
+C-Red Fox - HP:491/1451 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cait
+2.Olberic
+3.Red Fox
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4175/5781 SP:5/291 BP:3
+Equipo del enemigo
+A-Cait - HP:500/500 Shields:2
+B-Monarch - HP:0/6740 Shields:4
+C-Red Fox - HP:491/1451 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Cait
+3.Red Fox
+----------------------------------------
+Red Fox usa Attack
+Olberic se defiende
+Olberic recibe 32 de daño físico
+Olberic termina con HP:4143
+----------------------------------------
+INICIA RONDA 24
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4143/5781 SP:5/291 BP:4
+Equipo del enemigo
+A-Cait - HP:500/500 Shields:2
+B-Monarch - HP:0/6740 Shields:4
+C-Red Fox - HP:491/1451 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Cait
+3.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cait
+2.Olberic
+3.Red Fox
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4143/5781 SP:5/291 BP:4
+Equipo del enemigo
+A-Cait - HP:500/500 Shields:2
+B-Monarch - HP:0/6740 Shields:4
+C-Red Fox - HP:491/1451 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Cait
+2.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Cait
+3.Red Fox
+----------------------------------------
+Cait usa Attack
+Olberic se defiende
+Olberic recibe 0 de daño físico
+Olberic termina con HP:4143
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4143/5781 SP:5/291 BP:4
+Equipo del enemigo
+A-Cait - HP:500/500 Shields:2
+B-Monarch - HP:0/6740 Shields:4
+C-Red Fox - HP:491/1451 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Cait
+3.Red Fox
+----------------------------------------
+Red Fox usa Attack
+Olberic se defiende
+Olberic recibe 32 de daño físico
+Olberic termina con HP:4111
+----------------------------------------
+INICIA RONDA 25
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4111/5781 SP:5/291 BP:5
+Equipo del enemigo
+A-Cait - HP:500/500 Shields:2
+B-Monarch - HP:0/6740 Shields:4
+C-Red Fox - HP:491/1451 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Cait
+3.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cait
+2.Olberic
+3.Red Fox
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4111/5781 SP:5/291 BP:5
+Equipo del enemigo
+A-Cait - HP:500/500 Shields:2
+B-Monarch - HP:0/6740 Shields:4
+C-Red Fox - HP:491/1451 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Cait
+2.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Cait
+3.Red Fox
+----------------------------------------
+Cait usa Attack
+Olberic se defiende
+Olberic recibe 0 de daño físico
+Olberic termina con HP:4111
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4111/5781 SP:5/291 BP:5
+Equipo del enemigo
+A-Cait - HP:500/500 Shields:2
+B-Monarch - HP:0/6740 Shields:4
+C-Red Fox - HP:491/1451 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Cait
+3.Red Fox
+----------------------------------------
+Red Fox usa Attack
+Olberic se defiende
+Olberic recibe 32 de daño físico
+Olberic termina con HP:4079
+----------------------------------------
+INICIA RONDA 26
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4079/5781 SP:5/291 BP:5
+Equipo del enemigo
+A-Cait - HP:500/500 Shields:2
+B-Monarch - HP:0/6740 Shields:4
+C-Red Fox - HP:491/1451 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Cait
+3.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cait
+2.Olberic
+3.Red Fox
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4079/5781 SP:5/291 BP:5
+Equipo del enemigo
+A-Cait - HP:500/500 Shields:2
+B-Monarch - HP:0/6740 Shields:4
+C-Red Fox - HP:491/1451 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Cait
+2.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Cait
+3.Red Fox
+----------------------------------------
+Cait usa Attack
+Olberic se defiende
+Olberic recibe 0 de daño físico
+Olberic termina con HP:4079
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4079/5781 SP:5/291 BP:5
+Equipo del enemigo
+A-Cait - HP:500/500 Shields:2
+B-Monarch - HP:0/6740 Shields:4
+C-Red Fox - HP:491/1451 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Cait
+3.Red Fox
+----------------------------------------
+Red Fox usa Attack
+Olberic se defiende
+Olberic recibe 32 de daño físico
+Olberic termina con HP:4047
+----------------------------------------
+INICIA RONDA 27
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4047/5781 SP:5/291 BP:5
+Equipo del enemigo
+A-Cait - HP:500/500 Shields:2
+B-Monarch - HP:0/6740 Shields:4
+C-Red Fox - HP:491/1451 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Cait
+3.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cait
+2.Olberic
+3.Red Fox
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4047/5781 SP:5/291 BP:5
+Equipo del enemigo
+A-Cait - HP:500/500 Shields:2
+B-Monarch - HP:0/6740 Shields:4
+C-Red Fox - HP:491/1451 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Cait
+2.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Cait
+3.Red Fox
+----------------------------------------
+Cait usa Attack
+Olberic se defiende
+Olberic recibe 0 de daño físico
+Olberic termina con HP:4047
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4047/5781 SP:5/291 BP:5
+Equipo del enemigo
+A-Cait - HP:500/500 Shields:2
+B-Monarch - HP:0/6740 Shields:4
+C-Red Fox - HP:491/1451 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Cait
+3.Red Fox
+----------------------------------------
+Red Fox usa Attack
+Olberic se defiende
+Olberic recibe 32 de daño físico
+Olberic termina con HP:4015
+----------------------------------------
+INICIA RONDA 28
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4015/5781 SP:5/291 BP:5
+Equipo del enemigo
+A-Cait - HP:500/500 Shields:2
+B-Monarch - HP:0/6740 Shields:4
+C-Red Fox - HP:491/1451 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Cait
+3.Red Fox
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cait
+2.Olberic
+3.Red Fox
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Cancelar
+INPUT: 1
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Cait - HP:500/500 Shields:2
+2: Red Fox - HP:491/1451 Shields:3
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Olberic ataca
+Red Fox recibe 320 de daño de tipo Sword
+Red Fox recibe 320 de daño de tipo Sword
+Red Fox termina con HP:0
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4015/5781 SP:5/291 BP:4
+Equipo del enemigo
+A-Cait - HP:500/500 Shields:2
+B-Monarch - HP:0/6740 Shields:4
+C-Red Fox - HP:0/1451 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Cait
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cait
+2.Olberic
+----------------------------------------
+Cait usa Attack
+Olberic recibe 0 de daño físico
+Olberic termina con HP:4015
+----------------------------------------
+INICIA RONDA 29
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4015/5781 SP:5/291 BP:4
+Equipo del enemigo
+A-Cait - HP:500/500 Shields:2
+B-Monarch - HP:0/6740 Shields:4
+C-Red Fox - HP:0/1451 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Cait
+2.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cait
+2.Olberic
+----------------------------------------
+Cait usa Attack
+Olberic recibe 0 de daño físico
+Olberic termina con HP:4015
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4015/5781 SP:5/291 BP:4
+Equipo del enemigo
+A-Cait - HP:500/500 Shields:2
+B-Monarch - HP:0/6740 Shields:4
+C-Red Fox - HP:0/1451 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Cait
+2.Olberic
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Cait - HP:500/500 Shields:2
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Olberic ataca
+Cait recibe 264 de daño de tipo Spear
+Cait recibe 264 de daño de tipo Spear
+Cait recibe 264 de daño de tipo Spear
+Cait recibe 264 de daño de tipo Spear
+Cait termina con HP:0
+----------------------------------------
+Gana equipo del jugador

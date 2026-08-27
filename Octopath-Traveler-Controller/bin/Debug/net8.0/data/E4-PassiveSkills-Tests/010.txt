@@ -1,0 +1,139 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+INPUT: 9
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:1
+Equipo del enemigo
+A-Remnant - HP:2779/2779 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Remnant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Remnant
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Remnant - HP:2779/2779 Shields:3
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Olberic ataca
+Remnant recibe 538 de daño de tipo Sword con debilidad
+Remnant recibe 538 de daño de tipo Sword con debilidad
+Remnant termina con HP:1703
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:0
+Equipo del enemigo
+A-Remnant - HP:1703/2779 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Remnant
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Remnant
+----------------------------------------
+Remnant usa Double Bite
+Olberic recibe 0 de daño físico
+Olberic contraataca
+Remnant recibe 538 de daño de tipo Sword con debilidad
+Remnant entra en Breaking Point
+Olberic termina con HP:5781
+Remnant termina con HP:1165
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:0
+Equipo del enemigo
+A-Remnant - HP:1165/2779 Shields:0
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Remnant
+2.Olberic
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Remnant - HP:1165/2779 Shields:0
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Olberic ataca
+Remnant recibe 718 de daño de tipo Sword con debilidad
+Remnant termina con HP:447
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:1
+Equipo del enemigo
+A-Remnant - HP:447/2779 Shields:3
+----------------------------------------
+Turnos de la ronda
+1.Remnant
+2.Olberic
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Remnant
+----------------------------------------
+Remnant usa Double Bite
+Olberic recibe 0 de daño físico
+Olberic contraataca
+Remnant recibe 538 de daño de tipo Sword con debilidad
+Olberic recibe 0 de daño físico
+Olberic contraataca
+Remnant recibe 538 de daño de tipo Sword con debilidad
+Olberic termina con HP:5781
+Remnant termina con HP:0
+----------------------------------------
+Gana equipo del jugador

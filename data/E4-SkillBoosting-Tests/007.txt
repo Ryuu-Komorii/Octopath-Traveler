@@ -1,0 +1,583 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+INPUT: 6
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:1
+Equipo del enemigo
+A-Mossy Meep - HP:1060/1060 Shields:3
+B-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Meep
+3.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Meep
+3.Mossy Meep
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Mossy Meep - HP:1060/1060 Shields:3
+2: Meep - HP:1016/1016 Shields:2
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Mossy Meep recibe 156 de daño de tipo Sword con debilidad
+Mossy Meep termina con HP:904
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5781/5781 SP:291/291 BP:1
+Equipo del enemigo
+A-Mossy Meep - HP:904/1060 Shields:2
+B-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Meep
+2.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Meep
+3.Mossy Meep
+----------------------------------------
+Meep usa Attack
+Olberic recibe 140 de daño físico
+Olberic termina con HP:5641
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5641/5781 SP:291/291 BP:1
+Equipo del enemigo
+A-Mossy Meep - HP:904/1060 Shields:2
+B-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Meep
+3.Mossy Meep
+----------------------------------------
+Mossy Meep usa Attack
+Olberic recibe 157 de daño físico
+Olberic termina con HP:5484
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5484/5781 SP:291/291 BP:2
+Equipo del enemigo
+A-Mossy Meep - HP:904/1060 Shields:2
+B-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Meep
+3.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Meep
+3.Mossy Meep
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Sidestep
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Olberic usa Sidestep
+Olberic esquivará los próximos 2 ataques físicos
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5484/5781 SP:281/291 BP:1
+Equipo del enemigo
+A-Mossy Meep - HP:904/1060 Shields:2
+B-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Meep
+2.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Meep
+3.Mossy Meep
+----------------------------------------
+Meep usa Attack
+Olberic ha esquivado el ataque
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5484/5781 SP:281/291 BP:1
+Equipo del enemigo
+A-Mossy Meep - HP:904/1060 Shields:2
+B-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Meep
+3.Mossy Meep
+----------------------------------------
+Mossy Meep usa Attack
+Olberic ha esquivado el ataque
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5484/5781 SP:281/291 BP:1
+Equipo del enemigo
+A-Mossy Meep - HP:904/1060 Shields:2
+B-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Meep
+3.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Meep
+3.Mossy Meep
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Mossy Meep - HP:904/1060 Shields:2
+2: Meep - HP:1016/1016 Shields:2
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Mossy Meep recibe 156 de daño de tipo Sword con debilidad
+Mossy Meep termina con HP:748
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5484/5781 SP:281/291 BP:1
+Equipo del enemigo
+A-Mossy Meep - HP:748/1060 Shields:1
+B-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Meep
+2.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Meep
+3.Mossy Meep
+----------------------------------------
+Meep usa Attack
+Olberic recibe 140 de daño físico
+Olberic termina con HP:5344
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5344/5781 SP:281/291 BP:1
+Equipo del enemigo
+A-Mossy Meep - HP:748/1060 Shields:1
+B-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Meep
+3.Mossy Meep
+----------------------------------------
+Mossy Meep usa Attack
+Olberic recibe 157 de daño físico
+Olberic termina con HP:5187
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5187/5781 SP:281/291 BP:2
+Equipo del enemigo
+A-Mossy Meep - HP:748/1060 Shields:1
+B-Meep - HP:1016/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Meep
+3.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Meep
+3.Mossy Meep
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Mossy Meep - HP:748/1060 Shields:1
+2: Meep - HP:1016/1016 Shields:2
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Meep recibe 132 de daño de tipo Sword
+Meep termina con HP:884
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5187/5781 SP:281/291 BP:2
+Equipo del enemigo
+A-Mossy Meep - HP:748/1060 Shields:1
+B-Meep - HP:884/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Meep
+2.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Meep
+3.Mossy Meep
+----------------------------------------
+Meep usa Attack
+Olberic recibe 140 de daño físico
+Olberic termina con HP:5047
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:5047/5781 SP:281/291 BP:2
+Equipo del enemigo
+A-Mossy Meep - HP:748/1060 Shields:1
+B-Meep - HP:884/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Meep
+3.Mossy Meep
+----------------------------------------
+Mossy Meep usa Attack
+Olberic recibe 157 de daño físico
+Olberic termina con HP:4890
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4890/5781 SP:281/291 BP:3
+Equipo del enemigo
+A-Mossy Meep - HP:748/1060 Shields:1
+B-Meep - HP:884/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Meep
+3.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Meep
+3.Mossy Meep
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Olberic
+1: Sidestep
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Olberic usa Sidestep
+Olberic esquivará los próximos 4 ataques físicos
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4890/5781 SP:271/291 BP:0
+Equipo del enemigo
+A-Mossy Meep - HP:748/1060 Shields:1
+B-Meep - HP:884/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Meep
+2.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Meep
+3.Mossy Meep
+----------------------------------------
+Meep usa Attack
+Olberic ha esquivado el ataque
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4890/5781 SP:271/291 BP:0
+Equipo del enemigo
+A-Mossy Meep - HP:748/1060 Shields:1
+B-Meep - HP:884/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Meep
+3.Mossy Meep
+----------------------------------------
+Mossy Meep usa Attack
+Olberic ha esquivado el ataque
+----------------------------------------
+INICIA RONDA 6
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4890/5781 SP:271/291 BP:0
+Equipo del enemigo
+A-Mossy Meep - HP:748/1060 Shields:1
+B-Meep - HP:884/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Meep
+3.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Meep
+3.Mossy Meep
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4890/5781 SP:271/291 BP:0
+Equipo del enemigo
+A-Mossy Meep - HP:748/1060 Shields:1
+B-Meep - HP:884/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Meep
+2.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Meep
+3.Mossy Meep
+----------------------------------------
+Meep usa Attack
+Olberic se defiende
+Olberic ha esquivado el ataque
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4890/5781 SP:271/291 BP:0
+Equipo del enemigo
+A-Mossy Meep - HP:748/1060 Shields:1
+B-Meep - HP:884/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Meep
+3.Mossy Meep
+----------------------------------------
+Mossy Meep usa Attack
+Olberic se defiende
+Olberic ha esquivado el ataque
+----------------------------------------
+INICIA RONDA 7
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4890/5781 SP:271/291 BP:1
+Equipo del enemigo
+A-Mossy Meep - HP:748/1060 Shields:1
+B-Meep - HP:884/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Meep
+3.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Meep
+3.Mossy Meep
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 1
+----------------------------------------
+Seleccione un arma
+1: Sword
+2: Spear
+3: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Olberic
+1: Mossy Meep - HP:748/1060 Shields:1
+2: Meep - HP:884/1016 Shields:2
+3: Cancelar
+INPUT: 2
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 0
+----------------------------------------
+Olberic ataca
+Meep recibe 132 de daño de tipo Sword
+Meep termina con HP:752
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4890/5781 SP:271/291 BP:1
+Equipo del enemigo
+A-Mossy Meep - HP:748/1060 Shields:1
+B-Meep - HP:752/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Meep
+2.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Meep
+3.Mossy Meep
+----------------------------------------
+Meep usa Attack
+Olberic recibe 140 de daño físico
+Olberic termina con HP:4750
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4750/5781 SP:271/291 BP:1
+Equipo del enemigo
+A-Mossy Meep - HP:748/1060 Shields:1
+B-Meep - HP:752/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Meep
+3.Mossy Meep
+----------------------------------------
+Mossy Meep usa Attack
+Olberic recibe 157 de daño físico
+Olberic termina con HP:4593
+----------------------------------------
+INICIA RONDA 8
+----------------------------------------
+Equipo del jugador
+A-Olberic - HP:4593/5781 SP:271/291 BP:2
+Equipo del enemigo
+A-Mossy Meep - HP:748/1060 Shields:1
+B-Meep - HP:752/1016 Shields:2
+----------------------------------------
+Turnos de la ronda
+1.Olberic
+2.Meep
+3.Mossy Meep
+----------------------------------------
+Turnos de la siguiente ronda
+1.Olberic
+2.Meep
+3.Mossy Meep
+----------------------------------------
+Turno de Olberic
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 4
+----------------------------------------
+El equipo de viajeros ha huido!
+----------------------------------------
+Gana equipo del enemigo

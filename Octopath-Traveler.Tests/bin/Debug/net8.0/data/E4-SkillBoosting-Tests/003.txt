@@ -1,0 +1,550 @@
+Elige un archivo para cargar los equipos
+0: 001.txt
+1: 002.txt
+2: 003.txt
+3: 004.txt
+4: 005.txt
+5: 006.txt
+6: 007.txt
+7: 008.txt
+8: 009.txt
+9: 010.txt
+10: 011.txt
+11: 012.txt
+12: 013.txt
+13: 014.txt
+14: 015.txt
+15: 016.txt
+16: 017.txt
+17: 018.txt
+18: 019.txt
+19: 020.txt
+20: 021.txt
+21: 022.txt
+22: 023.txt
+23: 024.txt
+INPUT: 2
+----------------------------------------
+INICIA RONDA 1
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:470/470 BP:1
+Equipo del enemigo
+A-Wind Wisp - HP:1740/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Wind Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Wind Wisp
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ophilia
+1: Reflective Veil
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Ophilia - HP:4002/4002 SP:470/470 BP:1
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 1
+----------------------------------------
+Ophilia usa Reflective Veil
+Ophilia reflejará los próximos 2 ataques elementales
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:448/470 BP:0
+Equipo del enemigo
+A-Wind Wisp - HP:1740/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Wind Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Wind Wisp
+----------------------------------------
+Wind Wisp usa Wind slash
+Ophilia refleja el daño
+Wind Wisp recibe 316 de daño
+Wind Wisp termina con HP:1424
+----------------------------------------
+INICIA RONDA 2
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:448/470 BP:0
+Equipo del enemigo
+A-Wind Wisp - HP:1424/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Wind Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Wind Wisp
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:448/470 BP:0
+Equipo del enemigo
+A-Wind Wisp - HP:1424/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Wind Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Wind Wisp
+----------------------------------------
+Wind Wisp usa Wind slash
+Ophilia se defiende
+Ophilia refleja el daño
+Wind Wisp recibe 158 de daño
+Wind Wisp termina con HP:1266
+----------------------------------------
+INICIA RONDA 3
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:448/470 BP:1
+Equipo del enemigo
+A-Wind Wisp - HP:1266/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Wind Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Wind Wisp
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:4002/4002 SP:448/470 BP:1
+Equipo del enemigo
+A-Wind Wisp - HP:1266/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Wind Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Wind Wisp
+----------------------------------------
+Wind Wisp usa Wind slash
+Ophilia se defiende
+Ophilia recibe 158 de daño elemental
+Ophilia termina con HP:3844
+----------------------------------------
+INICIA RONDA 4
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:3844/4002 SP:448/470 BP:2
+Equipo del enemigo
+A-Wind Wisp - HP:1266/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Wind Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Wind Wisp
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:3844/4002 SP:448/470 BP:2
+Equipo del enemigo
+A-Wind Wisp - HP:1266/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Wind Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Wind Wisp
+----------------------------------------
+Wind Wisp usa Wind slash
+Ophilia se defiende
+Ophilia recibe 158 de daño elemental
+Ophilia termina con HP:3686
+----------------------------------------
+INICIA RONDA 5
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:3686/4002 SP:448/470 BP:3
+Equipo del enemigo
+A-Wind Wisp - HP:1266/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Wind Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Wind Wisp
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ophilia
+1: Reflective Veil
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Ophilia - HP:3686/4002 SP:448/470 BP:3
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Ophilia usa Reflective Veil
+Ophilia reflejará los próximos 4 ataques elementales
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:3686/4002 SP:426/470 BP:0
+Equipo del enemigo
+A-Wind Wisp - HP:1266/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Wind Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Wind Wisp
+----------------------------------------
+Wind Wisp usa Wind slash
+Ophilia refleja el daño
+Wind Wisp recibe 316 de daño
+Wind Wisp termina con HP:950
+----------------------------------------
+INICIA RONDA 6
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:3686/4002 SP:426/470 BP:0
+Equipo del enemigo
+A-Wind Wisp - HP:950/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Wind Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Wind Wisp
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:3686/4002 SP:426/470 BP:0
+Equipo del enemigo
+A-Wind Wisp - HP:950/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Wind Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Wind Wisp
+----------------------------------------
+Wind Wisp usa Wind slash
+Ophilia se defiende
+Ophilia refleja el daño
+Wind Wisp recibe 158 de daño
+Wind Wisp termina con HP:792
+----------------------------------------
+INICIA RONDA 7
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:3686/4002 SP:426/470 BP:1
+Equipo del enemigo
+A-Wind Wisp - HP:792/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Wind Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Wind Wisp
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:3686/4002 SP:426/470 BP:1
+Equipo del enemigo
+A-Wind Wisp - HP:792/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Wind Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Wind Wisp
+----------------------------------------
+Wind Wisp usa Wind slash
+Ophilia se defiende
+Ophilia refleja el daño
+Wind Wisp recibe 158 de daño
+Wind Wisp termina con HP:634
+----------------------------------------
+INICIA RONDA 8
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:3686/4002 SP:426/470 BP:2
+Equipo del enemigo
+A-Wind Wisp - HP:634/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Wind Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Wind Wisp
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:3686/4002 SP:426/470 BP:2
+Equipo del enemigo
+A-Wind Wisp - HP:634/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Wind Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Wind Wisp
+----------------------------------------
+Wind Wisp usa Wind slash
+Ophilia se defiende
+Ophilia refleja el daño
+Wind Wisp recibe 158 de daño
+Wind Wisp termina con HP:476
+----------------------------------------
+INICIA RONDA 9
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:3686/4002 SP:426/470 BP:3
+Equipo del enemigo
+A-Wind Wisp - HP:476/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Wind Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Wind Wisp
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:3686/4002 SP:426/470 BP:3
+Equipo del enemigo
+A-Wind Wisp - HP:476/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Wind Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Wind Wisp
+----------------------------------------
+Wind Wisp usa Wind slash
+Ophilia se defiende
+Ophilia recibe 158 de daño elemental
+Ophilia termina con HP:3528
+----------------------------------------
+INICIA RONDA 10
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:3528/4002 SP:426/470 BP:4
+Equipo del enemigo
+A-Wind Wisp - HP:476/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Wind Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Wind Wisp
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 2
+----------------------------------------
+Seleccione una habilidad para Ophilia
+1: Reflective Veil
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione un objetivo para Ophilia
+1: Ophilia - HP:3528/4002 SP:426/470 BP:4
+2: Cancelar
+INPUT: 1
+----------------------------------------
+Seleccione cuantos BP utilizar
+INPUT: 3
+----------------------------------------
+Ophilia usa Reflective Veil
+Ophilia reflejará los próximos 4 ataques elementales
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:3528/4002 SP:404/470 BP:1
+Equipo del enemigo
+A-Wind Wisp - HP:476/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Wind Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Wind Wisp
+----------------------------------------
+Wind Wisp usa Wind slash
+Ophilia refleja el daño
+Wind Wisp recibe 316 de daño
+Wind Wisp termina con HP:160
+----------------------------------------
+INICIA RONDA 11
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:3528/4002 SP:404/470 BP:1
+Equipo del enemigo
+A-Wind Wisp - HP:160/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Wind Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Wind Wisp
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:3528/4002 SP:404/470 BP:1
+Equipo del enemigo
+A-Wind Wisp - HP:160/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Wind Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Wind Wisp
+----------------------------------------
+Wind Wisp usa Wind slash
+Ophilia se defiende
+Ophilia refleja el daño
+Wind Wisp recibe 158 de daño
+Wind Wisp termina con HP:2
+----------------------------------------
+INICIA RONDA 12
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:3528/4002 SP:404/470 BP:2
+Equipo del enemigo
+A-Wind Wisp - HP:2/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Ophilia
+2.Wind Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Wind Wisp
+----------------------------------------
+Turno de Ophilia
+1: Ataque básico
+2: Usar habilidad
+3: Defender
+4: Huir
+INPUT: 3
+----------------------------------------
+Equipo del jugador
+A-Ophilia - HP:3528/4002 SP:404/470 BP:2
+Equipo del enemigo
+A-Wind Wisp - HP:2/1740 Shields:1
+----------------------------------------
+Turnos de la ronda
+1.Wind Wisp
+----------------------------------------
+Turnos de la siguiente ronda
+1.Ophilia
+2.Wind Wisp
+----------------------------------------
+Wind Wisp usa Wind slash
+Ophilia se defiende
+Ophilia refleja el daño
+Wind Wisp recibe 158 de daño
+Wind Wisp termina con HP:0
+----------------------------------------
+Gana equipo del jugador

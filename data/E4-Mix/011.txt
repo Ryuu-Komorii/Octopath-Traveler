@@ -1,0 +1,6 @@
+Player Team
+Heatcore (Combustion) [BP Eater]
+Enemy Team
+Devourer of Men
+Meep
+Wolf
