@@ -983,11 +983,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/karla/Octopath-Traveler/Octopath-Traveler.Tests/Octopath-Traveler.Tests.csproj",
+      "projectUniqueName": "/home/karla/Diseño Detallado/Octopath-Traveler/Octopath-Traveler.Tests/Octopath-Traveler.Tests.csproj",
       "projectName": "Octopath-Traveler.Tests",
-      "projectPath": "/home/karla/Octopath-Traveler/Octopath-Traveler.Tests/Octopath-Traveler.Tests.csproj",
+      "projectPath": "/home/karla/Diseño Detallado/Octopath-Traveler/Octopath-Traveler.Tests/Octopath-Traveler.Tests.csproj",
       "packagesPath": "/home/karla/.nuget/packages/",
-      "outputPath": "/home/karla/Octopath-Traveler/Octopath-Traveler.Tests/obj/",
+      "outputPath": "/home/karla/Diseño Detallado/Octopath-Traveler/Octopath-Traveler.Tests/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/karla/.nuget/NuGet/NuGet.Config"
@@ -1002,11 +1002,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/home/karla/Octopath-Traveler/Octopath-Traveler-Controller/Octopath-Traveler-Controller.csproj": {
-              "projectPath": "/home/karla/Octopath-Traveler/Octopath-Traveler-Controller/Octopath-Traveler-Controller.csproj"
+            "/home/karla/Diseño Detallado/Octopath-Traveler/Octopath-Traveler-Controller/Octopath-Traveler-Controller.csproj": {
+              "projectPath": "/home/karla/Diseño Detallado/Octopath-Traveler/Octopath-Traveler-Controller/Octopath-Traveler-Controller.csproj"
             },
-            "/home/karla/Octopath-Traveler/Octopath-Traveler-View/Octopath-Traveler-View.csproj": {
-              "projectPath": "/home/karla/Octopath-Traveler/Octopath-Traveler-View/Octopath-Traveler-View.csproj"
+            "/home/karla/Diseño Detallado/Octopath-Traveler/Octopath-Traveler-View/Octopath-Traveler-View.csproj": {
+              "projectPath": "/home/karla/Diseño Detallado/Octopath-Traveler/Octopath-Traveler-View/Octopath-Traveler-View.csproj"
             }
           }
         }

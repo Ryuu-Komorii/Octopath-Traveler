@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/karla/Octopath-Traveler/Octopath-Traveler-View/Octopath-Traveler-View.csproj",
+      "projectUniqueName": "/home/karla/Diseño Detallado/Octopath-Traveler/Octopath-Traveler-View/Octopath-Traveler-View.csproj",
       "projectName": "Octopath-Traveler-View",
-      "projectPath": "/home/karla/Octopath-Traveler/Octopath-Traveler-View/Octopath-Traveler-View.csproj",
+      "projectPath": "/home/karla/Diseño Detallado/Octopath-Traveler/Octopath-Traveler-View/Octopath-Traveler-View.csproj",
       "packagesPath": "/home/karla/.nuget/packages/",
-      "outputPath": "/home/karla/Octopath-Traveler/Octopath-Traveler-View/obj/",
+      "outputPath": "/home/karla/Diseño Detallado/Octopath-Traveler/Octopath-Traveler-View/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/karla/.nuget/NuGet/NuGet.Config"

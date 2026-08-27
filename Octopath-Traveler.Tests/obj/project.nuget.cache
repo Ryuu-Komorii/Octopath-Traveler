@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jKGFR5KlX+fvuk4DW51MaWEvyhfCQZpUgWDpqHVOwM6fzo/5OxfPfNd0imO2jNEFQkOcx5igGZY/b7pnA+gOyw==",
+  "dgSpecHash": "pZ3tnTN9ys1CGGAIFzyg63Zne4WFOs4ydmIzucNk/KXlktRLTPPpb9gn51/D1TMQoj7nC3bPSSN4ZoiulNcHkA==",
   "success": true,
-  "projectFilePath": "/home/karla/Octopath-Traveler/Octopath-Traveler.Tests/Octopath-Traveler.Tests.csproj",
+  "projectFilePath": "/home/karla/Diseño Detallado/Octopath-Traveler/Octopath-Traveler.Tests/Octopath-Traveler.Tests.csproj",
   "expectedPackageFiles": [
     "/home/karla/.nuget/packages/coverlet.collector/6.0.2/coverlet.collector.6.0.2.nupkg.sha512",
     "/home/karla/.nuget/packages/microsoft.codecoverage/17.11.1/microsoft.codecoverage.17.11.1.nupkg.sha512",
