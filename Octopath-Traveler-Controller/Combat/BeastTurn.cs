@@ -4,104 +4,39 @@ namespace Octopath_Traveler;
 
 public class BeastTurn
 {
-    private const double AttackModifier = 1.3;
-    private const string SeparatorLine =
-        "----------------------------------------";
-    private const string SkillUseMessageFormat =
-        "{0} usa {1}";
-    private const string DamageMessageFormat =
-        "{0} recibe {1} de daño físico";
-    private const string RemainingHitPointsFormat =
-        "{0} termina con HP:{1}";
+    private readonly BeastSkillCatalog
+        beastSkillCatalog;
 
-    private readonly View view;
-    private readonly DamageCalculator damageCalculator;
+    private readonly BeastSkillExecutionStrategyFactory
+        strategyFactory;
 
-    public BeastTurn(View view)
+    public BeastTurn(
+        View view,
+        BeastSkillCatalog beastSkillCatalog)
     {
-        this.view = view;
-        damageCalculator = new DamageCalculator();
+        this.beastSkillCatalog =
+            beastSkillCatalog;
+
+        strategyFactory =
+            new BeastSkillExecutionStrategyFactory(
+                view);
     }
 
     public void Execute(
         Beast beast,
         IReadOnlyList<Traveler> travelers)
     {
-        Traveler target = FindTarget(travelers);
-        int damage = CalculateDamage(beast, target);
+        BeastSkillCatalogEntry skill =
+            beastSkillCatalog.Find(
+                beast.SkillName);
 
-        target.ReceiveDamage(damage);
+        BeastSkillExecutionStrategy strategy =
+            strategyFactory.Create(
+                skill.Name);
 
-        WriteTurnSummary(beast, target, damage);
-    }
-
-    private Traveler FindTarget(
-        IReadOnlyList<Traveler> travelers)
-    {
-        return travelers
-            .Where(IsAlive)
-            .OrderByDescending(GetCurrentHitPoints)
-            .First();
-    }
-
-    private bool IsAlive(Traveler traveler)
-    {
-        return traveler.IsAlive();
-    }
-
-    private int GetCurrentHitPoints(Traveler traveler)
-    {
-        return traveler.CurrentHP;
-    }
-
-    private int CalculateDamage(
-        Beast beast,
-        Traveler target)
-    {
-        return damageCalculator.CalculatePhysicalDamage(
-            beast.PhysicalAttack,
-            target.PhysicalDefense,
-            AttackModifier);
-    }
-
-    private void WriteTurnSummary(
-        Beast beast,
-        Traveler target,
-        int damage)
-    {
-        view.WriteLine(SeparatorLine);
-        WriteSkillUseMessage(beast);
-        WriteDamageMessage(target, damage);
-        WriteRemainingHitPoints(target);
-    }
-
-    private void WriteSkillUseMessage(Beast beast)
-    {
-        view.WriteLine(
-            string.Format(
-                SkillUseMessageFormat,
-                beast.Name,
-                beast.SkillName));
-    }
-
-    private void WriteDamageMessage(
-        Traveler target,
-        int damage)
-    {
-        view.WriteLine(
-            string.Format(
-                DamageMessageFormat,
-                target.Name,
-                damage));
-    }
-
-    private void WriteRemainingHitPoints(
-        Traveler target)
-    {
-        view.WriteLine(
-            string.Format(
-                RemainingHitPointsFormat,
-                target.Name,
-                target.CurrentHP));
+        strategy.Execute(
+            beast,
+            travelers,
+            skill);
     }
 }

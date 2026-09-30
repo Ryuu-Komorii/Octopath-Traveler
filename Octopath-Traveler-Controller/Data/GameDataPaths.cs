@@ -6,4 +6,5 @@ public static class GameDataPaths
     public const string Beasts = "data/enemies.json";
     public const string ActiveSkills = "data/skills.json";
     public const string PassiveSkills = "data/passive_skills.json";
+    public const string BeastSkills = "data/beast_skills.json";
 }

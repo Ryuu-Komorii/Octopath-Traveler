@@ -13,14 +13,19 @@ public class Battle
 {
     private const string SeparatorLine =
         "----------------------------------------";
+
     private const string RoundStartMessageFormat =
         "INICIA RONDA {0}";
+
     private const string PlayerVictoryMessage =
         "Gana equipo del jugador";
+
     private const string EnemyVictoryMessage =
         "Gana equipo del enemigo";
+
     private const int InitialRoundNumber = 1;
     private const int FirstPendingTurnIndex = 0;
+    private const int NextRoundOffset = 1;
 
     private readonly View view;
     private readonly BattleStateWriter stateWriter;
@@ -29,48 +34,83 @@ public class Battle
     private readonly TravelerTurn travelerTurn;
     private readonly BeastTurn beastTurn;
 
-    public Battle(View view)
+    public Battle(
+        View view,
+        ActiveSkillCatalog activeSkillCatalog,
+        BeastSkillCatalog beastSkillCatalog)
     {
-        this.view = view;
-        stateWriter = new BattleStateWriter(view);
-        turnOrderBuilder = new TurnOrderBuilder();
-        turnOrderWriter = new TurnOrderWriter(view);
-        travelerTurn = new TravelerTurn(view);
-        beastTurn = new BeastTurn(view);
+        this.view =
+            view;
+
+        stateWriter =
+            new BattleStateWriter(
+                view);
+
+        turnOrderBuilder =
+            new TurnOrderBuilder();
+
+        turnOrderWriter =
+            new TurnOrderWriter(
+                view);
+
+        travelerTurn =
+            new TravelerTurn(
+                view,
+                activeSkillCatalog);
+
+        beastTurn =
+            new BeastTurn(
+                view,
+                beastSkillCatalog);
     }
 
-    public void Play(CombatRoster combatRoster)
+    public void Play(
+        CombatRoster combatRoster)
     {
-        int roundNumber = InitialRoundNumber;
-        BattleOutcome outcome = BattleOutcome.InProgress;
+        int roundNumber =
+            InitialRoundNumber;
 
-        while (IsBattleInProgress(outcome))
+        BattleOutcome outcome =
+            BattleOutcome.InProgress;
+
+        while (IsBattleInProgress(
+            outcome))
         {
-            outcome = PlayRound(
-                combatRoster,
-                roundNumber);
+            outcome =
+                PlayRound(
+                    combatRoster,
+                    roundNumber);
 
             roundNumber++;
         }
 
-        WriteWinner(outcome);
+        WriteWinner(
+            outcome);
     }
 
     private BattleOutcome PlayRound(
         CombatRoster combatRoster,
         int roundNumber)
     {
-        WriteRoundHeader(roundNumber);
+        PrepareUnitsForRound(
+            combatRoster,
+            roundNumber);
+
+        WriteRoundHeader(
+            roundNumber);
 
         List<CombatUnit> pendingTurns =
             turnOrderBuilder
-                .Build(combatRoster)
+                .Build(
+                    combatRoster,
+                    roundNumber)
                 .ToList();
 
         BattleOutcome outcome =
             PlayPendingTurns(
                 combatRoster,
-                pendingTurns);
+                pendingTurns,
+                roundNumber);
 
         GainRoundBoostPoints(
             combatRoster,
@@ -79,50 +119,58 @@ public class Battle
         return outcome;
     }
 
-    private void GainRoundBoostPoints(
+    private void PrepareUnitsForRound(
         CombatRoster combatRoster,
-        BattleOutcome outcome)
+        int roundNumber)
     {
-        if (HasBattleEnded(outcome))
+        foreach (Traveler traveler
+                 in combatRoster.Travelers)
         {
-            return;
+            traveler.BeginRound(
+                roundNumber);
         }
 
-        IEnumerable<Traveler> livingTravelers =
-            combatRoster.Travelers.Where(IsAlive);
-
-        foreach (Traveler traveler in livingTravelers)
+        foreach (Beast beast
+                 in combatRoster.Beasts)
         {
-            traveler.GainBoostPoint();
+            beast.BeginRound(
+                roundNumber);
         }
     }
 
     private BattleOutcome PlayPendingTurns(
         CombatRoster combatRoster,
-        List<CombatUnit> pendingTurns)
+        List<CombatUnit> pendingTurns,
+        int roundNumber)
     {
-        while (HasPendingTurns(pendingTurns))
+        while (HasPendingTurns(
+            pendingTurns))
         {
             BattleOutcome outcome =
                 PrepareNextTurn(
                     combatRoster,
-                    pendingTurns);
+                    pendingTurns,
+                    roundNumber);
 
-            if (HasBattleEnded(outcome))
+            if (HasBattleEnded(
+                outcome))
             {
                 return outcome;
             }
 
-            if (HasNoPendingTurns(pendingTurns))
+            if (HasNoPendingTurns(
+                pendingTurns))
             {
                 return BattleOutcome.InProgress;
             }
 
-            outcome = ExecuteFirstPendingTurn(
-                combatRoster,
-                pendingTurns);
+            outcome =
+                ExecuteFirstPendingTurn(
+                    combatRoster,
+                    pendingTurns);
 
-            if (HasBattleEnded(outcome))
+            if (HasBattleEnded(
+                outcome))
             {
                 return outcome;
             }
@@ -133,28 +181,57 @@ public class Battle
 
     private BattleOutcome PrepareNextTurn(
         CombatRoster combatRoster,
-        List<CombatUnit> pendingTurns)
+        List<CombatUnit> pendingTurns,
+        int roundNumber)
     {
-        RemoveDeadUnits(pendingTurns);
+        RemoveUnavailableUnits(
+            pendingTurns,
+            roundNumber);
+
+        ReorderPendingTurns(
+            combatRoster,
+            pendingTurns,
+            roundNumber);
 
         BattleOutcome outcome =
-            GetBattleOutcome(combatRoster);
+            GetBattleOutcome(
+                combatRoster);
 
-        if (HasBattleEnded(outcome))
+        if (HasBattleEnded(
+            outcome))
         {
             return outcome;
         }
 
-        if (HasNoPendingTurns(pendingTurns))
+        if (HasNoPendingTurns(
+            pendingTurns))
         {
             return BattleOutcome.InProgress;
         }
 
         WriteTurnContext(
             combatRoster,
-            pendingTurns);
+            pendingTurns,
+            roundNumber);
 
         return BattleOutcome.InProgress;
+    }
+
+    private void ReorderPendingTurns(
+        CombatRoster combatRoster,
+        List<CombatUnit> pendingTurns,
+        int roundNumber)
+    {
+        IReadOnlyList<CombatUnit> orderedTurns =
+            turnOrderBuilder.ReorderPending(
+                combatRoster,
+                pendingTurns,
+                roundNumber);
+
+        pendingTurns.Clear();
+
+        pendingTurns.AddRange(
+            orderedTurns);
     }
 
     private BattleOutcome ExecuteFirstPendingTurn(
@@ -162,7 +239,8 @@ public class Battle
         List<CombatUnit> pendingTurns)
     {
         CombatUnit currentUnit =
-            pendingTurns[FirstPendingTurnIndex];
+            pendingTurns[
+                FirstPendingTurnIndex];
 
         BattleOutcome outcome =
             ExecuteTurn(
@@ -191,8 +269,9 @@ public class Battle
                     beast,
                     combatRoster),
 
-            _ => throw new ArgumentOutOfRangeException(
-                nameof(combatUnit))
+            _ =>
+                throw new ArgumentOutOfRangeException(
+                    nameof(combatUnit))
         };
     }
 
@@ -203,14 +282,17 @@ public class Battle
         TravelerTurnOutcome turnOutcome =
             travelerTurn.Execute(
                 traveler,
+                combatRoster.Travelers,
                 combatRoster.Beasts);
 
-        if (DidTravelersRunAway(turnOutcome))
+        if (DidTravelersRunAway(
+            turnOutcome))
         {
             return BattleOutcome.EnemyWon;
         }
 
-        return GetBattleOutcome(combatRoster);
+        return GetBattleOutcome(
+            combatRoster);
     }
 
     private BattleOutcome ExecuteBeastTurn(
@@ -221,30 +303,43 @@ public class Battle
             beast,
             combatRoster.Travelers);
 
-        return GetBattleOutcome(combatRoster);
+        return GetBattleOutcome(
+            combatRoster);
     }
 
     private void WriteTurnContext(
         CombatRoster combatRoster,
-        IReadOnlyList<CombatUnit> pendingTurns)
+        IReadOnlyList<CombatUnit> pendingTurns,
+        int roundNumber)
     {
-        view.WriteLine(SeparatorLine);
+        view.WriteLine(
+            SeparatorLine);
 
-        stateWriter.Write(combatRoster);
+        stateWriter.Write(
+            combatRoster);
+
+        int nextRoundNumber =
+            roundNumber +
+            NextRoundOffset;
 
         IReadOnlyList<CombatUnit> nextRoundOrder =
-            turnOrderBuilder.Build(combatRoster);
+            turnOrderBuilder.Build(
+                combatRoster,
+                nextRoundNumber);
 
-        view.WriteLine(SeparatorLine);
+        view.WriteLine(
+            SeparatorLine);
 
         turnOrderWriter.Write(
             pendingTurns,
             nextRoundOrder);
     }
 
-    private void WriteRoundHeader(int roundNumber)
+    private void WriteRoundHeader(
+        int roundNumber)
     {
-        view.WriteLine(SeparatorLine);
+        view.WriteLine(
+            SeparatorLine);
 
         view.WriteLine(
             string.Format(
@@ -252,15 +347,38 @@ public class Battle
                 roundNumber));
     }
 
+    private void GainRoundBoostPoints(
+        CombatRoster combatRoster,
+        BattleOutcome outcome)
+    {
+        if (HasBattleEnded(
+            outcome))
+        {
+            return;
+        }
+
+        IEnumerable<Traveler> livingTravelers =
+            combatRoster.Travelers
+                .Where(IsAlive);
+
+        foreach (Traveler traveler
+                 in livingTravelers)
+        {
+            traveler.GainBoostPoint();
+        }
+    }
+
     private BattleOutcome GetBattleOutcome(
         CombatRoster combatRoster)
     {
-        if (HasNoLivingTravelers(combatRoster))
+        if (HasNoLivingTravelers(
+            combatRoster))
         {
             return BattleOutcome.EnemyWon;
         }
 
-        if (HasNoLivingBeasts(combatRoster))
+        if (HasNoLivingBeasts(
+            combatRoster))
         {
             return BattleOutcome.PlayerWon;
         }
@@ -271,83 +389,116 @@ public class Battle
     private bool HasNoLivingTravelers(
         CombatRoster combatRoster)
     {
-        return !combatRoster.Travelers.Any(
-            IsAlive);
+        return !combatRoster.Travelers
+            .Any(IsAlive);
     }
 
     private bool HasNoLivingBeasts(
         CombatRoster combatRoster)
     {
-        return !combatRoster.Beasts.Any(
-            IsAlive);
+        return !combatRoster.Beasts
+            .Any(IsAlive);
     }
 
-    private bool IsAlive(Traveler traveler)
+    private bool IsAlive(
+        Traveler traveler)
     {
         return traveler.IsAlive();
     }
 
-    private bool IsAlive(Beast beast)
+    private bool IsAlive(
+        Beast beast)
     {
         return beast.IsAlive();
     }
 
-    private void RemoveDeadUnits(
-        List<CombatUnit> pendingTurns)
+    private void RemoveUnavailableUnits(
+        List<CombatUnit> pendingTurns,
+        int roundNumber)
     {
-        pendingTurns.RemoveAll(IsDead);
+        pendingTurns.RemoveAll(
+            combatUnit =>
+                CannotAct(
+                    combatUnit,
+                    roundNumber));
     }
 
-    private bool IsDead(CombatUnit combatUnit)
+    private bool CannotAct(
+        CombatUnit combatUnit,
+        int roundNumber)
     {
-        return !combatUnit.IsAlive();
+        return combatUnit switch
+        {
+            Traveler traveler =>
+                !traveler.CanActInRound(
+                    roundNumber),
+
+            Beast beast =>
+                !beast.CanActInRound(
+                    roundNumber),
+
+            _ => true
+        };
     }
 
     private bool HasPendingTurns(
         IReadOnlyCollection<CombatUnit> pendingTurns)
     {
-        return pendingTurns.Count > 0;
+        return pendingTurns.Count >
+               0;
     }
 
     private bool HasNoPendingTurns(
         IReadOnlyCollection<CombatUnit> pendingTurns)
     {
-        return !HasPendingTurns(pendingTurns);
+        return !HasPendingTurns(
+            pendingTurns);
     }
 
     private bool IsBattleInProgress(
         BattleOutcome outcome)
     {
-        return outcome == BattleOutcome.InProgress;
+        return outcome ==
+               BattleOutcome.InProgress;
     }
 
     private bool HasBattleEnded(
         BattleOutcome outcome)
     {
-        return !IsBattleInProgress(outcome);
+        return !IsBattleInProgress(
+            outcome);
     }
 
     private bool DidTravelersRunAway(
         TravelerTurnOutcome outcome)
     {
-        return outcome == TravelerTurnOutcome.RanAway;
+        return outcome ==
+               TravelerTurnOutcome.RanAway;
     }
 
-    private void WriteWinner(BattleOutcome outcome)
+    private void WriteWinner(
+        BattleOutcome outcome)
     {
-        view.WriteLine(SeparatorLine);
+        view.WriteLine(
+            SeparatorLine);
 
-        if (DidPlayerWin(outcome))
+        if (DidPlayerWin(
+            outcome))
         {
-            view.WriteLine(PlayerVictoryMessage);
+            view.WriteLine(
+                PlayerVictoryMessage);
+
             return;
         }
 
-        view.WriteLine(EnemyVictoryMessage);
+        view.WriteLine(
+            EnemyVictoryMessage);
     }
 
-    private bool DidPlayerWin(BattleOutcome outcome)
+    private bool DidPlayerWin(
+        BattleOutcome outcome)
     {
-        return outcome == BattleOutcome.PlayerWon;
+        return outcome ==
+               BattleOutcome.PlayerWon;
     }
 }

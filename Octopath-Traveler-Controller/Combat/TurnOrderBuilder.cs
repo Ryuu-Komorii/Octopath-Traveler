@@ -2,30 +2,58 @@ namespace Octopath_Traveler;
 
 public class TurnOrderBuilder
 {
-    private const int TravelerPriority = 0;
-    private const int BeastPriority = 1;
+    private const int TravelerTypePriority = 0;
+    private const int BeastTypePriority = 1;
 
     public IReadOnlyList<CombatUnit> Build(
-        CombatRoster combatRoster)
+        CombatRoster combatRoster,
+        int roundNumber)
     {
         IEnumerable<TurnOrderEntry> travelerEntries =
-            CreateTravelerEntries(combatRoster.Travelers);
+            CreateTravelerEntries(
+                combatRoster.Travelers);
 
         IEnumerable<TurnOrderEntry> beastEntries =
-            CreateBeastEntries(combatRoster.Beasts);
+            CreateBeastEntries(
+                combatRoster.Beasts);
 
         return travelerEntries
             .Concat(beastEntries)
-            .Where(IsAlive)
-            .OrderByDescending(GetSpeed)
-            .ThenBy(GetTypePriority)
-            .ThenBy(GetBoardPosition)
-            .Select(GetUnit)
+            .Where(entry =>
+                CanAct(
+                    entry,
+                    roundNumber))
+            .OrderBy(entry =>
+                GetTurnPriority(
+                    entry,
+                    roundNumber))
+            .ThenByDescending(
+                GetSpeed)
+            .ThenBy(
+                GetTypePriority)
+            .ThenBy(
+                GetBoardPosition)
+            .Select(
+                GetUnit)
             .ToArray();
     }
 
-    private IEnumerable<TurnOrderEntry> CreateTravelerEntries(
-        IReadOnlyList<Traveler> travelers)
+    public IReadOnlyList<CombatUnit> ReorderPending(
+        CombatRoster combatRoster,
+        IReadOnlyCollection<CombatUnit> pendingTurns,
+        int roundNumber)
+    {
+        return Build(
+                combatRoster,
+                roundNumber)
+            .Where(
+                pendingTurns.Contains)
+            .ToArray();
+    }
+
+    private IEnumerable<TurnOrderEntry>
+        CreateTravelerEntries(
+            IReadOnlyList<Traveler> travelers)
     {
         return travelers.Select(
             (traveler, boardPosition) =>
@@ -34,8 +62,9 @@ public class TurnOrderBuilder
                     boardPosition));
     }
 
-    private IEnumerable<TurnOrderEntry> CreateBeastEntries(
-        IReadOnlyList<Beast> beasts)
+    private IEnumerable<TurnOrderEntry>
+        CreateBeastEntries(
+            IReadOnlyList<Beast> beasts)
     {
         return beasts.Select(
             (beast, boardPosition) =>
@@ -50,7 +79,7 @@ public class TurnOrderBuilder
     {
         return new TurnOrderEntry(
             traveler,
-            TravelerPriority,
+            TravelerTypePriority,
             boardPosition);
     }
 
@@ -60,31 +89,67 @@ public class TurnOrderBuilder
     {
         return new TurnOrderEntry(
             beast,
-            BeastPriority,
+            BeastTypePriority,
             boardPosition);
     }
 
-    private bool IsAlive(TurnOrderEntry entry)
+    private bool CanAct(
+        TurnOrderEntry entry,
+        int roundNumber)
     {
-        return entry.Unit.IsAlive();
+        return entry.Unit switch
+        {
+            Traveler traveler =>
+                traveler.CanActInRound(
+                    roundNumber),
+
+            Beast beast =>
+                beast.CanActInRound(
+                    roundNumber),
+
+            _ => false
+        };
     }
 
-    private int GetSpeed(TurnOrderEntry entry)
+    private TurnPriority GetTurnPriority(
+        TurnOrderEntry entry,
+        int roundNumber)
+    {
+        return entry.Unit switch
+        {
+            Traveler traveler =>
+                traveler.GetTurnPriority(
+                    roundNumber),
+
+            Beast beast =>
+                beast.GetTurnPriority(
+                    roundNumber),
+
+            _ =>
+                TurnPriority.Normal
+        };
+    }
+
+    private int GetSpeed(
+        TurnOrderEntry entry)
     {
         return entry.Unit.Speed;
     }
 
-    private int GetTypePriority(TurnOrderEntry entry)
+    private int GetTypePriority(
+        TurnOrderEntry entry)
     {
         return entry.TypePriority;
     }
 
-    private int GetBoardPosition(TurnOrderEntry entry)
+    private int GetBoardPosition(
+        TurnOrderEntry entry)
     {
         return entry.BoardPosition;
     }
 
-    private CombatUnit GetUnit(TurnOrderEntry entry)
+    private CombatUnit GetUnit(
+        TurnOrderEntry entry)
     {
         return entry.Unit;
     }
@@ -101,8 +166,11 @@ public class TurnOrderBuilder
             int boardPosition)
         {
             Unit = unit;
-            TypePriority = typePriority;
-            BoardPosition = boardPosition;
+            TypePriority =
+                typePriority;
+
+            BoardPosition =
+                boardPosition;
         }
     }
 }

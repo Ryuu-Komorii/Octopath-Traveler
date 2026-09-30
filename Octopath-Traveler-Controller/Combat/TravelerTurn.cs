@@ -18,70 +18,116 @@ public class TravelerTurn
         "El equipo de viajeros ha huido!";
 
     private readonly View view;
-    private readonly TravelerActionMenu actionMenu;
-    private readonly ActiveSkillSelectionMenu skillSelectionMenu;
-    private readonly BasicAttack basicAttack;
 
-    public TravelerTurn(View view)
+    private readonly TravelerActionMenu
+        actionMenu;
+
+    private readonly ActiveSkillSelectionMenu
+        skillSelectionMenu;
+
+    private readonly BasicAttack
+        basicAttack;
+
+    private readonly ActiveSkillCatalog
+        activeSkillCatalog;
+
+    private readonly ActiveSkillExecutionStrategyFactory
+        skillStrategyFactory;
+
+    public TravelerTurn(
+        View view,
+        ActiveSkillCatalog activeSkillCatalog)
     {
-        this.view = view;
-        actionMenu = new TravelerActionMenu(view);
+        this.view =
+            view;
+
+        this.activeSkillCatalog =
+            activeSkillCatalog;
+
+        actionMenu =
+            new TravelerActionMenu(
+                view);
+
         skillSelectionMenu =
-            new ActiveSkillSelectionMenu(view);
-        basicAttack = new BasicAttack(view);
+            new ActiveSkillSelectionMenu(
+                view,
+                activeSkillCatalog);
+
+        basicAttack =
+            new BasicAttack(
+                view);
+
+        skillStrategyFactory =
+            new ActiveSkillExecutionStrategyFactory(
+                view);
     }
 
     public TravelerTurnOutcome Execute(
         Traveler traveler,
+        IReadOnlyList<Traveler> travelers,
         IReadOnlyList<Beast> beasts)
     {
         TravelerTurnOutcome outcome;
 
         do
         {
-            outcome = ExecuteSelectedAction(
-                traveler,
-                beasts);
+            outcome =
+                ExecuteSelectedAction(
+                    traveler,
+                    travelers,
+                    beasts);
         }
-        while (ShouldContinueTurn(outcome));
+        while (ShouldContinueTurn(
+            outcome));
 
         return outcome;
     }
 
     private TravelerTurnOutcome ExecuteSelectedAction(
         Traveler traveler,
+        IReadOnlyList<Traveler> travelers,
         IReadOnlyList<Beast> beasts)
     {
         TravelerAction selectedAction =
-            actionMenu.ReadAction(traveler);
+            actionMenu.ReadAction(
+                traveler);
 
         return ResolveAction(
             selectedAction,
             traveler,
+            travelers,
             beasts);
     }
 
     private TravelerTurnOutcome ResolveAction(
         TravelerAction selectedAction,
         Traveler traveler,
+        IReadOnlyList<Traveler> travelers,
         IReadOnlyList<Beast> beasts)
     {
         return selectedAction switch
         {
             TravelerAction.BasicAttack =>
-                ExecuteBasicAttack(traveler, beasts),
+                ExecuteBasicAttack(
+                    traveler,
+                    beasts),
 
             TravelerAction.UseSkill =>
-                ExecuteSkillSelection(traveler),
+                ExecuteSkill(
+                    traveler,
+                    travelers,
+                    beasts),
 
             TravelerAction.Defend =>
-                TravelerTurnOutcome.Completed,
+                ExecuteDefend(
+                    traveler),
 
             TravelerAction.RunAway =>
                 ExecuteRunAway(),
 
-            _ => throw new ArgumentOutOfRangeException(
-                nameof(selectedAction))
+            _ =>
+                throw new ArgumentOutOfRangeException(
+                    nameof(selectedAction))
         };
     }
 
@@ -90,12 +136,60 @@ public class TravelerTurn
         IReadOnlyList<Beast> beasts)
     {
         ActionExecutionResult result =
-            basicAttack.Execute(traveler, beasts);
+            basicAttack.Execute(
+                traveler,
+                beasts);
 
-        return ConvertAttackResult(result);
+        return ConvertActionResult(
+            result);
     }
 
-    private TravelerTurnOutcome ConvertAttackResult(
+    private TravelerTurnOutcome ExecuteSkill(
+        Traveler traveler,
+        IReadOnlyList<Traveler> travelers,
+        IReadOnlyList<Beast> beasts)
+    {
+        string? selectedSkillName =
+            skillSelectionMenu.SelectSkill(
+                traveler);
+
+        if (selectedSkillName is null)
+        {
+            return TravelerTurnOutcome.Continue;
+        }
+
+        ActiveSkillCatalogEntry skill =
+            activeSkillCatalog.Find(
+                selectedSkillName);
+
+        ActiveSkillExecutionContext context =
+            new ActiveSkillExecutionContext(
+                traveler,
+                travelers,
+                beasts,
+                skill);
+
+        ActiveSkillExecutionStrategy strategy =
+            skillStrategyFactory.Create(
+                skill);
+
+        ActionExecutionResult result =
+            strategy.Execute(
+                context);
+
+        return ConvertActionResult(
+            result);
+    }
+
+    private TravelerTurnOutcome ExecuteDefend(
+        Traveler traveler)
+    {
+        traveler.Defend();
+
+        return TravelerTurnOutcome.Completed;
+    }
+
+    private TravelerTurnOutcome ConvertActionResult(
         ActionExecutionResult result)
     {
         return result switch
@@ -106,23 +200,19 @@ public class TravelerTurn
             ActionExecutionResult.Cancelled =>
                 TravelerTurnOutcome.Continue,
 
-            _ => throw new ArgumentOutOfRangeException(
-                nameof(result))
+            _ =>
+                throw new ArgumentOutOfRangeException(
+                    nameof(result))
         };
-    }
-
-    private TravelerTurnOutcome ExecuteSkillSelection(
-        Traveler traveler)
-    {
-        skillSelectionMenu.SelectSkill(traveler);
-
-        return TravelerTurnOutcome.Continue;
     }
 
     private TravelerTurnOutcome ExecuteRunAway()
     {
-        view.WriteLine(SeparatorLine);
-        view.WriteLine(RunAwayMessage);
+        view.WriteLine(
+            SeparatorLine);
+
+        view.WriteLine(
+            RunAwayMessage);
 
         return TravelerTurnOutcome.RanAway;
     }

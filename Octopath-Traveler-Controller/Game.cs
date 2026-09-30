@@ -14,12 +14,16 @@ public class Game
     private readonly CombatCatalogLoader combatCatalogLoader;
     private readonly Battle battle;
 
-    public Game(View view, string teamsFolder)
+    public Game(
+        View view,
+        string teamsFolder)
     {
         this.view = view;
 
         teamFileSelector =
-            new TeamFileSelector(view, teamsFolder);
+            new TeamFileSelector(
+                view,
+                teamsFolder);
 
         teamFileParser =
             new TeamFileParser();
@@ -30,8 +34,17 @@ public class Game
         combatCatalogLoader =
             new CombatCatalogLoader();
 
+        ActiveSkillCatalog activeSkillCatalog =
+            CreateActiveSkillCatalog();
+
+        BeastSkillCatalog beastSkillCatalog =
+            CreateBeastSkillCatalog();
+
         battle =
-            new Battle(view);
+            new Battle(
+                view,
+                activeSkillCatalog,
+                beastSkillCatalog);
     }
 
     public void Play()
@@ -39,16 +52,19 @@ public class Game
         TeamDefinition teamDefinition =
             ReadSelectedTeam();
 
-        if (IsInvalidTeam(teamDefinition))
+        if (IsInvalidTeam(
+            teamDefinition))
         {
-            ShowInvalidTeamMessage();
+            WriteInvalidTeamMessage();
             return;
         }
 
         CombatRoster combatRoster =
-            CreateCombatRoster(teamDefinition);
+            CreateCombatRoster(
+                teamDefinition);
 
-        battle.Play(combatRoster);
+        battle.Play(
+            combatRoster);
     }
 
     private TeamDefinition ReadSelectedTeam()
@@ -67,31 +83,63 @@ public class Game
             teamDefinition);
     }
 
-    private void ShowInvalidTeamMessage()
+    private void WriteInvalidTeamMessage()
     {
         view.WriteLine(
             InvalidTeamMessage);
     }
 
+    private ActiveSkillCatalog CreateActiveSkillCatalog()
+    {
+        IReadOnlyList<ActiveSkillCatalogEntry> activeSkills =
+            combatCatalogLoader.ReadActiveSkills();
+
+        return new ActiveSkillCatalog(
+            activeSkills);
+    }
+
+    private BeastSkillCatalog CreateBeastSkillCatalog()
+    {
+        IReadOnlyList<BeastSkillCatalogEntry> beastSkills =
+            combatCatalogLoader.ReadBeastSkills();
+
+        return new BeastSkillCatalog(
+            beastSkills);
+    }
+
     private CombatRoster CreateCombatRoster(
         TeamDefinition teamDefinition)
+    {
+        TravelerFactory travelerFactory =
+            CreateTravelerFactory();
+
+        BeastFactory beastFactory =
+            CreateBeastFactory();
+
+        CombatRosterFactory rosterFactory =
+            new CombatRosterFactory(
+                travelerFactory,
+                beastFactory);
+
+        return rosterFactory.Create(
+            teamDefinition);
+    }
+
+    private TravelerFactory CreateTravelerFactory()
     {
         IReadOnlyList<TravelerCatalogEntry> travelerCatalog =
             combatCatalogLoader.ReadTravelers();
 
+        return new TravelerFactory(
+            travelerCatalog);
+    }
+
+    private BeastFactory CreateBeastFactory()
+    {
         IReadOnlyList<BeastCatalogEntry> beastCatalog =
             combatCatalogLoader.ReadBeasts();
 
-        TravelerFactory travelerFactory =
-            new(travelerCatalog);
-
-        BeastFactory beastFactory =
-            new(beastCatalog);
-
-        CombatRosterFactory rosterFactory =
-            new(travelerFactory, beastFactory);
-
-        return rosterFactory.Create(
-            teamDefinition);
+        return new BeastFactory(
+            beastCatalog);
     }
 }

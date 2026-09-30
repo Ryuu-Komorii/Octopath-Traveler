@@ -4,9 +4,15 @@ namespace Octopath_Traveler;
 
 public class WeaponSelectionMenu
 {
-    private const string SeparatorLine = "----------------------------------------";
-    private const string SelectionHeader = "Seleccione un arma";
-    private const string CancelOptionText = "Cancelar";
+    private const string SeparatorLine =
+        "----------------------------------------";
+
+    private const string SelectionHeader =
+        "Seleccione un arma";
+
+    private const string CancelOptionText =
+        "Cancelar";
+
     private const int FirstOptionNumber = 1;
 
     private readonly View view;
@@ -18,37 +24,69 @@ public class WeaponSelectionMenu
 
     public string? SelectWeapon(Traveler traveler)
     {
-        WriteMenu(traveler.Weapons);
-        int selectedOption = ReadSelectedOption();
+        return SelectWeapon(
+            traveler.Weapons);
+    }
+
+    public string? SelectWeapon(
+        IReadOnlyList<string> weapons)
+    {
+        WriteMenu(weapons);
+
+        int selectedOption =
+            ReadSelectedOption();
 
         return GetSelectedWeapon(
-            traveler.Weapons,
+            weapons,
             selectedOption);
     }
 
-    private void WriteMenu(IReadOnlyList<string> weapons)
+    private void WriteMenu(
+        IReadOnlyList<string> weapons)
     {
-        view.WriteLine(SeparatorLine);
-        view.WriteLine(SelectionHeader);
-        WriteWeaponOptions(weapons);
-        WriteCancelOption(weapons.Count);
+        view.WriteLine(
+            SeparatorLine);
+
+        view.WriteLine(
+            SelectionHeader);
+
+        WriteWeaponOptions(
+            weapons);
+
+        WriteCancelOption(
+            weapons.Count);
     }
 
     private void WriteWeaponOptions(
         IReadOnlyList<string> weapons)
     {
-        int optionNumber = FirstOptionNumber;
+        int optionNumber =
+            FirstOptionNumber;
 
         foreach (string weapon in weapons)
         {
-            view.WriteLine($"{optionNumber}: {weapon}");
+            WriteWeaponOption(
+                optionNumber,
+                weapon);
+
             optionNumber++;
         }
     }
 
-    private void WriteCancelOption(int weaponCount)
+    private void WriteWeaponOption(
+        int optionNumber,
+        string weapon)
     {
-        int cancelOption = GetCancelOptionNumber(weaponCount);
+        view.WriteLine(
+            $"{optionNumber}: {weapon}");
+    }
+
+    private void WriteCancelOption(
+        int weaponCount)
+    {
+        int cancelOption =
+            GetCancelOptionNumber(
+                weaponCount);
 
         view.WriteLine(
             $"{cancelOption}: {CancelOptionText}");
@@ -56,22 +94,27 @@ public class WeaponSelectionMenu
 
     private int ReadSelectedOption()
     {
-        return int.Parse(view.ReadLine());
+        return int.Parse(
+            view.ReadLine());
     }
 
     private string? GetSelectedWeapon(
         IReadOnlyList<string> weapons,
         int selectedOption)
     {
-        if (IsCancelOption(weapons, selectedOption))
+        if (IsCancelOption(
+            weapons,
+            selectedOption))
         {
             return null;
         }
 
         int weaponIndex =
-            selectedOption - FirstOptionNumber;
+            GetWeaponIndex(
+                selectedOption);
 
-        return weapons[weaponIndex];
+        return weapons[
+            weaponIndex];
     }
 
     private bool IsCancelOption(
@@ -79,11 +122,21 @@ public class WeaponSelectionMenu
         int selectedOption)
     {
         return selectedOption ==
-               GetCancelOptionNumber(weapons.Count);
+               GetCancelOptionNumber(
+                   weapons.Count);
     }
 
-    private int GetCancelOptionNumber(int weaponCount)
+    private int GetWeaponIndex(
+        int selectedOption)
     {
-        return weaponCount + FirstOptionNumber;
+        return selectedOption -
+               FirstOptionNumber;
+    }
+
+    private int GetCancelOptionNumber(
+        int weaponCount)
+    {
+        return weaponCount +
+               FirstOptionNumber;
     }
 }

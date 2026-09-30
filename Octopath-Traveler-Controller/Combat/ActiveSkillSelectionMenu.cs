@@ -4,61 +4,111 @@ namespace Octopath_Traveler;
 
 public class ActiveSkillSelectionMenu
 {
-    private const string SeparatorLine = "----------------------------------------";
+    private const string SeparatorLine =
+        "----------------------------------------";
+
     private const string SelectionHeaderFormat =
         "Seleccione una habilidad para {0}";
-    private const string CancelOptionText = "Cancelar";
+
+    private const string CancelOptionText =
+        "Cancelar";
+
     private const int FirstOptionNumber = 1;
 
     private readonly View view;
+    private readonly ActiveSkillCatalog activeSkillCatalog;
 
-    public ActiveSkillSelectionMenu(View view)
+    public ActiveSkillSelectionMenu(
+        View view,
+        ActiveSkillCatalog activeSkillCatalog)
     {
         this.view = view;
+        this.activeSkillCatalog =
+            activeSkillCatalog;
     }
 
-    public string? SelectSkill(Traveler traveler)
+    public string? SelectSkill(
+        Traveler traveler)
     {
-        WriteMenu(traveler);
-        int selectedOption = ReadSelectedOption();
+        string[] availableSkillNames =
+            GetAvailableSkillNames(
+                traveler);
+
+        WriteMenu(
+            traveler,
+            availableSkillNames);
+
+        int selectedOption =
+            ReadSelectedOption();
 
         return GetSelectedSkill(
-            traveler.ActiveSkillNames,
+            availableSkillNames,
             selectedOption);
     }
 
-    private void WriteMenu(Traveler traveler)
+    private string[] GetAvailableSkillNames(
+        Traveler traveler)
     {
-        view.WriteLine(SeparatorLine);
-        view.WriteLine(GetSelectionHeader(traveler));
-
-        WriteSkillOptions(traveler.ActiveSkillNames);
-        WriteCancelOption(traveler.ActiveSkillNames.Count);
+        return traveler.ActiveSkillNames
+            .Where(skillName =>
+                CanUseSkill(
+                    traveler,
+                    skillName))
+            .ToArray();
     }
 
-    private string GetSelectionHeader(Traveler traveler)
+    private bool CanUseSkill(
+        Traveler traveler,
+        string skillName)
     {
-        return string.Format(
-            SelectionHeaderFormat,
-            traveler.Name);
+        ActiveSkillCatalogEntry skill =
+            activeSkillCatalog.Find(
+                skillName);
+
+        return traveler.HasEnoughSkillPoints(
+            skill.SP);
+    }
+
+    private void WriteMenu(
+        Traveler traveler,
+        IReadOnlyList<string> skillNames)
+    {
+        view.WriteLine(
+            SeparatorLine);
+
+        view.WriteLine(
+            string.Format(
+                SelectionHeaderFormat,
+                traveler.Name));
+
+        WriteSkillOptions(
+            skillNames);
+
+        WriteCancelOption(
+            skillNames.Count);
     }
 
     private void WriteSkillOptions(
         IReadOnlyList<string> skillNames)
     {
-        int optionNumber = FirstOptionNumber;
+        int optionNumber =
+            FirstOptionNumber;
 
         foreach (string skillName in skillNames)
         {
-            view.WriteLine($"{optionNumber}: {skillName}");
+            view.WriteLine(
+                $"{optionNumber}: {skillName}");
+
             optionNumber++;
         }
     }
 
-    private void WriteCancelOption(int skillCount)
+    private void WriteCancelOption(
+        int skillCount)
     {
         int cancelOption =
-            GetCancelOptionNumber(skillCount);
+            GetCancelOptionNumber(
+                skillCount);
 
         view.WriteLine(
             $"{cancelOption}: {CancelOptionText}");
@@ -66,22 +116,27 @@ public class ActiveSkillSelectionMenu
 
     private int ReadSelectedOption()
     {
-        return int.Parse(view.ReadLine());
+        return int.Parse(
+            view.ReadLine());
     }
 
     private string? GetSelectedSkill(
         IReadOnlyList<string> skillNames,
         int selectedOption)
     {
-        if (IsCancelOption(skillNames, selectedOption))
+        if (IsCancelOption(
+            skillNames,
+            selectedOption))
         {
             return null;
         }
 
         int skillIndex =
-            selectedOption - FirstOptionNumber;
+            selectedOption -
+            FirstOptionNumber;
 
-        return skillNames[skillIndex];
+        return skillNames[
+            skillIndex];
     }
 
     private bool IsCancelOption(
@@ -89,11 +144,14 @@ public class ActiveSkillSelectionMenu
         int selectedOption)
     {
         return selectedOption ==
-               GetCancelOptionNumber(skillNames.Count);
+               GetCancelOptionNumber(
+                   skillNames.Count);
     }
 
-    private int GetCancelOptionNumber(int skillCount)
+    private int GetCancelOptionNumber(
+        int skillCount)
     {
-        return skillCount + FirstOptionNumber;
+        return skillCount +
+               FirstOptionNumber;
     }
 }

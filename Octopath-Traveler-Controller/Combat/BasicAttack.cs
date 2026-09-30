@@ -20,16 +20,30 @@ public class BasicAttack
         "{0} ataca";
 
     private const string DamageMessageFormat =
-        "{0} recibe {1} de daño de tipo {2}";
+        "{0} recibe {1} de daño de tipo {2}{3}";
+
+    private const string WeaknessSuffix =
+        " con debilidad";
+
+    private const string BreakingPointMessageFormat =
+        "{0} entra en Breaking Point";
 
     private const string RemainingHitPointsFormat =
         "{0} termina con HP:{1}";
 
     private readonly View view;
-    private readonly WeaponSelectionMenu weaponSelectionMenu;
-    private readonly BeastTargetSelectionMenu targetSelectionMenu;
-    private readonly BoostPointSelectionMenu boostPointSelectionMenu;
-    private readonly DamageCalculator damageCalculator;
+
+    private readonly WeaponSelectionMenu
+        weaponSelectionMenu;
+
+    private readonly BeastTargetSelectionMenu
+        targetSelectionMenu;
+
+    private readonly BoostPointSelectionMenu
+        boostPointSelectionMenu;
+
+    private readonly BeastDamageResolver
+        damageResolver;
 
     public BasicAttack(View view)
     {
@@ -44,8 +58,8 @@ public class BasicAttack
         boostPointSelectionMenu =
             new BoostPointSelectionMenu(view);
 
-        damageCalculator =
-            new DamageCalculator();
+        damageResolver =
+            new BeastDamageResolver();
     }
 
     public ActionExecutionResult Execute(
@@ -53,9 +67,11 @@ public class BasicAttack
         IReadOnlyList<Beast> beasts)
     {
         string? selectedWeapon =
-            weaponSelectionMenu.SelectWeapon(traveler);
+            weaponSelectionMenu.SelectWeapon(
+                traveler);
 
-        if (WasWeaponSelectionCancelled(selectedWeapon))
+        if (WasWeaponSelectionCancelled(
+            selectedWeapon))
         {
             return ActionExecutionResult.Cancelled;
         }
@@ -65,33 +81,52 @@ public class BasicAttack
                 traveler,
                 beasts);
 
-        if (WasTargetSelectionCancelled(selectedTarget))
+        if (WasTargetSelectionCancelled(
+            selectedTarget))
         {
             return ActionExecutionResult.Cancelled;
         }
 
-        string weapon = selectedWeapon!;
-        Beast target = selectedTarget!;
+        ReadBoostPointsIfAvailable(
+            traveler);
 
-        ReadBoostPointsIfAvailable(traveler);
+        BeastDamageResult damageResult =
+            ResolveDamage(
+                traveler,
+                selectedTarget!,
+                selectedWeapon!);
 
-        int damage = CalculateDamage(
+        WriteAttackSummary(
             traveler,
-            target);
-
-        target.ReceiveDamage(damage);
-
-        WriteAttackSeparator();
-        WriteAttackHeader(traveler);
-
-        WriteDamageMessage(
-            target,
-            damage,
-            weapon);
-
-        WriteRemainingHitPoints(target);
+            selectedTarget!,
+            selectedWeapon!,
+            damageResult);
 
         return ActionExecutionResult.Completed;
+    }
+
+    private BeastDamageResult ResolveDamage(
+        Traveler traveler,
+        Beast target,
+        string weapon)
+    {
+        DamageRequest damageRequest =
+            new DamageRequest
+            {
+                OffensiveStat =
+                    traveler.PhysicalAttack,
+
+                DefensiveStat =
+                    target.PhysicalDefense,
+
+                Modifier =
+                    BasicAttackModifier
+            };
+
+        return damageResolver.Resolve(
+            damageRequest,
+            target,
+            weapon);
     }
 
     private bool WasWeaponSelectionCancelled(
@@ -109,9 +144,11 @@ public class BasicAttack
     private void ReadBoostPointsIfAvailable(
         Traveler traveler)
     {
-        if (HasBoostPointsToSelect(traveler))
+        if (HasBoostPointsToSelect(
+            traveler))
         {
-            boostPointSelectionMenu.ReadBoostPoints();
+            boostPointSelectionMenu
+                .ReadBoostPoints();
         }
     }
 
@@ -122,19 +159,29 @@ public class BasicAttack
                MinimumBoostPointsToSelect;
     }
 
-    private int CalculateDamage(
+    private void WriteAttackSummary(
         Traveler traveler,
-        Beast target)
+        Beast target,
+        string weapon,
+        BeastDamageResult damageResult)
     {
-        return damageCalculator.CalculatePhysicalDamage(
-            traveler.PhysicalAttack,
-            target.PhysicalDefense,
-            BasicAttackModifier);
-    }
+        view.WriteLine(
+            SeparatorLine);
 
-    private void WriteAttackSeparator()
-    {
-        view.WriteLine(SeparatorLine);
+        WriteAttackHeader(
+            traveler);
+
+        WriteDamageMessage(
+            target,
+            weapon,
+            damageResult);
+
+        WriteBreakingPointMessage(
+            target,
+            damageResult);
+
+        WriteRemainingHitPoints(
+            target);
     }
 
     private void WriteAttackHeader(
@@ -148,15 +195,46 @@ public class BasicAttack
 
     private void WriteDamageMessage(
         Beast target,
-        int damage,
-        string weapon)
+        string weapon,
+        BeastDamageResult damageResult)
     {
+        string weaknessSuffix =
+            GetWeaknessSuffix(
+                damageResult);
+
         view.WriteLine(
             string.Format(
                 DamageMessageFormat,
                 target.Name,
-                damage,
-                weapon));
+                damageResult.Damage,
+                weapon,
+                weaknessSuffix));
+    }
+
+    private string GetWeaknessSuffix(
+        BeastDamageResult damageResult)
+    {
+        if (damageResult.IsWeakness)
+        {
+            return WeaknessSuffix;
+        }
+
+        return string.Empty;
+    }
+
+    private void WriteBreakingPointMessage(
+        Beast target,
+        BeastDamageResult damageResult)
+    {
+        if (!damageResult.EnteredBreakingPoint)
+        {
+            return;
+        }
+
+        view.WriteLine(
+            string.Format(
+                BreakingPointMessageFormat,
+                target.Name));
     }
 
     private void WriteRemainingHitPoints(
